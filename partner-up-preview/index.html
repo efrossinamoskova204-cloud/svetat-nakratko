@@ -163,14 +163,14 @@ const SpeechRecognizer=window.SpeechRecognition||window.webkitSpeechRecognition;
 const talk=byId("voiceTalk"),vStatus=byId("voiceStatus"),vDraft=byId("voiceDraft");
 const clip=(s,n)=>Array.from(String(s).normalize("NFC")).slice(0,n).join("");
 let recognizer=null, micActive=false, wantsListening=false, baseText="", gotResult=false, sessionResult=false;
-let recognitionError=false, emptyAttempts=0, restartTimer=null;
+let recognitionError=false, emptyAttempts=0, restartTimer=null, userStopped=false;
 function setMic(active){
  micActive=active;talk.setAttribute("aria-pressed",String(wantsListening));
  talk.textContent=wantsListening?"⏹️ Спри диктовката":"🎙️ Натисни и говори";
 }
 function voiceStatus(s){vStatus.textContent=s;}
 function stopListening(){
- wantsListening=false;
+ userStopped=true;wantsListening=false;
  if(restartTimer){clearTimeout(restartTimer);restartTimer=null;}
  if(recognizer){try{recognizer.stop();}catch(e){}}
  setMic(false);
@@ -222,6 +222,7 @@ if(!SpeechRecognizer){
   };
   recognizer.onend=()=>{
    micActive=false;
+   if(userStopped){userStopped=false;setMic(false);return;}
    if(wantsListening&&!recognitionError){
     if(sessionResult){baseText=clip(vDraft.value.trim(),1000);emptyAttempts=0;}
     else emptyAttempts++;
@@ -241,8 +242,8 @@ if(!SpeechRecognizer){
    voiceStatus(gotResult?"Готово. Прегледай текста и натисни „Покажи пробно съобщение“.":"Не чух нищо. Опитай пак по-близо до микрофона.");
   };
   talk.addEventListener("click",()=>{
-   if(wantsListening||micActive){stopListening();voiceStatus("Диктовката е спряна. Прегледай текста.");return;}
-   baseText=clip(vDraft.value.trim(),1000);gotResult=false;sessionResult=false;recognitionError=false;emptyAttempts=0;
+   if(wantsListening||micActive){stopListening();voiceStatus("Диктовката е спряна. Прегледай текста.");if(gotResult)vDraft.focus({preventScroll:true});return;}
+   baseText=clip(vDraft.value.trim(),1000);gotResult=false;sessionResult=false;recognitionError=false;emptyAttempts=0;userStopped=false;
    wantsListening=true;setMic(false);
    try{recognizer.start();}catch(e){wantsListening=false;setMic(false);voiceStatus("Не мога да включа микрофона. Опитай отново.");}
   });
