@@ -84,6 +84,19 @@ async function getFrom(endpoint){
  const raw=await fetchText(endpoint,17000);
  return xmlItems(raw);
 }
+// RSS collection runs separately in GitHub Actions. Browsers only read the public JSON.
+const STATIC_NEWS='https://raw.githubusercontent.com/efrossinamoskova204-cloud/svetat-nakratko/news-data/news.json';
+async function getStatic(category){
+ const raw=await fetchText(STATIC_NEWS+'?t='+Date.now(),9000);
+ const data=JSON.parse(raw);
+ const news=data.categories?.[category];
+ if(!Array.isArray(news)||!news.length)throw Error('No saved headlines for this category');
+ return news.map(x=>({
+  title:String(x.title||''), description:String(x.description||''),
+  date:String(x.date||''),link:safeUrl(x.link),image:safeUrl(x.image||''),
+  source:String(x.source||'Новинарски източник')
+ })).filter(x=>x.title&&x.link);
+}
 async function load(){
  const mine=++token, category=cat, feed=feeds[category];
  items=[]; $('news').replaceChildren();
@@ -92,15 +105,20 @@ async function load(){
  if(old?.items?.length){items=old.items;show();$('status').textContent='Показвам запазените заглавия; проверявам за нови…';}
  else $('status').textContent='⏳ Зареждам последните новини…';
  // Fetch only through our Netlify function; third-party RSS proxies may return stale results.
- let latest=[];
+ let latest=[], fromStatic=false;
  try{
-  latest=await getFrom('/api/news?category='+encodeURIComponent(category)+'&t='+Date.now());
- }catch(e){}
+  latest=await getStatic(category);
+  fromStatic=true;
+ }catch(e){
+  // Fallback to the old server endpoint until the scheduled collector is verified.
+  try{latest=await getFrom('/api/news?category='+encodeURIComponent(category)+'&t='+Date.now());}
+  catch(ignore){}
+ }
  if(mine!==token)return;
  if(latest.length){
   const now=Date.now();
   const recent=latest.filter(x=>{const t=Date.parse(x.date);return Number.isFinite(t)&&t>=now-48*3600000&&t<=now+3600000}).sort((a,b)=>Date.parse(b.date)-Date.parse(a.date)).slice(0,24);
-  if(recent.length){items=recent;remember(category,items);show();$('status').textContent='Последни новини (до 48 часа): '+items.length+' · '+category+' · публични RSS емисии.';return;}
+  if(recent.length){items=recent;remember(category,items);show();$('status').textContent='Последни новини (до 48 часа): '+items.length+' · '+category+' · '+(fromStatic?'обновяване чрез GitHub':'публични RSS емисии')+'.';return;}
   // Keep the site useful when an RSS source has older items, without calling them today's news.
   const older=latest.filter(x=>Number.isFinite(Date.parse(x.date))).sort((a,b)=>Date.parse(b.date)-Date.parse(a.date)).slice(0,24);
   if(older.length){
@@ -116,5 +134,5 @@ async function load(){
   $('status').textContent='⚠️ Няма връзка с новинарския източник. Показвам последно запазените заглавия (обновени '+when+'). Проверявай датите им и директните източници по-долу.';
  }else{$('status').textContent='⚠️ В момента RSS източникът не отговаря. За актуални заглавия използвай директните връзки по-долу.';}
 }
-document.querySelectorAll('[data-cat]').forEach(b=>b.addEventListener('click',()=>{cat=b.dataset.cat;document.querySelectorAll('[data-cat]').forEach(x=>x.classList.toggle('active',x===b));$('q').value='';load()}));$('refresh').addEventListener('click',load);$('q').addEventListener('input',show);load();setInterval(()=>{if(document.visibilityState==='visible')load()},5*60*1000);
+document.querySelectorAll('[data-cat]').forEach(b=>b.addEventListener('click',()=>{cat=b.dataset.cat;document.querySelectorAll('[data-cat]').forEach(x=>x.classList.toggle('active',x===b));$('q').value='';load()}));$('refresh').addEventListener('click',load);$('q').addEventListener('input',show);load();setInterval(()=>{if(document.visibilityState==='visible')load()},30*60*1000);
 </script></body></html>
