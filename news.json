@@ -1,15 +1,7 @@
 {
-  "generatedAt": "2026-10-20T20:11:09.012593+00:00",
+  "generatedAt": "2026-10-20T20:46:09.919733+00:00",
   "categories": {
     "България": [
-      {
-        "title": "Карлос Насар изненада със заявка за Мондиал 2026 - Gong.bg",
-        "description": "",
-        "date": "2026-10-20T20:01:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnFENkRvTEFJam9XMEcyRVFOd3hWaVViSkZHUzFzRzlURktTZW4wS0VQRng2X0stMEltdl9KbkpCWmdoQjdXX0EwWVNEVVpNTXprTm1fMTM2LU5sNEgxQmxoUkdxWDUxT3NYU2xUM1g4cUhWU3FlZ044OGdoNEJDd3J5RmxieURRTVpLU2JCdlhRU3FYVXdfOTRNSDA4TG9Y?oc=5",
-        "source": "Gong.bg",
-        "image": null
-      },
       {
         "title": "21-вата Световна среща на българските медии се състоя в унгарските градове Будапеща и Естергом",
         "description": "Двадесет и първата Световна среща на българските медии, организирана от Българската телеграфна агенция (БТА), се състоя в унгарските градове Будапеща и Естергом в периода 19-20 октомври. Срещата бе открита официално вчера с представянето на две изложби и произнасянето на приветствени слова в Българския културен институт (БКИ) в Будапеща. Началото на откриването беше дадено от заместник генералния директор на БТА Евгения Друмева, която посочи, че ",
@@ -17,6 +9,14 @@
         "link": "https://www.bta.bg/bg/bg-world/1229025-21-vata-svetovna-sreshta-na-balgarskite-medii-se-sastoya-v-ungarskite-gradove-bu",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14008610/KASA0115.JPG"
+      },
+      {
+        "title": "Водосвет, три дискусионни панела и концерт бяха сред акцентите във втория ден на 21-вата Световна среща на българските медии",
+        "description": "Водосвет, три дискусионни панела и концерт бяха сред акцентите във втория ден на 21-вата Световна среща на българските медии в Будапеща и Естергом, Унгария. Форумът се организира от Българската телеграфна агенция (БТА) с тема „Медии и водачи“. Началото на деня бе поставено с водосвет в българската православна църква „Св. св. Кирил и Методий“. Службата бе водена от Западно- и Средноевропейския митрополит Антоний в съслужение с отец Танчо Янчев, св",
+        "date": "2026-10-20T19:56:00+00:00",
+        "link": "https://www.bta.bg/bg/bg-world/1229021-vodosvet-tri-diskusionni-panela-i-kontsert-byaha-sred-aktsentite-vav-vtoriya-de",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14012187/20261020_102410.jpg"
       },
       {
         "title": "Мелони разполага 500 войници по улиците на Милано след безредиците",
@@ -65,6 +65,14 @@
         "link": "https://business.dir.bg/ikonomika/defektni-baterii-i-opasnost-ot-pozhar-folksvagen-izteglya-hilyadi-elektromobili",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2024/10/09/2812571/384x216.jpg?_=1728478767"
+      },
+      {
+        "title": "Дефектни батерии и опасност от пожар: \"Фолксваген\" изтегля хиляди електромобили - Dir.bg",
+        "description": "",
+        "date": "2026-10-20T18:33:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPajUzN2lmODBSS1hVOV9NZ1lYTndMTlJ3MWlJRDVXdzAxa3A5Z3pYUXdoX3BoVmtFSnR2cDhsbXkweV9XSy1pSWhRZDNBOTVPRzk0QWVwT25UVWpuZC1HRlNvNnNxM1NkQWlYYzdlaTdDR0RsSkpYSC1BYnVuWWtET1FJc1p2ZHBlMWptSjE1dkJNVlZwZzlyX2pDa01taXdPOFEtZkJ3YUVWb3JfY3IzZG16OA?oc=5",
+        "source": "Dir.bg",
+        "image": null
       },
       {
         "title": "Призоваха магазинерите във Франция да не се въоръжават срещу грабежи при протестите",
@@ -193,17 +201,41 @@
         "link": "https://dnes.dir.bg/svyat/novoto-pravitelstvo-na-rumaniya-e-izbrano-s-mnogo-nad-minimuma-zapochva-rabota-tazi-vecher",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/20/3038382/384x216.jpg?_=1792518329"
-      },
-      {
-        "title": "Новото правителство на Румъния е избрано с много над минимума, започва работа тази вечер - Dir.bg",
-        "description": "",
-        "date": "2026-10-20T17:05:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnB6eWhZc1MzdDZGMDlLZnY4QmVTWGFXMmNXTzBZZ1FxREl0WjFldUU5TE9LeHhxVkl3UFdKQVNWU3JwLUVpTU5aczlpLUpYbTllYjNpdlZMT1VIWFZCWlZjd203YU9zWUkxY3hiNS1paE1pY2FFX0FVYVo3UjRQaTRTMGUwWllSTnUzbllDR2xxS2lYLUxYRV9ZMXBTdldZQkc4NHFKTWpEOVp4TGFDeERGMi1LYVE?oc=5",
-        "source": "Dir.bg",
-        "image": null
       }
     ],
     "Свят": [
+      {
+        "title": "Тръмп призова Украйна да се съгласи на споразумение за слагане на край на войната с Русия",
+        "description": "Президентът на САЩ Доналд Тръмп призова днес Украйна да се съгласи на споразумение за слагане на край на войната с Русия, предаде Ройтерс. \"Украйна трябва да иска да бъде намерено решение на тази война\", каза Тръмп пред репортери в Овалния кабинет. Президентът на САЩ заяви това след днешната среща в Осло между неговия специален пратеник Стив Уиткоф и украинския си колега Володимир Зеленски, посветена именно на търсенето на дипломатическо решение ",
+        "date": "2026-10-20T20:39:36+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1229031-tramp-prizova-ukrayna-da-se-saglasi-na-sporazumenie-za-slagane-na-kray-na-voynat",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14014259/c2982dcd248b4f33b8b3fc70cc4494dd--1--888cfb36d38f4611a6ab52e8566ccaee.jpg"
+      },
+      {
+        "title": "АКП: Камбоджа популяризира свои селскостопански продукти на международно изложение в Париж",
+        "description": "Камбоджабнските министри на земеделието, горското стопанство и риболова Дит Тина и на търговията Чам Нимул посетиха павилиона на Камбоджа на „СИАЛ Париж 2026“ (SIAL – Salon International de l'Alimentation Paris 2026) – международно търговско изложение за изделия на хранително-вкусовата промишленост в Париж. Посещението има за цел да популяризира камбоджанските селскостопански продукти и да разшири достъпа им до международните пазари, предаде камб",
+        "date": "2026-10-20T20:38:21+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1228484-akp-kambodzha-populyarizira-svoi-selskostopanski-produkti-na-mezhdunarodno-izlo",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14012224/M_44.jpg"
+      },
+      {
+        "title": "АЗЕРТАДЖ: Азербайджан и Международната организация за гражданска защита обсъдиха разширяване на сътрудничеството си",
+        "description": "Генералният секретар на Международната организация за гражданска защита Аргудж Калантарли се срещна с постоянния представител на Азербайджан към Службата на ООН и другите международни организации в Женева Ровшан Садигбейли, предаде азербайджанската новинарска агенция АЗЕРТАДЖ. Основна тема на срещата беше задълбочаването на сътрудничеството между Азербайджан и Международната организация за гражданска защита, готовността за реагиране при извънредн",
+        "date": "2026-10-20T20:34:54+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1228692-azertadzh-azerbaydzhan-i-mezhdunarodnata-organizatsiya-za-grazhdanska-zashtita-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14012824/Azerbaijan%2C+International+Civil+Defence+Organization+enhance+cooperation.jpeg"
+      },
+      {
+        "title": "Българин бе осъден на три години затвор в Австрия за кражби с взлом във Виена на Бъдни вечер",
+        "description": "Българин бе осъден днес на три години затвор в Австрия за кражби с взлом в столицата Виена на Бъдни вечер, предаде АПА. Четиридесет и четири годишният мъж освен това ще трябва да плати обезщетение в размер на около 435 хиляди евро на засегнатите хора и на съответната застрахователна компания. На 24 декември миналата година българинът проникнал с взлом в три апартамента на улица \"Вердерторгасе\" в центъра на Виена, откъдето откраднал различни вещи,",
+        "date": "2026-10-20T20:28:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1229030-balgarin-be-osaden-na-tri-godini-zatvor-v-avstriya-za-krazhbi-s-vzlom-vav-viena-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13347011/d045fec00f8e4d40bff1375730cf1be2--1--a9d7273119b342e99f4307674917902d.jpg"
+      },
       {
         "title": "Какво предвижда Пактът от Мека между Турция, Саудитска Арабия и Пакистан",
         "description": "Споразумението за взаимна отбрана между Турция, Саудитска Арабия и Пакистан, което накара някои да заговорят за създаване на сунитски вариант на НАТО, съдържа член, подобен на Член 5 от Северноатлантическия договор, който гласи, че външна въоръжена атака срещу една от страните членки трябва да се разглежда като атака срещу всички, като задължава подписалите страни да защитават суверенитета и териториалната цялост една на друга. Споразумението меж",
@@ -365,38 +397,6 @@
         "image": "https://www.bta.bg/upload/14008900/f4bdb99046884980b5993edcf1d1edf4--1--9cc0cc83ef7f4bf8a4ca0db65de8cb53.jpg"
       },
       {
-        "title": "Атака на свързана с \"Ислямска държава\" групировка в Мали взе 48 жертви",
-        "description": "Извършена през уикенда атака на свързана с \"Ислямска държава\" бунтовническа групировка отне живота на 48 души в района на Менака, в Източно Мали, съобщи днес местен депутат пред Асошиейтед прес. Бойци на групировката \"Ислямска държава – провинция Сахел\" (ИДПС), извършиха атаката в нощта срещу понеделник, а сред жертвите има деца и възрастни хора, каза Муса Аг Ачаратумане, лидер на туарегите и член на Националния преходен съвет. По думите му, въор",
-        "date": "2026-10-20T16:25:13+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1228927-ataka-na-svarzana-s-islyamska-darzhava-grupirovka-v-mali-vze-48-zhertvi",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/1930623/992e3e05e06d4739b8f7744e9505e716--0--cd16bda1cbc34bd2ba5b93c5d7986071.jpg"
-      },
-      {
-        "title": "Русия заяви, че се работи за облекчаване на хуманитарната ситуация в контролирания от руските сили град Олешки",
-        "description": "Москва заяви, че се работи \"за облекчаване на хуманитарната ситуация в контролирания от Русия град Олешки в Южна Украйна, където жителите съобщават за задълбочаваща се продоволствена криза\", предаде Ройтерс, като цитира изявление на говорителя на Кремъл Дмитрий Песков. Руският лидер Владимир Путин е обсъдил ситуацията в Олешки с президента на САЩ Доналд Тръмп и му е съобщил, че руският комисар по правата на човека се занимава с въпроса, каза Песк",
-        "date": "2026-10-20T16:24:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1228941-rusiya-zayavi-che-se-raboti-za-oblekchavane-na-humanitarnata-situatsiya-v-kontr",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14001578/e4f8b194f57c4de99ed0f8082dc7fbad--1--285b8ed625824d9bb1a1830b6b195f85.jpg"
-      },
-      {
-        "title": "Личностите, поставили началото на организираната българска общност в Унгария, са оставили силен отпечатък върху развитието ѝ, каза Светла Кьосева",
-        "description": "Личностите, поставили началото на организираната българска общност в Унгария са дали такъв тласък и са оставили толкова силен отпечатък върху по-нататъшното развитие на общността, че днес, когато се огледаме и видим какво става с подобни български общности в съседните страни, можем да забележим съществени различия, каза днес Светла Кьосева, главен редактор на списание „Хемус“ в Унгария и модератор на третия панел „Медии и будители на общността“ в",
-        "date": "2026-10-20T16:21:00+00:00",
-        "link": "https://www.bta.bg/bg/bg-world/1228863-lichnostite-postavili-nachaloto-na-organiziranata-balgarska-obshtnost-v-ungariy",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013365/1000067334.jpeg"
-      },
-      {
-        "title": "Търговското споразумение между САЩ и Индия е във финална фаза, заяви Марко Рубио в Делхи",
-        "description": "САЩ са близо до постигане на дългоочакваното търговско споразумение с Индия, заяви американският държавен секретар Марко Рубио пред репортери в Мумбай днес, преди преговорите с индийския си колега Субраманям Джайшанкар, предаде ДПА. „Мисля, че остават само няколко въпроса за довършване, така че смятам, че това ще се случи скоро“, каза Рубио, без обаче да посочи подробности. Коментирайки големия внос на руски петрол в Индия, Рубио подчерта, че САЩ",
-        "date": "2026-10-20T16:19:26+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1228949-targovskoto-sporazumenie-mezhdu-sasht-i-indiya-e-vav-finalna-faza-zayavi-marko-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013233/2a56f1de949e4b4d90f23633a8bf0853--0--c9a90e06ba744ef99b3eadbf0b5a761a.jpg"
-      },
-      {
         "title": "TV-The-Simpsons-Apu-Returns - БТА",
         "description": "",
         "date": "2026-10-20T16:14:23+00:00",
@@ -463,14 +463,6 @@
         "image": null
       },
       {
-        "title": "Държавният глава връчи националния флаг на 35-ата Българска антарктическа експедиция - nova.bg",
-        "description": "",
-        "date": "2026-10-20T10:45:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxOdGdYVkZmN3k2Y3hsYmRLcHBPYXpIaXlHUnNfZ1JoUWo2elg3cVdPVFN2ZFlRMm5rcFBGcUNNendiMl8yT1JSTVQ3c184Tkk2VXlDZ1hTZzRCTlVJM1pzZXAwVHZZeGFCTkdqRXdvMGFLQVNUMmtTNUhqYldTZGFZamJPai1yV3Brc3NORkZnX3JDZ2hDVzNQUGdRdjNGb25KZU10SmR3b0l0MlJfR0JUWVo4QmkzZGRqTEo2Q2RfUGF1dVZpN2o2cEdZTk95YTRvNGsxVUZKQ2JGTmNIZkRjMjcyalNLWVFxa2RGVXNDdnUzcFQ3bXpiYnhOUWU5LWttbHdoNUJsR0hvbTBLYUxCb1d5YTJLTzhCbi1xWFdHcWRyTFRHYXJ0OVRBeUVqUUZ1MlppUkxmcE1yVTlJUkRJOWcxSXZuLXgxYjFXdlBSMmJYRlV4QUVOVE91M2hNc2t2UDBSTzdMTm9vREl1SjNpajRjLW8tR0xwTml4TUtMX2dnU2N2WElBZnJQNlUxcW1XWVBPd3NrckExOXh4OHBvcFVTemtEUnpBZ2NJekpLUldDSEh1S1F5TUtGbW9mWWJrN2paZjVNcDY2Rk4wSjlpZUtXUkFfMzJpbldyN1NZYXhheUY2NHEzYUNRUUQwRUdjUDlsVEM2ZXhXdVltOGtSTDBpOEVjRnVjX1lVd2kycEVEc045WFBxaUt6X0FUODVrOW5LNFJNWUJqR1BjbTloMk44bkxTTFpOZFRtQUFsanlvcDRvRnhhblFKU3B6RVNXRnhleV9YODhaSVEtMTNNUWFHNlE4QnZNMXBtbTlWeHNobUtkVFQ2RTNrcXNrMHhNS0E5UHBnU3ZRWmJ2Y2lhaWtCLWhpeDRPMGpRQm9HY3dOcWgzYXZuMA?oc=5",
-        "source": "nova.bg",
-        "image": null
-      },
-      {
         "title": "Наука, шоу и иновации на IV Пловдивски фестивал на науката - БНР Новини",
         "description": "",
         "date": "2026-10-20T10:36:55+00:00",
@@ -532,14 +524,6 @@
         "date": "2026-10-19T12:20:34+00:00",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmExbU01Q2dzSHUyLW5EMmlXaWMxUjNZQ2k5cmtfSnlFWVpURlY1QWVuSmJpVmNyMTFWUmNZbWxoekVSTEsxZHdjYzVVUGdRUWFlWWlPMktMMnJmdndrMkhnRWZhUEU0dTZvWmpxY2s4WVd2UExMZGxOVFVSZXBjZTJJZ1czTjV3UHRnOVRmdm40Wk9hNzhlSnQ4UnE2WWJnRkg4WWpxMjZ5UzBJNDBIY1lFUQ?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Учените правят пробив към пълно излекуване на ХИВ - Списание Осем",
-        "description": "",
-        "date": "2026-10-19T11:48:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQZXYxRGpXQlo5Z3djOGQ1aVlza2NBdHJmUFQtUEMtVlVQQzJxbC1XLXhWWFViQ29zOGhPYmlEMGw1aGNEbE9SdjFybGp1NE1rdGdvVzdmZG4xSGJ1a2FLcWw5Y2xYQmFKZnpveGktZ3hIZWRMYURvQTJ3ekxCZWVYaGdfcEd1d211S2FmODRYbnUtRFp2U1ZCRnlxZm8ySHdIZ0dCM3M2RFhlNHlGdk9odlB3TXI0b051U3Vzc2UwT2pORjlzZzFDd1lGMUtIdkZoLXBRdEJmTzRsSTZaOXZ0dzM5ZklGSlhkZkVSQ0lFdG5YaTYzcFpZZTRTU2tMX3BJZGpKSUF0bHhFdU02QnBaZTdidXNNMGVaMlRJYnRuSVlVak1tSzdvN09WQXFLZk9yVkx1c29wQkxwVXkwUVdEdHFUWWJNZkVvWnUxUE1lS0xEeGRCaERHTFFJUFk5MzhzSGV3SS12MVBzbjhVRXIycHBoaGtiMVQxZ0UyeGhoZHItYzJ3QVV1aTNCN0NvOVhVcmZMekRFcTZoY2t2V25Yd0FCVk03eDhmN1FZZ1FyODhyakNxcWhVRFM4SmlfUzVyZDFvMGE5RWtzTDBETkx3?oc=5",
-        "source": "Списание Осем",
         "image": null
       },
       {
@@ -637,14 +621,6 @@
         "description": "",
         "date": "2026-10-20T13:38:12+00:00",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjB2eEpGbUhMWGU4NDE5STh5M2t3SHhnX2wzam9jd0VNU0tEUTU2Z01iYVU4SGtfUDVNSDhXRVFydUdMb2pyQk9RMnRDTEpqVWtMd2RvLWFLVEJVc2FxV0swUEJiZ3g0ajZWQW9ybVNQVldZREZZNENJM2tOVzcydFFfajBSSktPZ25CdE5SNk0xbm14N0tuYWVYUnVNWWFWQ3k2aXkzUmRCWUNtdzVR?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "МОН търси начини да улесни приема на ученици от българските училища в чужбина в родните университети - Novinata.bg",
-        "description": "",
-        "date": "2026-10-20T13:38:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTZxY04wSnlzYndXVml0T0ZyR2JBakNPTnh5T1c4bUVveWJqd09xUFJSeE1qN3VZR1FjUTN1enpfUjlkbmZreEttZnozY0lydjkwSnNZd3B3ZVJLTVllMklvaGpvS3FuU2xPRWNSLVJEUDk3cWphME41ZTFQeHRjM0htTG9uTTM3SU9JSVZDRlJJR3JPbUFlTVZYOENZZFRLeXF2TzEzMmlDd0RIYjFYenViSXBhU3duQ2VRSUo2VTBEaXNpZkFKRVlKMEVDOGttVEE?oc=5",
         "source": "Novinata.bg",
         "image": null
       },
@@ -791,6 +767,14 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb1B6MDV2TnpoVUc1YURTNVRkd2hnXzlNaU90UGUtNlVUVXBlSm5wdXhYYzE1ZENRTm1HRlUyMTh4bVJwY2JUMWdtbzRnMHBqTk9VSVBhS3FQX0RaTHd0cEQ5akg5R29TaFBqQzg2V1F1dVZyRDM3NTR5c05CYlRLbGFMUW5xN2dQaWV3dXZfNS1CcEVrOV9LMWJwelllem9ScXpGT0lfRGlNdFRCYTUxXzJpSXhFVTV5c2Rta3g5VFpmd2xhOXRCdExOMA?oc=5",
         "source": "Про Нюз Добрич",
         "image": null
+      },
+      {
+        "title": "ПГЕХТ „Проф. Асен Златаров“ – Плевен обяви свободно място за чистач/хигиенист - Pleven info",
+        "description": "",
+        "date": "2026-10-19T12:51:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjNIU1gzZVlOMHpwT3YzNXZZLXBIVEZqeUhVUmtqRmlZRzZtLUcwUEh0d1lwYnFYQ3M5ajhtRC1MazYwcEFpRjltaFpzS3VZYXBPUWVxNHEtQnhLOXpCRWxoUHM4RGRnTzJ4bVBhVWd2b1lucFJrR3FOc0gtUWdsQ1RjbmJwRzFtc0RoU0hVVTFQSXBqRzhXSzVUVHdsdw?oc=5",
+        "source": "Pleven info",
+        "image": null
       }
     ],
     "Технологии": [
@@ -894,7 +878,7 @@
         "title": "Кипър разширява подкрепата за бизнеса с космически технологии - БНР Новини",
         "description": "",
         "date": "2026-10-20T11:46:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTZoWHJtc3NabkpZbzBleUtxdTV6M09SVnZ3b3cwQnpVV2ZtVU9TanFoX1hhSmo0OVFZaGhZWUVTb3hEa1pjM3o3WU9LTFB1ek5oams3aDd1T0NLNlMyWGtzQ1VmSG0tOWhaNndvdUhjVGh3T2JlTnhRZlJGaXFVX2pZT182QTMtZjhHMXU3SklOODFTSm1xaDYyUmdfTzVibGc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFZhdmYtS211M1NqZFFISzB0TEVBY0pjdHRtSDhBc1dLZlRmanJCOW9fbFRiNEkwNmpoMzRkcHZjTlRjMk0yOXE0WkRpLURhTHlKNHl4OVp3ZFpWWUJNcWxGUVBkQnJQc3ZyQ1VHNGlXZW9kLUpzMEtyOFRVODl4RldHWTNMMkczTm1Rd1YwT05NVDY1b2o5Tkx3MnFWd2tsYUZDSnFCNkpTbzA?oc=5",
         "source": "БНР Новини",
         "image": null
       },
@@ -963,14 +947,6 @@
         "image": null
       },
       {
-        "title": "Вигенин: Новите технологии позволяват индивидуален подход не само на лечението, но и на превенцията на заболяванията - ФОКУС",
-        "description": "",
-        "date": "2026-10-20T06:16:19+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORElnUUQtQTlJQkpWRndxQUppOWdVOG9Qa09qTHg0bWxBRXdqVjNXa0FhNHd6Tlp3THUxQ0JVWGpLdEx3R1pwNHlrZnJGbjNoc2JWM3d3LTV1RTVTMGZuMkF5WTNUaHRvR1lqSnE0bGp6bGxhTmJtT2htQlVBSnJpSzlZWmZaU0NpYVJ0anRnVGNZR3doWVVmbUxCTktDdDJiczEwN0Z6Ym1TMk4xZnRJalJ6MGVnR0x1Yml6M0RTUHFGYkotdGFoRjBHSl9EVm94U24ybXFsSTdnNVE5NFEyTTVuTndicHRQbWoxZXpJRGcyMjZCNnY2aFcxRXN4N05JUlgyRw?oc=5",
-        "source": "ФОКУС",
-        "image": null
-      },
-      {
         "title": "САЩ забраниха китайски AI модел, обвиняван в кражба на технологии - Бизнес новините",
         "description": "",
         "date": "2026-10-20T05:59:40+00:00",
@@ -993,6 +969,14 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlZHdFVfd0FFQkoydHdVWWZhd2NtZFZLZlAyUk16aVgzWTZZRVBqSU1JRVlTQVYxbThvTXhSQUdRQjVDNlVfU0dBQjdwd0VBcER0a1oyRFc5NC1SQXVBY0tZRG5wSktTekxOQy1sbHA2cTlYTXIzVmlGd0FUSE9Rb2ltaV9vTWJKOWMzUE9RZWpRR3dkUEhzdUQwa3NzaHpHX3dsRWw3STB2dTlsUEdaMG55SlRMcmt5LWN6SmJuQmVYMmJtLTlhaw?oc=5",
         "source": "БГНЕС",
         "image": null
+      },
+      {
+        "title": "Нови технологии ще помагат за наблюдението на снежната покривка и лавинния риск в Рила, Пирин и на Витоша - bTV Новините",
+        "description": "",
+        "date": "2026-10-20T05:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaU9Zbmh6NDFHR3lUVGZPQWVaaENWZ3FyTG9OUkRKQ3FRcng0M05rdk5jY19WcUxZcHpSR2ttYnJtaVQ1VklfbU5HeTRhVkZ6RGEtbUJ0eWp6WEtvWkZzYTQ2RVV6RkhPYVRLd1VDZVVOTWtfbUt0dWM4aHNNM09QUlhrc1lRdUlxSk15OE0tdHBHTGcxMWxrWXJQU2JfakwwNlc3bXBRcXZYcjE5ZEZNcXAzbnJDSDA3TUIwcUlwTzFGd3pGT2Nfek9QWUNPTW5DYlJjRW5HVEF5a3Q0Q3pVTA?oc=5",
+        "source": "bTV Новините",
+        "image": null
       }
     ]
   },
@@ -1009,7 +993,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 23,
+      "count": 21,
       "feeds": 1
     },
     "Образование": {
