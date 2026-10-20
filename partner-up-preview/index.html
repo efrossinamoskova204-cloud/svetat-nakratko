@@ -39,16 +39,35 @@
 .pu-big-cta{font-size:18px;min-height:50px}
 .pu-family-banner{font-size:15px}.pu-nav button:focus-visible,.pu-voice button:focus-visible{outline:3px solid #253d70;outline-offset:3px}
 @media(max-width:680px){.pu-voice{padding:14px}.pu-voice .talk{width:100%}}
-</style></head><body><header><div><strong>🤝 Partner UP</strong><small>Професионални контакти и нови възможности</small></div><span id="session">Зареждане…</span></header><main class="wrap"><div class="pu-family-banner"><strong>👨‍👩‍👧 Семейна демонстрация на Partner UP</strong><div>Това е преглед на дизайна и навигацията, не истински чат. Входът, регистрацията, профилите и изпращането на съобщения са изключени за безопасност. Новините се зареждат от публичния GitHub файл, когато има интернет.</div></div><nav class="pu-nav" aria-label="Главно меню"><button type="button" data-view="home" class="active">🏠 Начало и хора</button><button type="button" data-view="chat">💬 Общ чат</button><button type="button" data-view="news">📰 Новини</button><button type="button" data-view="help">🤝 Помагаме си</button><button type="button" data-view="alerts">🛡️ Внимавай, измама!</button></nav><section id="homeView"><section class="pu-voice" id="voiceDemo" aria-labelledby="voiceTitle">
+
+/* Voice-first accessible controls, Grok review */
+.pu-voice{border:2px solid #c36b3c;background:#fff6ed;border-radius:16px;padding:20px;margin:12px 0 20px}
+.pu-voice h2{font-size:22px;margin:0 0 8px;line-height:1.3}
+.pu-voice .pu-voice-lead{font-size:18px;line-height:1.4;margin:0 0 8px;color:#512d1b}
+.pu-voice .pu-voice-privacy{font-size:13px;line-height:1.45;margin:0 0 10px;color:#512d1b}
+.pu-voice button{font-size:17px;padding:15px 18px;min-height:52px}
+.pu-voice .talk{background:#813820;border:3px solid #653321;font-size:21px;border-radius:16px;min-height:72px;font-weight:750;letter-spacing:0.01em}
+.pu-voice .talk[aria-pressed="true"]{background:#9c1e12;box-shadow:0 0 0 5px #fad3b9;animation:pu-pulse 1.4s ease-in-out infinite}
+@keyframes pu-pulse{0%,100%{box-shadow:0 0 0 5px #fad3b9}50%{box-shadow:0 0 0 10px #fad3b988}}
+@media(prefers-reduced-motion:reduce){.pu-voice .talk[aria-pressed="true"]{animation:none}}
+.pu-voice .read{background:#fff;color:#653321;border:1px solid #a94f2d}
+.pu-voice textarea{font-size:18px;min-height:110px;line-height:1.45}
+.pu-voice .status{font-size:15px;color:#512d1b;background:#ffe8d4;padding:10px 12px;border-radius:10px}
+.pu-voice .pu-actions{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.pu-big-cta{font-size:18px;min-height:52px;font-weight:700}
+@media(max-width:680px){.pu-voice{padding:16px 14px;margin-top:8px}.pu-voice .talk{width:100%;font-size:21px;min-height:72px}.pu-voice .pu-actions{flex-direction:column}.pu-voice .pu-actions button{width:100%}.pu-voice textarea{font-size:18px}}
+</style></head><body><header><div><strong>🤝 Partner UP</strong><small>Професионални контакти и нови възможности</small></div><span id="session">Зареждане…</span></header><main class="wrap"><div class="pu-family-banner"><strong>👨‍👩‍👧 Семейна демонстрация на Partner UP</strong><div>Това е преглед на дизайна и навигацията, не истински чат. Входът, регистрацията, профилите и изпращането на съобщения са изключени за безопасност. Новините се зареждат от публичния GitHub файл, когато има интернет.</div></div><section class="pu-voice" id="voiceDemo" aria-labelledby="voiceTitle">
 <h2 id="voiceTitle">🎙️ Говори, когато писането е трудно</h2>
-<p>Натисни големия бутон, кажи въпроса си на български и виж как думите се превръщат в текст. <strong>Това е демонстрация — съобщението не се публикува. При гласово разпознаване браузърът може да обработва звука чрез външна услуга.</strong></p>
-<div class="pu-actions"><button type="button" class="talk" id="voiceTalk" aria-pressed="false">🎙️ Натисни и говори</button><button type="button" class="read" id="voiceListen">🔊 Прочети написаното</button><button type="button" class="secondary" id="voiceStop">■ Спри звука</button></div>
+<p class="pu-voice-lead"><strong>1. Натисни големия бутон и говори на български.</strong></p>
+<p class="pu-voice-privacy" id="voicePrivacy">Това е демонстрация — съобщението не се публикува. Браузърът може да обработва речта чрез външна услуга.</p>
+<div class="pu-actions"><button type="button" class="talk" id="voiceTalk" aria-pressed="false" aria-describedby="voiceStatus voicePrivacy">🎙️ Натисни и говори</button></div>
 <div class="status" id="voiceStatus" role="status" aria-live="polite">Микрофонът е изключен. За пробата използвай Chrome на защитен уеб адрес (HTTPS). Разреши микрофона само ако желаеш.</div>
-<label for="voiceDraft">Твоите думи</label><textarea id="voiceDraft" maxlength="1000" placeholder="Тук ще се появи разпознатият текст. Можеш и да пишеш."></textarea>
-<div class="pu-actions"><button type="button" id="voicePreview" class="pu-big-cta">Покажи пробно съобщение</button><button type="button" id="voiceClear" class="secondary">Изчисти текста</button></div>
+<label for="voiceDraft">2. Провери разпознатите думи</label><textarea id="voiceDraft" maxlength="1000" placeholder="Тук ще се появи разпознатият текст. Можеш и да пишеш."></textarea>
+<div class="pu-actions pu-secondary-actions"><button type="button" class="read" id="voiceListen">🔊 Прочети написаното</button><button type="button" class="secondary" id="voiceStop">■ Спри звука</button></div>
+<div class="pu-actions"><button type="button" id="voicePreview" class="pu-big-cta">3. Покажи пробно съобщение</button><button type="button" id="voiceClear" class="secondary">Изчисти текста</button></div>
 <div id="voicePreviewBox" class="pu-attention" aria-live="polite">Пробното съобщение ще се появи тук. То е само на твоя екран.</div>
 <p class="muted">Отвори тестовия сайт в Chrome, а не във вградения браузър на Viber или Facebook. Ако говоренето не работи, използвай микрофона на клавиатурата. За реални гласови обаждания ще е необходима отделна функция.</p>
-</section><section class="hero"><div>Свързваме хора и възможности</div><h1>Намери хората за следващата си възможност.</h1><p>Създай професионален профил, откривай специалисти и разширявай мрежата си. Без лични карти и ненужни документи.</p></section><div class="notice">Тестова версия за учебен проект. Публикуваните профили са видими за посетителите. Не добавяй ЕГН, адрес, телефон или поверителна информация.</div><div class="layout"><section><div class="panel"><h2>Открий професионалисти</h2><input id="search" placeholder="Търси по име, професия или град…" aria-label="Търси"><div id="count" class="muted" style="margin-top:12px"></div><div id="cards" class="cards"></div></div></section><aside><div class="panel" id="authpanel"><h2>Вход и регистрация</h2><div id="loggedOut"><button id="google">Влез с Google</button><form id="loginForm"><label>Имейл<input id="email" type="email" autocomplete="email" required></label><label>Парола<input id="password" type="password" autocomplete="current-password" minlength="8" required></label><button type="submit" id="login">Вход</button><button type="button" id="signup" class="secondary">Създай акаунт</button></form><button class="secondary" id="resetPassword">Забравена парола</button></div><div id="loggedIn" class="hidden"><div id="who" class="status"></div><button id="logout" class="secondary">Изход</button></div><div id="authStatus" class="status" role="status"></div></div><div class="panel hidden" id="profilePanel"><h2>Моят професионален профил</h2><form id="profileForm"><label>Име или псевдоним<input id="name" maxlength="60" required></label><label>Професия<input id="job" maxlength="80" required></label><label>Град<input id="city" maxlength="60" required></label><label>За мен<textarea id="bio" maxlength="300"></textarea></label><button type="submit" id="saveProfile">Запази профила</button></form><div id="profileStatus" class="status" role="status"></div></div></aside></div>
+</section><nav class="pu-nav" aria-label="Главно меню"><button type="button" data-view="home" class="active">🏠 Начало и хора</button><button type="button" data-view="chat">💬 Общ чат</button><button type="button" data-view="news">📰 Новини</button><button type="button" data-view="help">🤝 Помагаме си</button><button type="button" data-view="alerts">🛡️ Внимавай, измама!</button></nav><section id="homeView"><section class="hero"><div>Свързваме хора и възможности</div><h1>Намери хората за следващата си възможност.</h1><p>Създай професионален профил, откривай специалисти и разширявай мрежата си. Без лични карти и ненужни документи.</p></section><div class="notice">Тестова версия за учебен проект. Публикуваните профили са видими за посетителите. Не добавяй ЕГН, адрес, телефон или поверителна информация.</div><div class="layout"><section><div class="panel"><h2>Открий професионалисти</h2><input id="search" placeholder="Търси по име, професия или град…" aria-label="Търси"><div id="count" class="muted" style="margin-top:12px"></div><div id="cards" class="cards"></div></div></section><aside><div class="panel" id="authpanel"><h2>Вход и регистрация</h2><div id="loggedOut"><button id="google">Влез с Google</button><form id="loginForm"><label>Имейл<input id="email" type="email" autocomplete="email" required></label><label>Парола<input id="password" type="password" autocomplete="current-password" minlength="8" required></label><button type="submit" id="login">Вход</button><button type="button" id="signup" class="secondary">Създай акаунт</button></form><button class="secondary" id="resetPassword">Забравена парола</button></div><div id="loggedIn" class="hidden"><div id="who" class="status"></div><button id="logout" class="secondary">Изход</button></div><div id="authStatus" class="status" role="status"></div></div><div class="panel hidden" id="profilePanel"><h2>Моят професионален профил</h2><form id="profileForm"><label>Име или псевдоним<input id="name" maxlength="60" required></label><label>Професия<input id="job" maxlength="80" required></label><label>Град<input id="city" maxlength="60" required></label><label>За мен<textarea id="bio" maxlength="300"></textarea></label><button type="submit" id="saveProfile">Запази профила</button></form><div id="profileStatus" class="status" role="status"></div></div></aside></div>
 </section>
 <section id="chatView" class="hidden pu-panel" aria-labelledby="chatHeading">
 <h2 id="chatHeading" class="pu-headline">💬 Общ чат</h2>
@@ -119,12 +138,13 @@
  }
  function go(page){
   if(!pages[page])return;
+  byId("voiceDemo").classList.toggle("hidden",page!=="home");
   for(const [name,id] of Object.entries(pages))byId(id).classList.toggle("hidden",name!==page);
   document.querySelectorAll("[data-view]").forEach(el=>{
    const active=el.dataset.view===page;el.classList.toggle("active",active);
    if(active)el.setAttribute("aria-current","page");else el.removeAttribute("aria-current");
   });
-  const heading=byId(pages[page]).querySelector("h1,h2");
+  const heading=page==="home"?byId("voiceTitle"):byId(pages[page]).querySelector("h1,h2");
   if(heading){heading.tabIndex=-1;heading.focus({preventScroll:true});}
   if(page==="news")loadNews();
   window.scrollTo({top:0,behavior:"smooth"});
