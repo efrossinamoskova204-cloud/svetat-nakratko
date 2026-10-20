@@ -1,10 +1,50 @@
 {
-  "generatedAt": "2026-10-20T17:42:43.655976+00:00",
+  "generatedAt": "2026-10-20T18:10:58.215476+00:00",
   "categories": {
     "България": [
       {
+        "title": "Поетите Ахмет Емин Атасой и Виктор Мелник ще участват в творческа вечер в „Дом Дора Габе“",
+        "description": "Творческа вечер на поетите Ахмет Емин Атасой (България/Турция) и Виктор Мелник (Украйна) ще се състои на 21 октомври от 17:00 ч. в музейната експозиция „Дом Дора Габе“ на бул. „Васил Левски“ № 60 в София, съобщават от Съюза на българските писатели (СБП). Повод за срещата са двете нови стихосбирки на Атасой – „Продължавам да съм жив“, издадена от „Български писател“, и „Живот на кръстопът“ („Життя на перехресті“), преведена на украински от Виктор ",
+        "date": "2026-10-20T18:05:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1228984-poetite-ahmet-emin-atasoy-i-viktor-melnik-shte-uchastvat-v-tvorcheska-vecher-v-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14013791/Atasoy-book-poster.png"
+      },
+      {
+        "title": "Сикорски: Полша повече няма да доставя Patriot на Украйна - News.bg",
+        "description": "",
+        "date": "2026-10-20T18:00:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFlZRVpSYkVnNUIyTXdHcnNuY3dCREFRSnFmSVFHaWJTbE5fT09BLXdQU0E4MFRRbXZZTlRKZXNqV3JQNWdTMFVVY3FZNVdNTFJTVnI1WDJJUmhJSnNydFFBNi01QnprTEYxd2dpNE9NSlp0aDE5Rm1jTW9zSXRRc25PTTlURDhkTXJBSUZ2MURTeFRTemc?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "Жителите на Смолян посрещнаха полковник Владимир Серафимов във възстановка на Освобождението на Родопите",
+        "description": "Жителите на Смолян посрещнаха тази вечер освободителя на Родопите полковник Владимир Серафимов и войниците от 21-ви пехотен Средногорски полк. Стотици смолянчани изпълниха амфитеатъра на площад „България“, за да се върнат 114 години назад във времето и да съпреживеят едни от най-значимите събития в историята на Родопите. Пред публиката оживяха посрещането на българските войници като освободители и героичните боеве, донесли свободата на родопчани.",
+        "date": "2026-10-20T17:55:40+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1228977-zhitelite-na-smolyan-posreshtnaha-polkovnik-vladimir-serafimov-vav-vazstanovka-n",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14013729/11.jpg"
+      },
+      {
+        "title": "Димана Драмова е българският кандидат за член на Комисията по международно право на ООН, съобщиха от Министерството на външните работи",
+        "description": "Българският кандидат за член на Комисията по международно право на Организацията на обединените нации (ООН) за мандат 2028-2032 г. е д-р Димана Драмова, съобщиха от Министерството на външните работи (МВнР) на официалната си интернет страница. Заместник-министърът на външните работи Христо Дикански представи официално кандидатурата на д-р Димана Драмова пред ръководителите на дипломатическите мисии на държавите членки на ООН в София, посочиха от м",
+        "date": "2026-10-20T17:48:36+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1228985-dimana-dramova-e-balgarskiyat-kandidat-za-chlen-na-komisiyata-po-mezhdunarodno-p",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14013804/%D0%9C%D0%92%D0%BD%D0%A0+-+20.10.26+%D0%B3..jpeg"
+      },
+      {
+        "title": "НАТО засилва наблюдението и разузнаването в Черно море",
+        "description": "Алиансът изпраща допълнителни самолети, дронове и радари след поредица от смъртоносни атаки срещу търговски кораби край България и Румъния",
+        "date": "2026-10-20T17:46:00+00:00",
+        "link": "https://dnes.dir.bg/svyat/nato-zasilva-nablyudenieto-i-razuznavaneto-v-cherno-more",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/09/08/3023807/384x216.jpg?_=1788851559"
+      },
+      {
         "title": "\"Алтернатива за Германия\" иска да закрие ЕП, да намали ролята на ЕК и да намали бюджета на ЕС",
-        "description": "Това е записано в политическата програма на партията, която лидерът ѝ Алис Вайдел ще представи в Европейския парламент",
+        "description": "Това е записано в политическата програма на партията, която лидерът ѝ Алис Вайдел ще представи утре",
         "date": "2026-10-20T17:40:10+00:00",
         "link": "https://dnes.dir.bg/svyat/alternativa-za-germaniya-iska-da-zakrie-ep-da-namali-rolyata-na-ek-i-da-namali-byudzheta-na-es",
         "source": "Dir.bg",
@@ -17,14 +57,6 @@
         "link": "https://www.bta.bg/bg/news/lik/1228978-moni-georgieva-shiyan-i-ayvar-deyvis-predstaviha-balgarski-folklorni-istorii",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14013538/1000042844.jpeg"
-      },
-      {
-        "title": "Протест в София срещу кабинета \"Радев\": \"Вашият \"мир\" е капитулация\" (видео) - Mediapool.bg",
-        "description": "",
-        "date": "2026-10-20T17:29:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWxtNXRoV2VabmwzcXFsaHNWeDdYbkRkRU0xbEJ4dzNEU05Oai1fa1ZmNUZxRjdqbEhMeHhvM3U5TVNUTnhGUUtwQ0N1MndqZFppLWNNTUtJN29hNzVoOUk5YVU1U2I2d1FpN0pVNnlkTFpDU3NtVGtBQkcxTkxOa3UxR0s1WnpmWFlMdUZMckpPajlfc2Ywelh4NUswWGJNMVZFU2VBTDk5WHgzQnc?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
       },
       {
         "title": "Министър Катя Ивкова поиска подкрепа и експертиза от УНИЦЕФ за ключови процеси по изграждането на Националната детска болница",
@@ -169,41 +201,25 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1228929-grazhdani-se-sabraha-v-tsentara-na-sofiya-na-protest-sreshtu-prezidenta-yotova-i",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14013510/BKK_7829+%281%29.JPG"
-      },
-      {
-        "title": "Два автомобила се удариха на натоварено кръстовище в Сливен, три деца са пътували в едната кола",
-        "description": "Пътнотранспортно произшествие между два автомобила е станало около 17:00 часа днес на натоварено кръстовище на бул. „Стефан Стамболов“ в Сливен. При инцидента няма пострадали, съобщиха за БТА от полицията. В единия от автомобилите са пътували и три деца. Всички водачи и пътници в двата автомобила са били прегледани на място от екип на Центъра за спешна медицинска помощ. Не са установени пострадали. По случая ще бъдат предприети действия съгласно ",
-        "date": "2026-10-20T16:01:28+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1228934-dva-avtomobila-se-udariha-na-natovareno-krastovishte-v-sliven-tri-detsa-sa-patu",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013480/20261020_180452.jpg"
-      },
-      {
-        "title": "Народният театър представя неразказаната история на Виола Каравелова",
-        "description": "Какво се случва с една жена, когато съпругът ѝ изчезне безследно, а светът около нея е разделен на врагове. Премиерата на „Седем нощи на Виола Каравелова“ от Боян Крачолов отваря една от по-малко познатите страници в българската история, коментират от Народния театър. В моноспектакъла Надя Керанова се превъплъщава във Виола Каравелова – дъщеря на Петко и Екатерина Каравелови, по-голяма сестра на Лора Каравелова и съпруга на журналиста Йосиф Хербс",
-        "date": "2026-10-20T15:53:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1228922-narodniyat-teatar-predstavya-nerazkazanata-istoriya-na-viola-karavelova",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013486/7_NOSHTI_S_VIOLA_SOCIAL-04.jpg"
-      },
-      {
-        "title": "Заловиха камион с близо 55 кг канабис, влязъл от Румъния през Видин (снимки)",
-        "description": "Гранични полицаи и митничари откриха наркотичното вещество при проверка край село Ружинци",
-        "date": "2026-10-20T15:50:26+00:00",
-        "link": "https://dnes.dir.bg/krimi/zaloviha-kamion-s-blizo-55-kg-kanabis-vlyazal-ot-rumaniya-prez-vidin-snimki",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/20/3038429/384x216.jpg?_=1792514173"
-      },
-      {
-        "title": "„100-те унгарски цигулки“ представят музиката на Лист, Брамс, Чайковски и Щраус, наред с традиционна унгарска музика",
-        "description": "„100-те унгарски цигулки“ (100 Members Gipsy Symphony Orchestra) представят музиката на Лист, Брамс, Чайковски и Щраус, наред с традиционна унгарска музика и виртуозни сола, информират организаторите на двата спектакъла, които ще се състоят на 30 октомври в зала 1 на НДК. Една от отличителните черти на формацията е начинът, по който музикантите съчетават класическата традиция с темперамента и свободата на унгарската музикална култура. Както разка",
-        "date": "2026-10-20T15:42:31+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1228915--100-te-ungarski-tsigulki-predstavyat-muzikata-na-list-brams-chaykovski-i-sht",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013465/100_gipsy_second_show_press.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Бетани Хюз представи книгата си \"Седемте чудеса на античния свят\" и филма \"България: Земята на розите\" в София - Impressio.bg",
+        "description": "",
+        "date": "2026-10-20T17:32:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVm00NUlEQklERl9jUndvU2wzbFBTWi1FY3dZNFdYRUtGV0JjTzFSWkVfWE5abnR5NnN1SFUyb0wtU0tmb0x5ZkVwYmVkLTB2QW5tZkREOFdTUHAzRkR0cVhaOU04eDRtMkJfWm5UNGk5MmtKWU5IOGZycjhfSUdyNmJ3N3FtVTdNUnNIZmFrbnZid1A4ekZNVE9rSG15a0ZoamczZ0I1VWJCeHNjd3RITWxZWlQyS1YzR1ZmOEFMb1NnZUFURUF1MzRCS2RpYW5ERnY5NnVJZDhJTFhndUVfNw?oc=5",
+        "source": "Impressio.bg",
+        "image": null
+      },
+      {
+        "title": "Бетани Хюз представи книгата си \"Седемте чудеса на античния свят\" и филма \"България: Земята на розите\" в София - Impressio.bg",
+        "description": "",
+        "date": "2026-10-20T17:29:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdEIwRUhCcmppNGhSQ0hDVnpaLTdSd2Y4MkZ6UDRlU09zLXRxQTJRbmZjaGl1bVd2el91OTl4UVBqQmVfSEhlUFlvZmhHSjNBcXJBamRob2NMMy1FUUdIbi1QRHAtWTZHVDFEa1dqbGxacWxKM1o1OGh5dWJjUWM0bC1LRFdtSFctNTB4LXhMblVhc3h3Wjlnd3RDRVYtc3FDNGgwa0ZnY213amhmeVFrQ211RXA5d1hWWW5QX21Rc2piQWpfUXFyVjRMQ09wRzBIYXBzd2tBRTVNOUo2?oc=5",
+        "source": "Impressio.bg",
+        "image": null
+      },
       {
         "title": "Германският канцлер Фридрих Мерц похвали приноса на турските гастарбайтери към Германия като \"история на успеха\"",
         "description": "Германският канцлер Фридрих Мерц похвали приноса на турските гастарбайтери към Германия, описвайки тяхната миграция като \"история на успеха\" по време на церемония по повод 65-ата годишнина от сключването на германско-турското споразумение за набиране на работна ръка, предаде ДПА. В речта си на церемонията днес Мерц заяви: \"Турските гастарбайтери, както жени, така и мъже, помогнаха за изграждането на индустриалната база на нашата страна\". \"Германц",
@@ -214,7 +230,7 @@
       },
       {
         "title": "НАТО обяви, че ще засили наблюдението и разузнаването в Черно море",
-        "description": "НАТО ще изпрати още самолети за морско наблюдение, радарни системи и дронове в Черно море, заяви днес алиансът след поредица от смъртоносни атаки с дронове срещу кораби в региона, свързани с войната на Русия в Украйна, предаде Ройтерс. До обявяването на мерките се стигна, след като главният изпълнителен орган на пакта – Северноатлантическият съвет обсъди сигурността в Черно море в централата на алианса в Брюксел. Освен самолети, дронове и радарни",
+        "description": "НАТО ще изпрати още самолети за морско наблюдение, радарни системи и дронове в Черно море, заяви днес алиансът след поредица от смъртоносни атаки с дронове срещу кораби в региона, свързани с войната на Русия в Украйна, предаде Ройтерс. До обявяването на мерките се стигна, след като главният изпълнителен орган на пакта - Северноатлантическият съвет, обсъди сигурността в Черно море в централата на алианса в Брюксел. Освен самолети, дронове и радарн",
         "date": "2026-10-20T17:11:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1228979-nato-obyavi-che-shte-zasili-nablyudenieto-i-razuznavaneto-v-cherno-more",
         "source": "БТА",
@@ -317,6 +333,14 @@
         "image": null
       },
       {
+        "title": "CORRECTION Russia Ukraine War - БТА",
+        "description": "",
+        "date": "2026-10-20T16:14:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UX3hrNUczcTdhNWhRdXJBNklXX3R5bmxOdHUweXFXTU14Q2sxSEl5RFBoTTY0X09pamkyVWZvN05TZ2dmdEFkeWRhRmNfSmI5TjM0bFdvNA?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
         "title": "Наградата „Дафне Каруана Галиция“ за 2026 г. ще бъде връчена утре в Страсбург",
         "description": "Европейският парламент ще обяви утре в Страсбург носителя на наградата за журналистика „Дафне Каруана Галиция“ за 2026 г. Церемонията ще започне в 18:00 ч. местно време в пресзалата „Дафне Каруана Галиция“ на ЕП. Церемонията се очаква да бъде открита от заместник-председателя на Европейския парламент Пина Пичиерно, след което ще говори председателят на ЕП Роберта Мецола. Председателят на Международната асоциация на пресата и член на журито Дафид ",
         "date": "2026-10-20T16:09:17+00:00",
@@ -379,30 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1228834-shofyorat-blasnal-nezavisimata-avstraliyska-deputatka-helan-heyns-beshe-obvine",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14008712/3d1fef8a3083486a8f1ce177cc7f9b1f--0--fbbb2335091340e1ba0015708d7be8bb.jpg"
-      },
-      {
-        "title": "Недостигът на мед може да достигне 20 млн. тона до 2050 г. - https://www.ekonovini.bg/",
-        "description": "",
-        "date": "2026-10-20T15:02:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmJ4SUpZYktnU3g4ZlNDb29aYk9CUmpmQlYwb2JMdWdlRUlRd01IWGRJZ0pDaF8wR3hMclhUZnotZ2FxZHIyRTBBVTc0RmRFVUhDclM1bzVLNnpZYnJ6NTBvcnc5bG5nSGpndDRJblZzR29JN3hjenhVTUkxeU5RWl9QWU1mamJFQlBVcXdvRQ?oc=5",
-        "source": "https://www.ekonovini.bg/",
-        "image": null
-      },
-      {
-        "title": "Гърция въвежда дигитален контрол върху сделките със земеделска продукция - Свят - manager.bg",
-        "description": "",
-        "date": "2026-10-20T15:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTl3ZEFhRG56a3B5VTcyZW5aZllEbnM1amhXZ1BsY1BabWZobDU1MnI3OHdGVFZoV1VqUzFRRTdzWm5ORFFDckpOZkVHRW85QXBHWmt1aFlPSFFib3ppRkdvWTRMNGZ2M1Y0MmZyS1pjUW9UQklhMFEzc2o2SlBFTFJhYVVjTVhoQ1VLenhLV1dsUmV4cXB2YU9KSWozOGQyMlo4dG50VF9kVWRVQ2ZXMXZzanIxSlk?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Канадец и амриканец излизат в открития космос, за да обновят слънчевите панели на МКС - Свят - manager.bg",
-        "description": "",
-        "date": "2026-10-20T14:20:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdV91aG9OUDlIZ2ZFczR2T0lMOE1KQkY0RGdYSTF4T1luemkwakVTSE5GNjNPNzJVdHdneDVwZlNIOXhSMWJCeFZCcWhNR2U5dmluN0JQaGFOcW42cXNGZmFiTXVQdWpWcHlHQmVmN2RPV0xjS3Y4Y1RRdW9vUlVxU3hOYVBGc1puSzJSbmlXc2dsbTJxZkd0R3hGWWh0TFlFUTZvNnNEMUY4cmJIcEpiYnczVFdMRGM0WGR2M2RfVUNndk5SLWtHaw?oc=5",
-        "source": "manager.bg",
-        "image": null
       }
     ],
     "Наука": [
@@ -593,14 +593,6 @@
     ],
     "Образование": [
       {
-        "title": "Заместник-министърът на образованието и науката акад. Николай Витанов участва в неформална среща за образованието в Дъблин - Делник БГ",
-        "description": "",
-        "date": "2026-10-20T16:31:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQeUQwSnhsR2locmY4am5BQ1VTcXhCOUtjNk1Dd1h0ZER2dWEwb0xkc1NoU0tSMGg4WVJrOTFvQ1JodVIxZzJ6Y05xVGI2NTlnM1pxMkJCenBVYXk3NVVINVJYdUxwVUMzRzd5RlhaNEt2LU05MHFBQXNuMmp2bW51WXJXcmNzc0d0TTVKNkN1aVc4LUJ6ZjhlblZOMnoyeU9Ec09CNmNTSHBCZlhYMjE2dVdtUWhHWHIxeWZOeEI5bUhwWEFzbnVYMVJQMnRVdGpJUXdCU0FHVGFTNEZxVWxLUFBHOVI4X28xbzdTT082bDNSMldzRUhHMms4OERQNWhxN1h0aHJTZzZ2QTRZdTh2WUV3TUQyLWlJYmZYczlEcFU4R3U3ODVwelBVOENYRnd2VWtocFhjVFVCd0FrcjFlY05FQ0hYUFo1S2dOMENUNC1WSXc?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
         "title": "УЧЕНИЦИ, УЧИТЕЛИ И ШЕФ ГОТВАЧИ СЕ ОБУЧАВАТ ПО ВРЕМЕ НА МЕЖДУНАРОДЕН ФОРУМ В СОФИЯ - Министерство на образованието и науката",
         "description": "",
         "date": "2026-10-20T15:47:50+00:00",
@@ -641,6 +633,14 @@
         "image": null
       },
       {
+        "title": "Близо 40 на сто от работещите с основно образование са под линията на бедност - Вестник \"ДУМА\"",
+        "description": "",
+        "date": "2026-10-20T13:10:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmpnZUFOS212MHRhZFhIa0VnbGQ1eTNnbG9CRG1nYXJyekplR2VUcGZBTmdURjFMRDJjdTJ6QnBudk00bFN6d2lBeEtiSTU5MnA2MTJmelAyS0J5OVhMc0ItTTNjTmI2SWJ6RU5FNy1ySWFtZ2JuMV9DMVRRbDdwaDUySzBTa3pib2F5clVFbVNKMkNFNFphSVNNTXhqVzZHS3g3QzhoNA?oc=5",
+        "source": "Вестник \"ДУМА\"",
+        "image": null
+      },
+      {
         "title": "Отложиха протеста на студентите от НАТФИЗ за 22 октомври, исканията за оставки остават - Stolica.BG",
         "description": "",
         "date": "2026-10-20T12:19:00+00:00",
@@ -662,6 +662,14 @@
         "date": "2026-10-20T11:24:37+00:00",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXUtT1lkOHJCeTZJZ0d0TlRkejFBNmhXbzV1N2RxQnBTdFl0MkxlRTJnc3pQcXdpUlYyeDlGSVk4SGJpckxpZTlubXVDMUtJcERyQ3paQ24zeXJFRWtJMkQyVXRGMC1BWmhNX1JYb05Cdm9jVWlPZ0lLdi1IQjRHNGNBZVBUYmU1Z2UxazdwMFBlM1BsMS0zVjFGeUlEZXQwNFlF?oc=5",
         "source": "balkanec.bg",
+        "image": null
+      },
+      {
+        "title": "20 години вдъхновение, които отварят врати към бъдещето - ELLE.bg",
+        "description": "",
+        "date": "2026-10-20T10:40:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hR2JCTVlVSmExSDZoenBQbl8za2hHZGVjM0NaYVJ1czFWV3QtczBpWWJfS2czTUV0bHEtb280RlBDbnNDN29xV0ZsYjdFQlh0bWZIZzMyNTg1Yi16Z2FndlZYRWZueVdLVnc?oc=5",
+        "source": "ELLE.bg",
         "image": null
       },
       {
@@ -737,14 +745,6 @@
         "image": null
       },
       {
-        "title": "Близо 40 на сто от работещите с основно образование са под линията на бедност - Вестник \"ДУМА\"",
-        "description": "",
-        "date": "2026-10-19T21:36:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmpnZUFOS212MHRhZFhIa0VnbGQ1eTNnbG9CRG1nYXJyekplR2VUcGZBTmdURjFMRDJjdTJ6QnBudk00bFN6d2lBeEtiSTU5MnA2MTJmelAyS0J5OVhMc0ItTTNjTmI2SWJ6RU5FNy1ySWFtZ2JuMV9DMVRRbDdwaDUySzBTa3pib2F5clVFbVNKMkNFNFphSVNNTXhqVzZHS3g3QzhoNA?oc=5",
-        "source": "Вестник \"ДУМА\"",
-        "image": null
-      },
-      {
         "title": "БСУ отличи вдъхновяващи учители и образователни институции - Бургаски свободен университет",
         "description": "",
         "date": "2026-10-19T14:53:50+00:00",
@@ -795,14 +795,6 @@
     ],
     "Технологии": [
       {
-        "title": "От обща отбрана до технологии: Анкара ратифицира военния пакт с Рияд и Исламабад - Frognews",
-        "description": "",
-        "date": "2026-10-20T17:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3BzblJDTzdpYmt0OWRFSU9KRzdjQ1FpTDJWTy1zWldhSDJfN01na09QUjZwOVpoUFJTUWF3dWNFdDJrYzRNWkdpWFlGZG5LS2F4Q2kxSDlycGVTV0x5WjJDZjZOVHVFNEdZRGlncVR5Z1N5ODNXd1BtbmpjdzRIdFc0Y2hfNUM3QXR0TzFhQXItNnZHZlJIMmRDa2Q4THl0ZVRPdWVGR1hFQQ?oc=5",
-        "source": "Frognews",
-        "image": null
-      },
-      {
         "title": "Явор Куюмджиев: България може да стане плацдарм за китайски технологии и производство, отговарящо на изискванията на ЕС - ФОКУС",
         "description": "",
         "date": "2026-10-20T17:26:49+00:00",
@@ -819,14 +811,6 @@
         "image": null
       },
       {
-        "title": "Развитието на военни технологии като дронове, изкуствен интелект и космическо - novini247.com",
-        "description": "",
-        "date": "2026-10-20T16:19:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFdvYVh6N0VlZE9DVDhCYk93WkhiWVhBRXdYSDV2U21ERlU1UTgxNDkydE9UTHVGVUVrU1RrNVJieXREUVI4eHBjMTl1YUEwUXpHUk9RRVZPSGRkWVdsWTdsa0Ixd1daRjNTdDZtNWpfWDZNc29sZzB3MlZPRE94NTFZNGR1M1dHSUpsNHlOZjQyS3Znbk1FYXJtWnZlSmF4LUJSTWp0NFlPSm5JWFN6SnVTVjVJQzZHR2wyNg?oc=5",
-        "source": "novini247.com",
-        "image": null
-      },
-      {
         "title": "Десет предприятия от област Добрич получават над 2,8 млн. евро за технологии от Индустрия 4.0 - Про Нюз Добрич",
         "description": "",
         "date": "2026-10-20T15:49:13+00:00",
@@ -835,7 +819,7 @@
         "image": null
       },
       {
-        "title": "ЧАКА СНИМКИ! Премиер и министри дадоха старт на мащабен проект за батериен парк с водеща технология на Tesla - www.24chasa.bg",
+        "title": "Премиер и министри дадоха старт на мащабен проект за батериен парк с водеща технология на Tesla - www.24chasa.bg",
         "description": "",
         "date": "2026-10-20T14:49:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MUFJua1lsU0loUE5HZm1kUVlnQUhkQmhtZ21GTVpUbXJGMmZ4NFM2U3F5S1c3NllwQVBiZzVmT3oyaE1fc241dHVFTG9ORFZ4ZWwwM25HTWt5QQ?oc=5",
@@ -907,14 +891,6 @@
         "image": null
       },
       {
-        "title": "Министър-председателят участва в първата копка на мащабен парк за съхранение на електроенергия в Твърдица - Novinata.bg",
-        "description": "",
-        "date": "2026-10-20T12:33:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbzE0OWM2NW9fOWdESG5KTmk1REVaTndqbXRrQUxucU16VWU5NmM3ZFpHYm9mdHk0b2xXX3BNQzlCbEJ6MC0yZ3ZqWUhHa0FoRHNncFNSZ1BId2NtVVdWU3pxbFI3RjBzVG00WUl5bEE3Ujd6YkZBeEZ4YkI2S1FQRnRaaW1rZEFMdk1LU3pGQVpNNlBHS2EwaXdveF9jdEoxc3NFTkFfUk1ZRWFtNWR4ek55dm1YVUpZR3hoZ25lTzNTSVNQNUlpUnkwX3BpclBTYXZQcQ?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
         "title": "Кипър разширява подкрепата за бизнеса с космически технологии - БНР Новини",
         "description": "",
         "date": "2026-10-20T11:46:38+00:00",
@@ -939,14 +915,6 @@
         "image": null
       },
       {
-        "title": "„Медикус, Денто, Галения“ 2026 среща здравеопазването с технологиите на бъдещето в Пловдив - Горещите новини на Подбалкана",
-        "description": "",
-        "date": "2026-10-20T11:15:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3p1ZU0wTDZFY19iNEVwMVFJd09VMllnNi1ER1VkeklZbGU4aE1sMUF5SzlWb2RGQW5UX2ZPcUU2ODZmcm1udU5PSWhOdEc5eUhJNzF4YjFCTU1HRmdLOFZiUG4yZmJaZWpvQkZuYkR2TTZOVHlwV29YTE1meVl2V2xvUGk4YkxETWJDWGd2TlMzNy1ua0t4bzVkSUN2Y2kwZEQwMVlvRUVIVnBSR3ZxeXdBRHlPSVZ1bXFoOHVoLVAyVXIwTVVNZw?oc=5",
-        "source": "Горещите новини на Подбалкана",
-        "image": null
-      },
-      {
         "title": "Световен ГИС ден 2026: нови проекти и технологии в София - National Geographic България",
         "description": "",
         "date": "2026-10-20T08:32:02+00:00",
@@ -960,14 +928,6 @@
         "date": "2026-10-20T08:09:27+00:00",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzZrd0ZxRzVOM3VfOWNVUzVyRGtkdEg5RlpXUjR5S0NiUFFCTDRuYjlPS195cHd0TTdzN0h1aVlnRFB1OE9SRzNlY0lacm4yTEF5S1Buc1JhemFvNUNCUlZ1UHA4Q2VwYmJURFpucDZTLTZ5T0VVMlJPOE1qN2Q3VmJzQWNUZDNhT2VWSldpdmFBeHk4TEs3b1VscEZkNDB3eWEyUVREekJIa1pTM2ZEZg?oc=5",
         "source": "balkanec.bg",
-        "image": null
-      },
-      {
-        "title": "Администрацията на Доналд Тръмп забрани използването на технологии, свързани с - https://novini247.com/",
-        "description": "",
-        "date": "2026-10-20T08:02:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeE1BcHNYQ3kxbERZby15QlhMUWdyV2VqZXZaSGdzSDFvWVU4Q1RXVHg5QWFmQi1TUy1rcTl5M2JwMWJYeUhOZHprdzdUa004UEE5VnhqWXRnZTNQN3pMMml3ZEx3V3ZsZTVXMTYxNWtoQjRDLUlPbGZpN3BTamJHUGRfRFNwcjdFT2xfYzVfbjFsZ0ZpaDI0THllRHhTRWF1MG9RaklXWElVZXlMZHh2cTNabFVCZGkzc09kM1dndw?oc=5",
-        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -987,11 +947,51 @@
         "image": null
       },
       {
-        "title": "Вигенин: Новите технологии позволяват индивидуален подход не само на лечението, но и на превенцията на заболяванията - Fakti.bg",
+        "title": "От AI инструменти към работещи системи: Геннадий Воробьов от Netpeak Bulgaria представи практически решения на eCA Conference 2026 - Financialtribune.bg",
         "description": "",
-        "date": "2026-10-20T06:48:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYlBJZm02bDZTU2hLU3FYbDcwWmpaT2JVZjY5VkxWeXZocGJ6dENPSExZUjFRckd0RDd2MFZSd2lOUVdxdlVZdHhwUlBydkU0YUUtOXB3aW1qWTN3eTI3OG8xUFhpemdEQUFaTWEteGloRkdlbWVTWG9rLWduczhzTlIzeHpUSFBpeDI4ZFBSeFV2TnlWRGhiUFRpSXR3RWJWVVNxeC1KVHZVdzM2ZzdKMHpRRjh1SWFPSWE4ckoyQmd4YVN4eE0xNFJOVE45VTZaNDdXOHZfTFZsMTZHdURobw?oc=5",
-        "source": "Fakti.bg",
+        "date": "2026-10-20T06:25:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNN1p3am5Oa29LY2t6dUQ1TFhxUVl3Z3pqRUhYeGVNUEdhSHRrSFlyVVoyQXI0bEpIYzNIQlpBcmVhMnhXc1hnSzhtZUtZblpEVHc0eGVONXJGZk5lQzJ2Sk40VlloRVItb1RGX2lKWUFBTnlDX00xQ2dPdHMwZllMVVN4a0MybXY5VEpWZWpNVHJVck00b0UwcGJOamdqQlhJTjYtTkVEVFVxMk1DRVFJdnZ6NDJDQkI0S3ZQNVJOaU1OMGxxXzNTQUxqcUg4UFYyQzFtRWVsdERDRms1SmlfYXU0dGQ1VGdYWmxNNUVRcTZyM3ZidkRTUmJTU3h4Z0lFX2h2OEFjSV9DRm5E?oc=5",
+        "source": "Financialtribune.bg",
+        "image": null
+      },
+      {
+        "title": "Вигенин: Новите технологии позволяват индивидуален подход не само на лечението, но и на превенцията на заболяванията - ФОКУС",
+        "description": "",
+        "date": "2026-10-20T06:16:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORElnUUQtQTlJQkpWRndxQUppOWdVOG9Qa09qTHg0bWxBRXdqVjNXa0FhNHd6Tlp3THUxQ0JVWGpLdEx3R1pwNHlrZnJGbjNoc2JWM3d3LTV1RTVTMGZuMkF5WTNUaHRvR1lqSnE0bGp6bGxhTmJtT2htQlVBSnJpSzlZWmZaU0NpYVJ0anRnVGNZR3doWVVmbUxCTktDdDJiczEwN0Z6Ym1TMk4xZnRJalJ6MGVnR0x1Yml6M0RTUHFGYkotdGFoRjBHSl9EVm94U24ybXFsSTdnNVE5NFEyTTVuTndicHRQbWoxZXpJRGcyMjZCNnY2aFcxRXN4N05JUlgyRw?oc=5",
+        "source": "ФОКУС",
+        "image": null
+      },
+      {
+        "title": "САЩ забраниха китайски AI модел, обвиняван в кражба на технологии - Бизнес новините",
+        "description": "",
+        "date": "2026-10-20T05:59:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHVOU2NBYXBzTEcwZWFuT3J5Ynd0a0tlS3JQUDA3dkJiWnRNM0cyMG1ORTkzaWZLclFMQlY0Zk5KemwzY3IySXV0RjRidUxBZTFweHduOEx2eGRHcGNLU25zbk5TaTNKTENPOWJxakJLaktxODYzU0lQNUphOXRESXhDYTJha3pZbVNIcjFEeTVUck9TSWlCd2FzNzNndDY0c213VFNpOHFHWmM?oc=5",
+        "source": "Бизнес новините",
+        "image": null
+      },
+      {
+        "title": "„Отворете вратите си за AI“: Германският канцлер призовава бизнеса да се възползва от изкуствения интелект - manager.bg",
+        "description": "",
+        "date": "2026-10-20T05:57:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNV3BUd0NYMHdjUXhVTW1UZDlKM2xpLWk5b1NEWWVWUkxvQWh2U2dJd3Q3a0Rjc24tOFNTOGl2Z2JyejhEZWdwRElhZTZ1V2RiN1dGemttTG1sNXdRRzNVZDBmVGlKRmo5VTVjZ0g3WENPVUdOS3Q4allrY1NTbFUtTk9mMlowVGI3RzVnNjAtemdEcTB3X3JnRVZTYWw4bTQ4X0FVS0NKZzA0eDRwRXRKZS01bnFFX0stREdyMVdzOWg3WEZNa1JFbHdlR3lRYTNDem1YblBMb3hya3Z3Y3pNeDVSS3ctcGtoOFJNak9ZSEVPbmZ2N1BaT1pSVmdhQ1BfSmZfcnJwVWRneV9JRm9GQ3VraUJwdEwwbTlYZXRQQXJidzYzZERN?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Нови технологии ще помагат за наблюдението на снежната покривка и лавинния риск в Рила, Пирин и на Витоша - БГНЕС",
+        "description": "",
+        "date": "2026-10-20T05:03:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlZHdFVfd0FFQkoydHdVWWZhd2NtZFZLZlAyUk16aVgzWTZZRVBqSU1JRVlTQVYxbThvTXhSQUdRQjVDNlVfU0dBQjdwd0VBcER0a1oyRFc5NC1SQXVBY0tZRG5wSktTekxOQy1sbHA2cTlYTXIzVmlGd0FUSE9Rb2ltaV9vTWJKOWMzUE9RZWpRR3dkUEhzdUQwa3NzaHpHX3dsRWw3STB2dTlsUEdaMG55SlRMcmt5LWN6SmJuQmVYMmJtLTlhaw?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
+      {
+        "title": "Нови технологии ще помагат за наблюдението на снежната покривка и лавинния риск в Рила, Пирин и на Витоша - bTV Новините",
+        "description": "",
+        "date": "2026-10-20T05:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaU9Zbmh6NDFHR3lUVGZPQWVaaENWZ3FyTG9OUkRKQ3FRcng0M05rdk5jY19WcUxZcHpSR2ttYnJtaVQ1VklfbU5HeTRhVkZ6RGEtbUJ0eWp6WEtvWkZzYTQ2RVV6RkhPYVRLd1VDZVVOTWtfbUt0dWM4aHNNM09QUlhrc1lRdUlxSk15OE0tdHBHTGcxMWxrWXJQU2JfakwwNlc3bXBRcXZYcjE5ZEZNcXAzbnJDSDA3TUIwcUlwTzFGd3pGT2Nfek9QWUNPTW5DYlJjRW5HVEF5a3Q0Q3pVTA?oc=5",
+        "source": "bTV Новините",
         "image": null
       }
     ]
