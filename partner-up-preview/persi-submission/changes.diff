@@ -1,0 +1,138 @@
+--- index-original.html	2026-10-20 16:47:12.076210605 +0000
++++ index.html	2026-10-20 17:02:23.196210605 +0000
+@@ -1,4 +1,4 @@
+-<!doctype html><html lang="bg"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Partner UP — професионални контакти</title><style>
++<!doctype html><html lang="bg"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#653321"><title>Partner UP — професионални контакти</title><style>
+ :root{font-family:system-ui,Segoe UI,sans-serif;color:#472719;background:#FFF1E5}*{box-sizing:border-box}body{margin:0}header{background:#653321;color:white;padding:18px max(18px,calc((100vw - 1100px)/2));display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}header strong{font-size:23px}header small{display:block;color:#FFE4D1}.wrap{max-width:1100px;margin:auto;padding:24px 18px}.hero{background:linear-gradient(115deg,#B65F39,#EBA77F);color:white;border-radius:20px;padding:32px;margin-bottom:20px}.hero h1{font-size:clamp(26px,4vw,39px);margin:10px 0}.hero p{line-height:1.6}.layout{display:grid;grid-template-columns:1fr 320px;gap:20px}.panel{background:white;border:1px solid #EAD6C7;border-radius:16px;padding:22px;margin-bottom:18px;box-shadow:0 4px 16px #12345608}h2{margin:0 0 16px;font-size:20px}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:18px}.person{border:1px solid #E7CCBA;border-radius:14px;padding:16px}.top{display:flex;align-items:center;gap:12px}.avatar{width:48px;height:48px;border-radius:14px;background:#FBE1CE;color:#B65F39;display:grid;place-items:center;font-weight:800}.person h3{margin:0;font-size:16px}.muted{color:#806454;font-size:13px}.person p{line-height:1.5;font-size:14px}button{border:0;background:#A94F2D;color:white;border-radius:10px;padding:11px 15px;font:inherit;font-weight:650;cursor:pointer;margin:4px 4px 4px 0}button.secondary{background:#F7E1D1;color:#653321}button:disabled{opacity:.55;cursor:wait}form{display:grid;gap:10px}label{font-size:13px;font-weight:650}input,textarea{width:100%;padding:11px;border:1px solid #D9B8A2;border-radius:9px;font:inherit;margin-top:5px}textarea{min-height:85px;resize:vertical}.notice{background:#FBE5D5;border-radius:12px;padding:13px;font-size:13px;line-height:1.5;margin-bottom:18px}.status{font-size:14px;margin:10px 0;white-space:pre-wrap}.hidden{display:none!important}footer{text-align:center;color:#806454;font-size:12px;padding:25px}@media(max-width:780px){.layout{grid-template-columns:1fr}.cards{grid-template-columns:1fr}.hero{padding:22px}}
+ 
+ 
+@@ -82,6 +82,7 @@
+  byId("session").textContent="Семеен преглед";
+  byId("count").textContent="Профилите са скрити в демонстрацията, за да пазим личните данни.";
+  byId("cards").textContent="";
++ const searchBox=byId("search");if(searchBox)searchBox.hidden=true;
+  byId("chatStatus").textContent="Демонстрация: съобщенията не се изпращат и истински разговори не се показват.";
+  byId("chatSend").disabled=true;
+  function showNews(){
+@@ -120,6 +121,7 @@
+   for(const [name,id] of Object.entries(pages))byId(id).classList.toggle("hidden",name!==page);
+   document.querySelectorAll("[data-view]").forEach(el=>el.classList.toggle("active",el.dataset.view===page));
+   if(page==="news")loadNews();
++  if(page!=="home")stopDictation();
+   window.scrollTo({top:0,behavior:"smooth"});
+  }
+  document.querySelectorAll("[data-view]").forEach(el=>el.addEventListener("click",()=>go(el.dataset.view)));
+@@ -130,55 +132,88 @@
+  }));
+ 
+ 
+-/* Bulgarian speech-to-text is browser-dependent; no audio data is sent to Partner UP in this preview. */
++/* Bulgarian speech-to-text is browser-dependent; no audio data is sent to Partner UP in this preview.
++   Voice states: idle / starting / listening / stopping / speaking. Dictation and read-aloud are mutually
++   exclusive; handlers are re-attached per start with a captured session token, so events from a stopped
++   or superseded session can never touch the new one. abort() cancels; ONLY the actual onend frees the
++   stopping state (a guard timer may inform the user but never frees it). */
+ const recognitionCtor=window.SpeechRecognition||window.webkitSpeechRecognition;
+ const talk=byId("voiceTalk"),vStatus=byId("voiceStatus"),vDraft=byId("voiceDraft");
+-let recognizer=null,micActive=false,spokenVersion="",recognitionError=false;
+-function setMic(active){micActive=active;talk.setAttribute("aria-pressed",String(active));talk.textContent=active?"⏹️ Спри диктовката":"🎙️ Натисни и говори";}
++let recognizer=null,voiceState="idle",spokenVersion="",recognitionError=false,voiceSession=0,ttsSession=0,stopGuard=null;
+ function voiceStatus(message){vStatus.textContent=message;}
++function setTalkPressed(active){talk.setAttribute("aria-pressed",String(active));talk.textContent=active?"\u23f9\ufe0f Спри диктовката":"\ud83c\udf99\ufe0f Натисни и говори";}
++function stopDictation(){
++ if(voiceState==="starting"||voiceState==="listening"){
++  voiceSession++;voiceState="stopping";setTalkPressed(false);voiceStatus("Спирам микрофона…");
++  if(recognizer){try{recognizer.abort()}catch(e){try{recognizer.stop()}catch(e2){}}}
++  const token=voiceSession;
++  clearTimeout(stopGuard);
++  stopGuard=setTimeout(()=>{if(voiceState==="stopping"&&voiceSession===token)voiceStatus("Изчаквам спирането на микрофона… Ако проблемът продължава, презареди страницата.");},1500);
++ }
++}
+ function speak(text){
+  if(!("speechSynthesis" in window)){voiceStatus("Този браузър няма функция за прочитане на текст.");return;}
+  const clean=String(text||"").trim();
+  if(!clean){voiceStatus("Няма текст за прочитане.");return;}
++ if(voiceState!=="idle"&&voiceState!=="speaking"){voiceStatus("Първо спри диктовката с бутона „Натисни и говори“, след което прочети.");return;}
++ const myTts=++ttsSession;
+  window.speechSynthesis.cancel();
+  const utterance=new SpeechSynthesisUtterance(clean.slice(0,1000));
+  utterance.lang="bg-BG";utterance.rate=.88;
+- utterance.onerror=()=>voiceStatus("Прочитането не успя. Използвай написания текст.");
+- window.speechSynthesis.speak(utterance);
++ const finish=ok=>{if(myTts!==ttsSession||voiceState!=="speaking")return;voiceState="idle";voiceStatus(ok?"Прочетено. Можеш да редактираш текста или да го покажеш.":"Прочитането не успя. Използвай написания текст.");};
++ utterance.onstart=()=>{if(myTts===ttsSession&&voiceState==="speaking")voiceStatus("\ud83d\udd0a Чета на глас…");};
++ utterance.onerror=()=>finish(false);
++ utterance.onend=()=>finish(true);
++ try{window.speechSynthesis.speak(utterance);voiceState="speaking";}
++ catch(e){voiceState="idle";voiceStatus("Прочитането не успя. Използвай написания текст.");}
++}
++function startDictation(){
++ recognitionError=false;spokenVersion=vDraft.value.trim();
++ const mySession=++voiceSession;voiceState="starting";
++ recognizer.onstart=()=>{if(mySession!==voiceSession){try{recognizer.abort()}catch(e){}return;}voiceState="listening";setTalkPressed(true);voiceStatus("\ud83c\udf99\ufe0f Слушам. Говори спокойно на български.");};
++ recognizer.onresult=e=>{
++  if(mySession!==voiceSession)return;
++  let heard="";
++  for(let i=0;i<e.results.length;i++)heard+=String(e.results[i][0]?.transcript||"");
++  vDraft.value=(spokenVersion+(spokenVersion&&heard?" ":"")+heard).slice(0,1000);
++  voiceStatus("Разпознавам думите ти. Можеш да ги поправиш преди да ги покажеш.");
++ };
++ recognizer.onerror=e=>{
++  if(mySession!==voiceSession)return;
++  recognitionError=true;
++  if(voiceState==="starting"||voiceState==="listening"){voiceState="stopping";setTalkPressed(false);}
++  const type=String(e.error||"");
++  const reasons={"not-allowed":"Браузърът няма разрешение за микрофона.","no-speech":"Не беше разпозната реч. Опитай отново.","network":"За разпознаване на реч може да е необходим интернет.","audio-capture":"Микрофонът не е достъпен."};
++  voiceStatus(reasons[type]||"Разпознаването спря. Може да опиташ отново или да пишеш.");
++ };
++ recognizer.onend=()=>{
++  if(mySession!==voiceSession){if(voiceState==="stopping"){clearTimeout(stopGuard);voiceState="idle";voiceStatus("Диктовката е спряна.");}return;}
++  voiceState="idle";setTalkPressed(false);
++  if(!recognitionError)voiceStatus("Готово. Прегледай разпознатия текст, после натисни „Покажи пробно съобщение“.");
++ };
++ try{recognizer.start()}catch(e){voiceState="idle";setTalkPressed(false);voiceStatus("Не успях да включа микрофона. Опитай отново.");}
+ }
+ if(!recognitionCtor){talk.disabled=true;voiceStatus("В този браузър разпознаването на реч не се поддържа. Опитай в Chrome или ползвай микрофона на клавиатурата.");}
++else if(!window.isSecureContext){talk.disabled=true;voiceStatus("Гласовото разпознаване изисква защитен (потенциално доверен) адрес. Отвори страницата от https адрес и опитай отново.");}
+ else{
+  try{
+   recognizer=new recognitionCtor();recognizer.lang="bg-BG";recognizer.continuous=false;recognizer.interimResults=true;recognizer.maxAlternatives=1;
+-  recognizer.onstart=()=>{setMic(true);voiceStatus("🎤 Слушам. Говори спокойно на български.");};
+-  recognizer.onresult=e=>{
+-   let heard="";
+-   for(let i=0;i<e.results.length;i++)heard+=String(e.results[i][0]?.transcript||"");
+-   vDraft.value=(spokenVersion+(spokenVersion&&heard?" ":"")+heard).slice(0,1000);
+-   voiceStatus("Разпознавам думите ти. Можеш да ги поправиш преди да ги покажеш.");
+-  };
+-  recognizer.onerror=e=>{
+-   recognitionError=true;setMic(false);
+-   const type=String(e.error||"");
+-   const reasons={"not-allowed":"Браузърът няма разрешение за микрофона.","no-speech":"Не беше разпозната реч. Опитай отново.","network":"За разпознаване на реч може да е необходим интернет.","audio-capture":"Микрофонът не е достъпен."};
+-   voiceStatus(reasons[type]||"Разпознаването спря. Може да опиташ отново или да пишеш.");
+-  };
+-  recognizer.onend=()=>{setMic(false);if(!recognitionError)voiceStatus("Готово. Прегледай разпознатия текст, после натисни „Покажи пробно съобщение“.");};
+   talk.addEventListener("click",()=>{
+-   if(micActive){recognizer.stop();return;}
+-   recognitionError=false;spokenVersion=vDraft.value.trim();
+-   try{recognizer.start()}catch(e){setMic(false);voiceStatus("Не успях да включа микрофона. Опитай отново.");}
++   if(voiceState==="speaking"){window.speechSynthesis.cancel();voiceState="idle";voiceStatus("Прочитането е спряно. Сега можеш да говориш.");return;}
++   if(voiceState==="stopping"){voiceStatus("Спирам микрофона… Изчакай миг и опитай пак.");return;}
++   if(voiceState==="listening"||voiceState==="starting"){stopDictation();return;}
++   startDictation();
+   });
+  }catch(e){talk.disabled=true;voiceStatus("Този браузър не може да стартира разпознаването на реч.");}
+ }
+ byId("voiceListen").addEventListener("click",()=>speak(vDraft.value));
+-byId("voiceStop").addEventListener("click",()=>{if(recognizer&&micActive)recognizer.stop();if("speechSynthesis" in window)window.speechSynthesis.cancel();voiceStatus("Звукът е спрян.");});
++byId("voiceStop").addEventListener("click",()=>{stopDictation();if("speechSynthesis" in window)window.speechSynthesis.cancel();if(voiceState==="speaking")voiceState="idle";voiceStatus("Звукът е спрян.");});
+ byId("voicePreview").addEventListener("click",()=>{
+  const value=vDraft.value.trim();
+  if(!value){byId("voicePreviewBox").textContent="Първо кажи или напиши нещо.";return;}
+  byId("voicePreviewBox").textContent="💬 Твоето пробно съобщение (само на този екран): "+value;
+  byId("chatText").value=value;
+ });
+-byId("voiceClear").addEventListener("click",()=>{vDraft.value="";byId("voicePreviewBox").textContent="Текстът е изчистен. Нищо не е изпращано.";voiceStatus("Готово за нов опит.");});
++byId("voiceClear").addEventListener("click",()=>{stopDictation();spokenVersion="";vDraft.value="";byId("voicePreviewBox").textContent="Текстът е изчистен. Нищо не е изпращано.";voiceStatus("Готово за нов опит.");});
+ })();
+ </script></body></html>
+\ No newline at end of file
