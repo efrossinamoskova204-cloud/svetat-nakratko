@@ -24,7 +24,15 @@ async function load(){
   const now=Date.now();
   const recent=latest.filter(x=>{const t=Date.parse(x.date);return Number.isFinite(t)&&t>=now-48*3600000&&t<=now+3600000}).sort((a,b)=>Date.parse(b.date)-Date.parse(a.date)).slice(0,24);
   if(recent.length){items=recent;remember(category,items);show();$('status').textContent='Последни новини (до 48 часа): '+items.length+' · '+category+' · Google Новини (RSS).';return;}
-  $('status').textContent='⚠️ RSS емисията отговори, но няма публикации от последните 48 часа за „'+category+'“. Провери директните източници по-долу.';
+  // Keep the site useful when an RSS source has older items, without calling them today's news.
+  const older=latest.filter(x=>Number.isFinite(Date.parse(x.date))).sort((a,b)=>Date.parse(b.date)-Date.parse(a.date)).slice(0,24);
+  if(older.length){
+   items=older;remember(category,items);show();
+   const newest=new Date(older[0].date).toLocaleString('bg-BG',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Sofia'});
+   $('status').textContent='⚠️ Няма публикации от последните 48 часа. Показвам по-стари заглавия ('+category+'), най-новото е от '+newest+'. Провери датите преди споделяне.';
+   return;
+  }
+  $('status').textContent='⚠️ RSS емисията отговори, но не съдържа публикации с валидна дата за „'+category+'“. Провери директните източници по-долу.';
   return;
  }
  if(old?.items?.length){items=old.items;show();const when=new Date(old.time).toLocaleString('bg-BG',{dateStyle:'medium',timeStyle:'short'});
