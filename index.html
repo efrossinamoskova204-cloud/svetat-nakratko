@@ -35,7 +35,20 @@ function show(){
 }
 function bgDay(value){const d=new Date(value);if(!Number.isFinite(d.getTime()))return '';const p=new Intl.DateTimeFormat('en-US',{timeZone:'Europe/Sofia',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(d);const v=t=>p.find(x=>x.type===t)?.value||'';return [v('year'),v('month'),v('day')].join('-')}
 const CACHE_PREFIX='svetat-v6-photos-';
-function cached(category){try{const raw=JSON.parse(localStorage.getItem(CACHE_PREFIX+category)||localStorage.getItem('svetat-v5-recent-'+category)||localStorage.getItem('svetat-v4-today-'+category)||'null');return raw&&Array.isArray(raw.items)?raw:null}catch{return null}}
+function cached(category){
+ try{
+  const raw=JSON.parse(localStorage.getItem(CACHE_PREFIX+category)||localStorage.getItem('svetat-v5-recent-'+category)||localStorage.getItem('svetat-v4-today-'+category)||'null');
+  if(!raw||!Array.isArray(raw.items))return null;
+  // Old caches predate article-source attribution and contain Google News link clusters.
+  // Never present those clusters as editorial summaries.
+  raw.items=raw.items.map(item=>{
+   if(!item||typeof item!=='object')return null;
+   if(!item.source)return {...item,description:'',source:'Google Новини',image:null};
+   return item;
+  }).filter(x=>x&&x.title&&safeUrl(x.link));
+  return raw;
+ }catch{return null}
+}
 function remember(category,news){try{localStorage.setItem(CACHE_PREFIX+category,JSON.stringify({time:Date.now(),items:news}))}catch{}}
 async function fetchText(url,ms=7500){const c=new AbortController(),t=setTimeout(()=>c.abort(),ms);try{const r=await fetch(url,{signal:c.signal,cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);return await r.text()}finally{clearTimeout(t)}}
 function rssImage(item){
