@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-20T20:46:09.919733+00:00",
+  "generatedAt": "2026-10-20T21:14:52.055741+00:00",
   "categories": {
     "България": [
+      {
+        "title": "НА ЖИВО: Шампионска лига, резултати и голмайстори - Gong.bg",
+        "description": "",
+        "date": "2026-10-20T20:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUZIcmtLVlNVSDczWHI1aEJxZDJuRkdfc0Z4WElyNmIyV3JLVmpDVFFjQmJKcnRkd3JWWE1Hd0N3WE43NG5oS0N4MTl2WlRiMEZackcyb29lZGFQYTdJeVBMOFkyZWJKSDdsdHlZSG1UdzBZYzhvcVd4NTh5NnlpalprY25xODlKZm1YWWVKNXU0Y2FwcDRQQXhGb2ZhTE9ReVp5YmJsaw?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
       {
         "title": "21-вата Световна среща на българските медии се състоя в унгарските градове Будапеща и Естергом",
         "description": "Двадесет и първата Световна среща на българските медии, организирана от Българската телеграфна агенция (БТА), се състоя в унгарските градове Будапеща и Естергом в периода 19-20 октомври. Срещата бе открита официално вчера с представянето на две изложби и произнасянето на приветствени слова в Българския културен институт (БКИ) в Будапеща. Началото на откриването беше дадено от заместник генералния директор на БТА Евгения Друмева, която посочи, че ",
@@ -25,14 +33,6 @@
         "link": "https://dnes.dir.bg/svyat/meloni-razpolaga-500-voynitsi-po-ulitsite-na-milano-sled-bezreditsite",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/20/3038503/384x216.jpg?_=1792528443"
-      },
-      {
-        "title": "НА ЖИВО: ПСЖ - Барселона 1:0, Дуе откри резултата - Gong.bg",
-        "description": "",
-        "date": "2026-10-20T19:42:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT29rRWN4d1VkSE5BRU5Pa0k2YW9WeUQ4bWgyOU1HLVdiWXVEc2xoQW1FbWFPR1NZOUFSZTd6LTJXQVhoSEFhb1NYQUNrRndkeGphRkt0M05JdHN1TllXaHE3LWNkU0FHVHVPSHNrQ0NZNldSNzg3WFU0WFd6MGt1b01LMHFvNUVNRGdWNDU4OHdiN1J0NzAtWTB1VHdBc0NMNDZn?oc=5",
-        "source": "Gong.bg",
-        "image": null
       },
       {
         "title": "Колкото повече работя, толкова по-дълбоки тонове откривам, каза пред БТА проф. Мичо Димитров",
@@ -205,12 +205,76 @@
     ],
     "Свят": [
       {
-        "title": "Тръмп призова Украйна да се съгласи на споразумение за слагане на край на войната с Русия",
-        "description": "Президентът на САЩ Доналд Тръмп призова днес Украйна да се съгласи на споразумение за слагане на край на войната с Русия, предаде Ройтерс. \"Украйна трябва да иска да бъде намерено решение на тази война\", каза Тръмп пред репортери в Овалния кабинет. Президентът на САЩ заяви това след днешната среща в Осло между неговия специален пратеник Стив Уиткоф и украинския си колега Володимир Зеленски, посветена именно на търсенето на дипломатическо решение ",
-        "date": "2026-10-20T20:39:36+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1229031-tramp-prizova-ukrayna-da-se-saglasi-na-sporazumenie-za-slagane-na-kray-na-voynat",
+        "title": "Northwestern Mutual With You at Every Financial Goal - БТА",
+        "description": "",
+        "date": "2026-10-20T21:06:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Qy02azFrOFFSRml0dnRDQ1RqWnNQNlMzRGlTM2d1OEpBc2JWQ0Z4Z3hlQTZYS0d5Rlk3Mmd3SExDcF9ObTVSLU1vVEUtald2RXVqZ0N0VQ?oc=5",
         "source": "БТА",
-        "image": "https://www.bta.bg/upload/14014259/c2982dcd248b4f33b8b3fc70cc4494dd--1--888cfb36d38f4611a6ab52e8566ccaee.jpg"
+        "image": null
+      },
+      {
+        "title": "Gambia Repatriation - БТА",
+        "description": "",
+        "date": "2026-10-20T21:06:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJWk1QNlR1MEtvcmRYOUlhaGZtdGJESEZ4N2NKOU5IS2U0R2VpMHl2eWduLVZWQXZlUmJhRHhmZWV1VEM2VnFIaVpMenNhZjhnSmtzLXdGWQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Тръмп призова Украйна да се съгласи на споразумение за слагане на край на войната с Русия",
+        "description": "Президентът на САЩ Доналд Тръмп призова днес Украйна да се съгласи на споразумение за слагане на край на войната с Русия, предаде Ройтерс. \"Украйна трябва да иска да бъде намерено решение на тази война\", каза Тръмп пред репортери в Овалния кабинет в Белия дом във Вашингтон. Президентът на САЩ заяви това след днешната среща в Осло между неговия специален пратеник Стив Уиткоф и украинския си колега Володимир Зеленски, посветена именно на търсенето ",
+        "date": "2026-10-20T20:54:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1229032-tramp-prizova-ukrayna-da-se-saglasi-na-sporazumenie-za-slagane-na-kray-na-voynat",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14014199/c518a427c8564c389157d2397534b4a0--0--a7134e07d15b4754a1f4ab56dd120f60.jpg"
+      },
+      {
+        "title": "Тръмп призова Украйна да се съгласи на споразумение за слагане на край на войната с Русия - БТА",
+        "description": "",
+        "date": "2026-10-20T20:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeW5LVmN2aEJEVVlFNloxMmh6OFVwYlpOYlNSUkpqTU5BeTA1LXVVczd5V1VBbTRyOG1aNHpQdmdNQzZiZ3JQQlFnZkVGaXNoTjEzSF8xUlZnQmxoR2pyUmdGSUhyejVwZ1pPZ2k5cXJUWERqd0htT25tWVBOZ01wdWNkdTRjS2RnZjh4RF9RZEtYWnFjaEVNQ3ZPTVJKME9tT05UTWdCcGlQWVF0VnhFeDAwY2loTXhvS2NSYlR3?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Gasoline Prices Colorado - БТА",
+        "description": "",
+        "date": "2026-10-20T20:42:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QeEFxYThvSUNSVzI2S2lWNUUwa0d2Y3FqXzJmdVJBNmNwd1BMOVNCYnQ0WHB2OXhZbEZJZEV1YjhLLV9fUUhYTEt0Y3pkd2gyU2J5NVZmUQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Canada Congo - БТА",
+        "description": "",
+        "date": "2026-10-20T20:41:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5idmJKa2JPZTc2Uzk2Y296OTJiMnl3Ul9hNmhBOFAyQ215OVhkLTk2NWZuVVY3TTJlUGhvNkdBQ0pZTDE3M3c1Rk5BZXZZSzk2VWtKYzBPRQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Photos of the Day Photo Gallery - БТА",
+        "description": "",
+        "date": "2026-10-20T20:41:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CMl9lYUZyS040Q3Q4MWdKek1pemlvMjM5QjV3ck9YcVJ4bThPaHdlTzlMVXpnRndUWUYyX1lrQ1hleUU1bmFEUzluVDlJaE9za3ZsZkoxYw?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Libya Turkey Med - БТА",
+        "description": "",
+        "date": "2026-10-20T20:39:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GcEZwSjJnU2tQc0hNeE1TY3FHSmFsSjE4TUZQZU1SbElBUmJkeHdYQ3Rtb1NsY1pvTW9ibW1WSkhzbTRTUXR3VE9lZ01oUlI5aTlBR3JQYw?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Israel Palestinians West Bank - БТА",
+        "description": "",
+        "date": "2026-10-20T20:38:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XMVowaWpxRENkcFV5bndNUTNiR19UTGRNRjRqUl9VdmdxUjJhMkhFVFp6R3VEdGZRcE5qQ3FnaU1pdm4wRF8xZ0xPQnRnTWdTMVpoa2VVaw?oc=5",
+        "source": "БТА",
+        "image": null
       },
       {
         "title": "АКП: Камбоджа популяризира свои селскостопански продукти на международно изложение в Париж",
@@ -339,70 +403,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdEIwRUhCcmppNGhSQ0hDVnpaLTdSd2Y4MkZ6UDRlU09zLXRxQTJRbmZjaGl1bVd2el91OTl4UVBqQmVfSEhlUFlvZmhHSjNBcXJBamRob2NMMy1FUUdIbi1QRHAtWTZHVDFEa1dqbGxacWxKM1o1OGh5dWJjUWM0bC1LRFdtSFctNTB4LXhMblVhc3h3Wjlnd3RDRVYtc3FDNGgwa0ZnY213amhmeVFrQ211RXA5d1hWWW5QX21Rc2piQWpfUXFyVjRMQ09wRzBIYXBzd2tBRTVNOUo2?oc=5",
         "source": "Impressio.bg",
         "image": null
-      },
-      {
-        "title": "Германският канцлер Фридрих Мерц похвали приноса на турските гастарбайтери към Германия като \"история на успеха\"",
-        "description": "Германският канцлер Фридрих Мерц похвали приноса на турските гастарбайтери към Германия, описвайки тяхната миграция като \"история на успеха\" по време на церемония по повод 65-ата годишнина от сключването на германско-турското споразумение за набиране на работна ръка, предаде ДПА. В речта си на церемонията днес Мерц заяви: \"Турските гастарбайтери, както жени, така и мъже, помогнаха за изграждането на индустриалната база на нашата страна\". \"Германц",
-        "date": "2026-10-20T17:27:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1228992-germanskiyat-kantsler-fridrih-merts-pohvali-prinosa-na-turskite-gastarbayteri-ka",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013753/dbf7fb2a3ac845c1b0c624cd44968f5a--0--ba8135601ff046138a0dc40a8f38c1ca.jpg"
-      },
-      {
-        "title": "НАТО обяви, че ще засили наблюдението и разузнаването в Черно море",
-        "description": "НАТО ще изпрати още самолети за морско наблюдение, радарни системи и дронове в Черно море, заяви днес алиансът след поредица от смъртоносни атаки с дронове срещу кораби в региона, свързани с войната на Русия в Украйна, предаде Ройтерс. До обявяването на мерките се стигна, след като главният изпълнителен орган на пакта - Северноатлантическият съвет, обсъди сигурността в Черно море в централата на алианса в Брюксел. Освен самолети, дронове и радарн",
-        "date": "2026-10-20T17:11:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1228979-nato-obyavi-che-shte-zasili-nablyudenieto-i-razuznavaneto-v-cherno-more",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/284953/12bb96731f5146ea9db16d3da60e68f1-12bb96731f5146ea9db16d3da60e68f1-6155f73322004f38bc0b7334290da5bd-c41c9.jpg"
-      },
-      {
-        "title": "За да има будители и медии, трябва да има идеи, общност, съвместни действия и финансиране, каза Петър Стаматов от Eurochicago",
-        "description": "За да има будители и медии, първо трябва да има идеи, но трябва да има и общност, съвместни действия и финансиране, каза Петър Стаматов, главен редактор на българския медиен портал Eurochicago в САЩ, в Българското републиканско самоуправление в Будапеща по време на третия панел „Медии и будители на общността“, който е част от програмата за втория ден на 21-вата Световна среща на българските медии. Форумът е организиран от Българската телеграфна а",
-        "date": "2026-10-20T17:06:00+00:00",
-        "link": "https://www.bta.bg/bg/bg-world/1228870-za-da-ima-buditeli-i-medii-tryabva-da-ima-idei-obshtnost-savmestni-deystviya-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013298/KASA7725.jpeg"
-      },
-      {
-        "title": "Депутатите в германската провинция Мекленбург-Предна Померания се събраха за първата сесия на регионалния парламент",
-        "description": "Депутатите в провинция Мекленбург-Предна Померания се събраха днес за първата сесия на регионалния парламент четири седмици след като крайнодясната партия \"Алтернатива за Германия\" (АзГ) спечели регионалните избори в североизточната германска провинция, предаде ДПА. Това е първият случай, при който в регионалния парламент на която и да е било германска провинция липсват представители на дясноцентристкия Християндемократически съюз (ХДС), след кат",
-        "date": "2026-10-20T17:03:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1228930-deputatite-v-germanskata-provintsiya-meklenburg-predna-pomeraniya-se-sabraha-za-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13897251/4bedcb7337ef4ab7b37d34a089294336--0--6333cfa201b4416ab2dd1f11e84e803d.jpg"
-      },
-      {
-        "title": "Руските въоръжени сили нанесоха удари по товарни кораби и логистични центрове в Украйна, съобщи Москва",
-        "description": "Руските въоръжени сили нанесоха удари по три товарни кораба в украинското пристанище Рени и по още два товарни кораба, плаващи към Одеса, съобщи руското Министерство на отбраната, цитирано от Ройтерс. Москва е нанесла удари и по два логистични центъра във Волинска област и в град Хмелницки, се посочва в съобщението, според което всички кораби и центрове са били използвани за военни цели.",
-        "date": "2026-10-20T16:49:02+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1228953-ruskite-vaorazheni-sili-nanesoha-udari-po-tovarni-korabi-i-logistichni-tsentrove",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/1232083/6b66e709f1b94288aeb8719fc7ef70fd--0--f80cdbb0882c40c2ab1c12a8c0436b65.jpg"
-      },
-      {
-        "title": "В Загреб започнахме от нулата да издирваме наследниците на българските градинари и да възстановяваме паметта за тях, каза Диана Гласнова",
-        "description": "„Започнахме да издирваме наследниците на българските градинари. Нито един от тях не знаеше български. Ние започнахме в Загреб от самата нула“, каза Диана Гласнова, главен редактор на списание „Родна реч“ в Хърватия, в Българското републиканско самоуправление в Будапеща по време на третия панел „Медии и будители на общността“, който е част от програмата за втория ден на 21-вата Световна среща на българските медии. Форумът е организиран от Българск",
-        "date": "2026-10-20T16:39:00+00:00",
-        "link": "https://www.bta.bg/bg/bg-world/1228868-v-zagreb-zapochnahme-ot-nulata-da-izdirvame-naslednitsite-na-balgarskite-gradina",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14013224/KASA7417.jpeg"
-      },
-      {
-        "title": "Един е човек е загинал, а 12 са ранени при руските атаки с дронове срещу Киев",
-        "description": "Един човек загина, а 12 са ранени при руските атаки с дронове срещу украинската столица Киев от началото на деня, съобщи директорката на отдела по здравеопазване на Киевската градска държавна администрация Тетяна Мостипан, цитирана от украинската новинарска агенция Укринформ. Шестима от пострадалите са настанени в болница. Един от тях е в критично състояние, а останалите петима са в сравнително стабилно състояние. Полицията в Киев, от своя страна",
-        "date": "2026-10-20T16:28:15+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1228947-edin-e-chovek-e-zaginal-a-12-sa-raneni-pri-ruskite-ataki-s-dronove-sreshtu-kiev",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14008900/f4bdb99046884980b5993edcf1d1edf4--1--9cc0cc83ef7f4bf8a4ca0db65de8cb53.jpg"
-      },
-      {
-        "title": "TV-The-Simpsons-Apu-Returns - БТА",
-        "description": "",
-        "date": "2026-10-20T16:14:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qLWRyT3liUGtJdkt1bUdLVk9ZalBHSklLTXJpV3NvS1U1eVFGZFYtQ0k5dHF1S0FJaGdtYXlHT0hlbjdyZU9WUUs2dm5TcnJMbmtsZFREaw?oc=5",
-        "source": "БТА",
-        "image": null
       }
     ],
     "Наука": [
@@ -455,14 +455,6 @@
         "image": null
       },
       {
-        "title": "Над 60 учени и 94 събития на Пловдивския фестивал на науката - БНР Новини",
-        "description": "",
-        "date": "2026-10-20T11:16:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2o4TGRtNlkxNlI3NlVJYktoUTJxaS1sd2NVMExkRjlNdDE2LVVzZ1FsZm9jQXRrNS1YWlhrNTNMR3g0TlJtZGNJWGIxal9oR1laaUtWbnR3R0JKNWtjRmRCRF94NFoydzRWWUwwMWVWNTJCdGt3RDRXd1lXbmZsMF9zZ0hESTZGNnlxZHJ0MnZWcmJKV3VHdHlTd1V4SWdCV0JLWGl3?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Наука, шоу и иновации на IV Пловдивски фестивал на науката - БНР Новини",
         "description": "",
         "date": "2026-10-20T10:36:55+00:00",
@@ -476,6 +468,14 @@
         "date": "2026-10-20T09:31:55+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDZyNHBUMzNIS0hUXzMxOU1yZWdBUFdKQ21EdmNCaWR6bzNlYmJXUkhtQmFscllRZkVURFJyd1ZBWGtpWGhGM2hFeFRhSVFrRmk5QlBZcTRFd1pNc3dlU0xJaFRCSmVCOVd0bGp6VzVYMkZoRnNjS3N4em14SGNMVks4X09BX2RCMnY5eEtnVHJTZ3liTHZrWWVaZmlQOHRw?oc=5",
         "source": "Новини СЕГА",
+        "image": null
+      },
+      {
+        "title": "Над 60 учени и 94 събития на Пловдивския фестивал на науката - БНР",
+        "description": "",
+        "date": "2026-10-20T08:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVNFNVhjQUJxT0p1WHMyOGNLaDJrZnhmdGtvajA3YzhrRXA1NllSUmhZN0ljMkh6T0hDQzFsSTFNY2xWcjJZRjAwRmVBMGNsRXk5UnUwak82SFFvM3BIbllCZ0pYYVgzYTJ4YlY1NlcybDNUcGpVenlwTWk5cXhiV0J1bEltNlN6aDEzUFZxRTlyNkNobGtLRldTRGVlQ1U?oc=5",
+        "source": "БНР",
         "image": null
       },
       {
@@ -576,6 +576,14 @@
       }
     ],
     "Образование": [
+      {
+        "title": "Японската философия предлага нов подход в образованието - offnews.bg",
+        "description": "",
+        "date": "2026-10-20T21:00:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMVJLQWdrV3VYaXdGYWVKc1FXRjFsRHZKblRtLVp3Umt6aW5DU0t3VGVSd01FcjN6MFk0TV9ld0ItNVlQdThjUVVacTlROTBISXRUbi1DcnZLeENMeEIzYkYxSndUbG1oQkhxLUVoUTh3b1BUaG5ScUFjUm04eFJtTS1kS0hISlhqenhTdHlvNzMycl9nOWtsU2l1dVBWb2dJUHBFaQ?oc=5",
+        "source": "offnews.bg",
+        "image": null
+      },
       {
         "title": "Престижни немски дипломи за 18 възпитаници на ПГПЧЕ „Димитър Димов“ – Плевен - Pleven info",
         "description": "",
@@ -767,14 +775,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb1B6MDV2TnpoVUc1YURTNVRkd2hnXzlNaU90UGUtNlVUVXBlSm5wdXhYYzE1ZENRTm1HRlUyMTh4bVJwY2JUMWdtbzRnMHBqTk9VSVBhS3FQX0RaTHd0cEQ5akg5R29TaFBqQzg2V1F1dVZyRDM3NTR5c05CYlRLbGFMUW5xN2dQaWV3dXZfNS1CcEVrOV9LMWJwelllem9ScXpGT0lfRGlNdFRCYTUxXzJpSXhFVTV5c2Rta3g5VFpmd2xhOXRCdExOMA?oc=5",
         "source": "Про Нюз Добрич",
         "image": null
-      },
-      {
-        "title": "ПГЕХТ „Проф. Асен Златаров“ – Плевен обяви свободно място за чистач/хигиенист - Pleven info",
-        "description": "",
-        "date": "2026-10-19T12:51:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjNIU1gzZVlOMHpwT3YzNXZZLXBIVEZqeUhVUmtqRmlZRzZtLUcwUEh0d1lwYnFYQ3M5ajhtRC1MazYwcEFpRjltaFpzS3VZYXBPUWVxNHEtQnhLOXpCRWxoUHM4RGRnTzJ4bVBhVWd2b1lucFJrR3FOc0gtUWdsQ1RjbmJwRzFtc0RoU0hVVTFQSXBqRzhXSzVUVHdsdw?oc=5",
-        "source": "Pleven info",
-        "image": null
       }
     ],
     "Технологии": [
@@ -878,7 +878,7 @@
         "title": "Кипър разширява подкрепата за бизнеса с космически технологии - БНР Новини",
         "description": "",
         "date": "2026-10-20T11:46:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFZhdmYtS211M1NqZFFISzB0TEVBY0pjdHRtSDhBc1dLZlRmanJCOW9fbFRiNEkwNmpoMzRkcHZjTlRjMk0yOXE0WkRpLURhTHlKNHl4OVp3ZFpWWUJNcWxGUVBkQnJQc3ZyQ1VHNGlXZW9kLUpzMEtyOFRVODl4RldHWTNMMkczTm1Rd1YwT05NVDY1b2o5Tkx3MnFWd2tsYUZDSnFCNkpTbzA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTZoWHJtc3NabkpZbzBleUtxdTV6M09SVnZ3b3cwQnpVV2ZtVU9TanFoX1hhSmo0OVFZaGhZWUVTb3hEa1pjM3o3WU9LTFB1ek5oams3aDd1T0NLNlMyWGtzQ1VmSG0tOWhaNndvdUhjVGh3T2JlTnhRZlJGaXFVX2pZT182QTMtZjhHMXU3SklOODFTSm1xaDYyUmdfTzVibGc?oc=5",
         "source": "БНР Новини",
         "image": null
       },
