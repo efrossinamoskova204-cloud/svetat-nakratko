@@ -80,6 +80,15 @@ def get_items(url):
         date = iso_date(text(node, "pubDate"))
         if not title or not link.startswith("https://") or not date:
             continue
+        # dir.bg's general feed includes horoscopes, celebrities and sports;
+        # keep its news desks in the Bulgaria section only.
+        if "dir.bg/feeds/rss" in url and not any(
+            link.startswith(prefix) for prefix in (
+                "https://dnes.dir.bg/", "https://business.dir.bg/",
+                "https://world.dir.bg/"
+            )
+        ):
+            continue
         stamp = dt.datetime.fromisoformat(date)
         if stamp < CUTOFF or stamp > dt.datetime.now(UTC) + dt.timedelta(hours=2):
             continue
