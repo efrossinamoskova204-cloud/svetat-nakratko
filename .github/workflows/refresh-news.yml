@@ -1,0 +1,43 @@
+name: Refresh public news data
+on:
+  push:
+    branches: [news-fixes-test]
+    paths:
+      - '.github/workflows/refresh-news.yml'
+      - 'scripts/update_news.py'
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: news-data-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout website project
+        uses: actions/checkout@v4
+        with:
+          path: project
+      - name: Checkout persistent news-data branch
+        uses: actions/checkout@v4
+        with:
+          ref: news-data
+          path: news
+      - name: Fetch RSS and build JSON
+        run: python3 project/scripts/update_news.py news/news.json
+      - name: Save news to data branch (not production)
+        working-directory: news
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "No news changes."
+          else
+            git commit -m "Refresh collected public headlines"
+            git push
+          fi
