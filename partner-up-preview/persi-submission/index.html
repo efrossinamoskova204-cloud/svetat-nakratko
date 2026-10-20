@@ -1,0 +1,219 @@
+<!doctype html><html lang="bg"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#653321"><title>Partner UP — професионални контакти</title><style>
+:root{font-family:system-ui,Segoe UI,sans-serif;color:#472719;background:#FFF1E5}*{box-sizing:border-box}body{margin:0}header{background:#653321;color:white;padding:18px max(18px,calc((100vw - 1100px)/2));display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}header strong{font-size:23px}header small{display:block;color:#FFE4D1}.wrap{max-width:1100px;margin:auto;padding:24px 18px}.hero{background:linear-gradient(115deg,#B65F39,#EBA77F);color:white;border-radius:20px;padding:32px;margin-bottom:20px}.hero h1{font-size:clamp(26px,4vw,39px);margin:10px 0}.hero p{line-height:1.6}.layout{display:grid;grid-template-columns:1fr 320px;gap:20px}.panel{background:white;border:1px solid #EAD6C7;border-radius:16px;padding:22px;margin-bottom:18px;box-shadow:0 4px 16px #12345608}h2{margin:0 0 16px;font-size:20px}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:18px}.person{border:1px solid #E7CCBA;border-radius:14px;padding:16px}.top{display:flex;align-items:center;gap:12px}.avatar{width:48px;height:48px;border-radius:14px;background:#FBE1CE;color:#B65F39;display:grid;place-items:center;font-weight:800}.person h3{margin:0;font-size:16px}.muted{color:#806454;font-size:13px}.person p{line-height:1.5;font-size:14px}button{border:0;background:#A94F2D;color:white;border-radius:10px;padding:11px 15px;font:inherit;font-weight:650;cursor:pointer;margin:4px 4px 4px 0}button.secondary{background:#F7E1D1;color:#653321}button:disabled{opacity:.55;cursor:wait}form{display:grid;gap:10px}label{font-size:13px;font-weight:650}input,textarea{width:100%;padding:11px;border:1px solid #D9B8A2;border-radius:9px;font:inherit;margin-top:5px}textarea{min-height:85px;resize:vertical}.notice{background:#FBE5D5;border-radius:12px;padding:13px;font-size:13px;line-height:1.5;margin-bottom:18px}.status{font-size:14px;margin:10px 0;white-space:pre-wrap}.hidden{display:none!important}footer{text-align:center;color:#806454;font-size:12px;padding:25px}@media(max-width:780px){.layout{grid-template-columns:1fr}.cards{grid-template-columns:1fr}.hero{padding:22px}}
+
+
+
+
+
+
+
+
+/* Partner UP draft: secondary screens; existing copper/peach palette unchanged. */
+.pu-nav{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 18px;position:sticky;top:0;z-index:10;background:#fff1e5f5;padding:10px 4px;border-radius:12px}
+.pu-nav button{margin:0;background:#fff;border:1px solid #e7ccba;color:#653321}
+.pu-nav button.active{background:#a94f2d;color:white}
+.pu-panel{background:white;border:1px solid #ead6c7;border-radius:16px;padding:22px;margin-bottom:18px}
+.pu-headline{font-size:23px;margin:0 0 12px}
+.pu-chat-scroll{height:360px;overflow:auto;border:1px solid #ead6c7;border-radius:12px;padding:12px;background:#fffaf6;display:flex;flex-direction:column;gap:10px}
+.pu-message{padding:10px 12px;border:1px solid #ead6c7;background:white;border-radius:12px;overflow-wrap:anywhere}
+.pu-message strong{display:block;color:#653321;font-size:13px}
+.pu-message small{display:block;color:#806454;font-size:11px}
+.pu-message p{white-space:pre-wrap;margin:5px 0 0;font-size:15px;line-height:1.5}
+.pu-news-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+.pu-news-card{border:1px solid #ead6c7;border-radius:12px;padding:16px;background:#fffaf6}
+.pu-news-card a{color:#96421f;font-weight:700;overflow-wrap:anywhere}
+.pu-news-tabs button{background:#f7e1d1;color:#653321}
+.pu-news-tabs button.active{background:#a94f2d;color:white}
+.pu-attention{border-left:4px solid #b65f39;background:#fff1e5;padding:12px;border-radius:8px;line-height:1.5}
+@media(max-width:780px){.pu-nav{position:static;overflow-x:auto;flex-wrap:nowrap}.pu-nav button{flex:0 0 auto}.pu-panel{padding:16px}.pu-chat-scroll{height:300px}}
+</style><style>.pu-family-banner{background:#ffd9b3;border:2px solid #c36b3c;padding:16px 18px;border-radius:15px;margin:14px 0 18px;line-height:1.45;color:#512d1b}.pu-family-banner strong{font-size:18px}.pu-disabled{opacity:.63;pointer-events:none}.pu-news-card a{text-decoration:underline}</style><style>
+.pu-voice{border:1px solid #d6ab8b;background:#fff6ed;border-radius:16px;padding:20px;margin:18px 0}
+.pu-voice h2{font-size:21px}
+.pu-voice button{font-size:17px;padding:15px 20px;min-height:52px}
+.pu-voice .talk{background:#813820;border:2px solid #653321;font-size:19px;border-radius:14px}
+.pu-voice .talk[aria-pressed="true"]{background:#9c1e12;box-shadow:0 0 0 4px #fad3b9}
+.pu-voice .read{background:#fff;color:#653321;border:1px solid #a94f2d}
+.pu-voice textarea{font-size:17px;min-height:96px}
+.pu-voice output{display:block;margin:8px 0;white-space:pre-wrap}
+.pu-voice .pu-actions{display:flex;flex-wrap:wrap;gap:5px}
+.pu-big-cta{font-size:18px;min-height:50px}
+.pu-family-banner{font-size:15px}
+@media(max-width:680px){.pu-voice{padding:14px}.pu-voice .talk{width:100%}}
+</style></head><body><header><div><strong>🤝 Partner UP</strong><small>Професионални контакти и нови възможности</small></div><span id="session">Зареждане…</span></header><main class="wrap"><div class="pu-family-banner"><strong>👨‍👩‍👧 Семейна демонстрация на Partner UP</strong><div>Това е преглед на дизайна и навигацията, не истински чат. Входът, регистрацията, профилите и изпращането на съобщения са изключени за безопасност. Новините се зареждат от публичния GitHub файл, когато има интернет.</div></div><nav class="pu-nav" aria-label="Главно меню"><button type="button" data-view="home" class="active">🏠 Начало и хора</button><button type="button" data-view="chat">💬 Общ чат</button><button type="button" data-view="news">📰 Новини</button><button type="button" data-view="help">🤝 Помагаме си</button><button type="button" data-view="alerts">🛡️ Внимавай, измама!</button></nav><section id="homeView"><section class="pu-voice" id="voiceDemo" aria-labelledby="voiceTitle">
+<h2 id="voiceTitle">🎙️ Говори, когато писането е трудно</h2>
+<p>Натисни големия бутон, кажи въпроса си на български и виж как думите се превръщат в текст. <strong>Това е демонстрация — съобщението не се публикува. При гласово разпознаване браузърът може да обработва звука чрез външна услуга.</strong></p>
+<div class="pu-actions"><button type="button" class="talk" id="voiceTalk" aria-pressed="false">🎙️ Натисни и говори</button><button type="button" class="read" id="voiceListen">🔊 Прочети написаното</button><button type="button" class="secondary" id="voiceStop">■ Спри звука</button></div>
+<div class="status" id="voiceStatus" role="status" aria-live="polite">Микрофонът е изключен. За пробата използвай Chrome на защитен уеб адрес (HTTPS). Разреши микрофона само ако желаеш.</div>
+<label for="voiceDraft">Твоите думи</label><textarea id="voiceDraft" maxlength="1000" placeholder="Тук ще се появи разпознатият текст. Можеш и да пишеш."></textarea>
+<div class="pu-actions"><button type="button" id="voicePreview" class="pu-big-cta">Покажи пробно съобщение</button><button type="button" id="voiceClear" class="secondary">Изчисти текста</button></div>
+<div id="voicePreviewBox" class="pu-attention" aria-live="polite">Пробното съобщение ще се появи тук. То е само на твоя екран.</div>
+<p class="muted">Ако бутонът за говорене не работи в твоя браузър, можеш да използваш микрофона на клавиатурата. За реални гласови обаждания ще е необходима отделна функция.</p>
+</section><section class="hero"><div>Свързваме хора и възможности</div><h1>Намери хората за следващата си възможност.</h1><p>Създай професионален профил, откривай специалисти и разширявай мрежата си. Без лични карти и ненужни документи.</p></section><div class="notice">Тестова версия за учебен проект. Публикуваните профили са видими за посетителите. Не добавяй ЕГН, адрес, телефон или поверителна информация.</div><div class="layout"><section><div class="panel"><h2>Открий професионалисти</h2><input id="search" placeholder="Търси по име, професия или град…" aria-label="Търси"><div id="count" class="muted" style="margin-top:12px"></div><div id="cards" class="cards"></div></div></section><aside><div class="panel" id="authpanel"><h2>Вход и регистрация</h2><div id="loggedOut"><button id="google">Влез с Google</button><form id="loginForm"><label>Имейл<input id="email" type="email" autocomplete="email" required></label><label>Парола<input id="password" type="password" autocomplete="current-password" minlength="8" required></label><button type="submit" id="login">Вход</button><button type="button" id="signup" class="secondary">Създай акаунт</button></form><button class="secondary" id="resetPassword">Забравена парола</button></div><div id="loggedIn" class="hidden"><div id="who" class="status"></div><button id="logout" class="secondary">Изход</button></div><div id="authStatus" class="status" role="status"></div></div><div class="panel hidden" id="profilePanel"><h2>Моят професионален профил</h2><form id="profileForm"><label>Име или псевдоним<input id="name" maxlength="60" required></label><label>Професия<input id="job" maxlength="80" required></label><label>Град<input id="city" maxlength="60" required></label><label>За мен<textarea id="bio" maxlength="300"></textarea></label><button type="submit" id="saveProfile">Запази профила</button></form><div id="profileStatus" class="status" role="status"></div></div></aside></div>
+</section>
+<section id="chatView" class="hidden pu-panel" aria-labelledby="chatHeading">
+<h2 id="chatHeading" class="pu-headline">💬 Общ чат</h2>
+<p>Място за разговори и взаимопомощ. За писане е необходим вход и потвърден имейл.</p>
+<div class="pu-attention">Тестова разработка. Чатът ще бъде активиран едва след проверка на правилата за достъп. Не споделяйте пароли, адреси и банкови данни.</div>
+<div id="chatStatus" class="status" role="status">Чатът още не е активен в публикувания проект.</div>
+<div id="chatHistory" class="pu-chat-scroll" aria-live="polite"><p class="muted">Няма заредени съобщения.</p></div>
+<form id="chatForm"><label for="chatText">Твоето съобщение</label><textarea id="chatText" rows="3" maxlength="1000" placeholder="Напиши нещо добро…" required></textarea><button id="chatSend" type="submit" disabled>Изпрати</button></form>
+</section>
+<section id="newsView" class="hidden pu-panel" aria-labelledby="newsHeading">
+<h2 id="newsHeading" class="pu-headline">📰 НОВИНИТЕ. И ТОЧКА.</h2>
+<p>Актуални заглавия от нашия новинарски проект, с линкове към оригиналните източници. Без препубликуване на чужди снимки и откъси.</p>
+<div id="newsTabs" class="pu-news-tabs" aria-label="Категории"><button type="button" data-news="България" class="active">България</button><button type="button" data-news="Свят">Свят</button><button type="button" data-news="Наука">Наука</button><button type="button" data-news="Образование">Образование</button><button type="button" data-news="Технологии">Технологии</button></div>
+<div id="newsStatus" class="status" role="status">Отвори раздела, за да заредим новините.</div>
+<div id="newsList" class="pu-news-grid"></div>
+<p><a href="https://frosi-chatko-news.netlify.app/" target="_blank" rel="noopener noreferrer">Виж всички новини на оригиналния сайт ↗</a></p>
+</section>
+<section id="helpView" class="hidden pu-panel"><h2>🤝 Помагаме си</h2><p>Планиран раздел за задаване на въпроси и взаимопомощ. Няма да събираме лични и чувствителни данни.</p><p class="muted">Ще го активираме след тестване на общия чат и модерацията.</p></section>
+<section id="alertsView" class="hidden pu-panel"><h2>🛡️ Внимавай, измама!</h2><p>Тук ще има проверени съвети за разпознаване на измами. Публични обвинения срещу хора не се публикуват без проверка.</p><p class="muted">Разделът е в подготовка.</p></section>
+</main><footer>Partner UP • Учебен проект • 2026</footer>
+<script>
+(function(){
+ "use strict";
+ const byId=id=>document.getElementById(id);
+ const pages={home:"homeView",chat:"chatView",news:"newsView",help:"helpView",alerts:"alertsView"};
+ let category="България", cachedNews=null, loadedAt=0;
+ const SRC="https://raw.githubusercontent.com/efrossinamoskova204-cloud/svetat-nakratko/news-data/news.json";
+ document.querySelectorAll("form").forEach(el=>el.addEventListener("submit",e=>e.preventDefault()));
+ const auth=byId("authpanel");
+ if(auth){auth.classList.add("pu-disabled");auth.setAttribute("aria-label","Входът е изключен в семейната демонстрация");}
+ byId("session").textContent="Семеен преглед";
+ byId("count").textContent="Профилите са скрити в демонстрацията, за да пазим личните данни.";
+ byId("cards").textContent="";
+ const searchBox=byId("search");if(searchBox)searchBox.hidden=true;
+ byId("chatStatus").textContent="Демонстрация: съобщенията не се изпращат и истински разговори не се показват.";
+ byId("chatSend").disabled=true;
+ function showNews(){
+  const container=byId("newsList");container.replaceChildren();
+  const items=Array.isArray(cachedNews?.categories?.[category])?cachedNews.categories[category]:[];
+  if(!items.length){byId("newsStatus").textContent="Няма налични заглавия. Може да отворите нашия новинарски сайт по-долу.";return;}
+  const generated=cachedNews.generatedAt?new Date(cachedNews.generatedAt):null;
+  const date=generated&&!isNaN(generated.getTime())?generated.toLocaleString("bg-BG",{timeZone:"Europe/Sofia"}):"няма дата";
+  byId("newsStatus").textContent=category+" · "+Math.min(items.length,12)+" заглавия · Обновено: "+date;
+  for(const item of items.slice(0,12)){
+   const url=String(item.link||"");
+   if(!url.startsWith("https://"))continue;
+   const article=document.createElement("article");article.className="pu-news-card";
+   const meta=document.createElement("p");meta.className="muted";
+   const published=item.date?new Date(item.date):null;
+   meta.textContent=(published&&!isNaN(published.getTime())?published.toLocaleString("bg-BG",{timeZone:"Europe/Sofia"}):"")
+    +" · "+String(item.source||"Източник");
+   const link=document.createElement("a");link.href=url;link.target="_blank";link.rel="noopener noreferrer";
+   link.textContent=String(item.title||"Прочети новината");
+   article.append(meta,link);container.append(article);
+  }
+ }
+ async function loadNews(){
+  if(cachedNews&&Date.now()-loadedAt<30*60*1000){showNews();return;}
+  byId("newsStatus").textContent="Зареждам актуалните заглавия…";
+  try{
+   const response=await fetch(SRC+"?t="+Date.now(),{cache:"no-store"});
+   if(!response.ok)throw Error("HTTP "+response.status);
+   const data=await response.json();
+   if(!data||!data.categories)throw Error("Невалидни данни");
+   cachedNews=data;loadedAt=Date.now();showNews();
+  }catch(e){byId("newsStatus").textContent="Новините не се заредиха. Отворете новинарския сайт от връзката по-долу."}
+ }
+ function go(page){
+  if(!pages[page])return;
+  for(const [name,id] of Object.entries(pages))byId(id).classList.toggle("hidden",name!==page);
+  document.querySelectorAll("[data-view]").forEach(el=>el.classList.toggle("active",el.dataset.view===page));
+  if(page==="news")loadNews();
+  if(page!=="home")stopDictation();
+  window.scrollTo({top:0,behavior:"smooth"});
+ }
+ document.querySelectorAll("[data-view]").forEach(el=>el.addEventListener("click",()=>go(el.dataset.view)));
+ document.querySelectorAll("[data-news]").forEach(el=>el.addEventListener("click",()=>{
+   category=el.dataset.news;
+   document.querySelectorAll("[data-news]").forEach(b=>b.classList.toggle("active",b===el));
+   if(cachedNews)showNews();else loadNews();
+ }));
+
+
+/* Bulgarian speech-to-text is browser-dependent; no audio data is sent to Partner UP in this preview.
+   Voice states: idle / starting / listening / stopping / speaking. Dictation and read-aloud are mutually
+   exclusive; handlers are re-attached per start with a captured session token, so events from a stopped
+   or superseded session can never touch the new one. abort() cancels; ONLY the actual onend frees the
+   stopping state (a guard timer may inform the user but never frees it). */
+const recognitionCtor=window.SpeechRecognition||window.webkitSpeechRecognition;
+const talk=byId("voiceTalk"),vStatus=byId("voiceStatus"),vDraft=byId("voiceDraft");
+let recognizer=null,voiceState="idle",spokenVersion="",recognitionError=false,voiceSession=0,ttsSession=0,stopGuard=null;
+function voiceStatus(message){vStatus.textContent=message;}
+function setTalkPressed(active){talk.setAttribute("aria-pressed",String(active));talk.textContent=active?"\u23f9\ufe0f Спри диктовката":"\ud83c\udf99\ufe0f Натисни и говори";}
+function stopDictation(){
+ if(voiceState==="starting"||voiceState==="listening"){
+  voiceSession++;voiceState="stopping";setTalkPressed(false);voiceStatus("Спирам микрофона…");
+  if(recognizer){try{recognizer.abort()}catch(e){try{recognizer.stop()}catch(e2){}}}
+  const token=voiceSession;
+  clearTimeout(stopGuard);
+  stopGuard=setTimeout(()=>{if(voiceState==="stopping"&&voiceSession===token)voiceStatus("Изчаквам спирането на микрофона… Ако проблемът продължава, презареди страницата.");},1500);
+ }
+}
+function speak(text){
+ if(!("speechSynthesis" in window)){voiceStatus("Този браузър няма функция за прочитане на текст.");return;}
+ const clean=String(text||"").trim();
+ if(!clean){voiceStatus("Няма текст за прочитане.");return;}
+ if(voiceState!=="idle"&&voiceState!=="speaking"){voiceStatus("Първо спри диктовката с бутона „Натисни и говори“, след което прочети.");return;}
+ const myTts=++ttsSession;
+ window.speechSynthesis.cancel();
+ const utterance=new SpeechSynthesisUtterance(clean.slice(0,1000));
+ utterance.lang="bg-BG";utterance.rate=.88;
+ const finish=ok=>{if(myTts!==ttsSession||voiceState!=="speaking")return;voiceState="idle";voiceStatus(ok?"Прочетено. Можеш да редактираш текста или да го покажеш.":"Прочитането не успя. Използвай написания текст.");};
+ utterance.onstart=()=>{if(myTts===ttsSession&&voiceState==="speaking")voiceStatus("\ud83d\udd0a Чета на глас…");};
+ utterance.onerror=()=>finish(false);
+ utterance.onend=()=>finish(true);
+ try{window.speechSynthesis.speak(utterance);voiceState="speaking";}
+ catch(e){voiceState="idle";voiceStatus("Прочитането не успя. Използвай написания текст.");}
+}
+function startDictation(){
+ recognitionError=false;spokenVersion=vDraft.value.trim();
+ const mySession=++voiceSession;voiceState="starting";
+ recognizer.onstart=()=>{if(mySession!==voiceSession){try{recognizer.abort()}catch(e){}return;}voiceState="listening";setTalkPressed(true);voiceStatus("\ud83c\udf99\ufe0f Слушам. Говори спокойно на български.");};
+ recognizer.onresult=e=>{
+  if(mySession!==voiceSession)return;
+  let heard="";
+  for(let i=0;i<e.results.length;i++)heard+=String(e.results[i][0]?.transcript||"");
+  vDraft.value=(spokenVersion+(spokenVersion&&heard?" ":"")+heard).slice(0,1000);
+  voiceStatus("Разпознавам думите ти. Можеш да ги поправиш преди да ги покажеш.");
+ };
+ recognizer.onerror=e=>{
+  if(mySession!==voiceSession)return;
+  recognitionError=true;
+  if(voiceState==="starting"||voiceState==="listening"){voiceState="stopping";setTalkPressed(false);}
+  const type=String(e.error||"");
+  const reasons={"not-allowed":"Браузърът няма разрешение за микрофона.","no-speech":"Не беше разпозната реч. Опитай отново.","network":"За разпознаване на реч може да е необходим интернет.","audio-capture":"Микрофонът не е достъпен."};
+  voiceStatus(reasons[type]||"Разпознаването спря. Може да опиташ отново или да пишеш.");
+ };
+ recognizer.onend=()=>{
+  if(mySession!==voiceSession){if(voiceState==="stopping"){clearTimeout(stopGuard);voiceState="idle";voiceStatus("Диктовката е спряна.");}return;}
+  voiceState="idle";setTalkPressed(false);
+  if(!recognitionError)voiceStatus("Готово. Прегледай разпознатия текст, после натисни „Покажи пробно съобщение“.");
+ };
+ try{recognizer.start()}catch(e){voiceState="idle";setTalkPressed(false);voiceStatus("Не успях да включа микрофона. Опитай отново.");}
+}
+if(!recognitionCtor){talk.disabled=true;voiceStatus("В този браузър разпознаването на реч не се поддържа. Опитай в Chrome или ползвай микрофона на клавиатурата.");}
+else if(!window.isSecureContext){talk.disabled=true;voiceStatus("Гласовото разпознаване изисква защитен (потенциално доверен) адрес. Отвори страницата от https адрес и опитай отново.");}
+else{
+ try{
+  recognizer=new recognitionCtor();recognizer.lang="bg-BG";recognizer.continuous=false;recognizer.interimResults=true;recognizer.maxAlternatives=1;
+  talk.addEventListener("click",()=>{
+   if(voiceState==="speaking"){window.speechSynthesis.cancel();voiceState="idle";voiceStatus("Прочитането е спряно. Сега можеш да говориш.");return;}
+   if(voiceState==="stopping"){voiceStatus("Спирам микрофона… Изчакай миг и опитай пак.");return;}
+   if(voiceState==="listening"||voiceState==="starting"){stopDictation();return;}
+   startDictation();
+  });
+ }catch(e){talk.disabled=true;voiceStatus("Този браузър не може да стартира разпознаването на реч.");}
+}
+byId("voiceListen").addEventListener("click",()=>speak(vDraft.value));
+byId("voiceStop").addEventListener("click",()=>{stopDictation();if("speechSynthesis" in window)window.speechSynthesis.cancel();if(voiceState==="speaking")voiceState="idle";voiceStatus("Звукът е спрян.");});
+byId("voicePreview").addEventListener("click",()=>{
+ const value=vDraft.value.trim();
+ if(!value){byId("voicePreviewBox").textContent="Първо кажи или напиши нещо.";return;}
+ byId("voicePreviewBox").textContent="💬 Твоето пробно съобщение (само на този екран): "+value;
+ byId("chatText").value=value;
+});
+byId("voiceClear").addEventListener("click",()=>{stopDictation();spokenVersion="";vDraft.value="";byId("voicePreviewBox").textContent="Текстът е изчистен. Нищо не е изпращано.";voiceStatus("Готово за нов опит.");});
+})();
+</script></body></html>
