@@ -1,15 +1,7 @@
 {
-  "generatedAt": "2026-10-21T00:56:17.389245+00:00",
+  "generatedAt": "2026-10-21T01:46:13.493911+00:00",
   "categories": {
     "България": [
-      {
-        "title": "Китайските коли вече превземат Европа не само с цена - Investor.bg",
-        "description": "",
-        "date": "2026-10-20T23:03:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXZQanhraHVBMDQ4NlhlZ2I3VmdBWlVpWmFQeC1zTGZmcmQ1R1NLTEFJYy1ob2xJMzlacm5pQ2FDV3dhOUNqYUlKWk1IdWg4eHl5azByOEd2R2VWSDBHbXlrbGFuaDh5OGR2SXh4aHpRNk9WVVhHNFRMU21HSkpFYW5STVB0X0xoTVZ3MWhXUGNWUFlQSGl5SFZn?oc=5",
-        "source": "Investor.bg",
-        "image": null
-      },
       {
         "title": "Шампионска лига, класиране, резултати и голмайстори - Gong.bg",
         "description": "",
@@ -19,11 +11,11 @@
         "image": null
       },
       {
-        "title": "ЕС пред политическа буря: избори в четирите най-големи икономики заплашват да блокират Европа - Dnes.bg",
+        "title": "\"Пари Сен Жермен\" показа на \"Барселона\" кой е властелинът на Шампионската лига - www.24chasa.bg",
         "description": "",
-        "date": "2026-10-20T20:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc0NZNU1oUEF3YS1teXR2OUlnM2xuQWVyaEZEVjlEc2FoLTRKNUVKaGs2Q09VX2JuZ3Qyc0I3TlowcVRqd0pWb09iTG4tVkd5eFZoX1M4ZjlvOTlXeGp6aGhPMXlJMFhValR5aUNlcXEtTG5SdVJ1WG1xems1MXJfTkk4bzRsRDlVN3IxU2xZRHROSGlBNk5KNTVWTW9fMWgyMmpEQ3J3NmZZdnlfMzJWUUpTRmRNNVFYSkpOQ19pWjlzUk5HeFFQVnlXYUd4UQ?oc=5",
-        "source": "Dnes.bg",
+        "date": "2026-10-20T20:58:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4UnhyUlpCcHNRM2ExQ1pmY3lkeE1lT1lqOTVvYjl2YXNvVmFpUmJSMnVRVnRvd01Ca3gxemswallmZEozX3NPaTQxbGhMYVg2Z3ZETmROdmE?oc=5",
+        "source": "www.24chasa.bg",
         "image": null
       },
       {
@@ -201,9 +193,25 @@
         "link": "https://www.bta.bg/bg/news/lik/1228968-asparuh-nikolov-predstavi-svoya-roman-vals-v-sofiya",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14013649/20261020_183539.jpg"
+      },
+      {
+        "title": "Новото правителство на Румъния е избрано с много над минимума, започва работа тази вечер",
+        "description": "Кабинетът на Лука Никулеску е получил 280 гласа в парламента при необходими най-малко 233",
+        "date": "2026-10-20T17:05:15+00:00",
+        "link": "https://dnes.dir.bg/svyat/novoto-pravitelstvo-na-rumaniya-e-izbrano-s-mnogo-nad-minimuma-zapochva-rabota-tazi-vecher",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/20/3038382/384x216.jpg?_=1792518329"
       }
     ],
     "Свят": [
+      {
+        "title": "Сливането на \"Спейс Екс\" и \"Тесла\" \"би било добра идея\", заяви Илон Мъск",
+        "description": "Илон Мъск, заяви, че евентуалното сливане на \"Спейс Екс\" (SpaceX) и \"Тесла\" (Tesla) - двете най-големи негови компании, \"би било добра идея\", предаде Ройтерс. Създадох специални групи, за да обсъдят въпроса, каза вчера най-богатият човек в света. След този коментар акциите на \"Спейс Екс\" поскъпнаха с 4,9%. По-рано вчера тя отчете първата си печалба като публично търгувана компания - 4,4 милиарда долара през третото тримесечие на тази година, при ",
+        "date": "2026-10-21T01:04:00+00:00",
+        "link": "https://www.bta.bg/bg/news/economy/1229039-slivaneto-na-speys-eks-i-tesla-bi-bilo-dobra-ideya-zayavi-ilon-mask",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11370046/97ca74d806bc4dfcbdbb06600a051027--0--74bbf2da88744041b29b0b5ce83d20ed.jpg"
+      },
       {
         "title": "Election 2026 Florida - БТА",
         "description": "",
@@ -211,6 +219,14 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xV1hKd2ZjaTc1ZzFGLU51czhjclM4dXNNN2U3US1aTlMtTzl4OEtxVVNybXpQM3cwM0JHYmFJZW1ZcVZ5V0k3WjBOTk9xbEhPSnNfLUZidw?oc=5",
         "source": "БТА",
         "image": null
+      },
+      {
+        "title": "Във Флорида бе извършена 18-а екзекуция от началото на тази година",
+        "description": "Във Флорида бе изпълнена смъртната присъда на 77-годишен мъж, постановена за убийството на заместник-шериф преди четири десетилетия, предаде Асошиейтед прес. Това бе 18-ата екзекуция в южния американски щат от началото на тази година. Тя се вписва в политиката на губернатора републиканец Рон Десантис на активно прилагане на най-тежкото наказание по време на последния му мандат на поста, отбелязва АП. Уилям Рийвс бе обявен за мъртъв в 18:12 ч. вче",
+        "date": "2026-10-21T00:25:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1229038-vav-florida-be-izvarshena-18-a-ekzekutsiya-ot-nachaloto-na-tazi-godina",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11443602/169528d4d1864df3b4e20cb874ae56ec--1--de24f1504be54de2a84b62e8ae02e6f5.jpg"
       },
       {
         "title": "NY Premiere of \"The Terminal List\" S2 - БТА",
@@ -243,14 +259,6 @@
         "link": "https://www.bta.bg/bg/news/world/1229037-v-pakistan-be-zadarzhan-mazh-oshtetil-s-falshivi-etiketi-poshtenskata-sluzhba-n",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/3310003/58f93513e3574beebfe9f72595cc2a7d--0--967c713145214d9bacfdc24c968db9bc.jpg"
-      },
-      {
-        "title": "APTOPIX Netherlands World Championships Gymnastics - БТА",
-        "description": "",
-        "date": "2026-10-20T23:32:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QNEY3X2ZpSnNKWlhrUjVUUFNVNTdhbXJsT0prUTV0eWlVYklFb2k1cERUNzZEY1hBYjhLWHU0U1ktWG9GaXk5blFjMElUbFE?oc=5",
-        "source": "БТА",
-        "image": null
       },
       {
         "title": "\"Уолстрийт джърнъл\": Илон Мъск е наредил забавянето на работата на системата \"Старшийлд\", което изненада неприятно Украйна",
@@ -313,6 +321,14 @@
         "description": "",
         "date": "2026-10-20T20:54:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeW5LVmN2aEJEVVlFNloxMmh6OFVwYlpOYlNSUkpqTU5BeTA1LXVVczd5V1VBbTRyOG1aNHpQdmdNQzZiZ3JQQlFnZkVGaXNoTjEzSF8xUlZnQmxoR2pyUmdGSUhyejVwZ1pPZ2k5cXJUWERqd0htT25tWVBOZ01wdWNkdTRjS2RnZjh4RF9RZEtYWnFjaEVNQ3ZPTVJKME9tT05UTWdCcGlQWVF0VnhFeDAwY2loTXhvS2NSYlR3?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Gasoline Prices Colorado - БТА",
+        "description": "",
+        "date": "2026-10-20T20:42:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QeEFxYThvSUNSVzI2S2lWNUUwa0d2Y3FqXzJmdVJBNmNwd1BMOVNCYnQ0WHB2OXhZbEZJZEV1YjhLLV9fUUhYTEt0Y3pkd2gyU2J5NVZmUQ?oc=5",
         "source": "БТА",
         "image": null
       },
@@ -387,25 +403,17 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HV2dYUXRERm5UQ2lPMnBaUUIzZ3QzYTJWaHdwaHVpNElnSG5JRjM2ZjBTV21rWXJsdGhTSXowZkZvbkxxalZOU19YdlFfOW9KWmlTR0VsVQ?oc=5",
         "source": "БТА",
         "image": null
-      },
-      {
-        "title": "Congo Ebola Mental Health - БТА",
-        "description": "",
-        "date": "2026-10-20T19:52:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zQ1JIOHR4VXNOQVFMbFdteUs0eE9DQ2RIT1Y5NUhndnF4eGd2TDV2N1kxaHN5LU1qcHJWRU9nMmlrRkUzNkxzdjd4U0c2QUl4MFBzT3cwQQ?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Тръмп призова Украйна да се съгласи на споразумение за слагане на край на войната с Русия",
-        "description": "Президентът на САЩ Доналд Тръмп призова днес Украйна да се съгласи на споразумение за слагане на край на войната с Русия, предаде Ройтерс. \"Украйна трябва да иска да бъде намерено решение на тази война\", каза Тръмп пред репортери в Овалния кабинет. Президентът на САЩ заяви това след днешната среща в Осло между неговия специален пратеник Стив Уиткоф и украинския си колега Володимир Зеленски, посветена именно на търсенето на дипломатическо решение ",
-        "date": "2026-10-20T19:49:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1229028-tramp-prizova-ukrayna-da-se-saglasi-na-sporazumenie-za-slagane-na-kray-na-voynat",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14014259/c2982dcd248b4f33b8b3fc70cc4494dd--1--888cfb36d38f4611a6ab52e8566ccaee.jpg"
       }
     ],
     "Наука": [
+      {
+        "title": "Кабинетът прави българска система за научно цитиране - Новини СЕГА",
+        "description": "",
+        "date": "2026-10-21T01:07:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDZyNHBUMzNIS0hUXzMxOU1yZWdBUFdKQ21EdmNCaWR6bzNlYmJXUkhtQmFscllRZkVURFJyd1ZBWGtpWGhGM2hFeFRhSVFrRmk5QlBZcTRFd1pNc3dlU0xJaFRCSmVCOVd0bGp6VzVYMkZoRnNjS3N4em14SGNMVks4X09BX2RCMnY5eEtnVHJTZ3liTHZrWWVaZmlQOHRw?oc=5",
+        "source": "Новини СЕГА",
+        "image": null
+      },
       {
         "title": "Маймуните също избягват микроби след вирусни огнища - БГНЕС",
         "description": "",
@@ -484,14 +492,6 @@
         "date": "2026-10-20T10:36:55+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGhRaW9fQWJCaWtQaTVROVcxT2swclBWM1BvZjVmNnhscG5FVHJMcnc4TkJjUkxVNjdfS3lCd1Ayc3VsdjVoc1B1VWJ5SGxFdDV4MEpVaERKZl9HUkd0cHJiMGQwOVA3em9pOW5FU1dON0swZW9qYUJVQnNyQnVpaDhpdFBkd3h2MzN2WjBualBabTRwWU9BMzY3WkxjVFBKMFA0Vg?oc=5",
         "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Кабинетът прави българска система за научно цитиране - Новини СЕГА",
-        "description": "",
-        "date": "2026-10-20T09:31:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDZyNHBUMzNIS0hUXzMxOU1yZWdBUFdKQ21EdmNCaWR6bzNlYmJXUkhtQmFscllRZkVURFJyd1ZBWGtpWGhGM2hFeFRhSVFrRmk5QlBZcTRFd1pNc3dlU0xJaFRCSmVCOVd0bGp6VzVYMkZoRnNjS3N4em14SGNMVks4X09BX2RCMnY5eEtnVHJTZ3liTHZrWWVaZmlQOHRw?oc=5",
-        "source": "Новини СЕГА",
         "image": null
       },
       {
@@ -625,6 +625,22 @@
         "image": null
       },
       {
+        "title": "Борба, образование и наследство: Сбогом на Кайл Кенеди - NetNews – Новините на Ямбол",
+        "description": "",
+        "date": "2026-10-20T16:27:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FdlQ5M3h5OW9ZdzB0VXdxUXRiVHdabmlhSlVhN19sV00tR3hjNGRJYVFzVC1VRldvbGNyQ2YwdHRMNE5NaVFRZ1F6c3FIOFhZR0RyYTRVQUttQ3pBZUt4dUFJTGp1X1VCUjg2MVJjUWVqZ2ZUcnkta1ZJNko?oc=5",
+        "source": "NetNews – Новините на Ямбол",
+        "image": null
+      },
+      {
+        "title": "Заместник-министърът на образованието и науката акад. Николай Витанов участва в неформална среща за образованието в Дъблин - Делник БГ",
+        "description": "",
+        "date": "2026-10-20T15:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQeUQwSnhsR2locmY4am5BQ1VTcXhCOUtjNk1Dd1h0ZER2dWEwb0xkc1NoU0tSMGg4WVJrOTFvQ1JodVIxZzJ6Y05xVGI2NTlnM1pxMkJCenBVYXk3NVVINVJYdUxwVUMzRzd5RlhaNEt2LU05MHFBQXNuMmp2bW51WXJXcmNzc0d0TTVKNkN1aVc4LUJ6ZjhlblZOMnoyeU9Ec09CNmNTSHBCZlhYMjE2dVdtUWhHWHIxeWZOeEI5bUhwWEFzbnVYMVJQMnRVdGpJUXdCU0FHVGFTNEZxVWxLUFBHOVI4X28xbzdTT082bDNSMldzRUhHMms4OERQNWhxN1h0aHJTZzZ2QTRZdTh2WUV3TUQyLWlJYmZYczlEcFU4R3U3ODVwelBVOENYRnd2VWtocFhjVFVCd0FrcjFlY05FQ0hYUFo1S2dOMENUNC1WSXc?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
         "title": "Изкуственият интелект в образованието и бизнеса във фокуса на среща - БНР Новини",
         "description": "",
         "date": "2026-10-20T14:02:43+00:00",
@@ -649,6 +665,14 @@
         "image": null
       },
       {
+        "title": "МОН търси начини да улесни приема на ученици от българските училища в чужбина в родните университети - Novinata.bg",
+        "description": "",
+        "date": "2026-10-20T13:38:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTZxY04wSnlzYndXVml0T0ZyR2JBakNPTnh5T1c4bUVveWJqd09xUFJSeE1qN3VZR1FjUTN1enpfUjlkbmZreEttZnozY0lydjkwSnNZd3B3ZVJLTVllMklvaGpvS3FuU2xPRWNSLVJEUDk3cWphME41ZTFQeHRjM0htTG9uTTM3SU9JSVZDRlJJR3JPbUFlTVZYOENZZFRLeXF2TzEzMmlDd0RIYjFYenViSXBhU3duQ2VRSUo2VTBEaXNpZkFKRVlKMEVDOGttVEE?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
         "title": "Министър Вълчев: Ще улесним достъпа на учениците от неделните училища до нашите университети - www.24chasa.bg",
         "description": "",
         "date": "2026-10-20T13:37:00+00:00",
@@ -657,11 +681,11 @@
         "image": null
       },
       {
-        "title": "Близо 40 на сто от работещите с основно образование са под линията на бедност - Вестник \"ДУМА\"",
+        "title": "Техническият университет – филиал Пловдив отбеляза 40 години инженерно образование - TrafficNews",
         "description": "",
-        "date": "2026-10-20T13:10:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmpnZUFOS212MHRhZFhIa0VnbGQ1eTNnbG9CRG1nYXJyekplR2VUcGZBTmdURjFMRDJjdTJ6QnBudk00bFN6d2lBeEtiSTU5MnA2MTJmelAyS0J5OVhMc0ItTTNjTmI2SWJ6RU5FNy1ySWFtZ2JuMV9DMVRRbDdwaDUySzBTa3pib2F5clVFbVNKMkNFNFphSVNNTXhqVzZHS3g3QzhoNA?oc=5",
-        "source": "Вестник \"ДУМА\"",
+        "date": "2026-10-20T13:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFNUZFlFTkZsUFhaa3VkS1RGVjdQM2N2aGlIeGc1RTQzNFJmZEU1azJyMlRGb0NIVTQ3bUdRQUlWa19QVTVPa2oxVjNFZC1WUUZKVDMyNzdoeGNwZkwxckFSei1ESHc0YUtnRG1KQ1E3UWkxUi1RZFVRRm5VMVJRSGdRdEpvVmRoOGZacVl3SURwQldmUmhn?oc=5",
+        "source": "TrafficNews",
         "image": null
       },
       {
@@ -681,6 +705,14 @@
         "image": null
       },
       {
+        "title": "Българчета от Рим се поклониха пред саркофага на цар Самуил - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-20T10:56:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3BlN3pmYmQ3ZnhKNUxtWjhZR2M1dWVHa0VTMHNQVHF3TC1PWWJWb2Q0ZVR5REdOSXAwc2xGMTJyTUgyRG1RWkY5bE9mYnljRDg2d0lTc2J2LUNtM2hHXzZaZjNxWjczRGtudFFTQUdKMndGdnZKVDA1YThpM3R5d0JNQkFCaXVEV01LM2NwMS1RRWUtT3JJOWJmMWs4aEFTM1dOaFdXQWtmTUdmbnJaUEg0cldQRThyYUdfU2JIWmY?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "20 години вдъхновение, които отварят врати към бъдещето - ELLE.bg",
         "description": "",
         "date": "2026-10-20T10:40:06+00:00",
@@ -689,11 +721,51 @@
         "image": null
       },
       {
+        "title": "Двата бряга на светското училище: Никозия, Баку и спорът около забрадките ᐉ Новини от Fakti.bg - Мнения - Fakti.bg",
+        "description": "",
+        "date": "2026-10-20T10:19:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUgyVUtBUksyLW16QWFDcnpSeXNIVkpxRzRIQTZSbDFHR1FDOVFFc3djSG5wMHloYUVlWWg3cE12WGdqaDBzaHJyRWNpRW1leGVRbURyeE1MVTVodGRJSDZjZ3FpNHo3emc1QVJpRERrel9kWTRQOUNEZWx5dmFTTnZadXlEMzJsc3JTNlJSRWtneEhuSi1RZXR5ejE1X1ZlaFdHMnB2YzRxZw?oc=5",
+        "source": "Fakti.bg",
+        "image": null
+      },
+      {
+        "title": "Общо 22 свободни работни места за специалисти с висше образование - https://novini247.com/",
+        "description": "",
+        "date": "2026-10-20T10:08:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVZEcDg1U0JDanhhQjNROWlTTHdGeHRFSWJuZEg4a05ldUdRYXhuMXNYR0xBbFRIaWt6N095ZDlHZnlCUVpQM1pMX1BVUW90dmhaTmYxTXF6VndtUlQxTDB1RWlxM05PM0JHV2dSNHVFLTd5WWcxajFoRG50WGJURUNOS0VkWVpEZXhrX0xZLUxHdjk5c1pPWk9heHNsWHlXNUo0YWFId0s5V19oWUVFQ1NB?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
         "title": "Дни на Еразъм в ПГЛПТ – нови хоризонти и европейски възможности / Новини от Казанлък - Kazanlak.Com",
         "description": "",
         "date": "2026-10-20T09:38:47+00:00",
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KMzF0aGpGUVJvc0tUWnhhT2NRYVkzcU1NRWZ3aFdPUmZMc21Mb3JkM2Vob2syZEktS1JtdzZtcmFhNWxGZ2EyZ2tSemk?oc=5",
         "source": "Kazanlak.Com",
+        "image": null
+      },
+      {
+        "title": "Палатков лагер пред парламента в Атина: Младежи на протест срещу скъпото образование - Евроком",
+        "description": "",
+        "date": "2026-10-20T09:33:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWt6T1ItWE9HNEVldUMxQmxUMTZUOTFiLTdxOXdaTmNmTV9DZFloM1IwSENuWHhCYm1id0dsNDlqZFQ1MVpHOGE3NDdhcGlyR0pfYk5RWXRieExreDVkTEdMak9QZl9EQ2JQX1hYREktQmdac0NHWGFsVEpRZjI5VG83SnF1RFBWUE00TVFKelNKNUVpTFlJei1jc0FzTGZPckxGNE16TmRfRVlpbnQxR0NZcVpWc2hN?oc=5",
+        "source": "Евроком",
+        "image": null
+      },
+      {
+        "title": "Близо 400 деца и ученици от Лом се включиха в проект за интеркултурно образование за половин милион лева - BulNews",
+        "description": "",
+        "date": "2026-10-20T09:27:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyYk16bTN0RC1FSUJVVUd5cE5FX21ib2RpcnRuVG1vTVhkSGVYRXhaNktGRGV1YXR4bkhtZVR3VFUyQjl6aHJucWgtOUl6Zw?oc=5",
+        "source": "BulNews",
+        "image": null
+      },
+      {
+        "title": "За първи път от близо 20 години частни училища в София се събират на общо изложение - Делник БГ",
+        "description": "",
+        "date": "2026-10-20T09:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPbkV6VkstZ05DQWFoY21VdW1EbmxxUGluakhYaGx3cGNBaFhXVktyMUxpYkI5SlV0R3l2X2ZEY1hEdnBQMG9lN0FOUFRkTlRRUFY3MmZiMzhlLXJpY0dxZXQyeENpdlNwSUtlbTd6bmt1dUNncW1oalQ3LWxKTjhEQmhiaTlyMzd2a0ZCQkF3Q1FNSjdMLVRBZUxUSkxGeWZVNUl2VUpPYkxqNElRSXFJR0lKd1UtV0hpZWdqVWtDMDlmMEE5eFJBN25pc2QtYkJGckFWdnRhV0tFdktlRHVOb3BNUGYxbDFsUDNjcDVrSmwwNmVldjg4cDJJUkl1N0l5cnE4N2RmeDdSMXpORlFjaE1wdUhaODQ3NFNLeExRWnV2VTlrYTdaTFQxZmFsX2xmOC0zZTRqU1FHQnVNWVZ3cHdzaF8zQVU0SFFzb2lNTEI?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -718,78 +790,6 @@
         "date": "2026-10-20T07:00:17+00:00",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUNkQ3E3bHVDSjVQS1R5YXBkSmpaeHBQN2ZndGZISnhiSnhTT0pCTkdnRUZDVWNDaTdWVHFwUlRucEs5TUtpeEQzdEZKZXpOQ0Zyd1VzRWlEMllTZk1MLUxFY194ZGljaTJvYk1yYjk1NjlaWjR3U1NoRFRJUmdycXU2UWJObTA1MmN1SU9jeWJDVGd4cm40YnlBYldvVVpOR1ZfMHAyUUN3UG1UQlhyd2hRbHlFUQ?oc=5",
         "source": "Stolica.BG",
-        "image": null
-      },
-      {
-        "title": "Революция в прогимназиалното образование по математика или поредната инициатива без ясна идея и цел? - offnews.bg",
-        "description": "",
-        "date": "2026-10-20T06:37:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWhkZmRqZEVsanhxVlZMdkU0V1VXekl2TnR5b0FDbEJZMEtJZ2RnYnpmdzN6VnQ5N0VSYlg0NFZuRHp4ZjR3UWNUbGptTWdLUDlNd1RORXlTaWlFZUthWmRQZ3FiZkd0RzBSblRVOFItZExHZloyLUVuTVNnUGlib3kzN0Z2ejBWbTBGSWp3VUxaSmJJQWdZcTQ5ZmJMamhmblBRTVpFaGxKajJ4ZVVBOFZlVzM5cEpRZXg2MEpn?oc=5",
-        "source": "offnews.bg",
-        "image": null
-      },
-      {
-        "title": "Висшистите в България: Високи заплати и ниска безработица, но близо 40% работят на позиции без изискване за висше образование (България, Новини) - balkanec.bg",
-        "description": "",
-        "date": "2026-10-20T06:31:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbW5WX0NIclFYRExveU11ZFp2T1BNVG1vdDlyTExwb3dfc1hwVEY5UlBuck5XR09qT0UtZTljTmNuMHhqdlFibDU5MkVDdDV6b1hSV0pHcWdfbm03VUkyOHpvZ0NNejJrWkM1RWQtODRNX1RvakZuQUp2Z0VuRllmQU45Vmt2b3YyUmV2b3Q0S2xkOElER19WWVBGT0JaOWFpS1FEc0pXN0pjak5ULTduWThNLVdoZVBkVjhzVUxtVUhFZnhtU3dsYnFrZVZpZUNzLXU2a2MxSTJXdDdiUEZCVXRFX1ZCNUJsSWZMSFhIUFc?oc=5",
-        "source": "balkanec.bg",
-        "image": null
-      },
-      {
-        "title": "Юбилейни плакети от кмета и областния управител за 40-годишнината на пловдивския филиал на Техническия университет - уча в Пловдив",
-        "description": "",
-        "date": "2026-10-20T06:29:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQOVU4MWd5eWF3TVBmNU5aN191a1FkaDFSNHNGc01DcnJ6QnFSSWVud0NmOU16Yk0tMDlQbWo2Z0Y1bmk1MVJ0LVJQaW14TXhtSjdRU1lWY1RIODNFY0doMzFkN3p1UGduRFVja1NNOFYwRGFJdjNEdWVybWNyNVpCSUV5VW1RU0tveTlrVWJxTjlzYmFLYkxyUENqbVFqa0NIeU9sbEktWDB5TUYxek8tY2NRMXBEUzRJTFZIWmlqYklSSkJQZk5nUFk4ekxvbHN4eGV3bmVxa1FRY0NobE9qclROekpXNmk2VGVlTmI5Z04tWUwtalJtUzZpVkFUUG5EN05BcTZudzZ4ZUcyMVUzazFmaFd0OEo2R21lMXdYMDVYaXlNU1p4R3FkcERvanE3RG9XcEtTWVJtN3ZZMkZWYVhB?oc=5",
-        "source": "уча в Пловдив",
-        "image": null
-      },
-      {
-        "title": "За първи път от близо 20 години частни училища в София се събират на общо изложение - MediaBricks",
-        "description": "",
-        "date": "2026-10-20T05:11:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkF4WmJPWVRrTTVlNEsxUThoTzNxN005SzVSWUpGVkd4LThDQjlocnI3bFlpRmRaYjlCb1JZOVVKVi04VzgzYU81NXE4SW9FRDZVcXJEUnlBNnBpNHdrNG9sdm9NdGx4bldLcmZ1SU1VaG9NUkhyRHI4MmJUMzYwR0J3VUZKWDhzTldZRkI2eVFzWkdXZ21zTHUtbFZSanFmUFdvTEUwT0JoVzZzZXRKWkh2eHpEQQ?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Високи цени на храни, горива, жилища, липса на средства за образование: Социалното недоволство подпали градовете на Европа - bTV Новините",
-        "description": "",
-        "date": "2026-10-20T05:11:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVpEb1ZQY3BhdVJiQ0E5ZTRQZmxOQWlhX1VGTGFSVjJhVkdyUGFDd04taXlzNnhtSFlEX0MwZmtjc211TTI3MzBBUGxGT0ptU2d6TllXWUdOM2xLQl9nbi0xbGpOaWo5Y0hpNm9VNEZEMFZBTUJycUV0Y2VEelN3RFBsWUhNQll4Z2U3Q1U2ZkFMd2NVX2wtT0JDU0hXWXpCVGhXelM2bjVWMTdSeEx6UWhybjBLazBCdkowTjAzUXRTR0xSaWNMRnRTRm9pNnc1a2k5NWYxV1lsNzZJTkw0Z0pPQzU3YnByQ1BTbA?oc=5",
-        "source": "bTV Новините",
-        "image": null
-      },
-      {
-        "title": "51-ата Национална конференция на учителите по химия с международно участие ще се проведе от 23 до 25 октомври - MediaBricks",
-        "description": "",
-        "date": "2026-10-20T03:54:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdVNYWU1NQUJ4bnlSRGxlTEZLOWhjX1FYUXlZMmNoRzlWS0F1QWcwVEYyU1drdHRkaFd3RlZ5djhfa1E2aDd6Z1E4X29VSzJCLU0wUHJuVmV2di1La01ZR0YxVzN4TTdBMlRrZEd4TldFSmlBUGdPTnZhdWhTN1lRZ3FTQklhTHJDRU1RdVNkRzVmTDJzbVFJcGt0WjB1Z29ybDZlMWoyUDMzWUZpSy1sYXBTTDQ1SGdyYy1GcDJld0pMTDZ1YXAxcDUzY01sNUJZNmt1b2xfQjNjUQ?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "БСУ отличи вдъхновяващи учители и образователни институции - Бургаски свободен университет",
-        "description": "",
-        "date": "2026-10-19T14:53:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjUzZmdORTFGZ01tU2JNbE5LbHZ1RFpWVkU3R1lzcEg2Vk1jZmhwRGZraG41QkJHb0tNeHV1azAzWWRiMmNmaDJTaW5lYXo0VmtYdXBOMV9za3JJOGVXN0pObFhMN05vcDkxczNpc1lVN0xLTkc3RnVfanZuM3hYeW9mWUw5bzZSYmVaNnF2MlpEd3BlbF92Tw?oc=5",
-        "source": "Бургаски свободен университет",
-        "image": null
-      },
-      {
-        "title": "50 евро за ученическа екскурзия от \"Младост\" до Железница, омбудсманът поиска проверка - Stolica.BG",
-        "description": "",
-        "date": "2026-10-19T14:49:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXpfakhHeWxCVDNFZkpMZXNkY2NZcmxUZk03d3kzWURVNzVUaE0wS3pCWldzUVZFRlZxWlBSRkVVR01qcWlyVGhfUnNZeTVJLS1raEJmTGhkNjZRZnZQS21LRVh6NC1VcnZXYXFmZ3VUSTltMS1qRmlTZ2tCcE1mR3lDR0NudXBUUmhwY2drMDI2QmRlQ1BVS2hkcVh6WmxUUzNHUFRBdzBVMks5bk1ZVGFhSmdveTI2eE1N?oc=5",
-        "source": "Stolica.BG",
-        "image": null
-      },
-      {
-        "title": "Техническият университет в Пловдив отбелязва 40 години - БНР Новини",
-        "description": "",
-        "date": "2026-10-19T13:48:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnFkcC1GRTlkYjhCb0ZOZ194UmpLYlBNRlVzVnkxMFlSUXprYzZTSWl0ZFdYTGpSSkF0ODM0OGhRV3VRNWxmS212enFUN01ETHoyUHRwN0tiZDdHMFRudVdVc0pJMFNtaWZqdFR4dmxqRkprU2s5SHE0aUo4T1hEaHZZNnNDemlOdk9xcDZJeVh2cFhxS1pNcUlzcHZzNTFxbEE?oc=5",
-        "source": "БНР Новини",
         "image": null
       }
     ],
