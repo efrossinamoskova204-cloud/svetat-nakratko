@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-21T19:44:10.064151+00:00",
+  "generatedAt": "2026-10-21T20:11:18.421624+00:00",
   "categories": {
     "България": [
+      {
+        "title": "\"Алтернатива за Германия\" предлага кардинално преустройство на ЕС",
+        "description": "\"ЕС престана да бъде обединение на суверенни държави\", каза съпредседателят на АзГ Алис Вайдел",
+        "date": "2026-10-21T19:55:47+00:00",
+        "link": "https://dnes.dir.bg/svyat/alternativa-za-germaniya-predlaga-kardinalno-preustroystvo-na-es",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2025/02/23/2852644/384x216.jpg?_=1760986115"
+      },
       {
         "title": "Два кметски ареста ескалираха в остър сблъсък между Радев, Борисов и Пеевски",
         "description": "Напрежението се покачи в края на предизборната кампания след обвинения за загубени финансови потоци и нерегламентиран натиск между премиера и лидерите на опозицията",
@@ -139,14 +147,6 @@
         "image": "https://static.dir.bg/uploads/images/2026/10/21/3038993/384x216.jpg?_=1792604916"
       },
       {
-        "title": "Играта на Путин: Разделя ли се Западът заради войната в Украйна? - Dnes.bg",
-        "description": "",
-        "date": "2026-10-21T17:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTDBSYlI4Z25OczB6NS1wajY5M3h3MXJUQkw5VTFVVjVYUzdoZ0RVTXVZMUhsRDFPNi1KN25OaFN1YzZsLS01S3BIRlBRenA3cGo0ZmlEeVBidkFKd2trcThSVkphUjVJT21ZbkQweG13MF82SExJODhqM2FSdXQ5anRiT2dtRnktd1dRSEQwRmFOaktfSlpiZ0dlSDQ4WXRaaUE?oc=5",
-        "source": "Dnes.bg",
-        "image": null
-      },
-      {
         "title": "Илияна Йотова в Димитровград: Кампанията ни с Кирил Вълчев е кампания за България",
         "description": "\"Имаме нужда от общата работа на институциите, от волята и професионализма на правителството и мнозинството в Народното събрание, за да вървим напред\", заяви кандидат-президентът",
         "date": "2026-10-21T16:55:32+00:00",
@@ -205,6 +205,14 @@
     ],
     "Свят": [
       {
+        "title": "Експлозии в Киев; според кмета Виталий Кличко градът е атакуван с балистични ракети",
+        "description": "Столицата на Украйна е подложена тази вечер на атака с балистични ракети, съобщи в Телеграм кметът на Киев Виталий Кличко, цитиран от Ройтерс. Информационната агенция посочва, че очевидци също са съобщили за експлозии в града.",
+        "date": "2026-10-21T19:57:52+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1229876-eksplozii-v-kiev-spored-kmeta-vitaliy-klichko-gradat-e-atakuvan-s-balistichni-r",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13843312/c2b6ded679a048228bca0c972e0ba138--1--e6e4418c373e4b3cb1a57d404486e731.jpg"
+      },
+      {
         "title": "Великобритания одобри добив от голямо газово находище в Северно море - www.ekonovini.bg",
         "description": "",
         "date": "2026-10-21T19:39:46+00:00",
@@ -243,14 +251,6 @@
         "link": "https://www.bta.bg/bg/news/world/1229845-putin-e-sklonen-da-se-organizirat-tristranni-sreshti-za-primirie-v-ukrayna-na-fo",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14016511/0040d5d2920f466b9926a7b5aee07d97--0--94278a870a0648e6a6e3adfc775f08ff.jpg"
-      },
-      {
-        "title": "Правителствени портали, сайтове на болници и училищни онлайн услуги спряха работа по целия свят - www.24chasa.bg",
-        "description": "",
-        "date": "2026-10-21T19:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzT2hZYkF4bi1nM044ZkI2YWZBeG9iMGZDTFdFUHd4cFlBMkR6RFZSODNaeFBzeGdBSmhBR0UyRm9TMTJUdUZXZWo3VEFHaWxWZk1mVk16NEcwZw?oc=5",
-        "source": "www.24chasa.bg",
-        "image": null
       },
       {
         "title": "\"Алтернатива за Германия\" предлага кардинално преустройство на ЕС",
@@ -381,14 +381,6 @@
         "image": "https://www.bta.bg/upload/13608582/4a64461ed1d64230a109a8f7dac331c9--0--01c737b301cb4888b5abfebd6d13c779.jpg"
       },
       {
-        "title": "Египетският президент заяви, че предложената от Кайро военна подкрепа за Рияд няма да включва нападение срещу Йемен",
-        "description": "Египетският президент Абдел Фатах ас Сиси заяви, че предложената от Кайро военна подкрепа за Рияд няма да включва нападение срещу Йемен и ще бъде ограничена до отбраната на територията и границите на кралството, се посочва в изявление на говорителя на египетското президентство, цитирано от Ройтерс. В понеделник египетският парламент отложи до 26 октомври гласуването по въпроса за разрешаване на въоръжените сили да окажат подкрепа на Саудитска Ара",
-        "date": "2026-10-21T16:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1229775-egipetskiyat-prezident-zayavi-che-predlozhenata-ot-kayro-voenna-podkrepa-za-riy",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13979319/fbaade9c955a4ebf9f4bca474a07c8a7--0--98a75e2a61e8401c84081619e42c63a8.jpg"
-      },
-      {
         "title": "Държавният департамент на САЩ обяви анулирането на над 300 000 визи - Свят - manager.bg",
         "description": "",
         "date": "2026-10-21T15:40:01+00:00",
@@ -403,17 +395,17 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOME9YUmd2bm5xRi1neldObGU1S0RtYkIxc2thMmxzZWRPXzlDdmRNUmxwN0lHaHBwX3VIMW1Qd1lfRU9ka3A3ZldLOTRIQWxkblA5V0tCeFpIQVNqTlUybkc4Y1VuSklFZmVFMWpNaUJOVlRBdW1qS3BpelhVZkliVkd5LVZyV09LTmJDR3k0X3JCZUZvYXBYWWFzMF93Ym44MzZlTw?oc=5",
         "source": "https://www.ekonovini.bg/",
         "image": null
+      },
+      {
+        "title": "През септември публичният дълг на Обединеното кралство надхвърли 3 трилиона паунда за първи път - 3e-news",
+        "description": "",
+        "date": "2026-10-21T13:43:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcHdXNEM5Ulg4bW9pb1VlM0dISTNHdFoyalV1SHNKMFFpbnpTQWdNcDF6WGpiQlZGQzhCLXRHaVU0ZUEtTV9oLVZFQmJ1RnBiMFZuMTRlVWVia2dTN2tKcTkzc2FYUm5IQTVQOTN3bkFOd3FJcEtmUHhzSFRpYjJUNnd3N2dHLTRxT0tZcWpfQmUyWDdmR29JZUNncnJMTzFaVVM2RmJKTnk5WXg3dFBaQ2gwdVI2dmpDbDZEbHVHZHJqRG1DWUZ6ajdIQUo3UQ?oc=5",
+        "source": "3e-news",
+        "image": null
       }
     ],
     "Наука": [
-      {
-        "title": "В Европа масово изключват държавни сайтове - Новини СЕГА",
-        "description": "",
-        "date": "2026-10-21T17:04:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFpMOWlJVDJBWGVJMFc2V0pHbU1UQ1pCa1VUdXljU2VrcG5HeG5DaERobWZ3RXhtWU05Mjg5Uk1XOFBxOFRvb1IybU9HUGY2NE9jN2I5dkxyanlrTDZWblYyRUtXZWxPbTkyX3lPZk85OWFvT1BwZEQtanRsUF9KNl9fZVVuMmFoWnFvci1La2FoM1A0STFF?oc=5",
-        "source": "Новини СЕГА",
-        "image": null
-      },
       {
         "title": "\"Точно днес\" за наука, визия и вот - БНР Новини",
         "description": "",
@@ -787,11 +779,27 @@
         "image": null
       },
       {
+        "title": "Над 50 катастрофирали НЛО в тайни хранилища на САЩ? Д-р Фил с шокиращи твърдения за извънземни технологии - Blitz.bg",
+        "description": "",
+        "date": "2026-10-21T19:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMDYyLUpudE5hOURTdWxsVGxTZGxkdDgzbnk0LV80STlaVW5STzgydW1sOHpEZmVXbFVVUlN4bTRiemw5QTNVenFlcUQ4MTVNdzNCVmw5TUY4UzVqdENBa0d3YXh0ZUF3Yzl6c0hjUVBqVEYxQVgxdUxadFBtRURNVVMteWhOeGNVd3FwQ2hmRE9tZjk2LUxDcHhUdFIyM2xVZkFDX1k1cmVHbk9jamtZcTEzQWdHV1VzOTA1VmpLWlhVV0YwSGtzbmFUSHFITkRZb3pvVGpNazkyY2hZaXF4c3FtWFFoOG8?oc=5",
+        "source": "Blitz.bg",
+        "image": null
+      },
+      {
         "title": "Как изкуственият интелект променя творческия процес? - Investor.bg",
         "description": "",
         "date": "2026-10-21T18:45:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUdOZnVCM3FRcVBNVS1ZdDh6V2JfNHV5bWtlQU5KdEpoUk9lZzlVVEtKcUlxRjI4NXFUZXg4VHotRDlHcm8tcG5KTHhmMjhBYUpCczRIa0UyaGliTTB4WHdBdE9sX3FHUWZDTmNBdE5QSVBBcW1NYW9DU3ZLaHlBYjRfak8zWVppU3c1aU5nMkhhdG5nTjlhYTRFYXNrekVUa1d6YXZsaDkwcDg4MXJR?oc=5",
         "source": "Investor.bg",
+        "image": null
+      },
+      {
+        "title": "Шефът на Nvidia: Всички отрасли трябва да станат компании за изкуствен интелект - DUNAVMOST.com",
+        "description": "",
+        "date": "2026-10-21T18:42:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX3ptRU00aG5Md21fTUg3Wl95ZWhVRmxhNmlpOXN3MHhhYkQ2MGlPbWNnU2t3XzdkRjZaRldENHFCcmZfSGRnUl9McnhyR0hQNnQ1S0J3a09sQXJMczlGbnpERXVSandEUXB6aHZ1VVMtenFnTWwwMWNZNEpZOXN4ejlGbkFLRGk0WWJwa3V4VUNnSGpOQkxmZ0dUQmZwazVNVzVJSlhBZXVzMTNZa1hhU29FZ3M?oc=5",
+        "source": "DUNAVMOST.com",
         "image": null
       },
       {
@@ -803,11 +811,27 @@
         "image": null
       },
       {
+        "title": "България и Виетнам обсъждат сътрудничество в химическата индустрия и рециклирането на отпадъци - Novinata.bg",
+        "description": "",
+        "date": "2026-10-21T15:44:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkl0RDdTZUxMcmpiVHJ5Zjd4aVd1X1JoemFRVVJ3SFBHbzFjWkJ1WHdUdFQ3cVBlMHRxRHk4U1pBVHdvWHl3NmxwUDhkamhEcHpucktJSDlFcmdCcTFGY3YtRzlnd0RDbURScERaMzhYTWFZcDlMYjVmek84V3hOYWNsOWtKUnhRbnlYMUl3WUxONU9kakVwT1MtWnJzLWRreV9DOERScmVvTDJrUTYxeUFtazBRRDhRaERSNE9adkRSd2J5OFpj?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
         "title": "Шефът на Nvidia призова Европа да заложи изцяло на изкуствения интелект - Бизнес новините",
         "description": "",
         "date": "2026-10-21T14:39:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnJUNjVVZjJWWDlIU1V5dzE1UFVRcGZPNmowVDFqdjVjSTRFby1BTFVOOHpKaFFpd0VMSVIzVzVfZVZzZzNyX2RRSkRMb29iOFBUU3JzamtVVVUwZlQ1YnVLYkhpNHFIN0UxblVCNGQySjZJd0dadzl1T3VPTkQwNEpKQTBuMVpyaUJoX1AtbkpJRnVXR0dtYmJlZTVOS19WMUQ4REI3cXpHekpnNExQMS1kZV8yd2VYUWpN?oc=5",
         "source": "Бизнес новините",
+        "image": null
+      },
+      {
+        "title": "Пловдив разширява видеонаблюдението на 13 кръстовища - paragraf.bg",
+        "description": "",
+        "date": "2026-10-21T13:47:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelBVTjFGMVpsUS1FODJzRUl2ejhGWjhmTVNXZXg0LXE2aXVzcTRpVVBUZjU5VWNsV0NLYUFjVEhGQWZCdk9hVlctaG56ZEw5azhjNUQyUjRNUW1nZTNFdVV6cjhuV05QWWVKUmJKMlZ3aVVyMkdKR1BxVzRiYnBiOGRsVQ?oc=5",
+        "source": "paragraf.bg",
         "image": null
       },
       {
@@ -843,6 +867,22 @@
         "image": null
       },
       {
+        "title": "Ученици от Русе спечелиха международно състезание по технологии за цифрови близнаци в Италия - Ruse24.bg",
+        "description": "",
+        "date": "2026-10-21T13:15:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeS0tYl81bllhV3lXcjMxYXY2RzRES0h0ZXMyMjhfQVJjSHNoSFZiZWdScENxZ1RiYm9FeHBtMTlOSTBaN3NqUnpyRDM0a09GU3JVcm9tcGlxTEE1elRlaHp2OGxhbDQ3UDdvV3AxMUFtUHBsUmlLLUowaHRYTUlfdUV4Nzd0X2pBQXBaVUtOV0FrNlVwM3BwYlllVWNjRy1vNFp3bW83ZlljV3FucEplMnFnajB1WmZRc2FtNk96YlVGdnFGQV9Vd2tlLWN4bGQ3c0dXeQ?oc=5",
+        "source": "Ruse24.bg",
+        "image": null
+      },
+      {
+        "title": "7500 тона до 2030 г.: Москва сменя геополитическата си зависимост от китайския церий с технологии от СО РАН - Поглед Инфо",
+        "description": "",
+        "date": "2026-10-21T13:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdHVaSzhoQnB6dE1Rb0ZST2N6Zm9CLVdhY2tWcWlTSDAxODNjd1Nkc1FkVGhtMF9Bb0VaQ0lrT1BmUTBadFY3ZUZYdmJ1TjNocE5yaEpUVFRfRnBHVWFoNVNtQ1Z1ZnR5UU9abElHMkhySVVKSU9YM1JuSWpseUpaVkNuNDdKV01ObHZ3RWtGdU9DaDFmZUtodUNJZk92NGc0Tmw4RkN1ZFpwQ2JxZTJLNjkySVppMXJhTXljTEE0VUw1S3BKNzVjWF9taE9rblBPTVlWb2tUV3ZfMGd3Tnc?oc=5",
+        "source": "Поглед Инфо",
+        "image": null
+      },
+      {
         "title": "5,6 млн. евро за модернизация на 10 предприятия в област Добрич - Agrozona.bg",
         "description": "",
         "date": "2026-10-21T13:00:57+00:00",
@@ -864,6 +904,14 @@
         "date": "2026-10-21T12:01:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iNFBXaVpjRkZJMTdvMlJjRFR2WUdoSXhtR2xlWGlFQ1JJdExwVnIzVEF3U2RGdVlUaXZRUFlxbmJnSWZReERjVFh6TzFTTmF1?oc=5",
         "source": "Българска стопанска камара",
+        "image": null
+      },
+      {
+        "title": "Посочиха огромен риск при електрическите коли - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-21T11:09:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGd5QnV3LXY2eU92TzFDZG1ldjJrRG1FcGJ5M0Fmck1uZWhOMzFIRmxkXzlYOTUxMzVrX0hFSXFMdXFPSnJMN3NIdFFFbDJoZDlDcGx0UTU5UjJIT3d6ZTJROVRpdVVBcHdtUFF5NWZ5M1dHYkVkaFBDbmJqeEM0QlhxTmFkQ0syeEk1Rm85OGYxUU1NOE51OG9fYw?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       },
       {
@@ -899,6 +947,14 @@
         "image": null
       },
       {
+        "title": "Петролът като геополитически риск: Как нестабилността може да ускори енергийния преход - 3e-news",
+        "description": "",
+        "date": "2026-10-21T09:47:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVM0RDZvZlI5dmtaSzRfUW03VThEMG9PM2c3YkRMU1dyb2VVelliR3lHY1VJZ21wX3lVeUZUSWdfVnFJUnpYNnNsNkUyN3FZS21DQXNsXzBRR2VzNk5zWjFJUHJZNHh3bzNtZFJLdkp3YlptY2RGRHlJSEpVWFJzTmJxejVFOWxJT0xhV01rUVBoaEtHYWJ1WmRYOExYTFVDT0NKOGRieFFYMER6ZTdGQkFaVTdzR1JmMWtPT3FCY0Q?oc=5",
+        "source": "3e-news",
+        "image": null
+      },
+      {
         "title": "АПП: Пакистанският министър на информационните технологии се срещна с вицепрезидент на Световната банка - Делник БГ",
         "description": "",
         "date": "2026-10-21T08:52:00+00:00",
@@ -912,70 +968,6 @@
         "date": "2026-10-21T08:42:39+00:00",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORE4yMGpjNWdPaW1mQy02b25kMWh6ZlA0dDNMQkhsc0d0S3FWZXdUYldKYXZ5cTNXQjRwQ2ZuU1hrZUtlNDNDSzIyd09XRUFXenJOUVFIVFhxQ3E0U0ZPdGx1d3NlT0ttSEk4Ml9QVmcwWFZxbEZEX1RKLUpTbmJwTDdncWd4amlfay1kUWVjeVRUMlptdzhqdkkxU3dvd1NxZmRUNEZfQVhDQXhIekM2Nlhta2Vkd0xSdVQtMVg4anM1ZUwwNVZ4cjhOT2ljdkI3cHY4ejRUQ3Z0a183aFU5QW84dGllMks1c01nR2FlUQ?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Най-мощните модели с изкуствен интелект на OpenAI са деактивирали собствения си мониторинг. Един от тях е излъгал за това - Технологии - manager.bg",
-        "description": "",
-        "date": "2026-10-21T08:29:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPU19NdmFFZDVoWTM0UFNrdEVTbERza3hwS2ZSNEpFTHdYMEp2d1hpTVZsUFpyUDFMb2N0S3J1WE95N2hfclN3MXpiMWtqWHpIWWtXWElNUi1uQlNFazd6UjRQTEVUOHpKa2JwUVRpMjZnRkd3SFhnNXRQcUotaFYyWVpNWWRhSnJtNDFxcVdmSS10V0ZmaklzSm5wZ2hQcDJ1MWZvcFVSMEkyc2dmSndWRFdiaXhRelRLbzc1dWVDcElqQUVBdHBCclVVeXNsMWhVN256NEZfRWZJVUxNcEVGVmRlUzVkSGxTdkNhdm55Yk1BMXZIWnNuWGdoTkV5a1RSNm9YX0RXRkVScy1qYXFZWFc4LTVLQVVVSWJSRkZYNXFpUklQR0dr?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Хуманоиден робот гостува в Русенския университет + ВИДЕО - Rousse.Info",
-        "description": "",
-        "date": "2026-10-21T08:17:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzBGWUNoTWk3b2loYmJVWHdmbUZfMk9WdkhnN3laNkdsYW1NWWRWWFhuT0xCREVrV2VVNHpkcUNNTHYxTE1ydHFMLXNTOHdod2FWZnRNbnE5b3VXZkNVMm1tb1h5S1k2TDkzS3JiNk5oNHV6eTA2cUdQLUZmcDBnLTZB?oc=5",
-        "source": "Rousse.Info",
-        "image": null
-      },
-      {
-        "title": "От човешкия талант до AI: Накъде върви дигиталното изкуство? - bloombergtv.bg",
-        "description": "",
-        "date": "2026-10-21T07:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclVDWFJBaENZNkZ0RkZKeDE0cFplQTdTRTZISDdFcWpGQzdCY2JaLWljb09CWi1mNTVhSHJmVVpEWEhVLXp0NjVTUVNnTEZxRnloOXd4NnR2R3F6dEx3UnI2WVFvRDBnQlFQVjhSSFNhTDBaV3p1Y1pvZFBLbUhIenk0YkNUV3hibURJSGJrMzVkSTh5dTM2c2t5TnVqN1lqLVdocnFMVGVVX3otT3p4Mkl1WQ?oc=5",
-        "source": "bloombergtv.bg",
-        "image": null
-      },
-      {
-        "title": "Илон Мъск: Сливането на SpaceX и Tesla \"би било добра идея\" - Бизнес новините",
-        "description": "",
-        "date": "2026-10-21T06:31:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGJkdWNVb3ZkbzJQTDd0YUx5b0JjeUhoNDhaZXNqSU1oUHZnX3phU2xzSnR1YVh0aWNucVVjTnlVUV85dUg4WnVJNllHQ0EzQ3hyaVByRWgtU2libUNJbnd0VmxMWVNqOExLYVhnS2FncUZOUDZvelg5Z2JJc1Y5N1ZGME5vWTM0aVg3Vmppd1pLQ1BjTHlPbVVkZmM?oc=5",
-        "source": "Бизнес новините",
-        "image": null
-      },
-      {
-        "title": "Хакерът вече може да е в хладилника ви: Новата идея на Anthropic за AI - Бизнес новините",
-        "description": "",
-        "date": "2026-10-21T06:11:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmN3eWsxVHF0N2JJaHlVdWNidWwyYkhfUXRNMkJSN1VoOEx6R3FWOTZJbkJBNWxoSE1xU2xWSldLV0ItQ2g4NGozaGdYaDJBQTM0M3EzOTU1N0tjYzVyODAzUVp3YUYydmhjVUhRVVhvZzRvZW5lSlJXSDE5elVGaU9BNENnN3VXbE9COERPX2ZncFVrQ2dGbnpXUTY2dVF5WnVVM2ZMaXVvcGl4eHRzMVBPNUg1M1E?oc=5",
-        "source": "Бизнес новините",
-        "image": null
-      },
-      {
-        "title": "Иван Василев: Все повече български фирми разработват технологии за отбрана - www.24chasa.bg",
-        "description": "",
-        "date": "2026-10-21T05:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WUUNlRzBuSFJ3RXEyUGtfX0Voa3NDMFZnamZOOG9ybkM5d3F0d19NMXBFSXZYaTFnWGVqSHN1NFNLTUNPZS1CRHo3ZW1KNGk5UnBBSmJTdGpXdw?oc=5",
-        "source": "www.24chasa.bg",
-        "image": null
-      },
-      {
-        "title": "Solve for Tomorrow: Как една ученическа идея може да се превърне в решение на проблем - Mediapool.bg",
-        "description": "",
-        "date": "2026-10-21T05:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFRKMldwdE1BTmJFdWlVLTY0dzkzN2wwcXUxa0lQNzExSVVXNW1Wd1pySl9VbndSMHV1M3VLa1ZmclY4OF8wWnc1LWZJSnM4Zm9Ca2lETVczVjlQV2U4elRIZUE4ZXEzNGdxYlBRdlRqYXpHZEtQdGFjOURoM1BuLW1BaHo4c1A5cUdrLXlZdlo3eXh4Q1JUd2dTQW0wRHVfVnJodl9qYVEyTWZzQTFpeHFUam1sdXdMYmtUekJwcDdyLUNaTUE?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
-        "title": "Явор Куюмджиев: България може да стане плацдарм за китайски технологии и производство, отговарящо на изискванията на ЕС - ФОКУС",
-        "description": "",
-        "date": "2026-10-20T17:26:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc3JJV1dTUXJ6WlgtTENUNVRJSHZzWTRPdmxnOWtQcWxJNVdjeXFWekR6X3F1TXNpUVBiMmtnLVAwYVJiZ1lDVU1sMnZkdGljOHhkTEVxUW91bEUyQ21tS09DOHhrem5uaHpEZ0NGakFIbEhWMGVodHR2YmZMdGpTYW9oY1lUOVladGNIT1dPcG5QQ2ZGX0pqclBrQ05UX2JoUEJyR2VmQWMway05MWk3bkN2MlB0Z2NLMTl0TTFtRnE2akd0RmRxbmxTT2JSWWQ2d0FEd1Z0WU9wYm5KNEdvU1hGd1ZnazNBYVFiSTlqWmlTV2YyWUVKNHpsTDdlbzcxLUowakxzWFc?oc=5",
-        "source": "ФОКУС",
         "image": null
       }
     ]
@@ -993,11 +985,11 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 21,
+      "count": 20,
       "feeds": 1
     },
     "Образование": {
-      "fresh": true,
+      "fresh": false,
       "count": 25,
       "feeds": 1
     },
