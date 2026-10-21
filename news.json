@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:39:47.490521+00:00",
+  "generatedAt": "2026-10-21T00:04:49.031046+00:00",
   "categories": {
     "България": [
       {
@@ -205,6 +205,38 @@
     ],
     "Свят": [
       {
+        "title": "NY Premiere of \"The Terminal List\" S2 - БТА",
+        "description": "",
+        "date": "2026-10-20T23:43:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyenBGb0ppazk0emxTZXlpZEROQXU0SWVWMDFVOXQ5d0lyN1l4OU9fQVJKTUF3WWxUb3I5ZWpyQm5xVHE3Q3R4TFFjRkthZy13Uzl3ckNpbw?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "NY Premiere of Nocturne\" - БТА",
+        "description": "",
+        "date": "2026-10-20T23:43:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QZy1ma2h4c2VidXByYTFvLTBQRFJaempaRHRHSF9tT2V2OWtTN2VrWmZzZ2JUVXdBell2QlB1MGl3UW42NDhuUFh6TTRnVl90cFJBV1B5OA?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Bolivia Protest - БТА",
+        "description": "",
+        "date": "2026-10-20T23:43:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HTFRxaGFxT2NETWxaVW03Skw5R3RqRi1wTGFQRTB0S1JfRUZIQ1JsbWZ5ZVJGdFRSMEw0SVN1ZzNEWWplVDVNZThZR3BUVXdqLXpDVVNWVQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "В Пакистан бе задържан мъж, ощетил с фалшиви етикети Пощенската служба на САЩ с над 126 милиона долара",
+        "description": "В Пакистан бе задържан мъж, ръководил схема, по която в интернет били продадени фалшиви пощенски етикети, ощетили Пощенската служба на САЩ с повече от 126 милиона долара, предаде Асошиейтед прес, като се позова на властите. Националната агенция за разследване на киберпрестъпления съобщи вчера, че Фахим Акрам е бил арестуван след продължило няколко седмици издирване, по време на което са били извършени обиски в различни части на страната. През сеп",
+        "date": "2026-10-20T23:35:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1229037-v-pakistan-be-zadarzhan-mazh-oshtetil-s-falshivi-etiketi-poshtenskata-sluzhba-n",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/3310003/58f93513e3574beebfe9f72595cc2a7d--0--967c713145214d9bacfdc24c968db9bc.jpg"
+      },
+      {
         "title": "APTOPIX Netherlands World Championships Gymnastics - БТА",
         "description": "",
         "date": "2026-10-20T23:32:47+00:00",
@@ -371,41 +403,17 @@
         "link": "https://www.bta.bg/bg/news/world/1229028-tramp-prizova-ukrayna-da-se-saglasi-na-sporazumenie-za-slagane-na-kray-na-voynat",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14014259/c2982dcd248b4f33b8b3fc70cc4494dd--1--888cfb36d38f4611a6ab52e8566ccaee.jpg"
-      },
-      {
-        "title": "Демонстранти се залепиха с лепило на пътя пред завода на \"Райнметал\" в Берлин в знак на протест срещу износа на оръжие за Израел",
-        "description": "Протестиращи се залепиха с лепило за пътя и блокираха достъпа към заводите на оръжейни производители в различни части на Германия, включително в столицата Берлин, предаде ДПА. В берлинския квартал Вединг няколко души се залепиха с лепило за асфалта пред сградата на оръжейната компания \"Райнметал\" в знак на протест срещу доставките на германско оръжие за Израел. Властите отстраниха протестиращите от пътя, съобщи говорителка на полицията. Според не",
-        "date": "2026-10-20T19:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1229027-demonstranti-se-zalepiha-s-lepilo-na-patya-pred-zavoda-na-raynmetal-v-berlin-v",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11514048/cc24c3da9054432ab04754f58dcc0d74--0--768d9af1f2e54afd8f61fb47e069b093.jpg"
-      },
-      {
-        "title": "Украинското правителство прие регулации за справяне с последиците от руските атаки",
-        "description": "Украинското правителство прие днес регулации за справяне с проблемите, създадени от руските атаки срещу ключови сектори, предаде Ройтерс. Правителството издаде едно след друго две постановления, в които се посочва, че определени служители ще носят отговорност за координиране на усилията за справяне с последиците от руските атаки. \"Определени министри отсега нататък ще носят отговорност за справянето с последиците в секторите на енергетиката, отоп",
-        "date": "2026-10-20T19:17:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1229026-ukrainskoto-pravitelstvo-prie-regulatsii-za-spravyane-s-posleditsite-ot-ruskite-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/167306/cde1f59369b24b64a6a6764fe79fd1df-cde1f59369b24b64a6a6764fe79fd1df-75e036f615fe4c7bafadcfa86beb44c8-b62c7.jpg"
-      },
-      {
-        "title": "Британската полиция арестува повторно двама мъже по подозрение в съдействие на иранското разузнаване заради инцидента при базата Феърфорд",
-        "description": "Британската полиция съобщи, че е арестувала повторно двама мъже по подозрение в съдействие на иранските разузнавателни служби в рамките на разследването си относно инцидента при военновъздушната база Феърфорд миналия месец, предаде Ройтерс. Военновъздушната база Феърфорд бе използвана от САЩ за нанасянето на удари срещу Иран, но американските бомбардировачи Б-1 бяха изтеглени малко след като петима британски граждани бяха арестувани в близост до ",
-        "date": "2026-10-20T19:03:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1229022-britanskata-politsiya-arestuva-povtorno-dvama-mazhe-po-podozrenie-v-sadeystvie-n",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13927560/bee425f2a4ec4f2a98ee8c692ae02ea0--0--79b77c588a1a4f838501c38e5f100722.jpg"
-      },
-      {
-        "title": "Мелони обяви разполагането на войници по улиците на Милано след безредиците през миналия уикенд",
-        "description": "Италианската министър-председателка Джорджа Мелони обяви днес, че до края на годината в Милано ще бъдат разположени 500 войници в подкрепа на полицията след сблъсъците, които избухнаха в града през миналия уикенд, предаде Франс прес. Мелони посочи, че на заседание на правителството са били одобрени също така мерки, целящи да улеснят задържането на непълнолетни, налагането на глоби на техните родители в случай на нанесени щети, както и за престъпл",
-        "date": "2026-10-20T18:45:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1229024-meloni-obyavi-razpolaganeto-na-voynitsi-po-ulitsite-na-milano-sled-bezreditsite-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14000365/43e82303126f4759910e6c07e96a6dac--0--a0f916b0c2904a91813260b8fa44b31b.jpg"
       }
     ],
     "Наука": [
+      {
+        "title": "Маймуните също избягват микроби след вирусни огнища - БГНЕС",
+        "description": "",
+        "date": "2026-10-20T23:54:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzFna1lZeklqTUZYbjg3LUZ3aG13RkZENWlNM1hFVEJPbEJmbmZUUHFwRS1aT2RSWEtDTmVZdktkMEVxdTE4YlRMbjNPQ2ZvQnM3YjN6TDlUbmp6UlBwWFFGRE1TUXotTXkyRUxwZmdZS0xyVnltQ3Z4RWgxZElMUm53?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
       {
         "title": "Пчелините кошери функционират като жива имунна система - БГНЕС",
         "description": "",
@@ -463,14 +471,6 @@
         "image": null
       },
       {
-        "title": "Над 60 учени и 94 събития на Пловдивския фестивал на науката - БНР Новини",
-        "description": "",
-        "date": "2026-10-20T11:16:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2o4TGRtNlkxNlI3NlVJYktoUTJxaS1sd2NVMExkRjlNdDE2LVVzZ1FsZm9jQXRrNS1YWlhrNTNMR3g0TlJtZGNJWGIxal9oR1laaUtWbnR3R0JKNWtjRmRCRF94NFoydzRWWUwwMWVWNTJCdGt3RDRXd1lXbmZsMF9zZ0hESTZGNnlxZHJ0MnZWcmJKV3VHdHlTd1V4SWdCV0JLWGl3?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Наука, шоу и иновации на IV Пловдивски фестивал на науката - БНР Новини",
         "description": "",
         "date": "2026-10-20T10:36:55+00:00",
@@ -484,6 +484,14 @@
         "date": "2026-10-20T09:31:55+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDZyNHBUMzNIS0hUXzMxOU1yZWdBUFdKQ21EdmNCaWR6bzNlYmJXUkhtQmFscllRZkVURFJyd1ZBWGtpWGhGM2hFeFRhSVFrRmk5QlBZcTRFd1pNc3dlU0xJaFRCSmVCOVd0bGp6VzVYMkZoRnNjS3N4em14SGNMVks4X09BX2RCMnY5eEtnVHJTZ3liTHZrWWVaZmlQOHRw?oc=5",
         "source": "Новини СЕГА",
+        "image": null
+      },
+      {
+        "title": "Над 60 учени и 94 събития на Пловдивския фестивал на науката - БНР",
+        "description": "",
+        "date": "2026-10-20T08:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVNFNVhjQUJxT0p1WHMyOGNLaDJrZnhmdGtvajA3YzhrRXA1NllSUmhZN0ljMkh6T0hDQzFsSTFNY2xWcjJZRjAwRmVBMGNsRXk5UnUwak82SFFvM3BIbllCZ0pYYVgzYTJ4YlY1NlcybDNUcGpVenlwTWk5cXhiV0J1bEltNlN6aDEzUFZxRTlyNkNobGtLRldTRGVlQ1U?oc=5",
+        "source": "БНР",
         "image": null
       },
       {
@@ -641,14 +649,6 @@
         "image": null
       },
       {
-        "title": "Министър Вълчев: Ще улесним достъпа на учениците от неделните училища до нашите университети - www.24chasa.bg",
-        "description": "",
-        "date": "2026-10-20T13:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sRHo5YnNkQlVFY0VnLTRGTEtTMmNCV1dsWkNwZHVWUG9NSVJHYkJHQUdZbVFHUGNaRzNrVGxiYV9YX0R0YWR2bDJKdjNHYnVab3FrVDEyNFdEMUlM?oc=5",
-        "source": "www.24chasa.bg",
-        "image": null
-      },
-      {
         "title": "Близо 40 на сто от работещите с основно образование са под линията на бедност - Вестник \"ДУМА\"",
         "description": "",
         "date": "2026-10-20T13:10:09+00:00",
@@ -769,19 +769,27 @@
         "image": null
       },
       {
-        "title": "Техническият университет в Пловдив отбелязва 40 години - БНР Новини",
-        "description": "",
-        "date": "2026-10-19T13:48:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnFkcC1GRTlkYjhCb0ZOZ194UmpLYlBNRlVzVnkxMFlSUXprYzZTSWl0ZFdYTGpSSkF0ODM0OGhRV3VRNWxmS212enFUN01ETHoyUHRwN0tiZDdHMFRudVdVc0pJMFNtaWZqdFR4dmxqRkprU2s5SHE0aUo4T1hEaHZZNnNDemlOdk9xcDZJeVh2cFhxS1pNcUlzcHZzNTFxbEE?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Първите 15 студенти започват обучението си в новооткрития Медицински филиал в Добрич (ВИДЕО) - Про Нюз Добрич",
         "description": "",
         "date": "2026-10-19T13:27:58+00:00",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb1B6MDV2TnpoVUc1YURTNVRkd2hnXzlNaU90UGUtNlVUVXBlSm5wdXhYYzE1ZENRTm1HRlUyMTh4bVJwY2JUMWdtbzRnMHBqTk9VSVBhS3FQX0RaTHd0cEQ5akg5R29TaFBqQzg2V1F1dVZyRDM3NTR5c05CYlRLbGFMUW5xN2dQaWV3dXZfNS1CcEVrOV9LMWJwelllem9ScXpGT0lfRGlNdFRCYTUxXzJpSXhFVTV5c2Rta3g5VFpmd2xhOXRCdExOMA?oc=5",
         "source": "Про Нюз Добрич",
+        "image": null
+      },
+      {
+        "title": "Медицинското образование се завърна в Добрич с филиал на Бургаския държавен университет - Про Нюз Добрич",
+        "description": "",
+        "date": "2026-10-19T11:27:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1V0c0pBaDVYdlN0aHEtbFZjMWI5UGlDQ2NsMmdicXIzS19JOVF2aVVOQi1YN24zM2V3bElzd29mNENzMFlVUV96d0d0bzZxMmtzeUlXeEVpbmRwS2g0MmpxVnBnbkZ0anRoUGhCaXd0MEwxOGFnZWRwV3FBdWlRUHB6STBraktTR0JLTVVjd3ZwWjNiNzdkbm50bFRpdkNlNTFYVTNuZzNvVTk1UjZnQUM4Q2NfUQ?oc=5",
+        "source": "Про Нюз Добрич",
+        "image": null
+      },
+      {
+        "title": "Пловдивското висше училище освободи професора с над 95% плагиатство - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-19T11:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDJSX0lINGFLa29aZjh6c1JjbEZDV0RCMlpWTEVwTk1nWEZlaWE4amhHUlhrR0NULTNYaGRvNl9QQ0xNWFNkRU5ZVnFTalBPWTZIT3dBTlFqcjI4anE3a2FYMnBzTkFqRVVsVFBMZ05hc3F0bWY2djRjbTdZR2FnRUYyQk9wNlJYTUNwcUJOZ2wtOEJCOHBtZGdlRlAyS1BrcUhFV1lIZFh0UQ?oc=5",
+        "source": "Dnevnik.bg",
         "image": null
       }
     ],
@@ -800,6 +808,14 @@
         "date": "2026-10-20T17:26:49+00:00",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc3JJV1dTUXJ6WlgtTENUNVRJSHZzWTRPdmxnOWtQcWxJNVdjeXFWekR6X3F1TXNpUVBiMmtnLVAwYVJiZ1lDVU1sMnZkdGljOHhkTEVxUW91bEUyQ21tS09DOHhrem5uaHpEZ0NGakFIbEhWMGVodHR2YmZMdGpTYW9oY1lUOVladGNIT1dPcG5QQ2ZGX0pqclBrQ05UX2JoUEJyR2VmQWMway05MWk3bkN2MlB0Z2NLMTl0TTFtRnE2akd0RmRxbmxTT2JSWWQ2d0FEd1Z0WU9wYm5KNEdvU1hGd1ZnazNBYVFiSTlqWmlTV2YyWUVKNHpsTDdlbzcxLUowakxzWFc?oc=5",
         "source": "ФОКУС",
+        "image": null
+      },
+      {
+        "title": "„Мениджър“ отличи първите победители в Technovators League - Technovation 2026 - manager.bg",
+        "description": "",
+        "date": "2026-10-20T17:24:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2RydVB1aTJudEFIbVVNd2N0R3pUNXpUdkRWdTRZei03cGNQanhwRDk4dFV1NG5IU2o1SnR3c2MxTWU1RTFsUVJtT0VkU09rVER3N1pmQ2Yta0xTSlA3dmNPaDVYaHJXYkY5aU9lXzNtWlJ2N1ZYZHl6ak1Kd3psZ0NyTndHTnpyVHVzYk02OExNTHZsVVJLSnVpcWlNWnRSYk5r?oc=5",
+        "source": "manager.bg",
         "image": null
       },
       {
@@ -886,7 +902,7 @@
         "title": "Кипър разширява подкрепата за бизнеса с космически технологии - БНР Новини",
         "description": "",
         "date": "2026-10-20T11:46:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFZhdmYtS211M1NqZFFISzB0TEVBY0pjdHRtSDhBc1dLZlRmanJCOW9fbFRiNEkwNmpoMzRkcHZjTlRjMk0yOXE0WkRpLURhTHlKNHl4OVp3ZFpWWUJNcWxGUVBkQnJQc3ZyQ1VHNGlXZW9kLUpzMEtyOFRVODl4RldHWTNMMkczTm1Rd1YwT05NVDY1b2o5Tkx3MnFWd2tsYUZDSnFCNkpTbzA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTZoWHJtc3NabkpZbzBleUtxdTV6M09SVnZ3b3cwQnpVV2ZtVU9TanFoX1hhSmo0OVFZaGhZWUVTb3hEa1pjM3o3WU9LTFB1ek5oams3aDd1T0NLNlMyWGtzQ1VmSG0tOWhaNndvdUhjVGh3T2JlTnhRZlJGaXFVX2pZT182QTMtZjhHMXU3SklOODFTSm1xaDYyUmdfTzVibGc?oc=5",
         "source": "БНР Новини",
         "image": null
       },
@@ -904,14 +920,6 @@
         "date": "2026-10-20T11:33:12+00:00",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQmE4bTNHTTl4RHBVdXg0N1pYOERGdHhLY2ItOXFYY1ZqUzZmVktuYmVuckhHbGpuc0V6UERDM1BFdXFybndneThMeHoxUTc3elhWV1V0NjRlNWVFT0lSTEt6UjJZeWdWdUFxTWtveE9vUHF5VUNaamlBRHhTWEpnejFBQVZmZERVZ3VHdW94ZDBtRUlySXVaVVJPUjVMeW9KZVdhSE1WcmRheTBRbG4yZ1dfbEVyNEp2WEhZYkZ3dw?oc=5",
         "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "„Медикус, Денто, Галения“ 2026 среща здравеопазването с технологиите на бъдещето в Пловдив - Горещите новини на Подбалкана",
-        "description": "",
-        "date": "2026-10-20T11:15:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3p1ZU0wTDZFY19iNEVwMVFJd09VMllnNi1ER1VkeklZbGU4aE1sMUF5SzlWb2RGQW5UX2ZPcUU2ODZmcm1udU5PSWhOdEc5eUhJNzF4YjFCTU1HRmdLOFZiUG4yZmJaZWpvQkZuYkR2TTZOVHlwV29YTE1meVl2V2xvUGk4YkxETWJDWGd2TlMzNy1ua0t4bzVkSUN2Y2kwZEQwMVlvRUVIVnBSR3ZxeXdBRHlPSVZ1bXFoOHVoLVAyVXIwTVVNZw?oc=5",
-        "source": "Горещите новини на Подбалкана",
         "image": null
       },
       {
@@ -1001,7 +1009,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 22,
+      "count": 23,
       "feeds": 1
     },
     "Образование": {
