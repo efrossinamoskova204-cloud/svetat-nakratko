@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:14:27.548645+00:00",
+  "generatedAt": "2026-10-22T02:48:20.504628+00:00",
   "categories": {
     "България": [
       {
@@ -237,14 +237,6 @@
         "image": "https://www.bta.bg/upload/13799502/023c76ef789443bd955d72be7162744f--0--803465f2edea4576b9d3b7c0895c1720.jpg"
       },
       {
-        "title": "APTOPIX Netherlands World Championships Gymnastics - БТА",
-        "description": "",
-        "date": "2026-10-22T00:09:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lX2ltUFd3WXROZkM1eE5VQXZKMlhHYzk5NFg5ejlHLXFZTHJwOE9KdHJFQTh0LUtROHhqZnJsX0tOOWx3MXh5VldzSWlfVWM?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Един загинал и осем ранени при атака срещу международното летище „Крал Фахд“ в град Дамам в Саудитска Арабия",
         "description": "При нападение срещу международното летище „Крал Фахд“ в град Дамам в Саудитска Арабия в сряда вечерта е загинал един човек, а други осем са ранени, предаде агенция Ройтерс, като се позова на службата за гражданска авиация. В изявлението се посочва, че се извършва оценка на материалните щети.",
         "date": "2026-10-21T23:18:01+00:00",
@@ -403,9 +395,25 @@
         "link": "https://www.bta.bg/bg/news/world/1229864-konstitutsionniyat-sad-na-gruziya-razglezhda-isk-za-zabrana-na-vodeshtite-opozit",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14017851/56b19ef3191c432ba56efd16993ffd9d--0--493cdb931c9640d6b860638c5b7c8ac3.jpg"
+      },
+      {
+        "title": "Папа Лъв Четиринадесети няма да има нужда от допълнително лечение след операцията за рак на белия дроб, съобщиха неговите лекари",
+        "description": "Окончателните хистологични изследвания са потвърдили, че ракът на белия дроб на папа Лъв Четиринадесети е бил локализиран и че не е необходимо допълнително лечение, съобщи днес Ватиканът в изявление, цитирано от световните агенции. Папа Лъв Четиринадесети се завърна във Ватикана в събота, четири дни след като му беше отстранен долният дял на десния бял дроб. Операцията потвърди, че папата има белодробен аденокарцином, който е най-разпространеният",
+        "date": "2026-10-21T20:20:57+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1229878-papa-lav-chetirinadeseti-nyama-da-ima-nuzhda-ot-dopalnitelno-lechenie-sled-opera",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14016384/ca1f09cc079541a1bd99fe9386bd1875--0--4cb48c7e63f64948832630cfa2d905b7.jpg"
       }
     ],
     "Наука": [
+      {
+        "title": "Нова водородна технология може да улавя до 99% от емисиите на въглероден диоксид - БГНЕС",
+        "description": "",
+        "date": "2026-10-21T20:26:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjBzZ1pGa1RFVXJ3a2JZd0dfVDNEY1E5ZE95N3p2ZnNDX1EtczV2MkljRmlYTWxvS25JbG5UYmFXbklvZmltY181bnRua2lSRTRoMElDZTZJc3kyWGxlMlBfaEIyUC1kbnVDQnNsVFR5UVlHemNVbWZPVTRzRENxZGNVQUg2a2V5VU04Snk0aVdQOERFZ0ZvZERLZmI4b21yRWc?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
       {
         "title": "В Европа масово изключват държавни сайтове - Новини СЕГА",
         "description": "",
@@ -585,6 +593,14 @@
         "image": null
       },
       {
+        "title": "Студентите от НАТФИЗ пак излизат на протест: Искат оставката на ректора - БНР",
+        "description": "",
+        "date": "2026-10-22T02:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVRzVFh1NktNOXpoRXpvS2Z6SDdndmlJbXlTR2ZYSmsyV2RFSmczazFpMFpXMVdkNkNMU1dYaV8xRm92T19KOFdjNXJmcnpvcHlVWUVHQ0c4d2p2UEktYzltOE1EN0pSSjc2bHRFZUdzWkt2NEZ6aUJtRDRDZUlKNlo4ZjVjanRheUcwcGh0bHUzbkdYTG1kSjJpeWFGbEFucnBWRg?oc=5",
+        "source": "БНР",
+        "image": null
+      },
+      {
         "title": "Форум „Предучилищното и училищното образование\" в Плевен - БНР Новини",
         "description": "",
         "date": "2026-10-22T02:05:57+00:00",
@@ -598,6 +614,14 @@
         "date": "2026-10-21T20:42:15+00:00",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHdzLUwtbUdCYVJzQ2puajFWQzFSY0pmck5ZZ21Lbkx2T1UzMHBnWk5HSDFDc25Vd3BoeWVjWDZYMVdnVWVwbWhwX3VJZHk0RmdlS2xYY2V1dGFxdWM1d3g3ZVJmRDIyaGVNRzctZlVtX3RVMTFZZ1dMajcyRHl3VUxEcWZvRDFOMGZVVGJLNVMxQQ?oc=5",
         "source": "paragraf.bg",
+        "image": null
+      },
+      {
+        "title": "Нови възможности за стажове на български студенти в дипломатическите ни представителства в Европа - БНТ Новини",
+        "description": "",
+        "date": "2026-10-21T20:34:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZERiOUlfOWZ0a2xmQnp2NlcwXzRtTHZRb0NHYVJoWXVkLTFDV0wtV0l1dmpiNUNrNjZJSWhibElYMUFXUktjV0ZsTW5KSjhxeXp1ekh5RTU3VFp6Z2hNeDUtYTY3MVNiOEl3YTRXYUI4YjBtTTVkaHI3VjVJVUJySE5NaXl5eG9hQ2ZSUFY2M1o3cUlLMTZwbTZkaTlCNFZFUVFxNi1MUVJrRWE0QjB0Qk5lSDFna2dQcEpEYWQ3LUJRbjBLY21lZFRsOTZmOHQ4d1VISXJDSDM?oc=5",
+        "source": "БНТ Новини",
         "image": null
       },
       {
@@ -661,14 +685,6 @@
         "description": "",
         "date": "2026-10-21T15:44:26+00:00",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeU85TFJEaWtONGM2ck9GcW9KcXNrbEROdkREVjE1bl9zYzZ1V0k3Qzk0RFJIM1BrM051RVVFa2pmRVNockFlaXRDbjlWQXA0RFN6N0VCU3FCYWFIOUZ1ZkxLQldQQnozZ2t1eWFiemg4UWVuYlptZ2E2VTVsX2JOeGUteEQ5b1dQbUhueWlDODU5N0pMU3RZWVMxUGRpVEFKMjV5MEZXbE4tSVhnNzh1Q0tUYnNzcW43d3liZE9kX2hjRF9MdW1jcjU3aGZUblRrZ1BrU1FTSnRFUWZmeEVPNkVCS3VYdw?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "Борислав Гуцанов с емоционално послание за 145 години Морско училище - Novinata.bg",
-        "description": "",
-        "date": "2026-10-21T15:44:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmxsaV9fb0NVVUZ2TkZJMjJsYUNwUi1FN0R1eUNoT2dfdWROQ2QzVzNWWVcxMktTWllWb29QbTZZb3JDR2V0aDBHQXVaeGduWEcyUE02WTJfcGFaUGcwaUxlREY5VTBHZFhzcVdYNTlYNDdnd09tY0JldVRSSmE5V041YThoMnFEaVlwR2F5RHFrN3lvRnhtQUNsa25pbjh6X1lSVFJwS0w4UHFRQjVtOVpGN3VWWlBKWUJ2V1B6YVJGUmV4YlM0czdQZ242cUx2R29SN1htaw?oc=5",
         "source": "Novinata.bg",
         "image": null
       },
@@ -766,14 +782,6 @@
         "date": "2026-10-21T10:26:24+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pc0VvejNtTjB6YUVGTF9hUXZoamFLNlBnNzZxakd0TTZ5QzBVNnAxUGcyQVhsekFrZVQtZTBLNm9laHJHYngwWDRxeko4aWR2T2o4VDd3?oc=5",
         "source": "Sportal.bg",
-        "image": null
-      },
-      {
-        "title": "Гърция на протест: Хиляди излизат срещу скъпия живот и образование - DarikNews.bg",
-        "description": "",
-        "date": "2026-10-21T09:43:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXItYlBVRVNHV1RZWVRPQlhURXhVN1lqcEtGOTdxSkJab2pJamZzQi1RLTgtYTFGbVVkLWhEdk1VcnIyWEtkTnFGYzNwal9XT29nYTZnWXpDQlU5Rnk3bjM2dTZtZFFyUk9UMG9ySkQyQ3pJZm10V0FwbkdudlVSWmNQUElZS3F2TVFPOWpPRUJ4VF9PZGI4X0s4YXhOemVzenpuVkt6ZHgyZ3p1LWZCT05XMA?oc=5",
-        "source": "DarikNews.bg",
         "image": null
       }
     ],
@@ -891,11 +899,11 @@
         "image": null
       },
       {
-        "title": "OMODA X: футуристичният SUV, който съчетава мода, технологии и изкуствен интелект - www.autonews.bg",
+        "title": "OMODA X: футуристичният SUV, който съчетава мода, технологии и изкуствен интелект - Авто новини, Новини за автомобили | AutoNews.bg",
         "description": "",
         "date": "2026-10-21T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDFKVlRoMFBoekQ4Tk5RQzBnNUx1WjNtU0d4ajFGcHdOZmsyYnJhMzNtYmMxd0VEdlhDcl9WQzFzVFh2TUVQZkduY19yNEdid200aXMwZEtIVHFBakloUWZIYVFhNkR1OEZrNzBnR3M4OVpWMjh1aWFTOEhuZUNrckhCLXE1Sjc2enBLR29Nc2lXNFEtSnE5aWJQM0xIRElwU2l1ZE4wVGRPSGdrdjdnYQ?oc=5",
-        "source": "www.autonews.bg",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFlkSzF2cVgzazNRSVZPNzFqNmdhNXZsNFBhUkZXc1JWeEpwM2UzSFhZZHVTNE00UnhwelVoOUp1SGROVTJlSE5CdHhSNG9Ka0VGX2tUN1EtUnZsSnNEUHlQZ2VPTUdudWlMaGdTOXJ5S0pRUmMtak1wcnpmb0dlOWpjMm5yZF9WWk5xSXk1V2cwdldFcU5rSXVWaldrNHRIU0dNQ3dCcWdtd0RrUzlV?oc=5",
+        "source": "Авто новини, Новини за автомобили | AutoNews.bg",
         "image": null
       },
       {
@@ -918,7 +926,7 @@
         "title": "АПП: Пакистанският министър на информационните технологии се срещна с вицепрезидент на Световната банка - БТА",
         "description": "",
         "date": "2026-10-21T08:52:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWG5UZHc2a0pQQ2pBY2tQWlpuZlVZRVB3aTVNbGNhajlQWjU4Q05jUFBnR203NWZ5ZnZQS1M5dEwxNm5kTllXS0RxejdCVjNzOG93cFVLckdvN2ROcHZPalVfS2RhVXNnZzkwOEpUWWNOZVlESURNcnJaV1pzMnVNcUdMbGVTVlIyeGd2a0QzcjBodWpzOW9Fc0hLUlN3R016SzYzM1g4MHVHNzNVS21CTW5NTnZ1X2xreFUybg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0FKLXJjR1lVMGdnbTJFZjFmejgza0pMa3FxOE5lN1hKYnZlRDBLOGlwVWVpT2cwR2ZFaW1xZUxqU1o0cThvUUJoVE5TWG1pMENfaTA2RDdRb0pveDJmbEtpZmh0MmZmd3VXeHJ2ZzhwYmlYV0tpdlFzeHQ2NjN5VzFVVmtEQmRaN2xVSmpkU0RzNzZqS1ctVUhRUTRnM0pJaGd5R09jSm1waUEwR2JwaVRWWVFLT0QwRXNoOGsyd2YtbEJ3R2NVaw?oc=5",
         "source": "БТА",
         "image": null
       },
@@ -993,7 +1001,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 21,
+      "count": 22,
       "feeds": 1
     },
     "Образование": {
