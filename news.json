@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-22T23:10:05.206137+00:00",
+  "generatedAt": "2026-10-22T23:41:05.277390+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Минута по минута: Виктория Пилзен - Левски 1:2 - bTV Спорт",
+        "description": "",
+        "date": "2026-10-22T23:18:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42d1pTSTAycERQbGNxZlhHaDhISjYteXk5S1NwRUZkSHpLNEpHaUJXb0wwWDRaQXdMOHFWZmRlaDVxb3dlT0sxMWhSSVd5am1XU3lZTDJ2dTgxeXJFZVlHbjdwRDdYY2dQUnZpcHZ4QUxoRmd3WXVKemFZMA?oc=5",
+        "source": "bTV Спорт",
+        "image": null
+      },
       {
         "title": "НСО ще проверява инцидента между служител, охраняващ председателя на парламента Михаела Доцова, и журналистката Соня Колтуклиева",
         "description": "Националната служба за охрана (НСО) ще проверява инцидента между свой служител, охраняващ председателя на Народното събрание Михаела Доцова, и журналистката Соня Колтуклиева, съобщиха от службата. Председателят на парламента отиде във Военно-окръжната прокуратура, за да разговаря лично с репортерката и изрази съжаление за случилото се. След два часа и половина престой в прокуратурата Колтуклиева каза, че е образувано досъдебно производство и охра",
@@ -9,14 +17,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1230758-nso-shte-proveryava-intsidenta-mezhdu-sluzhitel-ohranyavasht-predsedatelya-na-p",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14023394/MIN_8005.jpeg"
-      },
-      {
-        "title": "Минута по минута: Виктория Пилзен - Левски 1:2 - bTV Спорт",
-        "description": "",
-        "date": "2026-10-22T22:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42d1pTSTAycERQbGNxZlhHaDhISjYteXk5S1NwRUZkSHpLNEpHaUJXb0wwWDRaQXdMOHFWZmRlaDVxb3dlT0sxMWhSSVd5am1XU3lZTDJ2dTgxeXJFZVlHbjdwRDdYY2dQUnZpcHZ4QUxoRmd3WXVKemFZMA?oc=5",
-        "source": "bTV Спорт",
-        "image": null
       },
       {
         "title": "Миро завърши турнето си „Миротворци“ с концерт в НДК",
@@ -51,8 +51,8 @@
         "image": "https://www.bta.bg/upload/14023400/MIN_8050.jpeg"
       },
       {
-        "title": "Гардът от НСО отиде доброволно за разпит във Военната прокуратура",
-        "description": "Мартин Варадинов дава показания по случая с грубата сила, която упражни върху Колтуклиева",
+        "title": "Задържаха гарда от НСО, след като доброволно отиде във Военната прокуратура",
+        "description": "Мартин Варадинов беше отведен с белезници след инцидента, при който повали на земята Соня Колтуклиева",
         "date": "2026-10-22T21:19:11+00:00",
         "link": "https://dnes.dir.bg/intsidenti/gardat-ot-nso-otide-dobrovolno-za-razpit-vav-voennata-prokuratura",
         "source": "Dir.bg",
@@ -91,7 +91,7 @@
         "image": null
       },
       {
-        "title": "Доцова потърси Колтуклиева във ВМА да се извини, журналистката вече е на домашно лечение",
+        "title": "Доцова потърси Колтуклиева във ВМА да се извини, намери я във Военна прокуратура",
         "description": "Председателката на НС заяви, че случилото се е недопустимо и ще настоява за най-строги мерки от ръководството на НСО",
         "date": "2026-10-22T19:51:42+00:00",
         "link": "https://dnes.dir.bg/intsidenti/dotsova-potarsi-koltuklieva-vav-vma-za-da-se-izvini-zhurnalistkata-veche-e-bila-izpisana",
@@ -352,7 +352,7 @@
         "title": "САЩ и Дания подписаха меморандум за сътрудничество в морския сектор - БТА",
         "description": "",
         "date": "2026-10-22T18:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzd0SFVET2ZheHF2REhkTXVrRFU1VThuZWVkSGd2czJXZ2JsUTdLMndVYmpBYUxrWnRHZDR3OHdMRmgyTTBwd0JRS04wT2E1YjJMR2g3bnlfZmhEMW1pTmV2RVdlQVVLZUt2QXFxbVplbDFxTGZINEI3c0oyY0RsSDJSMUwtSmpnd01Cd2x1a3N3a3pZNXFrNmlSVEJVWEx4NUtNV2ZNNkI4R2VmTk9ZNVo0OFpMeFRjTXc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS01CV3VHX2diN3ZTUjFaSG1iZkh5Ql9vc0JGU1dwMGRCc1d0cjZiZ1JlVDBuT3l5ZlVDaDM3QUt1UHdmUmpnbjlMVDlkRzNHWXg5cDNtX2RqOW96ZTRKTlpJSWJ2R2xNZG15SDFobnpEWEVPWG95SGdoSERQSzFoWjVGTjQ2RU9BN3A3R3VRSmZpdzVzRTB5WTBjMk1iSTE1c19SbG0waFhSY0xJai0ybVFpZw?oc=5",
         "source": "БТА",
         "image": null
       },
@@ -835,6 +835,14 @@
         "image": null
       },
       {
+        "title": "Джефри Хинтън: ИИ вече има съзнание, трябва да станем приятели с роботите - Dnes.bg",
+        "description": "",
+        "date": "2026-10-22T15:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUVid0FmWjhJWUlKbVdhd1haR2w1ZElaQ2h0d2tFaFBlT3BLTzI3MTJ3X0lpTGtNekhENVBxVFNxLTJTUktibHVzdXlRbUFaR0g2YUlDZ192UDctVm0za3k0TXNhMkp3a1ZCNEJtSlROdzV5TDA5VE9CZGVCUkVrQmxBMzN5QjRlVGVGQ3diUUgybjVMSkJuVFdGeUFDbmVGZThSTFduSmRVY3h6czZURE9BSGNzLVRz?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
         "title": "От AI до космоса: България показа иновационния си потенциал пред международни лидери - Economic.bg",
         "description": "",
         "date": "2026-10-22T15:54:54+00:00",
@@ -1000,14 +1008,6 @@
         "date": "2026-10-22T07:35:22+00:00",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV1g1ZXBNQ3llUXlncnc1aG5YRWpQOGNCQzRCalp2NXFYWmhhNFl1RERZNDAwNFIyNWVmRXZHWWlPMTktVDBsZEh4R2FrQlRqcEt1Y1o3V2w2RXNpN0wyRjB2NE90a2FnTmZ3VjhobjVjNzJhcl9lVEduMjBlVkFmbFlYWVhYd0pRRERQN3B6TVlwMDJPWWZXSmlhNXZCR2VwR3l5X0R0cHo2RVA3NXdjbDMwX2pwLTF6bWxDN1AzOXBpZE5NQWdOa2lFTjZOU3dNcGc2bGdaSTl2bmlVSU1BQ25EUDFRN1NC?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Хюндай БАЙОН: SUV дизайн, комфорт и авангардни технологии - Topgear.bg",
-        "description": "",
-        "date": "2026-10-22T06:51:36+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVFJzVzU2Z09xcUl3bVdhN1NVWmUzTm9URnJwVW1nUWF0dnNIaDVQOHV6d0NNNTRZcWM0LUdUMU5xUkV2VEZ4UC1iTmRhT0xOeGt6UFl6eThNMHlIeWNhSDhfM1Y5YVdiT3NXblNIQWZTak9YZnBfR0lncnZ4cndHNVJR?oc=5",
-        "source": "Topgear.bg",
         "image": null
       }
     ]
