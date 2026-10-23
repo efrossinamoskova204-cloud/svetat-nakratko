@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-23T20:07:13.591475+00:00",
+  "generatedAt": "2026-10-23T20:45:14.218326+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Москва публикува санкционен списък на опозиционери в изгнание",
+        "description": "Неправителствени организации осъждат закона, като го определят като инструмент за налагане на своеобразна \"социална смърт\"",
+        "date": "2026-10-23T20:05:01+00:00",
+        "link": "https://dnes.dir.bg/svyat/moskva-publikuva-sanktsionen-spisak-na-opozitsioneri-v-izgnanie",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2025/10/15/2919887/384x216.jpg?_=1760541490"
+      },
       {
         "title": "Военният съд пусна гарда от НСО без мярка, няма доказателства за удар по Колтуклиева (снимки)",
         "description": "37-годишният офицер Мартин Варадинов трябва да бъде освободен незабавно",
@@ -9,14 +17,6 @@
         "link": "https://dnes.dir.bg/temida/voenniyat-sad-pusna-ot-aresta-garda-ot-nso-bez-myarka-za-neotklonenie",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/23/3039829/384x216.jpg?_=1792779784"
-      },
-      {
-        "title": "Собственици посочиха трите електрически марки, които не препоръчват - Investor.bg",
-        "description": "",
-        "date": "2026-10-23T19:33:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOEU5eXM2bTJiLXU3TG5feTZjaWRac3pmYWJzaFZRdGg2TkdrU0VYOHcwNFZKZzhyQkxrc2VSWTVmYXFnbGh2ZXJpMW82azhWOVFHMlJaODZERzJGZENjLWtZcjZUeUhjMEhOWlNkeUdscmhSLTZXV3FOTGxwckhvUFZYSnk2R19ud0FSazFGTGZmTW1NamlEc2hrbnZZblYybjBGWTJnMkxFSzZubDlsVHpldlpURjFB?oc=5",
-        "source": "Investor.bg",
-        "image": null
       },
       {
         "title": "Съдът освободи от ареста служителя на НСО Мартин Варадинов, обвинен за нанесена телесна повреда на Соня Колтуклиева",
@@ -559,6 +559,14 @@
         "image": null
       },
       {
+        "title": "Учени възстановиха лицето на най-стария известен Homo sapiens - Kaldata.com",
+        "description": "",
+        "date": "2026-10-21T13:02:14+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPcTR0aVVleTRmSENWTjJlOWZSc1FLSWtNQmROTUdxOU5jWTdlUk9JU1A2OXpEU3F5SkVHMTJZS2tBOTFfMjVVeW9XRnJwd2JrR01EZldfV1FLbE11a2FHVUpBS1B6b3FVN3IyNENNNDZzMlJFV0ZmcjFnT0R3WVhRVHhVam5IM0swaXJIZmV6RW9YSVdmUjc1TjFfLTlLc2hTNDJ0YWVsWnNtcmluc2hsSnBhaS02VXpYc29zZjZncWkzVkJhaTdnYTJZTU1zci1Ud1FaY2lweFJ5RU1PV3A5aldSeHJWNVlUOWZzdkJ2a1pBZ0ctQ0kzcm44Skt4cmZINDlzR1RVU0FNWkVtcTNRUFRwRlVvYU9WN0dtczlZbVRJV1JCT1NJME5uOWFJRnZVa19kWUJ1Ujk1SEphaWFLVlhhN2xpaWRNZVJlMF84dUEzV0NBTy1jNV94a0tPbzhTOExDZ2ZOeFozM3IyUkc4Y29nWWtIMDFBSUt2c01yRGV3cVVrMDFzOFpuenNJUnBwd2tzbTJRa093aWpNZWFBUXl4QWZCMkY4dFFVbGVTdVNfd9IBugNBVV95cUxQbmp3WEduc2lfZUpyc01XZlZBMVJ6dkRZakpXVUtLOGs4ODBMS1FwcTNhNnkwd2oxbVNZTWN3bXVmYmtwUFEtekpSNWY5UkQ1dVpUVUJZUGRFY1ZSRDNlZ3UwOTZueVpwYUlQSjRqUGZpNnVpNTlNNFNxWHF4UUwyd2xjUTUyM05Bc2xMNzhIYWdfcy1TWFd6ei0wU3VfenB5SlUySm10ZVhNNWdxY2hnbzlEVkpOcndKclpneEdaUFVNUFFQbk5qbzhWVGxkWnJXTGsyS0h4TXVnUk1Gd0NrblZFazZQalhfX1N2cXZ0cVU0OFhqM1NNeE5XcnJJV1V3bldGZnVLeGY2OUlYUzRqYWFQSXp2M09iUE1Vb1YyOFN1dThEN0t3TTc3N0Zxa1VOQjgtMkVnQUowdnF3WkhJUlNLcldYbFhELUxaZUJkVFJia1VmZEl3ZnBjYS1zS2xuTGhSNk9kRDlCci1KOWNyLTAwekpLQnRZc0pZRmx4Umc0SWw5WkVfRmdDTHprMVRWbC1URHVtMHBrelkyYmRfNmIwZ08tenpsREJMU0tla050YnVFSFNXWW1R?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
         "title": "Учени установиха връзка между фазите на съня и риска от 83 заболявания - Списание Осем",
         "description": "",
         "date": "2026-10-21T09:59:51+00:00",
@@ -597,14 +605,6 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjVPUUxDaXV3RjNQUF9GYWdFWGQ1Szl0TTRiREw0YmJPNzg3UTdyRDk5Uy1sNGtaaGV1U2FUc3FnWnptWGE2TF80RjN4aW9UbUstWUp5d25MVy1YVF8wVmt2Z1djWU12LUhwMDExVnAwRFU5R3ROTGNfNnUtaDBZdnVqWlQ5SjFfLTRMSlB5eHRTVnlVQlFLUHVDWHpXNWxDQXY4?oc=5",
         "source": "БНР",
         "image": null
-      },
-      {
-        "title": "Наука, шоу и иновации на IV Пловдивски фестивал на науката - БНР Новини",
-        "description": "",
-        "date": "2026-10-20T10:36:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcGhRaW9fQWJCaWtQaTVROVcxT2swclBWM1BvZjVmNnhscG5FVHJMcnc4TkJjUkxVNjdfS3lCd1Ayc3VsdjVoc1B1VWJ5SGxFdDV4MEpVaERKZl9HUkd0cHJiMGQwOVA3em9pOW5FU1dON0swZW9qYUJVQnNyQnVpaDhpdFBkd3h2MzN2WjBualBabTRwWU9BMzY3WkxjVFBKMFA0Vg?oc=5",
-        "source": "БНР Новини",
-        "image": null
       }
     ],
     "Образование": [
@@ -614,14 +614,6 @@
         "date": "2026-10-23T20:01:23+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamdrWmVFeDVKQ2ZURWo5dU1sQjVITlM2UnI0eTVEeWFTaVFqLVlqNm8zb1pNQ3pVaUhTUTFjdTMxZHUzX2tsMjJtOWhjVTVTSWZVNDNMOGZTa0hBUkN4RFlCb3VtSkpHT3l2UGE5eEZDUGJQQURMVHJHbGozNTd6NUMzX2kzeUt4QWlRSnBWNGNhdG5ZcTdkRFhYT1JwZEpoallpR0Z2US1YTkU?oc=5",
         "source": "БГНЕС",
-        "image": null
-      },
-      {
-        "title": "Какво разплака актрисата Гергана Стоянова след посещението й в училище в плевенското село Божурица? - Pleven info",
-        "description": "",
-        "date": "2026-10-23T19:30:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUhLcG1uSktwWkxWQlpEb3VaTTdmcmoteGtPWGw5dTlUcmNSblRVcXF4eGNDYWhLc1RaV2xERk9FVEJIY200cWpGTmtfVFg5ai1lRXhhMHhYejBOY2RUT21Zd1JRVm1VZzFrTllpcnY4MVYyOUtpNVEzWjhmNUJKVXJLS0ZXc3lOUkFXeHpIN0lQcFozQ2V3U1prUGR6M29nN3hWelBPcGlVUXA3QXJxTjhsMUR0eG0tNVFBWQ?oc=5",
-        "source": "Pleven info",
         "image": null
       },
       {
@@ -806,6 +798,14 @@
         "date": "2026-10-23T07:23:35+00:00",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEx6NWR4dGJVcmtLcDRLWkpUOG5DZkZqdHlfZDJxZ2ZzVTItcGdOSUN2RFJmcFFVMjZxZUs1UlZNVmxVOFQzaXY1bHI0VkhvNnBIYlNWN1VFOUdPc2g1ZjZNdXJkT2QxZ0RBNmZUdEx0MzRBTkt6bk5QdWNPM0tFcVBPSmJtc0s5dGtNa1ZRSQ?oc=5",
         "source": "Chernomorie-bg.com",
+        "image": null
+      },
+      {
+        "title": "Близо 100% от децата в община Лом са обхванати в детските градини - Konkurent.bg",
+        "description": "",
+        "date": "2026-10-23T06:39:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTM1TjNmX2xRblhnZWU5Z2Z4ejNpTkRvTlY4TmhtaUU0b2h4eWd1TkRtODRuS3FaREN3VDduZmZaZkY2QzhJQWRuMTA1WjNHT254OWJJZUpuUEhfME5vQW9IMTQyOUVSd0hlSFNzSEtCcjN4RDlEdU9yOXBqUFY5RlZlZWExMmJsRDczbEllNzVLX2s3SkRrd1Y0RjJiTFlMZi02ZFhCMmZ0b0s4aXZ3cFFn?oc=5",
+        "source": "Konkurent.bg",
         "image": null
       }
     ],
