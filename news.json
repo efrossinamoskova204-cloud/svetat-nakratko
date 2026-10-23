@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:14:47.413028+00:00",
+  "generatedAt": "2026-10-23T21:48:07.884272+00:00",
   "categories": {
     "България": [
       {
@@ -33,22 +33,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231574-sadat-osvobodi-ot-aresta-sluzhitelya-na-nso-martin-varadinov-obvinen-za-nanesen",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14026127/1000043128.jpeg"
-      },
-      {
-        "title": "Призоваха англичаните да се запасят с храна и вода за 3 дни - www.24chasa.bg",
-        "description": "",
-        "date": "2026-10-23T19:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTVNWMDZSeVgtb1ZwbEw4OVgzc2U5djZCZzhmblF6WDJJQlhxaWg0VkQ1TDZWeUxhTDFBS3RfdU5tcUtCTE8yQTBJdDlSUVFiM09ZMTk1YlBmRmNtS243UWJIVQ?oc=5",
-        "source": "www.24chasa.bg",
-        "image": null
-      },
-      {
-        "title": "12 последователни земетресения стрестнаха Сицилия - Dnes.bg",
-        "description": "",
-        "date": "2026-10-23T18:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXQtRWJMc3lfQ1lzaHJRdUxjTkxtX1J2OEZYSHZtWlhjcEU1Yi1JZXVlY0dVaWtwY056alJoZ3FjUnU1V0JRQko1dXNQaEhVMU0yYXhHdEc1MWYzNFN1bUJwelQ4eHdWWjdQdjlyQk1LRl8xMUZUcXlqc3pyTjNJZF8zd1hYQk5hbzZNVWRmZEhpaW8?oc=5",
-        "source": "Dnes.bg",
-        "image": null
       },
       {
         "title": "Иранският президент отива в Кремъл за консултации с Путин",
@@ -99,6 +83,14 @@
         "image": "https://www.bta.bg/upload/14026364/20261023_184521.jpg"
       },
       {
+        "title": "Подземната битка, която се разиграва дълбоко в украинските тръбопроводи от съветската епоха - Dnes.bg",
+        "description": "",
+        "date": "2026-10-23T18:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzZNRXYxNUhqVmhkZDdqNVhvcnloRjJMNzBlYlJSSk44NDJfcGFZQUl1Uk4wTzZBTGpqZHMtSHJWLTlKUjJHVnNzaERlN0xEczhyQ2h5U1NreG9fTXVyM2hGS3ktRlBFNk80MDVaM2RXdUNMT1dYSmRzS0l4Z3ZrRnktcUlBT2EtQUJDX2tqSHFNYTBsZFhwUGhRRnlSRjFZekRoVHlqZVhsbG4tOTJjWUJQSkZuUWJSM0gzWTVUZE5MMXlGRU1N?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
         "title": "ЦСКА 1948 смачка Ботев Пловдив, Наумов спаси „канарите“ от огромен резил в Бистрица (ВИДЕО) - Dsport.bg",
         "description": "",
         "date": "2026-10-23T17:51:00+00:00",
@@ -129,14 +121,6 @@
         "link": "https://dnes.dir.bg/na-fokus/buntat-koyto-edva-ne-dovezhda-do-razpadaneto-na-savetskiya-blok-70-g-ot-ungarskoto-vastanie",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/23/3039796/384x216.jpg?_=1792766297"
-      },
-      {
-        "title": "Смяната на времето в Европа: Защо решението за отмяна остава блокирано? - Dnes.bg",
-        "description": "",
-        "date": "2026-10-23T17:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVU1lcTBtWXcxM3RaUlNhNldDeVRSQmpTc0hfdWxEUmFNejZTR2tSMi16NHM4TTFoanN4Vk5PTklScE42YWtDU2k2OHN5T0NBVkRmQjhUdUJjLWtUSXcyRFA5X0tXZFY1ejBRRXpvZDBCOWJDX2t5ckN6M2JCSV9NNmZjaUtkeUNIMHlUUDlOa2NXVG5qREZIR1JnQ2NQT29mZ3Y0UGtWMzRvek5xYXpxdw?oc=5",
-        "source": "Dnes.bg",
-        "image": null
       },
       {
         "title": "Абу Даби е избран за преговорите между Русия и Украйна - Dnevnik.bg",
@@ -201,9 +185,33 @@
         "link": "https://dnes.dir.bg/svyat/frenski-ministar-obyavi-strelbata-v-parizh-za-teroristichna-ataka-snimki",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/23/3039821/384x216.jpg?_=1792776754"
+      },
+      {
+        "title": "Протестиращи се събраха пред Съдебната палата в София с настояване за нулева миграция",
+        "description": "Протестиращи се събраха пред Съдебната палата в София с настояване за нулева миграция, затягане на мерките за сигурност и стриктен контрол над пребиваващите у нас чужденци. Протестът, организиран от Ангел Джамбазки от ВМРО, е под надслов „Не на мигрантската престъпност! Сигурност за българите!“. Демонстрацията е заявена в Столичната община. Повод за протеста е случаят от 17 октомври в района на НДК в столицата, при който двама млади мъже бяха ран",
+        "date": "2026-10-23T16:51:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231536-protestirashti-se-sabraha-pred-sadebnata-palata-v-sofiya-s-nastoyavane-za-nuleva",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14026027/1000043101.jpeg"
+      },
+      {
+        "title": "Изпълнил съм законосъобразно моите функции, каза пред съда Мартин Варадинов, обвинен за нанесена телесна повреда на Соня Колтуклиева",
+        "description": "Смятам, че съм изпълнил законосъобразно моите функции като служител на Националната служба за охрана (НСО). Моля за по-лека мярка. Това каза пред съда служителят на НСО Мартин Варадинов, обвинен за нанесена средна телесна повреда на журналистката Соня Колтуклиева. Адвокатът му Тервел Георгиев също поиска съдът да наложи по-лека мярка, докато полковник Георги Заев, заместник военноокръжен прокурор, заяви, че поддържа искането за постоянен арест. П",
+        "date": "2026-10-23T16:47:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231529-izpalnil-sam-zakonosaobrazno-moite-funktsii-kaza-pred-sada-martin-varadinov-ob",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14026083/1000043121.jpeg"
       }
     ],
     "Свят": [
+      {
+        "title": "Външните министри на Турция, Египет, Саудитска Арабия и Пакистан заявиха, че \"израелската окупация е основният източник на нестабилност в региона\"",
+        "description": "Министрите на външните работи на Турция, Египет, Саудитска Арабия и Пакистан заявиха късно снощи, че \"израелската окупация е основният източник на нестабилност както в региона, така и извън него\", като призова за спешно прилагане на решението за две държави по отношение на израелско-палестинския конфликт, предаде Ройтерс. Министрите заявиха, че израелската политика е \"задълбочила глобалното възприятие за несправедливост\" и потвърдиха подкрепата с",
+        "date": "2026-10-23T21:43:53+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231613-vanshnite-ministri-na-turtsiya-egipet-sauditska-arabiya-i-pakistan-zayaviha-c",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14026609/c28a97a6f9b647fcbfa5cc62e1fb3ef2--1--e694c0f1ec174fc4b1561535b1625e90.jpg"
+      },
       {
         "title": "Тръмп заяви, че САЩ може да предприемат \"още една малка военна операция\" срещу Иран",
         "description": "Президентът на САЩ Доналд Тръмп заяви, че Вашингтон може да проведе още една военна операция срещу Иран, предаде Ройтерс. Агенцията отбелязва, че това се случва в момент, когато конфликтът навлиза в осмия си месец, а ръста в цените на горивата оказва натиск върху изхода от междинните избори в САЩ. \"Може да проведем още една малка операция от типа \"Епична ярост\" (Epic Fury)\", каза Тръмп по време на митинг в щата Флорида, докато говореше за войната",
@@ -371,14 +379,6 @@
         "link": "https://www.bta.bg/bg/news/world/1231556-madyar-zayavi-che-stranata-mu-se-stremi-da-bade-nadezhden-sayuznik-v-ramkite-na",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14026040/e4ca0792d82a4edd8fcbdde5a3900f09--0--bfb6a093cd4e4986a0c8cc6fb95bcbb2.jpg"
-      },
-      {
-        "title": "ООН осъди смъртоносната ескалация на атаките с дронове в Судан",
-        "description": "ООН осъди смъртоносната ескалация на атаките с дронове в Судан, като съобщи, че само през настоящия месец са документирани над 300 смъртни случая в резултат на подобни нападения, предаде Франс прес. \"Засилващата се употреба на дронове, които вече са причина за повечето смъртни случаи сред цивилното население, свързани с конфликта в Судан тази година, е изключително тревожна и води до ужасяващи последици\", заяви върховният комисар на ООН за прават",
-        "date": "2026-10-23T17:11:11+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231544-oon-osadi-smartonosnata-eskalatsiya-na-atakite-s-dronove-v-sudan",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/12784926/9e01c9ab4c544bd7b40cc9bdc399484a--0--b4bc2859065a4d39b9b09b191b8ae397.jpg"
       },
       {
         "title": "ООН осъди смъртоносната ескалация на атаките с дронове в Судан - БТА",
@@ -745,6 +745,14 @@
         "image": null
       },
       {
+        "title": "БСК представя наръчник за използването на AI в наставничеството в дуалното обучение - Българска стопанска камара",
+        "description": "",
+        "date": "2026-10-23T09:31:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVemhKdTY1V2NMbWtZc0JENXRQQnVySmRvMG5IUk9DWjN5emlEVnNGV1Nkb1VVNUV5cmtZcUg3aENZdXgzU0tGNWFiUmx2NFNp?oc=5",
+        "source": "Българска стопанска камара",
+        "image": null
+      },
+      {
         "title": "Започна 51-ата Национална конференция на учителите по химия с международно участие - MediaBricks",
         "description": "",
         "date": "2026-10-23T09:30:53+00:00",
@@ -799,14 +807,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMmJwQUxMWkluUEx6N0Jodll6NWtRYVVqV1lxUVJ2UGgyZlhrdEJDVVcteVJ4SkpUa0ZqOUw3X3RZOEVmUnI2SFZLRnZ4SjBsaXBQblBIMmJZekNhMF9tNFhseHdBdUZOa3VLamM0RDYxaWRYUUEtd1NPeFVwc21IOGg3dk1GVjhlOW9oemFVYlgyRmpZM3dBUjdpZndROWEwQmlYeTJWUlNTSm9aUkJEQmdXM3piMUowU2otVkgzTXF4VmR4N1FsYldZSVJ2WmhVOHUwR2FaNA?oc=5",
         "source": "News.bg",
         "image": null
-      },
-      {
-        "title": "ОУ Найден Геров спечели нов еко проект по Еразъм+ - Chernomorie-bg.com",
-        "description": "",
-        "date": "2026-10-23T07:23:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEx6NWR4dGJVcmtLcDRLWkpUOG5DZkZqdHlfZDJxZ2ZzVTItcGdOSUN2RFJmcFFVMjZxZUs1UlZNVmxVOFQzaXY1bHI0VkhvNnBIYlNWN1VFOUdPc2g1ZjZNdXJkT2QxZ0RBNmZUdEx0MzRBTkt6bk5QdWNPM0tFcVBPSmJtc0s5dGtNa1ZRSQ?oc=5",
-        "source": "Chernomorie-bg.com",
-        "image": null
       }
     ],
     "Технологии": [
@@ -843,11 +843,11 @@
         "image": null
       },
       {
-        "title": "Vivacom представи решения за AI трансформация в бизнеса - offnews.bg",
+        "title": "БСК представя наръчник за използването на AI в наставничеството в дуалното обучение - Българска стопанска камара",
         "description": "",
-        "date": "2026-10-23T09:31:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYU80eFFYR3hfdWdjc01aWHlGZGJxd3Vacnd5c0RZVEZQV2VBZGJIenh0SHN1a2FHbnRHcDgxdmtraFdmTnhLejAzT0hDMUZiUXlwMkF4U1dYeEdUWEZfcG4xV0pmWmNreEdSd2dUTjJQa3lfeWtuTUsxUmhKclJqUjhWMnVnVDZvLUw0emhCSHFsVkJ6RTNTamhFb3d6NUEy?oc=5",
-        "source": "offnews.bg",
+        "date": "2026-10-23T09:31:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVemhKdTY1V2NMbWtZc0JENXRQQnVySmRvMG5IUk9DWjN5emlEVnNGV1Nkb1VVNUV5cmtZcUg3aENZdXgzU0tGNWFiUmx2NFNp?oc=5",
+        "source": "Българска стопанска камара",
         "image": null
       },
       {
@@ -867,11 +867,27 @@
         "image": null
       },
       {
+        "title": "Vivacom представи решения за AI трансформация в бизнеса - Mobile Bulgaria",
+        "description": "",
+        "date": "2026-10-23T09:04:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHRLeFVLVlVOX2JLcTM1UVc4RmFZcFlMRS1aYkdNZzRGMUFyekNqT3d1ZFE4WTF6d1Y5dGVIaHd5SHRuUGNZaXU0QkF1eW5GbEJLclRxY2dKOW9PUUN6Ql9HYTktbnNFYUlTNGZtR0FHNnoyR2FzRU5tVzQ4RW1CUVhmOTlrQzBaNUd2OFFaTlo4c3JqQmc?oc=5",
+        "source": "Mobile Bulgaria",
+        "image": null
+      },
+      {
         "title": "Металургична компания ще изгради иновативен завод за рециклиране на мед у нас за 19,5 млн. евро - Бизнес новините",
         "description": "",
         "date": "2026-10-23T09:03:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekFraVZhenJjN2gwcWFHdzh5d1RZTW5ocm9HUkJ0S3h4TzlrS0lDWHh3M1RHMGFVdjJTWlJOelRZLXU4dWpRNkliT3N3VmkteWhWWDN6TWVlS1U2TmhZVW1OYVBRZGYyRDJyM2RTRjA2UTNLS2JXcU1ubHRhTk5CU1NDVTRTRzRpMkFxWHFJQU43Yk01dzkxMktLb0dCVlJoTUFsUHIwdy1Zd1JJTkgtd0JGZzA0dlV1QjJtLWRCZTE2UUV2cER4ZmRrVmtJM0JtNWpMQkdiTnY?oc=5",
         "source": "Бизнес новините",
+        "image": null
+      },
+      {
+        "title": "Военният министър край Пловдив: Опитваме се да догоним съвременните технологии - Plovdiv24.bg",
+        "description": "",
+        "date": "2026-10-23T08:49:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTW9vOGJNSW9sRlhKTkpRTWdBRFVfc1QyRzlza1VmWUVydU5GYWdwdG1fU25ZT2E1U2pWYmJESWhzRlpneGsxZm5xT3ZGUFBUQ1F2NU8wWHZscnE5SUJUZEZNY2ZPS1F1NEdRY3EtUklOR3hJTkFKZm1GbnhuR211T2lGQzd4ZmttZnl1dHlmYmNVbnFVZVZNa0xwWXBMbU5UazlibDJkTkJIYWdyUjEtb2lUc01vd1hrTU9OR0hwUU9LanFC?oc=5",
+        "source": "Plovdiv24.bg",
         "image": null
       },
       {
@@ -992,22 +1008,6 @@
         "date": "2026-10-22T14:25:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjFGQ1dvbDdFY1RWckNmUFhhZ2dBaUMxSk1sVG82RzJSZGlxRzAxQmtMa2l3Z2RLVVM1Y2luRnRpN0JVMXhGZEo2cVRpM3NzdGc0QURiWHhMalZBbXM5clhPdW9sajJwSHF6TFVZdVQxTDd6VXhtdlFyRGsxMHI4VGR3ay1HVXY2cnBJTUNmcTUzekVkaXVVcWtUdXVXcERxdDB0aW1oY09kYXlxZ0JwTERNNnRockhj?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "МИДТ и Palo Alto Networks подписаха Меморандум в областта на киберсигурността - 3e-news",
-        "description": "",
-        "date": "2026-10-22T14:17:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1R4NXVyMjRFeFZ2b3h3NjBma29GQk80VXYyTlltWHRiWEZTOGRManZUZE4tZHhUVk9iQnZsQU5NNVhDT0JDSFNnS3hVNWFaSXZoZXJURVlVblI1c2psbXJQZnJaMG12akQ3Y1Ayb29wdm5zWV9DSzM0ckMxVEdHRzRpWkRoZzhTWkoxVEJYQU9DeDQ1VThMZFhsNlZSNnQyOUR0dWxzUTRjN1B5TjZYNlRxZw?oc=5",
-        "source": "3e-news",
-        "image": null
-      },
-      {
-        "title": "Пловдивският фестивал на науката събира над 60 учени в 94 събития - 3e-news",
-        "description": "",
-        "date": "2026-10-22T13:54:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUEc1SllFa19YYmNNTXJDbS14VWFTU1RZa0JpSDBsWVpURUVEQUZxVGlGazlnbl9oenlBaWN0RFFlNzJkZjFUS05zOTlRdmhHMW1razhuYzJEd1p0VVZMazVCQXVYbDN0Z0xiNUNEekFibWx4elNfTkhDc2ZlSnZJZVhQZjVMZ1Q2THA4YXY4ekRIOTdnU2ozSlZRLUs2aVcwSVhHNVdqMA?oc=5",
-        "source": "3e-news",
         "image": null
       }
     ]
