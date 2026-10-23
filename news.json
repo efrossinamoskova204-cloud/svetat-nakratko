@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-23T20:45:14.218326+00:00",
+  "generatedAt": "2026-10-23T21:14:47.413028+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Приключи предизборната кампания за вота на 25 октомври",
+        "description": "Точно в полунощ приключи предизборната кампания за вота на 25 октомври, според приетата от Централната избирателна комисия хронограма. Събота е ден за размисъл и се забранява предизборната агитация и оповестяването на резултати за изхода от вота. Съгласно Изборния кодекс не се допуска предизборна агитация 24 часа преди изборния ден и в изборния ден. На социологическите агенции се забранява да оповестяват допитвания до общественото мнение по повод",
+        "date": "2026-10-23T21:00:19+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231276-priklyuchi-predizbornata-kampaniya-za-vota-na-25-oktomvri",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/1294175/20230406_103237-01.jpeg"
+      },
       {
         "title": "Москва публикува санкционен списък на опозиционери в изгнание",
         "description": "Неправителствени организации осъждат закона, като го определят като инструмент за налагане на своеобразна \"социална смърт\"",
@@ -27,10 +35,18 @@
         "image": "https://www.bta.bg/upload/14026127/1000043128.jpeg"
       },
       {
-        "title": "Подземната битка, която се разиграва дълбоко в украинските тръбопроводи от съветската епоха - Dnes.bg",
+        "title": "Призоваха англичаните да се запасят с храна и вода за 3 дни - www.24chasa.bg",
         "description": "",
-        "date": "2026-10-23T19:23:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzZNRXYxNUhqVmhkZDdqNVhvcnloRjJMNzBlYlJSSk44NDJfcGFZQUl1Uk4wTzZBTGpqZHMtSHJWLTlKUjJHVnNzaERlN0xEczhyQ2h5U1NreG9fTXVyM2hGS3ktRlBFNk80MDVaM2RXdUNMT1dYSmRzS0l4Z3ZrRnktcUlBT2EtQUJDX2tqSHFNYTBsZFhwUGhRRnlSRjFZekRoVHlqZVhsbG4tOTJjWUJQSkZuUWJSM0gzWTVUZE5MMXlGRU1N?oc=5",
+        "date": "2026-10-23T19:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTVNWMDZSeVgtb1ZwbEw4OVgzc2U5djZCZzhmblF6WDJJQlhxaWg0VkQ1TDZWeUxhTDFBS3RfdU5tcUtCTE8yQTBJdDlSUVFiM09ZMTk1YlBmRmNtS243UWJIVQ?oc=5",
+        "source": "www.24chasa.bg",
+        "image": null
+      },
+      {
+        "title": "12 последователни земетресения стрестнаха Сицилия - Dnes.bg",
+        "description": "",
+        "date": "2026-10-23T18:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdXQtRWJMc3lfQ1lzaHJRdUxjTkxtX1J2OEZYSHZtWlhjcEU1Yi1JZXVlY0dVaWtwY056alJoZ3FjUnU1V0JRQko1dXNQaEhVMU0yYXhHdEc1MWYzNFN1bUJwelQ4eHdWWjdQdjlyQk1LRl8xMUZUcXlqc3pyTjNJZF8zd1hYQk5hbzZNVWRmZEhpaW8?oc=5",
         "source": "Dnes.bg",
         "image": null
       },
@@ -115,6 +131,14 @@
         "image": "https://static.dir.bg/uploads/images/2026/10/23/3039796/384x216.jpg?_=1792766297"
       },
       {
+        "title": "Смяната на времето в Европа: Защо решението за отмяна остава блокирано? - Dnes.bg",
+        "description": "",
+        "date": "2026-10-23T17:21:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVU1lcTBtWXcxM3RaUlNhNldDeVRSQmpTc0hfdWxEUmFNejZTR2tSMi16NHM4TTFoanN4Vk5PTklScE42YWtDU2k2OHN5T0NBVkRmQjhUdUJjLWtUSXcyRFA5X0tXZFY1ejBRRXpvZDBCOWJDX2t5ckN6M2JCSV9NNmZjaUtkeUNIMHlUUDlOa2NXVG5qREZIR1JnQ2NQT29mZ3Y0UGtWMzRvek5xYXpxdw?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
         "title": "Абу Даби е избран за преговорите между Русия и Украйна - Dnevnik.bg",
         "description": "",
         "date": "2026-10-23T17:14:00+00:00",
@@ -177,33 +201,33 @@
         "link": "https://dnes.dir.bg/svyat/frenski-ministar-obyavi-strelbata-v-parizh-za-teroristichna-ataka-snimki",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/23/3039821/384x216.jpg?_=1792776754"
-      },
-      {
-        "title": "Протестиращи се събраха пред Съдебната палата в София с настояване за нулева миграция",
-        "description": "Протестиращи се събраха пред Съдебната палата в София с настояване за нулева миграция, затягане на мерките за сигурност и стриктен контрол над пребиваващите у нас чужденци. Протестът, организиран от Ангел Джамбазки от ВМРО, е под надслов „Не на мигрантската престъпност! Сигурност за българите!“. Демонстрацията е заявена в Столичната община. Повод за протеста е случаят от 17 октомври в района на НДК в столицата, при който двама млади мъже бяха ран",
-        "date": "2026-10-23T16:51:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231536-protestirashti-se-sabraha-pred-sadebnata-palata-v-sofiya-s-nastoyavane-za-nuleva",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14026027/1000043101.jpeg"
-      },
-      {
-        "title": "Изпълнил съм законосъобразно моите функции, каза пред съда Мартин Варадинов, обвинен за нанесена телесна повреда на Соня Колтуклиева",
-        "description": "Смятам, че съм изпълнил законосъобразно моите функции като служител на Националната служба за охрана (НСО). Моля за по-лека мярка. Това каза пред съда служителят на НСО Мартин Варадинов, обвинен за нанесена средна телесна повреда на журналистката Соня Колтуклиева. Адвокатът му Тервел Георгиев също поиска съдът да наложи по-лека мярка, докато полковник Георги Заев, заместник военноокръжен прокурор, заяви, че поддържа искането за постоянен арест. П",
-        "date": "2026-10-23T16:47:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231529-izpalnil-sam-zakonosaobrazno-moite-funktsii-kaza-pred-sada-martin-varadinov-ob",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14026083/1000043121.jpeg"
-      },
-      {
-        "title": "Музеят на виното и розата в София отваря в Деня на народните будители",
-        "description": "Музеят на виното и розата в София организира ден на отворените врати по повод Деня на народните будители – 1 ноември. Събитието е посветено на журналисти, преподаватели, актьори, писатели и представители на различни изкуства и занаяти, съобщават от екипа. Музеят се намира на бул. „Александър Стамболийски“ 51 в София, в близост до площад „Възраждане“. Посетителите ще могат да разгледат музея между 12:00 и 18:00 ч. на 1 ноември. Програмата включва ",
-        "date": "2026-10-23T16:40:25+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1231520-muzeyat-na-vinoto-i-rozata-v-sofiya-otvarya-v-denya-na-narodnite-buditeli",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14026084/857390233_122118032811448606_1128475842259123431_n.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Тръмп заяви, че САЩ може да предприемат \"още една малка военна операция\" срещу Иран",
+        "description": "Президентът на САЩ Доналд Тръмп заяви, че Вашингтон може да проведе още една военна операция срещу Иран, предаде Ройтерс. Агенцията отбелязва, че това се случва в момент, когато конфликтът навлиза в осмия си месец, а ръста в цените на горивата оказва натиск върху изхода от междинните избори в САЩ. \"Може да проведем още една малка операция от типа \"Епична ярост\" (Epic Fury)\", каза Тръмп по време на митинг в щата Флорида, докато говореше за войната",
+        "date": "2026-10-23T21:13:55+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231610-tramp-zayavi-che-sasht-mozhe-da-predpriemat-oshte-edna-malka-voenna-operatsiya",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14026830/83bde84733864b46a3a137cc9a984a92--0--e9903db051904578a80b712ddc278ffe.jpg"
+      },
+      {
+        "title": "СИМОНА ЮЛИАНОВА: В свят на изкуствен интелект няма по-важно нещо от изкуството - Вестник \"ДУМА\"",
+        "description": "",
+        "date": "2026-10-23T21:09:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekNUclRtTHlNdVdHR2Q5SlBNQ19LQzBrSFB3a0lNZGQyT2ExTWV6dDY5TnZOaDNpekhwV2NIeGdlejd2RjZsYmxqWlJKRzZPWlFvYXUxMmVvbk1CQXV4YTc3X1UzRkRDWGVKTWNRbm52bDJXLURlUHB4czVhemZiazNmMWx6S1VwVG1GLXVtWkhQYzVfc0wwWk9mUmNPVEFhRFdwYjNnRk9peVk?oc=5",
+        "source": "Вестник \"ДУМА\"",
+        "image": null
+      },
+      {
+        "title": "Кения регистрира втори смъртен случай от ебола; седем души, които са заразени, остават в болница",
+        "description": "Кения регистрира втори смъртен случай от ебола, предаде Ройтерс, позовавайки се на Министерството на здравеопазването в Найроби. Властите съобщиха, че починалата 65-годишна жена е проявила симптоми по време на периода, в който е била поставена под карантина, след като е било установено, че е роднина на починалия по-рано този месец от ебола мъж. \"За съжаление, тя е починала рано тази сутрин\", заяви министерството, като добави, че седем души продъл",
+        "date": "2026-10-23T20:35:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231609-keniya-registrira-vtori-smarten-sluchay-ot-ebola-sedem-dushi-koito-sa-zarazeni",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13994735/61f294d016ae41c6be2f39ced6831c70--0--7ca1631e2138487abe7ef7d39c2e018b.jpg"
+      },
       {
         "title": "ВНА: Виетнам ще засили международното сътрудничество в областта на културата, образованието и социалната политика",
         "description": "Вицепремиерът на Виетнам Фам Тхи Тхан Ча призова за по-добра координация между държавните институции с цел повишаване на ефективността на международното сътрудничество в областта на културата, образованието и социалната политика, предаде Виетнамската новинарска агенция (ВНА). На първото заседание на междуведомствен комитет тя подчерта, че международните инициативи трябва да водят до конкретни резултати и да отговарят на дългосрочните национални и",
@@ -365,14 +389,6 @@
         "image": null
       },
       {
-        "title": "Осем външни министри от Европа и Близкия изток единодушно призоваха воюващите страни в близкоизточния регион да прекратят военните действия",
-        "description": "Външните министри на осем големи държави от Европа и Близкия изток се срещнаха в петък в Истанбул и единодушно призоваха воюващите страни в близкоизточния регион да прекратят военните действия, предаде Франс прес. Министрите на външните работи на Франция, Великобритания, Германия и Италия, заедно с колегите си от Турция, Саудитска Арабия, Пакистан и Египет, се опитаха съвместно да намерят пътища за деескалация на фона на разрастващия се конфликт ",
-        "date": "2026-10-23T17:05:39+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231549-osem-vanshni-ministri-ot-evropa-i-blizkiya-iztok-edinodushno-prizovaha-voyuvasht",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14025678/b55073e346774b5b8d66e713f5d76574--0--f357950c50d04fedb91ead8ba8bf2602.jpg"
-      },
-      {
         "title": "Русия ще започне да съблюдава прекратяване на огъня в град Олешки, считано от 27 октомври в 1 ч. по Гринуич, съобщи руският генерал Герасимов",
         "description": "Русия ще започне да съблюдава прекратяване на огъня в град Олешки, считано от 27 октомври в 1 ч. по Гринуич (4 ч. българско време), предадоха световните агенции. Мярката ще позволи да бъдат извършени хуманитарни операции в този украински град, който се намира под руски контрол в украинската Херсонска област. В съобщение, публикувано в руската платформа МАХ, генерал Валерий Герасимов, ръководителят на руския генерален щаб, заяви, че руските военни",
         "date": "2026-10-23T16:49:00+00:00",
@@ -386,22 +402,6 @@
         "date": "2026-10-23T16:40:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemxhUzRzTV9rR0NQLWNCRy1tb05USmRVZ2hING80eTFqcDEtaGIyVEh4dHZycTJ3R0cxZHhLdnlIZ2tPSTBTUnZCX3plZHVBYW9UZ3RUTTc3Y2xFWHVXWTBhek1uMGdVbDFSZ3BPVklRaVZDU2tLVTFpWUgzWElud2NCSC1hT3FfWmxCM0RoM0FCMWNKRHVyY0NwWWhPQW1HT2RGMkc0aEtObjRjVHN4LWNMRUdlMDRaUFk2X20xRUtmb3p2dmxUeVdNS0w?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Кая Калас посети централата на МНС",
-        "description": "Дипломат номер едно на ЕС Кая Калас посети днес централата на Международния наказателен съд в Хага, който вчера беше обявен за лауреат на наградата „Сахаров“ за свобода на мисълта. Отличието се присъжда от Европарламента, предаде Франс прес. МНС е обект на санкции от страна на Доналд Тръмп. Визитата на Калас в централата му днес целеше да покаже твърдата подкрепа на ЕС за тази институция. В Хага Калас се е срещнала с председателката на МНС Томоко",
-        "date": "2026-10-23T16:38:02+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231527-kaya-kalas-poseti-tsentralata-na-mns",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13968410/8b2d22db29004407a87b88eac303668f--0--073fc7fc28fe4be9a202e5381cd436e9.jpg"
-      },
-      {
-        "title": "Аджерпрес: Румънският президент Никошор Дан е домакин на среща на Форума на младите румънци по света - БТА",
-        "description": "",
-        "date": "2026-10-23T16:33:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmxjeXFGRl9IUUFreWdlZVJZRGNLRWJ5MXFUTlRFOXdzNUxRd0lWOUZKT19FQmxNYlRTVGF5ZWk5T3E5MUJLSGlNNDlfYnltQ1lNSkdoczNYMldmb1cwS2tVd01aaHBYWHhvVy1sQUpvWEh2SDBjdzQwWlFxTUJpcVB6bS11bUYtVlZMMkxaX1FnQ01DajN0amFnVHJPWTF6Ui00MGF2RnllQnF5YjloU19Yc0pBOC1LWTQ4ZWlOeTY?oc=5",
-        "source": "БТА",
         "image": null
       }
     ],
@@ -609,6 +609,14 @@
     ],
     "Образование": [
       {
+        "title": "Регионален форум в Плевен обедини институции и образователната общност в диалог за бъдещето на образованието - Darik.bg",
+        "description": "",
+        "date": "2026-10-23T20:25:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQS05cnlUdUhISkc4TVYwQk5OTF9VRWhhNkRwUV9sSC10blJYdTdmbkJ6VXhsWmdCeFdLTndQSkdQZkVWS2c2MkxKWW5VR25MekNvNjBfX0pnYTVvUExQTE1Yd2JfZGJ4VGN0R2pzdjItQl9aZzUyWXhDWlhwemxhYkFMbDViZE1YMDRYN2c5NXpMdmpqNmdHQ1c0SE9PMXJQVk0zRWNpbEpSUmlXUDFfeW9aOFYzSXlQRVZYQ3ZMakJzWHRfeFJTWjJDbE01YVB4SDhVbjB3?oc=5",
+        "source": "Darik.bg",
+        "image": null
+      },
+      {
         "title": "Хората с висше образование не са най-големите фенове на Big Tech, а са най-колебливите - БГНЕС",
         "description": "",
         "date": "2026-10-23T20:01:23+00:00",
@@ -798,14 +806,6 @@
         "date": "2026-10-23T07:23:35+00:00",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEx6NWR4dGJVcmtLcDRLWkpUOG5DZkZqdHlfZDJxZ2ZzVTItcGdOSUN2RFJmcFFVMjZxZUs1UlZNVmxVOFQzaXY1bHI0VkhvNnBIYlNWN1VFOUdPc2g1ZjZNdXJkT2QxZ0RBNmZUdEx0MzRBTkt6bk5QdWNPM0tFcVBPSmJtc0s5dGtNa1ZRSQ?oc=5",
         "source": "Chernomorie-bg.com",
-        "image": null
-      },
-      {
-        "title": "Близо 100% от децата в община Лом са обхванати в детските градини - Konkurent.bg",
-        "description": "",
-        "date": "2026-10-23T06:39:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTM1TjNmX2xRblhnZWU5Z2Z4ejNpTkRvTlY4TmhtaUU0b2h4eWd1TkRtODRuS3FaREN3VDduZmZaZkY2QzhJQWRuMTA1WjNHT254OWJJZUpuUEhfME5vQW9IMTQyOUVSd0hlSFNzSEtCcjN4RDlEdU9yOXBqUFY5RlZlZWExMmJsRDczbEllNzVLX2s3SkRrd1Y0RjJiTFlMZi02ZFhCMmZ0b0s4aXZ3cFFn?oc=5",
-        "source": "Konkurent.bg",
         "image": null
       }
     ],
