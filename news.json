@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T22:42:00.654096+00:00",
+  "generatedAt": "2026-10-23T23:08:45.487968+00:00",
   "categories": {
     "България": [
       {
@@ -205,6 +205,14 @@
     ],
     "Свят": [
       {
+        "title": "Тръмп обеща САЩ да се заемат с Куба, след като приключат с Иран",
+        "description": "Президентът на САЩ Доналд Тръмп се възползва от предизборния митинг в щата Флорида, където американците с кубински произход представляват влиятелен блок от имащите право на глас, за да обещае, че ще се заеме с проблемите, свързани с Куба, веднага щом се разреши конфликтът с Иран, предаде Ройтерс. В 90-минутна реч във Форт Майърс, щата Флорида, Тръмп подчерта, че вероятно предстоят още военни действия срещу Иран на фона на усилията му да се справи",
+        "date": "2026-10-23T22:55:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231616-tramp-obeshta-sasht-da-se-zaemat-s-kuba-sled-kato-priklyuchat-s-iran",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14026844/655f8beec0db45d886e06abf84921005--0--f909bea93a9f4492bd34822d1daa0029.jpg"
+      },
+      {
         "title": "Руският вицепремиер Александър Новак заяви, че три танкера, превозващи руски дизел, плават към Северна Америка",
         "description": "Три танкера, превозващи руски дизел, са на път към Северна Америка, заяви снощи Александър Новак, руският вицепремиер, отговарящ за енергетиката, предаде Ройтерс. В изявление, цитирано от руските новинарски агенции, Новак посочи, че пратките са част от сделка за доставки за пазарите в САЩ и по света. \"Първите три танкера с гориво вече са плават към източното крайбрежие (на САЩ) на Атлантическия океан, със значителна подкрепа от Руския фонд за пре",
         "date": "2026-10-23T22:12:00+00:00",
@@ -365,14 +373,6 @@
         "image": "https://www.bta.bg/upload/14026276/618336160e224785948baba11d2a753e--0--4664924288804a4985fb735ce7e18e9c.jpg"
       },
       {
-        "title": "Стотици хора протестираха срещу израелски нахлувания в южната част на Сирия",
-        "description": "Стотици хора протестираха днес в няколко сирийски града срещу многократните израелски нахлувания в южната част на страната, предаде Франс прес. Израелската армия вчера уби там мъж с увреждане, съобщават сирийските държавни медии. След падането на Башар Асад от власт през декември 2024 г. и идването на власт на ислямистка коалиция израелската армия е нанесла стотици удари в Сирия и често извършва кратки сухопътни операции в райони близо до контрол",
-        "date": "2026-10-23T17:21:37+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231516-stotitsi-hora-protestiraha-sreshtu-izraelski-nahluvaniya-v-yuzhnata-chast-na-sir",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14025428/8885a16296064e648d27ff565cc37f76--0--40347f6cb5404be58af21395f967af55.jpg"
-      },
-      {
         "title": "Най-скъпата картина: „Ириси“ на Клод Моне беше продадена за рекордните 50 млн. евро във Франция - Свят - manager.bg",
         "description": "",
         "date": "2026-10-23T17:20:02+00:00",
@@ -389,19 +389,19 @@
         "image": "https://www.bta.bg/upload/14001576/d654424fb4c34c23a0405e230cb8f98a--1--dd24a3011458499a951066c55564ff5d.jpg"
       },
       {
-        "title": "Най-богатата династия в Европа попадна в скандал за аборти заради първото вето на принца - Свят - manager.bg",
-        "description": "",
-        "date": "2026-10-23T16:40:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemxhUzRzTV9rR0NQLWNCRy1tb05USmRVZ2hING80eTFqcDEtaGIyVEh4dHZycTJ3R0cxZHhLdnlIZ2tPSTBTUnZCX3plZHVBYW9UZ3RUTTc3Y2xFWHVXWTBhek1uMGdVbDFSZ3BPVklRaVZDU2tLVTFpWUgzWElud2NCSC1hT3FfWmxCM0RoM0FCMWNKRHVyY0NwWWhPQW1HT2RGMkc0aEtObjRjVHN4LWNMRUdlMDRaUFk2X20xRUtmb3p2dmxUeVdNS0w?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
         "title": "Аджерпрес: Румънският президент Никошор Дан е домакин на среща на Форума на младите румънци по света - БТА",
         "description": "",
         "date": "2026-10-23T16:33:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmxjeXFGRl9IUUFreWdlZVJZRGNLRWJ5MXFUTlRFOXdzNUxRd0lWOUZKT19FQmxNYlRTVGF5ZWk5T3E5MUJLSGlNNDlfYnltQ1lNSkdoczNYMldmb1cwS2tVd01aaHBYWHhvVy1sQUpvWEh2SDBjdzQwWlFxTUJpcVB6bS11bUYtVlZMMkxaX1FnQ01DajN0amFnVHJPWTF6Ui00MGF2RnllQnF5YjloU19Yc0pBOC1LWTQ4ZWlOeTY?oc=5",
         "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Бурята Остин достигна района на Париж, стотици хиляди хора са без ток - БНР Новини",
+        "description": "",
+        "date": "2026-10-23T13:16:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEszSXhncjBOWE1OaWlxNjljLUE3ZHppVWFXbWJFRTFDUXlmczUzMlhvRUR5R011bE93OUVSTmQydE5pZlVvWlFqS3ltZWlwWkRLc0dyMUtJeE1BZV9GcUtPZlpmalFTckFseXhjbFdGZ2puZmVRZGdhQmh5amZpSE1EbGFUYWx2SGlNZmN2UUlGYWl0N2xiYjNkTkQ2a3JiTFFsbzhLTEc5NG5j?oc=5",
+        "source": "БНР Новини",
         "image": null
       }
     ],
@@ -409,7 +409,7 @@
       {
         "title": "Мисията на НАСА „Суифт\" приключи след 20 години - БГНЕС",
         "description": "",
-        "date": "2026-10-23T22:37:46+00:00",
+        "date": "2026-10-23T22:37:24+00:00",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vT0JoZTRqNHhQN2daaHZ2WU1ycTQwcm0zUzcxdFQ5MUM3d0ViUllrVHFWY1RZRE10RTl0bFdoRVhyQkh3bWlwODdJUXU2bGt6dHNhNUd3QVlvT3VsYmFuQlBGd0R4YjJYS3FVQ2ZKdEYxdG95VDFTUg?oc=5",
         "source": "БГНЕС",
         "image": null
@@ -793,19 +793,19 @@
         "image": null
       },
       {
-        "title": "Опасност от връщане към комунизма: Историци скочиха срещу идеята на Радев за един учебник по история - News.bg",
-        "description": "",
-        "date": "2026-10-23T07:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMmJwQUxMWkluUEx6N0Jodll6NWtRYVVqV1lxUVJ2UGgyZlhrdEJDVVcteVJ4SkpUa0ZqOUw3X3RZOEVmUnI2SFZLRnZ4SjBsaXBQblBIMmJZekNhMF9tNFhseHdBdUZOa3VLamM0RDYxaWRYUUEtd1NPeFVwc21IOGg3dk1GVjhlOW9oemFVYlgyRmpZM3dBUjdpZndROWEwQmlYeTJWUlNTSm9aUkJEQmdXM3piMUowU2otVkgzTXF4VmR4N1FsYldZSVJ2WmhVOHUwR2FaNA?oc=5",
-        "source": "News.bg",
-        "image": null
-      },
-      {
         "title": "ОУ Найден Геров спечели нов еко проект по Еразъм+ - Chernomorie-bg.com",
         "description": "",
         "date": "2026-10-23T07:23:35+00:00",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEx6NWR4dGJVcmtLcDRLWkpUOG5DZkZqdHlfZDJxZ2ZzVTItcGdOSUN2RFJmcFFVMjZxZUs1UlZNVmxVOFQzaXY1bHI0VkhvNnBIYlNWN1VFOUdPc2g1ZjZNdXJkT2QxZ0RBNmZUdEx0MzRBTkt6bk5QdWNPM0tFcVBPSmJtc0s5dGtNa1ZRSQ?oc=5",
         "source": "Chernomorie-bg.com",
+        "image": null
+      },
+      {
+        "title": "Близо 100% от децата в община Лом са обхванати в детските градини - Konkurent.bg",
+        "description": "",
+        "date": "2026-10-23T06:39:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTM1TjNmX2xRblhnZWU5Z2Z4ejNpTkRvTlY4TmhtaUU0b2h4eWd1TkRtODRuS3FaREN3VDduZmZaZkY2QzhJQWRuMTA1WjNHT254OWJJZUpuUEhfME5vQW9IMTQyOUVSd0hlSFNzSEtCcjN4RDlEdU9yOXBqUFY5RlZlZWExMmJsRDczbEllNzVLX2s3SkRrd1Y0RjJiTFlMZi02ZFhCMmZ0b0s4aXZ3cFFn?oc=5",
+        "source": "Konkurent.bg",
         "image": null
       }
     ],
