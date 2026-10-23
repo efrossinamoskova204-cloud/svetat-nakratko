@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-10-23T02:44:47.914577+00:00",
+  "generatedAt": "2026-10-23T03:15:39.286320+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Пловдив е домакин на Urban Wine Fest 2026 днес и утре",
+        "description": "Пловдив е домакин днес и утре на новото издание на градския винен фестивал Urban Wine Fest Plovdiv 2026, съобщиха организаторите от Българската асоциация на винените професионалисти (БАВП). Асоциацията ще отбележи Международния ден на мавруда 26 октомври и популяризира българските вина чрез поредица от градски фестивали, срещи с винени експерти и събития, посветени на местните сортове и винените региони на България. На площад „Централен“, на мост",
+        "date": "2026-10-23T03:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/economy/1229111-plovdiv-e-domakin-na-urban-wine-fest-2026-dnes-i-utre",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11664724/20251004_181745.jpg"
+      },
+      {
+        "title": "Първата изложба по проекта „Докосни София“ се открива днес в Националното читалище на слепите „Луи Брайл 1928“",
+        "description": "Първата изложба по проекта „Докосни София“ се открива днес от 14:00 часа в Национално читалище на слепите „Луи Брайл 1928“, съобщиха от район „Средец\", Столична община. В рамките на проекта, осъществен с финансовата подкрепа на Столична програма „Култура“, са изработени триизмерни макети на 15 от най-известните забележителности на София. Всеки макет е придружен от говорещ етикет, чрез който посетителите могат да получат информация за представения",
+        "date": "2026-10-23T03:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1230554-parvata-izlozhba-po-proekta-dokosni-sofiya-se-otkriva-dnes-v-natsionalnoto-chi",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/638374/Sredets.jpg"
+      },
+      {
+        "title": "От 8:00 до 20:00 часа се променя организацията на движението по път II-19 в района на Банско",
+        "description": "От 8:00 до 20:00 часа за смяна на камери ще се промени организацията на движение в участък от път II-19 Симитли – Гоце Делчев в района на Банско, съобщиха от Агенция „Пътна инфраструктура“ (АПИ). По време на дейностите ще се ограничи преминаването в посока Симитли, като трафикът ще се осъществява двупосочно в свободната лента за Гоце Делчев. Движението ще се регулира с пътни знаци и с ограничение на скоростта до 40 километра в час, като при необх",
+        "date": "2026-10-23T03:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1230679-ot-8-00-do-20-00-chasa-se-promenya-organizatsiyata-na-dvizhenieto-po-pat-ii-19-v",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11003554/MIL_7477.jpg"
+      },
       {
         "title": "Колтуклиева: Опитват да изкарат мен виновна. Аз бях с телефон, не с оръжие",
         "description": "Журналистката отпратила Доцова, защото се усъмнила в искреността ѝ. Обясни пред медиите, че има фрактура на рамото",
@@ -91,14 +115,6 @@
         "image": "https://www.bta.bg/upload/14021816/IMG_6667.jpeg"
       },
       {
-        "title": "Емоциите в ефира на Дарик радио в мача на ЦСКА с Нордселанд (АУДИО) - Dsport.bg",
-        "description": "",
-        "date": "2026-10-22T20:06:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQjlvM0trVktKX2RXOGRIQ01lMENSdEtnYUV3ZWxIalBJODBKTlM1Z29NNUxZOEt1U0F1NHJwQ2dVUUliV0Y3QlVIcVRzak1aU3ZVWjNLVmtCeTN4ZGxXdGh2VVJWX3ZJUXlhdXNJVkxUcXgtU3FFY0g1dXdPMXB3RXdlRmtxM1JJQ3NzRF9TY2JoMFFY?oc=5",
-        "source": "Dsport.bg",
-        "image": null
-      },
-      {
         "title": "Костадинов поиска оставката на Йотова: НСО е на подчинение на президента",
         "description": "\"Не можеш да удряш, блъскаш и унижаваш една жена журналистка и след това да си тръгнеш, докато тя лежи в безсъзнание на тротоара\", каза лидерът на \"Възраждане\"",
         "date": "2026-10-22T20:03:31+00:00",
@@ -155,6 +171,14 @@
         "image": null
       },
       {
+        "title": "Треньорът на Нордселанд с признание за ЦСКА - Gong.bg",
+        "description": "",
+        "date": "2026-10-22T19:21:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzZNVmxOSUJCYUI5cE16Rm1SVUlzc3RlTXJVQXM4eG15bGdkaDBhUEJyQkl2cEZQUV9IdFhneEN5MGZncUE5MmZYc251UzBmNzB4b2o5cF9ORWk5SThmbkhTVnE4Vnl5OFo0YjBjWEtxQ0NER3VwMFBfMkpvdTlPU0g0WVY5QlhvanFjRUhhWWhKdlV1UWZZOQ?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
         "title": "Търговище е градът, в който за първи път съм пял самостоятелно, каза Веселин Маринов на концерта „Ти си любовта“",
         "description": "С любими песни и спомени, съхранени през годините, Веселин Маринов подари една музикална вечер на публиката в Търговище. Естрадният изпълнител бе посрещнат с аплодисменти в препълнената зала на Драматичния театър, където представи концерта си „Ти си любовта“. Музикалното събитие е част от националното турне, посветено на 45 години от началото на сценичната му кариера. „Търговище е първият град, в който съм пял самостоятелно“, сподели певецът. Той",
         "date": "2026-10-22T19:15:49+00:00",
@@ -177,33 +201,17 @@
         "link": "https://dnes.dir.bg/intsidenti/jotova-kategorichno-osazhdam-nedopustimata-i-prekomerna-reaktsiya-na-sluzhitel-na-nso",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/22/3039517/384x216.jpg?_=1792699121"
-      },
-      {
-        "title": "Костадин Костадинов поиска незабавна оставка на президента заради инцидента със служители на НСО и журналист",
-        "description": "Потресен съм от поведението на Националната служба за охрана (НСО) и искам незабавната оставка на президента, обяви във Фейсбук лидерът на \"Възраждане\" Костадин Костадинов по повод инцидента с участието на служители на НСО и представител на Информационна агенция ПИК. Службата е пряко подчинена на президентската институция и отговорността е на държавния глава. Очаквам оставката на г-жа Йотова утре и настоявам незабавно да се оттегли от президентск",
-        "date": "2026-10-22T19:03:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1230721-kostadin-kostadinov-poiska-nezabavna-ostavka-na-prezidenta-zaradi-intsidenta-sas",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13805049/1000152245.jpeg"
-      },
-      {
-        "title": "В Спешното отделение е постъпил журналист и след прегледи е освободен за домашно лечение, съобщиха от ВМА",
-        "description": "В Спешното отделение на Военномедицинска академия (ВМА) е постъпил пациент, представител на журналистическата гилдия, на когото са извършени необходимите медицински прегледи, консултации и манипулации с цел установяване на здравословното му състояние. След приключването им пациентът е освободен за домашно лечение, съобщиха от лечебното заведение. Обръщаме внимание, че информацията относно здравословното състояние на пациента представлява специалн",
-        "date": "2026-10-22T19:02:43+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1230716-v-speshnoto-otdelenie-e-postapil-zhurnalist-i-sled-pregledi-e-osvoboden-za-domas",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11694892/20251013_103410+%281%29.jpg"
-      },
-      {
-        "title": "Делян Пеевски поиска Румен Радев да освободи председателя на парламента заради инцидента между служител на НСО и журналист",
-        "description": "Лидерът на ДПС Делян Пеевски поиска Румен Радев да освободи председателя на парламента Михаела Доцова заради инцидента между служител на Националната служба за охрана (НСО) и журналист, съобщиха от пресцентъра на ДПС във Фейсбук. Тази вечер видяхме най-грозното лице на властта - Служител на НСО блъсна брутално журналистката Соня Колтуклиева и я остави да лежи просната на тротоара, а председателката на Народното събрание Михаела Доцова с антуража ",
-        "date": "2026-10-22T19:01:48+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1230717-delyan-peevski-poiska-rumen-radev-da-osvobodi-predsedatelya-na-parlamenta-zaradi",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13971661/MIN_6032+%281%29.jpeg"
       }
     ],
     "Свят": [
+      {
+        "title": "Северна Корея е заложила 960 000 мини по границата от 2024 г. насам, твърди Сеул",
+        "description": "Северна Корея е заложила около 960 000 противопехотни мини по границата си с Южна Корея от 2024 г. насам, според оценки на южнокорейската армия, цитирани от няколко депутати, предадоха Йонхап и ДПА. Военни експерти изчисляват, че в Демилитаризираната зона (ДМЗ) са заложени над 2 милиона мини, включително поставените от южнокорейските въоръжени сили. Според информацията около половината от тях са били добавени през последните две години. ДМЗ предс",
+        "date": "2026-10-23T03:00:35+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1230767-severna-koreya-e-zalozhila-960-000-mini-po-granitsata-ot-2024-g-nasam-tvardi-s",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/7779501/7433fcf6f1534475ba347ca11319fe59--0--69d1a927ab54491399ffb319f1c1746a.jpg"
+      },
       {
         "title": "Близо 980 000 депортации през първите 18 месеца от втория мандат на Тръмп, сочи доклад",
         "description": "Министерството на вътрешната сигурност на САЩ е осъществило 980 000 депортации през първите 18 месеца от втория мандат на президента Доналд Тръмп, предаде Ройтерс, като се позова на доклад, публикуван от центъра за анализи Migration Policy Institute. Само 20% от всички депортирани през този период са били лица с криминална присъда, се посочва в доклада. Сред депортираните имигранти, живели в САЩ две или повече години, 71% не са имали присъди за п",
@@ -395,14 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1230731-tramp-e-poiskal-ot-mask-da-premahne-ogranicheniyata-varhu-starlink-za-ukrayna-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/1221167/06613362f28549b0975e4e58f9a8d385--2--55ed9b16f09640f9bd16eaf69895ca57.jpg"
-      },
-      {
-        "title": "Премиерът на Финландия заяви в Киев, че няма да бъдат сключвани никакви сделки за газ с Русия, докато войната в Украйна продължава",
-        "description": "Финландският премиер Петери Орпо днес заяви, че не може да бъде сключена никаква сделка за покупка на газ от Русия, докато войната на Москва в Украйна продължава, предаде Ройтерс. Орпо посети Киев за разговори с украинския президент Володимир Зеленски, който заяви на съвместна пресконференция, че Украйна и Финландия са обсъдили възможностите за сътрудничество в областта на сателитните комуникации, енергетиката и логистиката. Финландия спря достав",
-        "date": "2026-10-22T19:07:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1230719-premierat-na-finlandiya-zayavi-v-kiev-che-nyama-da-badat-sklyuchvani-nikakvi-sd",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14022456/ec2025a543854bc6966150ddf88cb96b--0--11a3502e54354f7bb09b8474cbf8739d.jpg"
       }
     ],
     "Наука": [
@@ -476,14 +476,6 @@
         "date": "2026-10-22T11:28:26+00:00",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83NFJYOExxb2VkNF9WQjdGWnR2MEhDYXRvY0tPanNKNFZtd3NWcF96RWc4T2NjaUlGOFRleHAwMklYUXpWSHVqaNIBSEFVX3lxTE83NFJYOExxb2VkNF9WQjdGWnR2MEhDYXRvY0tPanNKNFZtd3NWcF96RWc4T2NjaUlGOFRleHAwMklYUXpWSHVqaA?oc=5",
         "source": "Утро Русе",
-        "image": null
-      },
-      {
-        "title": "Пловдивският фестивал на науката разширява хоризонтите с 94 събития, повече практически занимания и среща с изкуството - Делник БГ",
-        "description": "",
-        "date": "2026-10-22T10:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQa0pwc2tKUlJKSUstd3Y4VEgxUVU1dGhYdWd0Q05sM3VPLXNuRERrY3U4QUo1MzJLNkNLWEFuaFZlSjZOdnROZnY0S0ZBUlBtcjZkWWg4bEhBanFManZqWEtUdHNZR1kzLUFub2hyckNDX09xWUpBTDFfd0xoaklKODhNT2FsTWRRRUhpTGZhb0tsNVhmclY1WFZxelRxMG1RemtGZHlleFRMLWFGMVVKVjVTSnVyOHhZREF3SjJ4LU4wRUxERFZjS1pDSFRZME05bWV2NzVsRlU2T1J5a0loeFNTSTdOM1huNDJlZlNNSi1kOW1rZFZLSVR1WVp5M096SFNvdkhYWkIzb1NjSVVnTlpKVXlkMmNwak92QUwzTE5GRExzVjV1OGY3aUpraEN1T0dUeW5OOEVHamJqOXpuMXdPMHdjVFc5NzNTOXFVSE8?oc=5",
-        "source": "Делник БГ",
         "image": null
       },
       {
@@ -605,6 +597,14 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PWjFwWnBmSWlkd3RsWDVmMk9Fc3lCSE9YSm5oWHZXZk5WcVhYTmtuQ3AwX0U4dGJPUVJNZmFrYkg3eUY1ck0xbnFraEtxVmxzd1F0U2xXYldWVFFkU0JocC1B?oc=5",
         "source": "Книговище",
         "image": null
+      },
+      {
+        "title": "Науката дава отговор защо котките са лек за душата - Списание Осем",
+        "description": "",
+        "date": "2026-10-19T16:46:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPUFBwUVEwMUZ5UldZX1c3ZkE4NXhGRU9CUktxQXlwaWxOTUJzRVAtZHJlX24tRFEzbzZOUnJvc2RpVk1lcW1sT2xiNEI4NEpKQlRCdmFyRnVpbkpHQzc0MnlFZHlxSHBQZVNKUHNmNi15UFhIbGMzSFQ5LXh0M0xuY01lbkFlUzhpc19jYk9VdEU3bTFWdzduN0hHM0JiSWk5R3owM1pNc19CWG54VHpJb0F5VTZwdGdjMlhTZkNZOGtXcmtUV0Q4LVI5UTFQcmhQVXE3Q2tNRUxFdGZoV3Q3Sk9HNktQLTAyN1BuOFM0OVFNbjFPNUl6b1ItSW1IS2JXYTU1UFcwQk9BVWhEOHlRTFNaQnpUNmJGQW04bkJyak9YV2I2bGFxbzVzZENCaWpIT1lxLVd4THVBaVFQYUNPWnd4VUNSZjZUUkVtM01EUXdTYllEdzAzQk5QZkFCMmRNcURIbXVVNndDaEg2dVhZWTk2Y2QwMjB6d3ZYVWFYbXdsZjNCcEx3ajN0TDRkdGxtUkxmazVvUl9sdml2dTE4LTZvdzhFc1Z6Yk0xcFdLSGNUZHQ5enR2a203cFZRQ2lvNXB5a2NJZGJ6MmtUcF9JTA?oc=5",
+        "source": "Списание Осем",
+        "image": null
       }
     ],
     "Образование": [
@@ -622,6 +622,14 @@
         "date": "2026-10-22T17:58:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVl94WW1KYnlWVFBBMVJQOVV1aHlyUUg1R2pwR3NFTE5ld3psOFZQSEtqbjd4YlNLU1lac0xid3BaNmM3clQtUFcyVDgwTmZIbHV6V2hNdWFLWVpyemh0U3g1OU8zRFpUSkVVLWU0aGpncHk3V3pla3FJeE1iMW9XZ01qR1pmVHFYdVJ4cmZnRWdMQkRwbklOUDdkcnFFaHp6RlF0UGxHRFFMYUhWakNV?oc=5",
         "source": "БНТ Новини",
+        "image": null
+      },
+      {
+        "title": "Спектакъл по текст на Радичков провокира критичното мислене на ученици - Chernomorie-bg.com",
+        "description": "",
+        "date": "2026-10-22T17:13:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWZtelQwTXhOWVdSVmVMYzJQVmdSZ1FjdVhfMjNvT1J3a1hLUHZmdEgzSzRtdXlteF9kT044a3VfWThsTE5RVjZJSUpoWXJsLUtBOUtZV2ROdmVLQk1jemtOelpkaFV4bS1jX1RNSXZVTW1pM05ZcnplTDNSZFI1YU5iaV8wUjd3QzBmR0N0VFA1QTc1STlhZG9QUXJLc3dCT2p1c0VlN3NUdnJPbjVN?oc=5",
+        "source": "Chernomorie-bg.com",
         "image": null
       },
       {
@@ -798,14 +806,6 @@
         "date": "2026-10-22T09:13:18+00:00",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcEY4bnlob0Vvb25NSEFhWkVXNDVVX2lnNTNNeGsyTjMxdTZ3aEJOc0Npb1B3NFRjZE1nbGYtOGNNMGwyXzV1RkMzaFBMY0dWLUVUbkpMNFRyOTdhcGxqazNDRzltQm1OYVRpQk1EWEJMYkFxc2hQb09Lb3RuU2I5WGhYNG5EQ2xwQjJmOVVBRk5vcVFwNTF0bkFadVk1TFVxSXNoN3hUdFFTSlRtaHc?oc=5",
         "source": "https://vburgas.bg/",
-        "image": null
-      },
-      {
-        "title": "Казанлък е много добър пример за дуалното обучение в България - За Казанлък",
-        "description": "",
-        "date": "2026-10-22T08:41:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG5KZkpuNEJwbUtTNXJtYTNHTHp0ZkZWUmhBQVFzWFU3X0x2Q3MzdVhIRy01SnQ2V2x2eFVBNU1UcUJuWC1DZFcyOUJ2dkQzaFlBalE0U053NThJTnJ2QVVEd3ZMYUZ2eFBlZ1JxcnlMdm9zV1FBNWFJdzhKUm9waEhXYms3UG9LLUZvWmV2cTZkSmEwNUtGVEtqRUV1VGo0MXo1R2NzdWxTaWM5THJUTndwd0x2SmZTalM0?oc=5",
-        "source": "За Казанлък",
         "image": null
       }
     ],
