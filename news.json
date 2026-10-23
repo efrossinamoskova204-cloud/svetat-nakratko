@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-10-23T05:46:41.044622+00:00",
+  "generatedAt": "2026-10-23T06:15:58.746934+00:00",
   "categories": {
     "България": [
+      {
+        "title": "\"Алфа Рисърч\": Йотова-Вълчев - 41,4%, Гюров-Кандев - 28,3%, Костадинов-Волгин - 12,8%",
+        "description": "Водачите регистрират спад, вторите - ръст, а третите - още по-голяма мобилизация в края на кампанията",
+        "date": "2026-10-23T06:11:24+00:00",
+        "link": "https://dnes.dir.bg/politika/alfa-risarch-jotova-valchev-41-4-gyurov-kandev-28-3-kostadinov-volgin-12-8",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/23/3039559/384x216.jpg?_=1792738886"
+      },
+      {
+        "title": "Петролът почти без промяна на фона на атаките на хусите срещу Саудитска Арабия",
+        "description": "Цените се задържат след вчерашния ръст от 4% до петмесечен връх заради опасения за доставките",
+        "date": "2026-10-23T06:08:33+00:00",
+        "link": "https://business.dir.bg/energien-pazar/petrolat-pochti-bez-promyana-na-fona-na-atakite-na-husite-sreshtu-sauditska-arabiya",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/05/20/2984709/384x216.jpg?_=1779254795"
+      },
+      {
+        "title": "Поетесата Кристин Димитрова ще представи стихосбирката си „Квартална антропология“ в Стара Загора",
+        "description": "Поетесата Кристин Димитрова ще представи тази вечер стихосбирката си „Квартална антропология“ в Стара Загора. Това съобщиха за БТА организаторите от най-голямата читалищна библиотека у нас „Родина“ към Народно читалище „Родина-1860“. Старозагорци и гостите на града ще могат да се запознаят с нея непосредствено преди церемонията по обявяване на резултатите от 43-тото издание на Националния младежки конкурс за поезия „Веселин Ханчев“ в обновената с",
+        "date": "2026-10-23T06:05:01+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1230798-poetesata-kristin-dimitrova-shte-predstavi-stihosbirkata-si-kvartalna-antropolo",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14024475/845483697_1519716546845339_5734159137007896119_n.jpg"
+      },
+      {
+        "title": "Шест авиомедицински мисии са изпълнени през последната седмица, съобщиха от „Национална система 112“",
+        "description": "Шест авиомедицински мисии, при които пациенти в тежко състояние са получили възможност за високоспециализирано лечение, са изпълнени през периода от 16 до 23 октомври. Това съобщиха от Дирекция „Национална система 112“ към Министерството на вътрешните работи (МВР). Общо 31 328 повиквания са регистрирани за периода на единния европейски номер за спешни повиквания 112, като броят има е нараснал с 10,7% спрямо същия период на миналата година. От тях",
+        "date": "2026-10-23T06:04:17+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1230790-shest-aviomeditsinski-misii-sa-izpalneni-prez-poslednata-sedmitsa-saobshtiha-ot",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13754684/Bolnica_helikopter_001.jpg"
+      },
+      {
+        "title": "Общинският съвет в Сливен ще проведе тържествено заседание по повод празника на града",
+        "description": "Тържествено заседание на Общинския съвет в Сливен ще се състои на 23 октомври от 10:00 часа в зала „Сливен“, съобщи институцията на сайта си. В дневния ред са включени две точки – поздравления и връчване на наградите на Община Сливен. Заседанието е част от празничните прояви, посветени на Димитровден – празника на Сливен, който се отбелязва на 26 октомври. В рамките на тържествената сесия ще бъдат отличени носителите на общинските награди за 2026",
+        "date": "2026-10-23T06:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1230459-obshtinskiyat-savet-v-sliven-shte-provede-tarzhestveno-zasedanie-po-povod-prazni",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/9765117/%D0%B2%D0%BE%D0%B4%D0%B5%D1%89%D0%B0.jpg"
+      },
       {
         "title": "Зеленски: Ако дадете нещо на Путин, той ще поиска всичко",
         "description": "\"Това не е нещо лично между мен и президента Тръмп и, разбира се, съм против всякакво премахване на санкциите\", заяви украинският президент пред Си Ен Ен",
@@ -65,6 +105,14 @@
         "link": "https://www.bta.bg/bg/news/lik/1230075-veselin-marinov-gostuva-v-razgrad-s-kontsert-ot-turneto-si-ti-si-lyubovta-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13739809/IMG_7475+%281%29.jpeg"
+      },
+      {
+        "title": "Раздухва ли Европа руската заплаха, за да оправдае превъоръжаването? - Dnes.bg",
+        "description": "",
+        "date": "2026-10-23T04:31:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcm1yYnVpczkxVnM2dW84NjF6aDJVUFhUZTMzVlprSkZTQkdsRDRvMFkxMnh4SDBqclAxdVJROFJVVXZVQ1owVmkzYVVqd1pBekZDOWk2U2t4eWxkc2NGbXhyM1hxblVnU1N2cjVSSUszM0NjRnhHLVgxMjdmZ2cxV1BFeWt6aWp3WjQtOWsxTEJDTERzcmxvSmwxcmpLcWdhbVVQNWFCRFJPenFaVGlBYzdXRHA4a0g2UUE?oc=5",
+        "source": "Dnes.bg",
+        "image": null
       },
       {
         "title": "Днес ще бъдат обявени резултатите от 43-тото издание на Националния младежки конкурс за поезия „Веселин Ханчев“",
@@ -131,6 +179,14 @@
         "image": "https://static.dir.bg/uploads/images/2026/10/23/3039543/384x216.jpg?_=1792730940"
       },
       {
+        "title": "Синя коса и пиърсинги: Ким Кардашиян се преобрази в 13-годишната си дъщеря Норт за Хелоуин - Vesti.bg",
+        "description": "",
+        "date": "2026-10-23T03:34:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejhHTTV2WXpRNmpEb1l2NWIyYzdLcHVMMWJkMmJWZ3o2TGkwenFvR2ZUMjIzXzBpSmNDWFI5NU1UNF92UGtueHBkdEZ3ZW5yQUZ1RHREeW95aXhrZV9nSV9tbVZtX3MwbS1UOTd4S3JVVElZNzVjSGt5dHN2NVZaMUxHeWRha25KQ3JONVVn?oc=5",
+        "source": "Vesti.bg",
+        "image": null
+      },
+      {
         "title": "Среща на високо ниво ще отбележи официалното откриване на граничния преход Рудозем - Ксанти",
         "description": "Среща на високо ниво днес ще отбележи официалното откриване на граничния преход Рудозем - Ксанти. Информацията е публикувана на официалния интернет сайт на програмата Interreg Greece – Bulgaria (ИНТЕРРЕГ Гърция - България), по която се организира събитието. На срещата на мястото на изградения, но нефункциониращ в условията на шенгенските граници ГКПП Рудозем - Ксанти, ще присъстват представители на Европейската комисия, на държавната и местната в",
         "date": "2026-10-23T03:30:00+00:00",
@@ -145,65 +201,41 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1230491-natsionalniyat-savet-za-tristranno-satrudnichestvo-shte-zasedava-za-danachni-pro",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13983156/MIL_6940.jpg"
-      },
-      {
-        "title": "Литературен кабинет „Иван В. Симеонов\" се открива днес в София",
-        "description": "Литературен кабинет „Иван В. Симеонов\" се открива днес в София, съобщиха от Националния литературен музей. Събитието е по случай 100-годишнината от рождението на твореца и половинвековния юбилей на Националния литературен музей. Иван Симеонов и съпругата му - актрисата Гинка Спасова, са най-големите благодетели на културната институция. Те даряват семейния си апартамент със заръката кабинетът на писателя да бъде запазен, а останалите помещения да",
-        "date": "2026-10-23T03:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1230516-literaturen-kabinet-ivan-v-simeonov-se-otkriva-dnes-v-sofiya",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14008910/Simeonov+21.png"
-      },
-      {
-        "title": "Изложби, срещи с артисти, творчески работилници, прожекции предлага инициативата „Есенна нощ на галериите“ във Варна днес и утре",
-        "description": "Двадесет и пет пространства се включват в инициативата „Есенна нощ на галериите“ във Варна, съобщават организаторите. Събитията - изложби, срещи с артисти, творчески работилници, прожекции, музикални изпълнения и галерийни турове - са днес и утре и се реализират в сътрудничество с район „Одесос“ и сдружение „Таляна“. Началото е днес от 11:00 ч. в Музея за нова история на Варна, когато кметът на района Янислава Шопова ще връчи награди на отличенит",
-        "date": "2026-10-23T03:15:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1230537-izlozhbi-sreshti-s-artisti-tvorcheski-rabotilnitsi-prozhektsii-predlaga-inits",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13946381/1588.jpg"
-      },
-      {
-        "title": "Пловдив е домакин на Urban Wine Fest 2026 днес и утре",
-        "description": "Пловдив е домакин днес и утре на новото издание на градския винен фестивал Urban Wine Fest Plovdiv 2026, съобщиха организаторите от Българската асоциация на винените професионалисти (БАВП). Асоциацията ще отбележи Международния ден на мавруда 26 октомври и популяризира българските вина чрез поредица от градски фестивали, срещи с винени експерти и събития, посветени на местните сортове и винените региони на България. На площад „Централен“, на мост",
-        "date": "2026-10-23T03:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1229111-plovdiv-e-domakin-na-urban-wine-fest-2026-dnes-i-utre",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11664724/20251004_181745.jpg"
-      },
-      {
-        "title": "Първата изложба по проекта „Докосни София“ се открива днес в Националното читалище на слепите „Луи Брайл 1928“",
-        "description": "Първата изложба по проекта „Докосни София“ се открива днес от 14:00 часа в Национално читалище на слепите „Луи Брайл 1928“, съобщиха от район „Средец\", Столична община. В рамките на проекта, осъществен с финансовата подкрепа на Столична програма „Култура“, са изработени триизмерни макети на 15 от най-известните забележителности на София. Всеки макет е придружен от говорещ етикет, чрез който посетителите могат да получат информация за представения",
-        "date": "2026-10-23T03:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1230554-parvata-izlozhba-po-proekta-dokosni-sofiya-se-otkriva-dnes-v-natsionalnoto-chi",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/638374/Sredets.jpg"
-      },
-      {
-        "title": "От 8:00 до 20:00 часа се променя организацията на движението по път II-19 в района на Банско",
-        "description": "От 8:00 до 20:00 часа за смяна на камери ще се промени организацията на движение в участък от път II-19 Симитли – Гоце Делчев в района на Банско, съобщиха от Агенция „Пътна инфраструктура“ (АПИ). По време на дейностите ще се ограничи преминаването в посока Симитли, като трафикът ще се осъществява двупосочно в свободната лента за Гоце Делчев. Движението ще се регулира с пътни знаци и с ограничение на скоростта до 40 километра в час, като при необх",
-        "date": "2026-10-23T03:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1230679-ot-8-00-do-20-00-chasa-se-promenya-organizatsiyata-na-dvizhenieto-po-pat-ii-19-v",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11003554/MIL_7477.jpg"
-      },
-      {
-        "title": "Да останат или да бягат? Украинските майки искат да запазят децата си в безопасност - Dnes.bg",
-        "description": "",
-        "date": "2026-10-23T01:20:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMEtOcTAxdW1Zbl84SFJCeldoSnphd1lvQnBzaWMzbzVlYnU3U3hfLU4zNXVkNnc3Nzg0SVN1V2xmakZ5OGFTNnd6dXVITWJoRk5zLVdfZUFBTHAzeHFWVzdYTWVLTFJGMDFSeTZ0YmhleWw4cjAwWmdZZ1pfOE5BWlBqVUFoWm9PenhPaXl0Zm5MbGo1SnVTX0t5bWdpZ0FJZ2F4aC01MDdmRXRKTHBjMmdZamg5UVJSXy13T0l4QkhadDRQMW9vSnQzWDFBX2t4aXc?oc=5",
-        "source": "Dnes.bg",
-        "image": null
-      },
-      {
-        "title": "Колтуклиева: Опитват да изкарат мен виновна. Аз бях с телефон, не с оръжие",
-        "description": "Журналистката отпратила Доцова, защото се усъмнила в искреността ѝ. Обясни пред медиите, че има фрактура на рамото",
-        "date": "2026-10-22T23:36:09+00:00",
-        "link": "https://dnes.dir.bg/intsidenti/koltuklieva-opitvat-da-izkarat-men-vinovna-az-byah-s-telefon-ne-s-orazhie",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/23/3039542/384x216.jpg?_=1792716329"
       }
     ],
     "Свят": [
+      {
+        "title": "СЗО: Една четвърт от медицинските специалисти в света ще се пенсионират през следващите години - Свят - manager.bg",
+        "description": "",
+        "date": "2026-10-23T06:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWxYZ0RaLUZWWjZ0QVVUUzkwRUdiXy15SURZbXBDWDhkcUlyclB1QjhKNzNvQzJJTHFUWDlmY3l6cXJER0lOSHFTdFVqZkFRQldCajRXYmJGaXZsMExNczhwNk5Qd2hJZmM0LUc4RVFRbHhUNXBHMHhKOUxpcFk3aUYxZlpUbGxZVjNmZ0t1eDVCRzNHckhmVWt1UXRXb0pEdWMyeS1aT1hacHVJcmoyVU5TeU4zS1oxS1Z4eWxIVDZZamNXN1ZlX3V3aUE2aWFvYUQ3emdWbw?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Южна Корея предложи на Северна Корея преговори относно сухопътната граница",
+        "description": "Министерството на отбраната на Южна Корея официално предложи военни преговори със Северна Корея с цел да се постигне съгласие за точното местоположение на сухопътната граница между двете държави и да се намали рискът от случайни сблъсъци, предаде Ройтерс. Предложението, обявено от заместник-министъра на национална отбрана на Южна Корея Ким Хон-чхол, идва във връзка с експлозия на противопехотна мина в демилитаризираната зона миналия месец, при ко",
+        "date": "2026-10-23T05:58:11+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1230796-yuzhna-koreya-predlozhi-na-severna-koreya-pregovori-otnosno-suhopatnata-granitsa",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/717111/e4d761fc8af44fe69bc011e2c85a12d7-e4d761fc8af44fe69bc011e2c85a12d7-1981328a97244e1b84a097213a6bdd79-5c9bd.jpg"
+      },
+      {
+        "title": "Русия обяви, че е поразила кораб, доставящ военен товар в украинския град Одеса, и дунавско пристанище в Одеска област",
+        "description": "Руската армия е нанесла удар по товарен кораб в Черно море, доставящ товар за украинската армия в пристанището на град Одеса, предаде Ройтерс, като цитира сводка на Министерството на отбраната на Русия в приложението Телеграм. Удар е нанесен и по дунавското пристанище Вилково, в Измаилски район на Одеска област, добави ведомството, уточнявайки, че то също е използвано за нуждите на Въоръжените сили на Украйна. По същата причина според Москва е ат",
+        "date": "2026-10-23T05:45:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1230791-rusiya-obyavi-che-e-porazila-korab-dostavyasht-voenen-tovar-v-ukrainskiya-grad",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/9800268/V_SH1647.JPG"
+      },
+      {
+        "title": "Зеленски: Разногласията ми с Тръмп не са на лична основа - Свят - manager.bg",
+        "description": "",
+        "date": "2026-10-23T05:44:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSE5NaTJvZ1F2RDRiVkotcnhfRmhoYTdWREktOExGbklPd183RGZmLXlQYklsSUFMZi1qYVhFRHJ4ZjFmSlI1MV9YbWpYcTlQekdCTEZZUHc1d3JwYWNuRGM5VHE4TW9aRHlkUGk2UmxHcEp1QjlCOXRjb2NmVVNkT3o4MzRzeVRINFVxYTU2Tkp5OTY5QkY2eExWM09ESUlzdlE?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
       {
         "title": "Саудитска Арабия отложи Глобалния форум на ООН за данните и Саудитския статистически форум",
         "description": "Главното управление за статистика на Саудитска Арабия отложи Глобалния форум на ООН за данните и Втория саудитски статистически форум, планирани за периода от 9 до 12 ноември 2026 г. в Рияд, обяви в изявление на ведомството, цитирано от Ройтерс. Двата форума ще се проведат догодина. Миналата седмица Европейският съюз (ЕС) и Съветът за сътрудничество в Залива (ССЗ) оповестиха, че отлагат срещата на върха, която бе насрочена за утре в Саудитска Ара",
@@ -227,6 +259,14 @@
         "link": "https://www.bta.bg/bg/news/world/1230774-nepal-shte-poluchi-20-miliona-dolara-ot-klimatichen-fond-na-oon-za-spravyane-s-p",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13804145/66e2bf2dae804d4daaa29463d0717699--1--f60d977cc73f423d8c3fe59b9c0aaab0.jpg"
+      },
+      {
+        "title": "\"Ера на джуджета\": Архитектът на \"сдържането\" на СССР Джордж Кенан ни предупреди за \"съдбовна грешка\" на НАТО с Русия - News.bg",
+        "description": "",
+        "date": "2026-10-23T04:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSk56ZmV6YU1DSXlieDJhdjRVdUhjNEVPbmVEWU1ROHF5VjVPN2otY01vYkZuQVp4S1prUjhYaDBTZ0VHNUdUZHZFX2lGRWF1T2tjNkRrbVpONV9ibVlicG04WVdRREMzOS1kWGVKb21zQXBYLXZ4eHVwblVCcDFuN1Q4SzZ1eEZCeXJHaER1UGZjcTdmUldPNHUxZGNmeVQ4dkVxU0xBRmlXeXctZzQ3Z0ZBeXFUSFZPLUgtRExNSm9McHdIYkR2Y2dyTkxmakltMnAydHVUTGx4NzdyckQyd3VYTQ?oc=5",
+        "source": "News.bg",
+        "image": null
       },
       {
         "title": "Върховният съд на САЩ даде право на щата Ню Хемпшър да забрани изцяло студентските карти като документ за самоличност при вота на 3 ноември",
@@ -317,14 +357,6 @@
         "image": null
       },
       {
-        "title": "„Роден за друг свят“ - документален филм - прожекция - БТА",
-        "description": "",
-        "date": "2026-10-22T23:24:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LbTJNdWtwUWxFUmF0dFpKNzNTalE3ZHBpTEdCbS1Sd1pYV3dKTXNRSXFPQmpjZGlLMlF1WEtfX2J4SmhKMXMwemlOVENncktMcEt5Q1BSUXdsN1U?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Флавио Болсонаро и Лула са почти изравнени преди балотажа в Бразилия, показва проучване на агенция \"Датафоля\"",
         "description": "Бразилският сенатор Флавио Болсонаро и президентът Луиз Инасио Лула да Силва са практически с изравнена подкрепа преди балотажа на президентските избори в неделя, сочи проучване на агенция \"Датафоля\", цитирано от Ройтерс. Най-големият син на бившия президент Жаир Болсонаро би получил 47% от гласовете срещу 46% за действащия президент, според анкетата. Миналата седмица проучване на Datafolha показа 47% подкрепа за по-младия Болсонаро и 45% за Лула",
         "date": "2026-10-22T23:20:00+00:00",
@@ -371,47 +403,15 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKVnFrazdqeXFJZ3Z0SC1iSlJ0cld4MXlSalF0ZmZqaTEtZ2hVSFNsdDBrTmRya3BSLVVNR2lLQ1Q2N1NnLWUyQXpDdGFMdkxtbmhtNGttaw?oc=5",
         "source": "БТА",
         "image": null
-      },
-      {
-        "title": "APTOPIX Election 2026 Maine Senate - БТА",
-        "description": "",
-        "date": "2026-10-22T21:34:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VRG5WaGFYTXJRLUliM0N5RjVTZW4wc29zUEpGYUxQRU1vQ3J1MEZhMVpxVDdSRTNNQndyN2Q3anV2Wl9PVnlVRXdKWFdmU21CQ2MzWVcxOA?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "APTOPIX Romania Violence Against Women - БТА",
-        "description": "",
-        "date": "2026-10-22T21:33:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10U0xrTVhJRGtEcllzbzFTS0R0QmhLSmV5ZGNINXVRS1ltaVZwdmZKRDNyTGYyQmUta1NqQVZpbzZ5djEzUThCSjdDR0dOUzBvT0hra2NqVQ?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "APTOPIX France Protests - БТА",
-        "description": "",
-        "date": "2026-10-22T21:33:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96NlQ2cmdXckJXQXVzY21pOXhPUnVhU0RRaVcwaGQxa3lsZW50YmRJQk5JSlpFLWxiTEVuTzdsa0EwaENjNnRQc2doTEI5VHhWVmc4X2FLNA?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "APTOPIX Israel Palestinians.Gaza - БТА",
-        "description": "",
-        "date": "2026-10-22T21:32:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52a0d4aDAzSjdwd1RNY0dMTlV6MDNNSWJMd2wtaDlSTDFmQ2R0bW1yWm9PeVVGa0NXejIwZzk2alVTbnRpTkNTcTlDQVdGRUNBUTdGZUlsOA?oc=5",
-        "source": "БТА",
-        "image": null
       }
     ],
     "Наука": [
       {
-        "title": "Калориите в кафето са скочили с близо 40%, но захарта не е виновникът - БГНЕС",
+        "title": "От самото ядро на Земята от милиарди години може да е изтичал водород - Kaldata.com",
         "description": "",
-        "date": "2026-10-23T00:14:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDAwUUJWaGpIMmVMbnpHUDVLWmlLRTRmOVR0ejJ3SVJ5ejVENWNtVExQNTZXVHpHNThKMFZMUGdwekh4RHZqRkhwcEVocGx5Sk9walhrblBKWjlKOG1rNXh6RVVya3VjVTBmUGdsRWF2TDVDRVItOU1URDl2WmU3elFJLWlmRmk1M0paRTQ0NkZXZms?oc=5",
-        "source": "БГНЕС",
+        "date": "2026-10-22T15:14:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNZUw5OFN6dEEwa0dwM0RnemI0cW9QLXhkeGtmSkFlRmRZQ2ZSa01mbmhRWFNVT2Y4clEzWmg4dmI5ZXQ3SU81c05mX3MycEtEVF9hbTNfSjUwVEtqdE1mR1VacmNtTVdMalo1YkY5TXVkSC1fQmxqekhhaFUtb21JTFoxajk1Sm1Wc0hmaGR3aVlyd3FHVS05d1d6V25NRURKUXdBWi1ER19HMUF1M1IyWk9VM1JOYkxqTmRpekRnUGpkUDBIMUFXcmkzRlZYU1M4TnpkekxPaWlPTDV2Y2RtUERraGZvaXVpblRjVm5aX3lQNlljVEh5S3ZFSTRvb3U1N1VIV2h4bFVabjNXaE1FLTM1dzFkcVlKd1hTZ0ZtZTJydVo2U2RZOTJ1Mm9RWXhjUHBDTVRWQmRlaC1HcjVhUHN6NHFoLUphRS1pY3R6djd2b05QRndQUl9PR1hIei15OExWV1lCUHM2dVhVbXoxd1JJRXFaRElxWWlPbVY0NkZjdTVfc3g0N3lubTB6S0EtLXl2eTNKdUNnS0dPSFB2dTA1QUVOYnZmZERXWU5GOVM4OW9EYThHN3dJR1HSAbwDQVVfeXFMTWVMOThTenRBMGtHcDNEZ3piNHFvUC14ZHhrZkpBZUZkWUNmUmtNZm5oUVhTVU9mOHJRM1poOHZiOWV0N0lPNXNOZl9zMnBLRFRfYW0zX0o1MFRLanRNZkdVWnJjbU1XTGpaNWJGOU11ZEgtX0JsanpIYWhVLW9tSUxaMWo5NUptVnNIZmhkd2lZcndxR1UtOXdXelduTUVESlF3QVotREdfRzFBdTNSMlpPVTNSTmJMak5kaXpEZ1BqZFAwSDFBV3JpM0ZWWFNTOE56ZHpMT2lpT0w1dmNkbVBEa2hmb2l1aW5UY1ZuWl95UDZZY1RIeUt2RUk0b291NTdVSFdoeGxVWm4zV2hNRS0zNXcxZHFZSndYU2dGbWUycnVaNlNkWTkydTJvUVl4Y1BwQ01UVkJkZWgtR3I1YVBzejRxaC1KYUUtaWN0enY3dm9OUEZ3UFJfT0dYSHoteThMVldZQlBzNnVYVW16MXdSSUVxWkRJcVlpT21WNDZGY3U1X3N4NDd5bm0wektBLS15dnkzSnVDZ0tHT0hQdnUwNUFFTmJ2ZmREV1lORjlTODlvRGE4Rzd3SUdR?oc=5",
+        "source": "Kaldata.com",
         "image": null
       },
       {
@@ -431,11 +431,27 @@
         "image": null
       },
       {
+        "title": "Свръхбързата и надеждна памет от ново поколение може да се произвежда от уран - Kaldata.com",
+        "description": "",
+        "date": "2026-10-22T14:39:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxPdXc2TlRQM0RKMENqbk1SaWNVVkNVeEV1dkRHTmV4U0p1aEJVLXdnMHNsMTZWY0Z5Vjd5azZEcWJDaWpmakFBem5GSVFvdUs5QzJpcF9MMkNhZzY0ek9MYmkyLXRTZ3VsNkl3ZHhMWEc3WWtDZXlsSWpzaVM5M1BfTUFHVTNwaWdOZmhjVEVuZHhDbkhQRmZzUXlYSVhRdnY4N29BZUdPSWN6U2dNVUJ0dzhUZ1BFMEY4dDlqaFRjWjRZaVVyM21wUFFhbEtmZVhTNHdBNnYwc20teUE2ZGtFdlJTNkFxLTgwT1JzSk9xckZWRjhCQ2ZLZDQ0VU1Xcm92ZXJvblhHQ2QyY19wUmxDakNhWXoxWGxEbE5IazFNNHVfU0h0cnN1a3ozREI1MF9RUXZlMEk2TnBHWVNYdEx0emcxX3dMc09HYXhweS1qSDk5dW5wY2ZEZEdhaHNmMDNpeUN5c0NvU3RDc3ZQSmh3emFVUnBINl9pUmotLVdfcW8wYVhOQzFIV3I0VkZSOF9PQUdsYmpOVjZaQTRxdWxhaWZOWWI0emRRQk9BLUlmZzRsTlhUbHAzNGRUR01SdlJSMW9TR1ozMzJQTVVhOEN2T3c4XzFMdlVITHhyLXJmQkJJZWdoRGJXTFVWWFY3Z2t5Q0NYWUZxUXJaOVUyRFVmdHo4N0lZUTNYcmxncldGejlqRVBMeDUyY1ktejN6cnVQZnp4X3FVR0JvOEFuNTdNUnJNUEZ1ZGdyZUZCWDlQTDBQcVFUMm9pWlNETm1BY3J5OHNDMnVycWRfV0p3WlptcEVKendNWm5TYldYbnhMZ3daaklfWm4yeFVybnJLRDVFS3ZtMjZxbHpJdmN4RHJmLXd1UnBXcDZ6QUNYVE5UUjM0S1dsYUNJRzBHM1FEcWdaNHB3THdHLVRPR244dlhQaG9JdTdndl90LURkVmhFMF9ZRjRZNXRPSFR4bXh6S1E4QlhWTmtwbTFOWklCNEJnV9IB8AVBVV95cUxPdXc2TlRQM0RKMENqbk1SaWNVVkNVeEV1dkRHTmV4U0p1aEJVLXdnMHNsMTZWY0Z5Vjd5azZEcWJDaWpmakFBem5GSVFvdUs5QzJpcF9MMkNhZzY0ek9MYmkyLXRTZ3VsNkl3ZHhMWEc3WWtDZXlsSWpzaVM5M1BfTUFHVTNwaWdOZmhjVEVuZHhDbkhQRmZzUXlYSVhRdnY4N29BZUdPSWN6U2dNVUJ0dzhUZ1BFMEY4dDlqaFRjWjRZaVVyM21wUFFhbEtmZVhTNHdBNnYwc20teUE2ZGtFdlJTNkFxLTgwT1JzSk9xckZWRjhCQ2ZLZDQ0VU1Xcm92ZXJvblhHQ2QyY19wUmxDakNhWXoxWGxEbE5IazFNNHVfU0h0cnN1a3ozREI1MF9RUXZlMEk2TnBHWVNYdEx0emcxX3dMc09HYXhweS1qSDk5dW5wY2ZEZEdhaHNmMDNpeUN5c0NvU3RDc3ZQSmh3emFVUnBINl9pUmotLVdfcW8wYVhOQzFIV3I0VkZSOF9PQUdsYmpOVjZaQTRxdWxhaWZOWWI0emRRQk9BLUlmZzRsTlhUbHAzNGRUR01SdlJSMW9TR1ozMzJQTVVhOEN2T3c4XzFMdlVITHhyLXJmQkJJZWdoRGJXTFVWWFY3Z2t5Q0NYWUZxUXJaOVUyRFVmdHo4N0lZUTNYcmxncldGejlqRVBMeDUyY1ktejN6cnVQZnp4X3FVR0JvOEFuNTdNUnJNUEZ1ZGdyZUZCWDlQTDBQcVFUMm9pWlNETm1BY3J5OHNDMnVycWRfV0p3WlptcEVKendNWm5TYldYbnhMZ3daaklfWm4yeFVybnJLRDVFS3ZtMjZxbHpJdmN4RHJmLXd1UnBXcDZ6QUNYVE5UUjM0S1dsYUNJRzBHM1FEcWdaNHB3THdHLVRPR244dlhQaG9JdTdndl90LURkVmhFMF9ZRjRZNXRPSFR4bXh6S1E4QlhWTmtwbTFOWklCNEJnVw?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
         "title": "Роботи, фосили и космически пътешествия на Пловдивския фестивал на науката - БНР Новини",
         "description": "",
         "date": "2026-10-22T13:41:50+00:00",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2sxNHdkWElwYWEtcVppNFJKY1RyRGJxS3JaSTU2T3VzVVg2eDk3aUwtY2VoQnBSdFdxOEVDNWR6RjBMVUt1eXZDQzlFX3F5RFpzelR4M3JvcmgwaWxlTXpYWW9OeWFWU0xUcUxNVTluYWZEWlJLOTB3cTZOVndHOWFHQndoZzg2SEVxR1pLQ3NMSUZyYS1MSUlfYlNpWDhabkt4WU41MlpmVGp6dUFfcWY0aw?oc=5",
         "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Светлинни мечове, облак в бутилка и спасяване на пингвини показа фестивалът на науката - marica.bg",
+        "description": "",
+        "date": "2026-10-22T12:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVUpubWV0T25NbW9uRHdyNGV5RnNDUWhjTTRJR1pEazRMX1lycDlHNnBMYVJad185UmlWTGUzeUx1RHVtNHVGOE12VURLdjZDN2lQN1N6S09UN2U4eHVnNUwyal93eTR6MXM3Z3JFV0hOaURoLXFrUG0tVExtVVJmS3hfQndPMEdSZTNMXzJ2d05Ib2gwQ0IxUjI2dXpXWms0bVJSWGlPTzFSU2JLenVUVmoySlh5Q3ExeDBvQ1RieGduME95dWdv0gHMAUFVX3lxTFBLVWlCaFZKSkg3SUhrNTNGZWNxWDlyWXBlR0pyczR2ejhoSXI3dTNIX09nUVJsend5VUNSS19PSEZ6T2tRczExVU9sWk01c2RYcXlxZDlXaEpOaXRBT2VUS1RSZ2JxR0pwMWtka2JNa09tZk1tTDRURkJWVGptS2JiMzlmYVlRNHdUVWlZdFlRdXctR1V4emROWGYxRnV5dzR3ZkFfYktqczV0WWNzTEZZanRTZ0NZU180Y2xIc2lsdC1TMExtS2dGREpaRA?oc=5",
+        "source": "marica.bg",
         "image": null
       },
       {
@@ -452,6 +468,14 @@
         "date": "2026-10-22T11:28:26+00:00",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83NFJYOExxb2VkNF9WQjdGWnR2MEhDYXRvY0tPanNKNFZtd3NWcF96RWc4T2NjaUlGOFRleHAwMklYUXpWSHVqaNIBSEFVX3lxTE83NFJYOExxb2VkNF9WQjdGWnR2MEhDYXRvY0tPanNKNFZtd3NWcF96RWc4T2NjaUlGOFRleHAwMklYUXpWSHVqaA?oc=5",
         "source": "Утро Русе",
+        "image": null
+      },
+      {
+        "title": "Пловдивският фестивал на науката разширява хоризонтите с 94 събития, повече практически занимания и среща с изкуството - Делник БГ",
+        "description": "",
+        "date": "2026-10-22T10:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQa0pwc2tKUlJKSUstd3Y4VEgxUVU1dGhYdWd0Q05sM3VPLXNuRERrY3U4QUo1MzJLNkNLWEFuaFZlSjZOdnROZnY0S0ZBUlBtcjZkWWg4bEhBanFManZqWEtUdHNZR1kzLUFub2hyckNDX09xWUpBTDFfd0xoaklKODhNT2FsTWRRRUhpTGZhb0tsNVhmclY1WFZxelRxMG1RemtGZHlleFRMLWFGMVVKVjVTSnVyOHhZREF3SjJ4LU4wRUxERFZjS1pDSFRZME05bWV2NzVsRlU2T1J5a0loeFNTSTdOM1huNDJlZlNNSi1kOW1rZFZLSVR1WVp5M096SFNvdkhYWkIzb1NjSVVnTlpKVXlkMmNwak92QUwzTE5GRExzVjV1OGY3aUpraEN1T0dUeW5OOEVHamJqOXpuMXdPMHdjVFc5NzNTOXFVSE8?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -487,11 +511,35 @@
         "image": null
       },
       {
+        "title": "Учени установиха връзка между фазите на съня и риска от 83 заболявания - Списание Осем",
+        "description": "",
+        "date": "2026-10-21T09:59:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOYzhhZmpHZWYwVFFpaEZOc1VWWUx0WDJkYkpJLVliUmhES3Q1dl9kNW9KbnJFN1FBc2RibXNxdHl5QjhZYlZlQ0w0S3l4V3E3RGxvek1tZG9DUGJON085Q284OXd3bTlUUUZwak0tdXdycFgyaV9VX2t0QlFLOEExSTd1UDFUTmpOMnRBN2s1TTRNdGNkTFluQ2otVThLLU9kR2ZsOFhkeWo4ZGlTanpnZndnakZwclYtOGRtNEgxRGgtM0ZKNWVYaENoUDd4OWxsTG0wYkh4eWRDTHRyUkl4amx0dzBTVVhjZnh4UkxNaGR4TWlYSVJFQnMzRDR6OWxQQnFrcl9MTDdLLVpsZm5wVFFOWjdraTlwc1JtWDdFekV5SEtDRGxITnRhMEVyNDJMZnd1aEtXcUYwdGRvOUZzV0V0UlBtNGpBYXkyanJoNXhabmFfME5KbDdLaTdxczdxbnpQMmp6cEdrOHNXd2otYl9FSDhxZVUwaDZXWXRHQ1hOd09HcVVwamJpX2lxMThmazNCZmxwekJfX2VCeS1ZSWtHWTFMWmJSdU1iRnBQZUdGWFFWYmJ6ejNXeXROTkxzMVhzVFQ0Njg4UXhFTTFUNk94VEVvMFFFdkcxcFNhdnJwMHh2em9HWVJqQnA0NmNyQ251MkJOMnlJQTQ3R1VPa1ZkLTNpMDJxLVZaczRHdDJoUkZLUy1vT2swYnM2RE0?oc=5",
+        "source": "Списание Осем",
+        "image": null
+      },
+      {
+        "title": "Науката на популярен език превзема Пловдив за четири дни - marica.bg",
+        "description": "",
+        "date": "2026-10-21T06:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFJyYkZlS0FrWVkyZGtRbEZMLWwxc1hXR1hJQlgwVTVwYTVJS1Z0ak1ldlFHemowc0RTSTN1TC1BMF9nNHVVMWx4UEhVX3dQN0xqcUdDNEZDRjZTeUZjeF9TaWF5ZWI5bmozUG0tZllKdEZ1MTFWRDRDcVBaZDloWlhZeEJTZWQwcVFrbWE3eVRRN2FiOGZobXdOc2M2Rk3SAZ8BQVVfeXFMTmRScmJGZUtBa1lZMmRrUWxGTC1sMXNYV0dYSUJYMFU1cGE1SUtWdGpNZXZRR3pqMHNEU0kzdUwtQTBfZzR1VTFseFBIVV93UDdManFHQzRGQ0Y2U3lGY3hfU2lheWViOW5qM1BtLWZZSnRGdTExVkQ0Q3FQWmQ5aFpYWXhCU2VkMHFRa21hN3lUUTdhYjhmaG13TnNjNkZN?oc=5",
+        "source": "marica.bg",
+        "image": null
+      },
+      {
         "title": "Д-р Казмин: Медицината е наука и изкуство, бих добавил и занаят - БНР Новини",
         "description": "",
         "date": "2026-10-20T14:16:20+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFRScDM5dUNUdDFyWFJCb1hCemdiRWVlOTZPMjRSeC1uZDlScF9GTkNIVXZkTVI0cmRTUmF4X2hDSFVoMVQza25fVlAyczRRRDBfQ2lDWHRER05vZkhmWENTVndwRHpfS012R0Rja2ZRZ1hZNFBtMzFqaWxsZWplMjJQYnJ4LXlDVlphZC1iTmxMUHpTZzR1ZGgwMmZ2YkxP?oc=5",
         "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Любов Костова: Науката е навсякъде – от мечтите за Марс до тайната на киселото зеле - marica.bg",
+        "description": "",
+        "date": "2026-10-20T12:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQm1TWkwtNXZRa0QwOHgzU2JoUVRpa0dLNFphSWNBOVAzWWhpWlF4Qy1ScVFPeEZJOUtrQXNuejJRbmdoSWl2SjhRX1BHTmc3dklmUDJfdHRObldLQzhUTWVRd1FBTERWcWwtVmY5eGV2YlpVaF9mdGhoZTFWZDBfZUVUT09TaEk5TGt3RDVtb1BfMGRFNTlDbll4VXBoTGlTVGdyMjFmcEwxQzhNSm9MT205SEszaEl4VE1IWklDUHfSAcABQVVfeXFMT0JtU1pMLTV2UWtEMDh4M1NiaFFUaWtHSzRaYUljQTlQM1loaVpReEMtUnFRT3hGSTlLa0FzbnoyUW5naElpdko4UV9QR05nN3ZJZlAyX3R0Tm5XS0M4VE1lUXdRQUxEVnFsLVZmOXhldmJaVWhfZnRoaGUxVmQwX2VFVE9PU2hJOUxrd0Q1bW9QXzBkRTU5Q25ZeFVwaExpU1RncjIxZnBMMUM4TUpvTE9tOUhLM2hJeFRNSFpJQ1B3?oc=5",
+        "source": "marica.bg",
         "image": null
       },
       {
@@ -519,6 +567,14 @@
         "image": null
       },
       {
+        "title": "Вселената е останала стабилна поради странен квантов феномен - Kaldata.com",
+        "description": "",
+        "date": "2026-10-20T08:01:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxOYjdUVmZfRDltNzR3RlBSeW91ZndIMGNxYXotS3FmOWNJbzhfVWxVM2N5SlFINzc4UnV3ZnlrM3p3cGl4U3ExYnRQSHp3TmtBekMzT1hFSE92ejNyaTNKRXdEdHBLeEVGLUlSaDQ5bk1ZWHB3MjhleHRnRjlxSlNpSWhzWklqRFE4NlhjUmtvQURWaERrR0FXR2N0a0VxbWhqSDJEQWFkTEFrelk5Ujd4ZVBEY01yT2hjUjlQaGo3TkotSENxLTZtZ0NObEI1T2lDaUdCY3I1a1dCRnVnakxtQUdWa1pUZW5jUVZBQ3UzYzZ1STJjTS13WjJ6bVFKQU9UUUhERWwwZzRKUk8xQlkwa0llU0tQWktyanBMTzJZNVBNZHpkRV8xak1LTFJQRDc4WFQ0Vk5oTjd3b1VuRS1xS2hrU1FoTG5Pdm5yYk5oRi1DN0E0aUhBaGl0QV84RUNEa2xsYU5ITE42TGZGQmJGX0hFNlVRbFJ5UHRrNmFUUjZBS2M1MUE1SXhUTEphYmRTNGJUSWVhUWxJbklJSXJiTUUyUmxfQ1ozNmViOUkzSjBvc29iWmV1ZFJzUnNZVFZRS2RqVWFrM1RtcU04U3dUNW80S2lDMFBIeVhhbm0xaHF2bUdOMHRjdEtxbG5VaVB6bG5mbmpzSGJwYmlJdjFGbzk4WTBTM0ZQMkIxTVBvMG9Ed0pxakM1cXFFM3NkcFhOODMzczNnZmdzS2tfYlVsY1FxNG9qTDYyNDBNNWJnVk9BNmZ4dF90Zm9ORmNXTzhMY1BTNUs1NjEtX2VfcFpzUzdDVXpoMEliTmRCSWhLTlRaaC1MdkRkUFEtRnRkVklrd2VDYjVCN05BVFJNSFN0NmtoX29ucXVGYTF1T3h2c3A1dFVpcFduT0Z4WWVQZXdDSnYzb3k5NVVWaUV5VTVkNEV5RU1TS3BwVkVQYzhCN1FVd9IB0gVBVV95cUxOYjdUVmZfRDltNzR3RlBSeW91ZndIMGNxYXotS3FmOWNJbzhfVWxVM2N5SlFINzc4UnV3ZnlrM3p3cGl4U3ExYnRQSHp3TmtBekMzT1hFSE92ejNyaTNKRXdEdHBLeEVGLUlSaDQ5bk1ZWHB3MjhleHRnRjlxSlNpSWhzWklqRFE4NlhjUmtvQURWaERrR0FXR2N0a0VxbWhqSDJEQWFkTEFrelk5Ujd4ZVBEY01yT2hjUjlQaGo3TkotSENxLTZtZ0NObEI1T2lDaUdCY3I1a1dCRnVnakxtQUdWa1pUZW5jUVZBQ3UzYzZ1STJjTS13WjJ6bVFKQU9UUUhERWwwZzRKUk8xQlkwa0llU0tQWktyanBMTzJZNVBNZHpkRV8xak1LTFJQRDc4WFQ0Vk5oTjd3b1VuRS1xS2hrU1FoTG5Pdm5yYk5oRi1DN0E0aUhBaGl0QV84RUNEa2xsYU5ITE42TGZGQmJGX0hFNlVRbFJ5UHRrNmFUUjZBS2M1MUE1SXhUTEphYmRTNGJUSWVhUWxJbklJSXJiTUUyUmxfQ1ozNmViOUkzSjBvc29iWmV1ZFJzUnNZVFZRS2RqVWFrM1RtcU04U3dUNW80S2lDMFBIeVhhbm0xaHF2bUdOMHRjdEtxbG5VaVB6bG5mbmpzSGJwYmlJdjFGbzk4WTBTM0ZQMkIxTVBvMG9Ed0pxakM1cXFFM3NkcFhOODMzczNnZmdzS2tfYlVsY1FxNG9qTDYyNDBNNWJnVk9BNmZ4dF90Zm9ORmNXTzhMY1BTNUs1NjEtX2VfcFpzUzdDVXpoMEliTmRCSWhLTlRaaC1MdkRkUFEtRnRkVklrd2VDYjVCN05BVFJNSFN0NmtoX29ucXVGYTF1T3h2c3A1dFVpcFduT0Z4WWVQZXdDSnYzb3k5NVVWaUV5VTVkNEV5RU1TS3BwVkVQYzhCN1FVdw?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
         "title": "Безплатни прегледи, LED терапии и наука за колагена: Vichy с поп-ъп преживяване в Serdika Center - boulevardbulgaria.bg",
         "description": "",
         "date": "2026-10-20T07:54:26+00:00",
@@ -535,15 +591,39 @@
         "image": null
       },
       {
-        "title": "На 22 октомври в Кръжока по астрономия гл. ас. д-р Илия Вълев ще представи албума-каталог „Звездното небе – митология и наука“ - MediaBricks",
+        "title": "Науката дава отговор защо котките са лек за душата - Списание Осем",
         "description": "",
-        "date": "2026-10-19T10:38:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXJMVnZ3VGNQc0RxbDdTc0pUbWd5NGVDeWxIVmF1ZDdxTjlXbUt2M1FsTXY5QlpOQTlzY3BpUFdvWGt1dTE0X0hzUHkzY3Q1RUFsbkMxQzlCR2RHTkthN0lHQzdhR3R1bHV1LVNLeVItR1pvdTR6czhnTUZJVVFTTm5RczBUdHZQdUNFbVZ1akg4S0x5SEFsTEtSbmk2UHlXYnktYWVhbE8zYzNsX2FDbU9PVDFlTzZqRFBRa0xBQkswaUlWMWZxNzFiUmpSNGFGdVp6TjZhR05VTkNmdVIxWlZDRkQ?oc=5",
-        "source": "MediaBricks",
+        "date": "2026-10-19T16:46:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPUFBwUVEwMUZ5UldZX1c3ZkE4NXhGRU9CUktxQXlwaWxOTUJzRVAtZHJlX24tRFEzbzZOUnJvc2RpVk1lcW1sT2xiNEI4NEpKQlRCdmFyRnVpbkpHQzc0MnlFZHlxSHBQZVNKUHNmNi15UFhIbGMzSFQ5LXh0M0xuY01lbkFlUzhpc19jYk9VdEU3bTFWdzduN0hHM0JiSWk5R3owM1pNc19CWG54VHpJb0F5VTZwdGdjMlhTZkNZOGtXcmtUV0Q4LVI5UTFQcmhQVXE3Q2tNRUxFdGZoV3Q3Sk9HNktQLTAyN1BuOFM0OVFNbjFPNUl6b1ItSW1IS2JXYTU1UFcwQk9BVWhEOHlRTFNaQnpUNmJGQW04bkJyak9YV2I2bGFxbzVzZENCaWpIT1lxLVd4THVBaVFQYUNPWnd4VUNSZjZUUkVtM01EUXdTYllEdzAzQk5QZkFCMmRNcURIbXVVNndDaEg2dVhZWTk2Y2QwMjB6d3ZYVWFYbXdsZjNCcEx3ajN0TDRkdGxtUkxmazVvUl9sdml2dTE4LTZvdzhFc1Z6Yk0xcFdLSGNUZHQ5enR2a203cFZRQ2lvNXB5a2NJZGJ6MmtUcF9JTA?oc=5",
+        "source": "Списание Осем",
+        "image": null
+      },
+      {
+        "title": "Русия напредва с изграждането гигантския ускорител на електрони „СИЛА“ - Kaldata.com",
+        "description": "",
+        "date": "2026-10-19T13:58:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNOHZrYzNsVl9MRUtWNkxTTklMZ1R3UHpVNFNMVVBZZ3Rfb0JFVDd6VUFkYXZ5NkR3T0VEMmxEXzNIX1MyN0RqUzBOZFFqYXgxc3hsSjdBRDkzMXhWb054QWswd0p6NGlFMEg1b0lXUzROR3dUMWxqSWpvc25jWXE5SElNM09mbUVFMEFsNHYwYmROeV9fMElON2s1YmZhTUhaQmNuNFM2djU4eThRSTkwYzhmbjg4MmhqeFkzLVAtR3A3UXNTWFd4akNTTE5NZHdDSWxuVzE1RmcyYnkxaFlCYXNGYnBXb0g3TkdKcld0dy01RmFQbjYxc0xOU3BPLTNFeUZPUnhUMmFfN0hJc2hPb25DT0I1c193Z2xId1hrSU0teVBMTFNENlI5TGhHV3BJdi1TdVd6NTY1TXRLeFhwRFY5MV9jaUVLSUtWSlB1anBzdDVReDFQQ1ExVFpHUVNnYWFWcUp3TFdlWTFxeU43QzhwUzZUYlEyVnVrOGZ1d2gzV3M3Q095YXpiYlRxUlR4TDFDYUlfUDl5Wm1QLUtpbzlpVXhtSWUtblk1UlowRUZNRTcwNGJDT9IBuANBVV95cUxNOHZrYzNsVl9MRUtWNkxTTklMZ1R3UHpVNFNMVVBZZ3Rfb0JFVDd6VUFkYXZ5NkR3T0VEMmxEXzNIX1MyN0RqUzBOZFFqYXgxc3hsSjdBRDkzMXhWb054QWswd0p6NGlFMEg1b0lXUzROR3dUMWxqSWpvc25jWXE5SElNM09mbUVFMEFsNHYwYmROeV9fMElON2s1YmZhTUhaQmNuNFM2djU4eThRSTkwYzhmbjg4MmhqeFkzLVAtR3A3UXNTWFd4akNTTE5NZHdDSWxuVzE1RmcyYnkxaFlCYXNGYnBXb0g3TkdKcld0dy01RmFQbjYxc0xOU3BPLTNFeUZPUnhUMmFfN0hJc2hPb25DT0I1c193Z2xId1hrSU0teVBMTFNENlI5TGhHV3BJdi1TdVd6NTY1TXRLeFhwRFY5MV9jaUVLSUtWSlB1anBzdDVReDFQQ1ExVFpHUVNnYWFWcUp3TFdlWTFxeU43QzhwUzZUYlEyVnVrOGZ1d2gzV3M3Q095YXpiYlRxUlR4TDFDYUlfUDl5Wm1QLUtpbzlpVXhtSWUtblk1UlowRUZNRTcwNGJDTw?oc=5",
+        "source": "Kaldata.com",
         "image": null
       }
     ],
     "Образование": [
+      {
+        "title": "Едногодишни професионално-педагогически специализации за учители предлагат във ВТУ - Вестник Борба",
+        "description": "",
+        "date": "2026-10-23T06:06:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2Z1eFlheE81aHVlTDZncG1jTDBlMFlrNzNld1lUd0tyclNaZ2ZWbkRnWGJ5VmlmZmhKSTB4MmhVdzBHZGxacTZBR1NCLXc2RHpBRmpfdDZ2NTlkZ19IYVF6d29YZDJaYXRJZ2p1WU9LZlc4ZWw1aGh5ZE5sM3ZlVzc4Yw?oc=5",
+        "source": "Вестник Борба",
+        "image": null
+      },
+      {
+        "title": "Спортно училище „Г. Бенковски“ – Плевен обявява свободно работно място за огняр - Pleven info",
+        "description": "",
+        "date": "2026-10-23T05:51:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjBkMEFiYVd6b01ZdW05NHM4NzAtRDRFTFJ4YjZuQS10WU1OV0NxaUVaMkpPS2VSWWdCUXFnZDZ4ZjNNNmI3VG85bUZEc0dqWVdUV1hhXzI0Mmh4SXJOZEJyQ2tuVkhYZ3VJQ2F6Ym9fUFlpS1dLRlRPSkFMZ0l4VWt5aE1PQk1OeWJGeUtZQ1Q3N0lXSThxYlNvcllrbzd1YlBPNw?oc=5",
+        "source": "Pleven info",
+        "image": null
+      },
       {
         "title": "105 години от откриването на Механо-техническото училище в Русе - Rousse.Info",
         "description": "",
@@ -689,14 +769,6 @@
         "image": null
       },
       {
-        "title": "Ученици от ПГ „Стефан Караджа“ ремонтираха съоръжения във физкултурния салон - Elhovo.news",
-        "description": "",
-        "date": "2026-10-22T11:15:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kMThfNlQwQ3hfdkNkQzA3bmxpTFdMUUhhYXdkQXV2ZkVHR1FBN0E1VjZZY0Q2OVJCUllILWNnV0k0bUU?oc=5",
-        "source": "Elhovo.news",
-        "image": null
-      },
-      {
         "title": "Проф. д-р Цветанка Коловска представи във Филиал Силистра ролята на ментора в модерното образование - Кворум Силистра",
         "description": "",
         "date": "2026-10-22T11:00:04+00:00",
@@ -729,19 +801,11 @@
         "image": null
       },
       {
-        "title": "Плевен е домакин на форума „Предучилищното и училищното образование – общо дело и отговорност“ - Делник БГ",
+        "title": "Плевен е домакин на форума „Предучилищното и училищното образование – общо дело и отговорност“ - БТА",
         "description": "",
-        "date": "2026-10-22T10:09:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcTNlME5NSUExYndNRUR2dEMwbEtZWGVFMXdHenVBRUltcDZZWDdNVjliTnJWUmgwVnJRdGhiQ2c4N0xUa3p6dDN6bnVlWDF2RkhYem9aeTFCbzJkTldnTzZuRUh4TmV5ZV9xNlNQLTh1WnRuU1NMd0w1WDVRVENocXVGTFB5WXJRQjNBcUpLZV9vSHlQclZyWXVTOXN3V3k2UVYtZlN2SlZMMTZQZ0lzdHFoTU92bC1mcVNxNmVZdFE5MUFGRF9VM3VXaU5JeXd1c0M3YmFtVml2MVYzSG91ZGNaY3FNX1hJZlJtUWl2N3p1cVJjV2M1V3RobkJJd2RBR1Nrc1owdUcwRTNEOUo2eHl4YVJQTmw3Z0dpeGh6d3dzWjVNUkJpY3FxREg5WEhxRDJsSmlUQlFFOFBOWGJGUXBhUGxGTmFHYVE?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
-        "title": "Община Бургас събра добри образователни практики в електронната книга „Шанс за бъдеще“ - https://vburgas.bg/",
-        "description": "",
-        "date": "2026-10-22T09:13:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcEY4bnlob0Vvb25NSEFhWkVXNDVVX2lnNTNNeGsyTjMxdTZ3aEJOc0Npb1B3NFRjZE1nbGYtOGNNMGwyXzV1RkMzaFBMY0dWLUVUbkpMNFRyOTdhcGxqazNDRzltQm1OYVRpQk1EWEJMYkFxc2hQb09Lb3RuU2I5WGhYNG5EQ2xwQjJmOVVBRk5vcVFwNTF0bkFadVk1TFVxSXNoN3hUdFFTSlRtaHc?oc=5",
-        "source": "https://vburgas.bg/",
+        "date": "2026-10-22T10:09:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3F3SzZDNFdSM3RYeDJJYWR3MW5jRlBCaGloNFFTcFhnREtia0thTW1fRlhDbWJnd3ZYNjhlM2lFR3ItMDVDeF9yUDVwV2VJcndEWHlqbG94V3dLTmNDX0JvckZFVHY3TEpPVnJxN0o3N2RwUmxRSTJtUFlLMWZBMm8zVVQ2ajgzdXdYVmpOTWw3NjhaOThPMUR0ck1ySzNMMzFnTERsMGNKclFMcksxWGxqYk5HYW04c09yWldGRGctVmY3MG5xdkxDcGxEYVZzaXlwYVBkMkptQQ?oc=5",
+        "source": "БТА",
         "image": null
       }
     ],
@@ -961,7 +1025,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 17,
+      "count": 25,
       "feeds": 1
     },
     "Образование": {
