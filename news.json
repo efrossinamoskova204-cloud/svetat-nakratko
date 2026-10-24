@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:05:00.202937+00:00",
+  "generatedAt": "2026-10-24T23:36:47.883802+00:00",
   "categories": {
     "България": [
       {
@@ -49,6 +49,14 @@
         "link": "https://dnes.dir.bg/svyat/proyavi-na-nasilie-na-mesta-v-protestite-sreshtu-voynite-i-rastyashtite-razhodi-v-italiya-snimki",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/24/3040127/384x216.jpg?_=1792873994"
+      },
+      {
+        "title": "Украйна порази нефтохимически завод в руския град Омск - Dnes.bg",
+        "description": "",
+        "date": "2026-10-24T19:29:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzlzbjlxdF8zZGpDa3k3QlVzOEhMZDZJSlJWZjRJQVBfNmhhbDlpWldHakZVWWI5UlVfUl9qSlVPbDBHbjRETHNEYk56aDBiT3ZpQVNHa1J3V3hZME1pZFpaYXNzbWMzaDFGSWg4bXN4Nl9QcTh1bFl3VGpLMTJjS1ZwX3V3NkU3ZjJGYWNtc09PMzhYcC02Vw?oc=5",
+        "source": "Dnes.bg",
+        "image": null
       },
       {
         "title": "В Многопрофилната болница в Ловеч бе закрита избирателната секция поради наличие на по-малко от 10 избиратели",
@@ -193,14 +201,6 @@
         "link": "https://dnes.dir.bg/svyat/politiko-evropa-e-izpravena-pred-zima-na-golyamo-nedovolstvo",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/19/3038062/384x216.jpg?_=1792441249"
-      },
-      {
-        "title": "Общо 19 прокурори от имащите право на глас 26 гласуваха в Ловеч за членове на Висшия съдебен съвет от квотата на прокурорите",
-        "description": "Общо 19 прокурори от имащите право на глас 26 са гласували в 11-та избирателна секция в Ловеч за членове на Висшия съдебен съвет от професионалната квота на прокурорите. Това съобщи председателят на избирателната секция Светла Иванова в люляковия град след преброяването на бюлетините и съставянето на протокола. Изборният ден е преминал нормално и без затруднения или нарушения в гласуването. Всички бюлетини в урната са действителни. Гласуването в ",
-        "date": "2026-10-24T16:38:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231926-obshto-19-prokurori-ot-imashtite-pravo-na-glas-26-glasuvaha-v-lovech-za-chlenove",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14029282/20261024_183131.jpg"
       }
     ],
     "Свят": [
@@ -309,6 +309,14 @@
         "image": "https://www.bta.bg/upload/504180/Rusia-map.jpg"
       },
       {
+        "title": "Литургия за свети Димитър и панихида за Архангелова задушница ще бъдат отслужени на 25 октомври в църковната община „Св. Патр. Евтимий“ в Хаселт - БТА",
+        "description": "",
+        "date": "2026-10-24T17:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWNFalhEamRiU3dJNVpDNFpwYi1nN3BSVndhR2lDak1TZDhhVk80QlJYcV9rSVI4ZDZ3MkJoWkJKOVpJa3ZiSThxUkxURXJhTFo5VW85WGtwTDl0YU50a1p2R2M0RkU2ajJsSXAyNWhocFFvLVd1cnFSUUh4c3N0X0Z5SThxbzh1emxJQTNBQzJwVEtXNHZtWXQzMDlxYWZfT1NIVkZYWjZra2k2OEtZYmVMMmFwa0k0ZGY0?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
         "title": "Йеменските хуси съобщиха, че са атакували петролни обекти и летища в Саудитска Арабия",
         "description": "Йеменските бунтовници хуси съобщиха, че днес са предприели атаки срещу петролни обекти и летища в Саудитска Арабия, в това число обект на саудитската петролна компания \"Сауди Арамко\" (Saudi Aramco) в Янбу, петролната рафинерия в Рабиг и международното летище \"Крал Халид\" в Рияд, предаде Ройтерс. Военният говорител на групировката Яхия Сария каза, че са били атакувани също международното летище \"Крал Фахд\" в Дамам, летището в Наджран и авиобаза в ",
         "date": "2026-10-24T16:58:00+00:00",
@@ -394,14 +402,6 @@
         "date": "2026-10-24T12:30:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkQ3N3M5dVhaT1hhTzVCTGVBcUFrSWFVeVM3ZHhrRWFyeW12ajVzcUI0bzdFRjc3RUVWdlp0OXVfTzNmQlc0TlBQZjlJcDNzWV91TVdGczdkR0RxV2E4ZXh2cWZUcU9BVFRQZURORWJ6VHgzZHBJZFRjcU5iNWZQM25QamR6ZEFoZVpmQ2w2Wi03aHFEZ1BVQ3JUdUtFTWYxQ293NU1KNjN5cDFCZDhBaWZoNHgyZE9CeFZn?oc=5",
         "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Киев: Украйна възстанови „стабилната“ връзка с мрежата Starlink на Мъск - Свят - manager.bg",
-        "description": "",
-        "date": "2026-10-24T10:33:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGtOLS1veEVSV3RiVk1hTV9BODdJRFNxQ2lfa205UHV2dVAtN3BrTjQ4YzVnSUUwWDR1NkNFOUhlejMxbmtHbzU0dkpLeVJWYmZOZzRMaU5fcWpYNDFsd25tbk1lemJiTkJ5YWZDUmxmOWo2SmFqU3ZCLS1hNGIzTnM4UWRrVV9XT2hWcVdRWTY2LUZzNzBuZi0yUlMwczhoalUwTVc4aXBJWlZXR2ExYXdR?oc=5",
-        "source": "manager.bg",
         "image": null
       }
     ],
@@ -561,14 +561,6 @@
         "image": null
       },
       {
-        "title": "Ученици от СУ \"Иван Вазов\" вдъхновяват бъдещи здравни професионалисти - БНР Новини",
-        "description": "",
-        "date": "2026-10-24T14:10:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWxDOUFzeldmOE5GaEhyTl9RNVhDY0phOHVjeGFibDhyRUg3Y0UtR0djUFYtdHlfOHRHWDdvczRjeDNBTWxuSlhtdWlESW03TTRDVnhfZDg4M3l1U3UxN0dvWnR1Wk5NNXNxZng1NjlQc2FwUWloYlZNd3I5dUJIdk5GeUpOcE9XdGVQcVozRm5vbWV0LXllZEtWeHpNb181bEo5a2YtZ2FvYW1yQWJz?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Проф. Сергей Игнатов: Ако образованието ни излиза скъпо, колко по-скъпо излиза простотията? - БГНЕС",
         "description": "",
         "date": "2026-10-24T12:11:54+00:00",
@@ -649,27 +641,19 @@
         "image": null
       },
       {
-        "title": "Какво разплака актрисата Гергана Стоянова след посещението й в училище в плевенското село Божурица? - Pleven info",
-        "description": "",
-        "date": "2026-10-23T19:30:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUhLcG1uSktwWkxWQlpEb3VaTTdmcmoteGtPWGw5dTlUcmNSblRVcXF4eGNDYWhLc1RaV2xERk9FVEJIY200cWpGTmtfVFg5ai1lRXhhMHhYejBOY2RUT21Zd1JRVm1VZzFrTllpcnY4MVYyOUtpNVEzWjhmNUJKVXJLS0ZXc3lOUkFXeHpIN0lQcFozQ2V3U1prUGR6M29nN3hWelBPcGlVUXA3QXJxTjhsMUR0eG0tNVFBWQ?oc=5",
-        "source": "Pleven info",
-        "image": null
-      },
-      {
-        "title": "НАОА връчва отличията за добри практики във висшето образование и науката - уча в Пловдив",
-        "description": "",
-        "date": "2026-10-23T19:28:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMzVpd0FKNGxMVl9ORWxxT1ZPZ2RjTTViNjFkc2tPN0oxSzBWblpKQVN5WU1BeklZMVNJcTIzb1VQeUdoMVlVQThmY1pxcS1xSkgwdE1FVUlmdGRiNzZtT3pfMUJVdDZZQjBfYkY3eGRPMjFRREdzS2VVUGRaWi1ad0k4SXpyYWVwbWYxVTVoSjVGeDVVRDhZUmQ2RDZ1cFVhUkY0Ung5Q01zLVMwTlh3aWRJaE1MTFN0cTZfMG8zZ2NmMFM4S0FRUXNnZmI0aVpadVpyUWhmZXp0UTVRTnpqRUFTbV9YWmRXTHJjaUpqak9ZT0tIRk1HUm05MGNlN2xqZlAxaHNCMElaZlBydHhwRUk5UzlqTlF3bGxZR1ZxZ05XRnpXR3ZKQ25ySUt0Y0k5NEh6U3FDSmU2dlRCNXJNQkN3?oc=5",
-        "source": "уча в Пловдив",
-        "image": null
-      },
-      {
         "title": "Костадинов: Независимост, благоденствие, единство, образование и силна армия са петте ни приоритета - Кворум Силистра",
         "description": "",
         "date": "2026-10-23T15:49:11+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSDNjdWFEWE5qelZGV1dvbjZXUlFoMHdidFJ5RUY3RWpkTTdaaGNBdmRLd001QzNSUXpVcVVMX3Z4T2cyLWpCWjRYZklnLTJuN1MwWnZ3?oc=5",
         "source": "Кворум Силистра",
+        "image": null
+      },
+      {
+        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - БТА",
+        "description": "",
+        "date": "2026-10-23T15:39:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcThDcXhpMG9YR3lwV1M2amZUdExnZzR0RmMxUjJ6NjFaZjd2QUdneFRadVJPWER1T1d1VUxFSG9BNUVaSjVwWjJvWnM1Skx0MFo1Rk9BRGNYZjF0Ui1aOHplTkF4SndxLUJkTnhETzBDQ3pDeEZMZFBFSzBvR216Tjl2Unh1MHVmQUJPb1B4WUkxVU1LVHRwTThaejJuUDRCcEFsbC0tb2ZvR01Sc0E0SkhnTUg0WDlyOTk0?oc=5",
+        "source": "БТА",
         "image": null
       },
       {
@@ -681,19 +665,19 @@
         "image": null
       },
       {
+        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР Новини",
+        "description": "",
+        "date": "2026-10-23T13:23:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2NZOVhwWWNIMXVVTjBOMTJoX0dPdmQzQm5YYU5KWjgtVlhsU2lub2VvVktPS0VzSXg5aXBjYzdlLU5YVHVoNE5jM3VYZkFFejE5UFhsSTN0VlVCZElUVm9IXzZ5dUJ4bExTMC1MWmFHSzRJdGtLSmtuRHYyYTFhaUtneHpoM18wMTEyV0FVaW5fQ1k3ODBrenRybHcyYW1zS0NrMzlRNzBQMnRFTGgyN1lJMTA4YlhwXzdvMzZ3?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
         "title": "Протести във Виена: Демонстрациите са срещу съкращения в образованието - Euronews Bulgaria",
         "description": "",
         "date": "2026-10-23T13:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVU5RSmVpOGZvMjNXaXh4dlhCQmZGOHdrVUVCTjRISVNDNnFhVmI4SW9ialhoLXNlYmhka1dxbE5RcldkbzFjZzJiVHRUTkhrall0OWNaQmJtUzZpQ2ZUZ09hVHhGRElpMEZsN1VaR0RFQy1VeE05a2ducmxlRGJ2ZnI5U2VYd1pJcnZTdjdGZlJjRHVVMHhETkFJRl90RC1Yb0sw?oc=5",
         "source": "Euronews Bulgaria",
-        "image": null
-      },
-      {
-        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР",
-        "description": "",
-        "date": "2026-10-23T12:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGo2T0xuRkRWeGQxTUhaRDlKVUJyWHBpTE9QLWZCb29HTlV4Nm1lZzBEM25SZWRXNXZSZVN4ZllsbzNuNV8zYWdRcE14N3F1M2VBSDkwYS1KUThsUnhobElibUd0SlpIT202WHhtOXoxZTl1Szc4Sll3SmlEaExuNjZpMkRlY0tEUjktNUtzMjYwRjBPZnphRE5kRi1JYUY0MTdabnYzSTVoTWVQcTRHOVZSY09Db2s?oc=5",
-        "source": "БНР",
         "image": null
       },
       {
@@ -713,6 +697,14 @@
         "image": null
       },
       {
+        "title": "Десет бивши просветни министри против въвеждането на един учебник по предмет - News.bg",
+        "description": "",
+        "date": "2026-10-23T11:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlBjTUprbFZRQ1ktWktMZEg3SnNKbmptcmZYYnpRMzJBeGNDOWc3a3RGNjlpQUdPWGpZcHNxTjNqYVlweS1lYk94VVZmcHFadURYY2dmMU9RN2NmbFZEdkx3X3h0WWRRMG9iX05HZWJ3T0tWMGJJMmdQaUVJZzVwamxmRXFwUndCVENTQ3BsbHNCc3paMW9kbWJha184X25KWV9RNUNyeTd3MkhuT1JV?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
         "title": "Есенна феерия и вълшебства събраха деца, родители и учители в ОУ „Васил Левски“ в с. Орешак - Троян експрес",
         "description": "",
         "date": "2026-10-23T10:35:04+00:00",
@@ -729,19 +721,27 @@
         "image": null
       },
       {
-        "title": "БСК представя наръчник за използването на AI в наставничеството в дуалното обучение - Българска стопанска камара",
-        "description": "",
-        "date": "2026-10-23T09:31:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVemhKdTY1V2NMbWtZc0JENXRQQnVySmRvMG5IUk9DWjN5emlEVnNGV1Nkb1VVNUV5cmtZcUg3aENZdXgzU0tGNWFiUmx2NFNp?oc=5",
-        "source": "Българска стопанска камара",
-        "image": null
-      },
-      {
         "title": "Започна 51-ата Национална конференция на учителите по химия с международно участие - MediaBricks",
         "description": "",
         "date": "2026-10-23T09:30:53+00:00",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTY2cDVnWkxkeHJvUldHdHhacWJQY05LRC1pZUUwZmdwN1hoS25xZ3ZBeHFBU2dnZHhDZXphcmUwTi0zaW51RGllZlYwWVBaUS1PUzBQd3VXWWdZTHo3OUpGTWx2WE5vT2dCNUYtQ2N4RTJiY3g2NHB1ZG9ETFlrdF9EQXpfZ3BselNlTTlFN3JYVnlPZENLX2RDU2w0TXF1dGNSckliRkdLYnNaZWRVaXMyaDc?oc=5",
         "source": "MediaBricks",
+        "image": null
+      },
+      {
+        "title": "Протес и във Виена срещу съкращенията на разходите за образование - News.bg",
+        "description": "",
+        "date": "2026-10-23T09:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "Висшето образование има стратегическа роля в икономическата стабилност и международния имидж на България, каза ректорът на СУ проф. Елиза Стефанова - БТА",
+        "description": "",
+        "date": "2026-10-23T08:58:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWhYLVlWYklkWUdfcUhlWFZQSjJ1U3J6dGFPdC1fQWlZR29mVVJ3bGdKcEpGY09nbGFlaXBoUVdRN1haWmE2b2dNckRCVWpyNndCNmY4WVdSSnhyMWdhbzl1RHRzVTQ3OWJGeENpYWRnN2lCQjltZTFDMHFuZ3RfeE13LWNqQVFoVFNjWW5qZEtlUUtHRGxLT3VxTnVMS3lyVzNodnVrZjRhRVpEUUVrd0hDaTl5SFdYT0pV?oc=5",
+        "source": "БТА",
         "image": null
       }
     ],
@@ -843,14 +843,6 @@
         "image": null
       },
       {
-        "title": "БСК представя наръчник за използването на AI в наставничеството в дуалното обучение - Българска стопанска камара",
-        "description": "",
-        "date": "2026-10-23T09:31:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVemhKdTY1V2NMbWtZc0JENXRQQnVySmRvMG5IUk9DWjN5emlEVnNGV1Nkb1VVNUV5cmtZcUg3aENZdXgzU0tGNWFiUmx2NFNp?oc=5",
-        "source": "Българска стопанска камара",
-        "image": null
-      },
-      {
         "title": "Asia Motor Show 2026 отвори врати в София: Азиатската автомобилна инвазия и новите технологии на едно място - Mobile Bulgaria",
         "description": "",
         "date": "2026-10-23T09:14:56+00:00",
@@ -944,6 +936,14 @@
         "date": "2026-10-22T15:54:54+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2ZXMDJza094QUNCdzBjTnVpYlFCczFneFg4eFFRWGtXZGhoN0IxU3NQc2Z5d01TMmRBVl85Uy1QNFFNWjJ0V0x1ellXT3kxMS10eU5Hem93WGFFY1FWcnM3N1RlUmFELXVEd3pPRmYyd2hHeEQ1ZWV6elhLb0RsN3lBcm1DYmJraEpXbmNZR1JLbWlYczlJcGtPWVFyMDNONFJ5NjVMU3lSV1dMQzFuc01ka21kYnhteE04?oc=5",
         "source": "Economic.bg",
+        "image": null
+      },
+      {
+        "title": "От космически технологии до интелигентно производство: Главболгарстрой запозна членовете на GFCC с технологични лидери в България - Dir.bg",
+        "description": "",
+        "date": "2026-10-22T14:30:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPejRVdlFNZkpZcUlWdWhwczkzS29yRjRoUzB2NDN6LXRwdlltTHIxUUVYVDAyOUhpelFLTnpLSjdxcXA3cTZ4dWE2bHpRdmJmdktDWUNoUmJCNGFBdUZUMDdySXhDNzJWUVZYT1F0NkctTE9lTHZDYURpWlBPakVRVmtDMTRsaE5MMmFxSTJWc2c5VEdtM1dIU00tMFhXdjVSaFpnWDlCajVjdzVsMHZfazZ6MHpwNF92cWZlVWFCcTJWTHVfOGhJdmtfQmo5SHhKVXVSNGdCUFZ1X3hmTXItLTBFSjdNVVd4bGNJUnNNZFg4WjhKUnM3dQ?oc=5",
+        "source": "Dir.bg",
         "image": null
       }
     ]
