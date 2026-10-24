@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-24T20:39:34.118714+00:00",
+  "generatedAt": "2026-10-24T21:05:16.818607+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Илон Мъск: Военните на Украйна нарушиха условията и използваха \"Старлинк\" за убийства",
+        "description": "Тази вратичка беше затворена миналата седмица, заяви собственикът на \"Спейс екс\", индиректно признавайки, че той е ограничил сигнала",
+        "date": "2026-10-24T20:41:50+00:00",
+        "link": "https://dnes.dir.bg/svyat/mask-voennite-na-ukrayna-narushiha-usloviyata-i-izpolzvaha-starlink-za-ubiystva",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2025/09/12/2910546/384x216.jpg?_=1792877520"
+      },
       {
         "title": "Гласуването в чужбина на президентските избори започна от Окланд, Нова Зеландия",
         "description": "Последни правото си на глас ще упражнят сънародниците ни в секциите в Калифорния и Невада",
@@ -193,14 +201,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231925-pri-izbiratelna-aktivnost-83-7-na-sto-priklyuchi-izborniyat-den-za-chlenove-na-v",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14027789/20261024_080630.jpg"
-      },
-      {
-        "title": "Изборният ден за членове на ВСС в Перник приключи без нарушения, гласуваха 27 от 29 прокурори",
-        "description": "Без нарушения и с 27 действителни бюлетини приключи изборният ден за членове на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите в Перник. Това съобщи за БТА Петромир Андреев, младши прокурор в Районна прокуратура - Перник и член на 14-а секционна избирателна комисия. Изборният ден е приключил точно в 18:00 часа. От общо 29 прокурори с право на глас в секцията своя вот са упражнили 27. При преброяването не са установени недейств",
-        "date": "2026-10-24T16:35:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231923-izborniyat-den-za-chlenove-na-vss-v-pernik-priklyuchi-bez-narusheniya-glasuvaha",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14029272/20261024_191000.jpg"
       }
     ],
     "Свят": [
@@ -641,14 +641,6 @@
         "image": null
       },
       {
-        "title": "Какво разплака актрисата Гергана Стоянова след посещението й в училище в плевенското село Божурица? - Pleven info",
-        "description": "",
-        "date": "2026-10-23T19:30:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUhLcG1uSktwWkxWQlpEb3VaTTdmcmoteGtPWGw5dTlUcmNSblRVcXF4eGNDYWhLc1RaV2xERk9FVEJIY200cWpGTmtfVFg5ai1lRXhhMHhYejBOY2RUT21Zd1JRVm1VZzFrTllpcnY4MVYyOUtpNVEzWjhmNUJKVXJLS0ZXc3lOUkFXeHpIN0lQcFozQ2V3U1prUGR6M29nN3hWelBPcGlVUXA3QXJxTjhsMUR0eG0tNVFBWQ?oc=5",
-        "source": "Pleven info",
-        "image": null
-      },
-      {
         "title": "НАОА връчва отличията за добри практики във висшето образование и науката - уча в Пловдив",
         "description": "",
         "date": "2026-10-23T19:28:40+00:00",
@@ -751,17 +743,17 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTY2cDVnWkxkeHJvUldHdHhacWJQY05LRC1pZUUwZmdwN1hoS25xZ3ZBeHFBU2dnZHhDZXphcmUwTi0zaW51RGllZlYwWVBaUS1PUzBQd3VXWWdZTHo3OUpGTWx2WE5vT2dCNUYtQ2N4RTJiY3g2NHB1ZG9ETFlrdF9EQXpfZ3BselNlTTlFN3JYVnlPZENLX2RDU2w0TXF1dGNSckliRkdLYnNaZWRVaXMyaDc?oc=5",
         "source": "MediaBricks",
         "image": null
+      },
+      {
+        "title": "Протес и във Виена срещу съкращенията на разходите за образование - News.bg",
+        "description": "",
+        "date": "2026-10-23T09:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
+        "source": "News.bg",
+        "image": null
       }
     ],
     "Технологии": [
-      {
-        "title": "Изкуствен интелект срещу дезинформацията: Институт GATE представи инструменти за разпознаване на манипулации - Cross.bg",
-        "description": "",
-        "date": "2026-10-24T16:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ddl9PSUg5dFo3bWw0Uk9OaWFPMEZrMlZSbnUxdWNPcy1VT3cxbk83TGFkRlRKQUxDdEUtZ0NLLU1BcDNCOWVHRl9ISmgtcnRDN1JsZzVCYVN4Z1g0NzFsNDZLb2lXeEEtcXFxTWp3MnRmSkE?oc=5",
-        "source": "Cross.bg",
-        "image": null
-      },
       {
         "title": "„Не вярвам, че нашата технология ще има положително влияние“. Защо напускат служители на Гугъл - Свободна точка",
         "description": "",
@@ -779,43 +771,11 @@
         "image": null
       },
       {
-        "title": "Украинските военни отчитат стабилен Starlink при движение над 400 км/ч - paragraf.bg",
-        "description": "",
-        "date": "2026-10-24T08:34:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDJ6Vk1yS2cxM3RoSVdVR0lRZnBEWTVtUTVLcHZDc1V5SWtvWTZhRlJEOXdTN2NsM2llUmhDdDhrcU1QYklFN2k4aTFmT1pySE5sT3h1UTRYRmdMdHMyZTFlaGNsLTZ1OG9rLWdTTzg3VXJHSWZLV1Y1dFFId2w1TEpaY3BGekx3RWVrSWtXOU1Bd0dfS1NYNUpn?oc=5",
-        "source": "paragraf.bg",
-        "image": null
-      },
-      {
         "title": "AIBEST: Времето на България за дигитална трансформация изтича, държавата тепърва бори хаоса - www.capital.bg",
         "description": "",
         "date": "2026-10-24T08:19:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbG1fV0JPZ3dkM19UdGFTYnd6RjdMazRUanFwVms5YkVPa1FDbTNWeWttN0ROdGExaTFNOVhYWFpzYWRjdFFuTnRJczZHUmJjUUZtak5aRmpLRllnQjZNQk5FdGZpRjBMbFcteUFMS3pLTzVrMFJYSVRMel9ocTI2ejVSaDBpMWNVb0FjSXh6SENPY3NpUWtrMnJaYllLQ0Y1aG9WLU5HeXRVMnhzZVE?oc=5",
         "source": "www.capital.bg",
-        "image": null
-      },
-      {
-        "title": "Google отпуска още 1 млн. долара за изкуствен интелект в INSAIT - Epoch Times Bulgaria",
-        "description": "",
-        "date": "2026-10-24T05:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzBrcF9NSVRQOWEtVmdRaE9BeHZjZUdhTnBTYkJDU1RKQkdSWjBTZlhkNEVqZ1l4LWMxcGFUbnpZTV9FcmlXZzFpaWQ4MTEtc0QyUFJabXBrbUJnQ2hHOG12RTB6d29YM1d1WnM1b2w0ZkxKYnhHYmNSei1rS2RNdTZ6SHEweHpXel8tdUxfT0hkbDdPYzltRFB1TThrdGxMUGQ1ckJELWF1b0czMm9TNDk3clhZNFFicERSTDNxNnl5REJvOGtjTGw0TQ?oc=5",
-        "source": "Epoch Times Bulgaria",
-        "image": null
-      },
-      {
-        "title": "Двама млади таланти поеха ролята на министър на иновациите и дигиталната трансформация за един ден - Cross.bg",
-        "description": "",
-        "date": "2026-10-23T17:48:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1adE9pT3EtMmY2WU9hWjdYeHVsd3JYODdJWHNGaEl2bDhWS2ZaaFlZenZra2FOSzRVdnJSLVZ4eWRnMkVweXVSaWFiYWdKMHNlRERoV1MyN0dPdE9zNUI1MWZzVlVXQnZ0Z3Qw?oc=5",
-        "source": "Cross.bg",
-        "image": null
-      },
-      {
-        "title": "България представи пред американския бизнес проекти в космическата индустрия и изкуствения интелект - Epoch Times Bulgaria",
-        "description": "",
-        "date": "2026-10-23T13:35:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXBsLUZRWnJjcHhwYUxWNkhSd2dxdHV5WFJVLUYzbWdncUFubjZrSk5pU2tWNFpkVUlNTUFHS0dDR0U1X0JVTU1oWnNwa3JDb28ydXh6d195aUdQUHVZSWt4b2J6WWlsZi14alNMQnNickFHa1RlR05UT2I1czE0NzhSaWE3ZXh3ME1POUFHSTlCYXpTQ0x2Sl8wVEFLejVwOVZJLW11R2J5Mml4dmxSb2NUbjUta3gzdlYzeVN5cUFUOGhNNWc?oc=5",
-        "source": "Epoch Times Bulgaria",
         "image": null
       },
       {
@@ -859,27 +819,11 @@
         "image": null
       },
       {
-        "title": "Проект „Академия „Дигитален гражданин“ цели гражданско участие в управлението чрез дигитални технологии и изкуствен интелект - Делник БГ",
-        "description": "",
-        "date": "2026-10-23T09:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQMDZ5OVJjVUQ1QThPZXUtZTl5eThmSzZXcUdFS1ZIbTM0MldfVXY2dHlnSXR4Q1E1T004UmpKeEZpTElEb0xnQW5QamRkbUhmOXpmZkZuU0FvRHpQSzk0OXlEZ0tUeHhhUDFXTEdoR1NKRVdlRXFDQXVMc3RlOW9QRzAtYUhLVXVycWp4V2xhNFlzQUM0U1BudjE1azJtV0dNLXZxb0tuWUxFN1l5YlZLd1FiLVFVXzFNU0dYbFoxY2hwOEJLQzVQdENhcGUzcUp2SWlHSUtLeHlFbTJlLXdFV2dFWXNObEI2cWNWdU80bXJuaWZrSVFBSHJ6eXpTYkY0cW1DcUFVSXBaTlJvemo3S285LXlEX0xId1ZCX010QzdhWWdNSVU2UkdCVXJQSGtYU3A5eW9xV01FeDhfYWpDWGh3RlV1MWU3UDBqeVBUdC0?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
         "title": "Vivacom представи решения за AI трансформация в бизнеса - MobileBulgaria.com",
         "description": "",
         "date": "2026-10-23T09:04:56+00:00",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHRLeFVLVlVOX2JLcTM1UVc4RmFZcFlMRS1aYkdNZzRGMUFyekNqT3d1ZFE4WTF6d1Y5dGVIaHd5SHRuUGNZaXU0QkF1eW5GbEJLclRxY2dKOW9PUUN6Ql9HYTktbnNFYUlTNGZtR0FHNnoyR2FzRU5tVzQ4RW1CUVhmOTlrQzBaNUd2OFFaTlo4c3JqQmc?oc=5",
         "source": "MobileBulgaria.com",
-        "image": null
-      },
-      {
-        "title": "Военният министър край Пловдив: Опитваме се да догоним съвременните технологии - Plovdiv24.bg",
-        "description": "",
-        "date": "2026-10-23T08:49:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTW9vOGJNSW9sRlhKTkpRTWdBRFVfc1QyRzlza1VmWUVydU5GYWdwdG1fU25ZT2E1U2pWYmJESWhzRlpneGsxZm5xT3ZGUFBUQ1F2NU8wWHZscnE5SUJUZEZNY2ZPS1F1NEdRY3EtUklOR3hJTkFKZm1GbnhuR211T2lGQzd4ZmttZnl1dHlmYmNVbnFVZVZNa0xwWXBMbU5UazlibDJkTkJIYWdyUjEtb2lUc01vd1hrTU9OR0hwUU9LanFC?oc=5",
-        "source": "Plovdiv24.bg",
         "image": null
       },
       {
@@ -896,6 +840,14 @@
         "date": "2026-10-23T08:06:52+00:00",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFZyS0t2c0ItSThfRGpNMVIxbGVpVlpaSVA1N3hiR3lPdVdfSDZuT3ZRUi1kNUllbk9rNnNiYUxseGhDZjhBcThXZFJJd1hJaF9Oc0ZoMzBJODMyaGZsbVFzQndJZk0ySVdGdEFpTnFrT0g4MzVsRXNlUHQzODc4bUFPWklYeEd1SHdPZy1hQkpLNnMzWkdVTlRXeGVsSUgzMVlTUVNHdFNQXzdoSnpBc0Y3UGNvNzdvdnhZOVNXZUd5Y1Y4SDhoVWo0SmZ4MXpHX0hoSDk3Z1liNk9n?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Ученик и студент станаха министри на иновациите за един ден - Novinata.bg",
+        "description": "",
+        "date": "2026-10-23T07:56:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTFCN09Ub2hOZXltYnlyT1p2OFFQUFRSRHo1SzhMb29IcF9FdktCZDhXOXh3WnhxRXJ6YlpsRVd2YU8yVG5jS2tTWGd2RWZUTGo0dzVHZUFoN09kMExzODRLdmxBVlh4OUgtNFQzN0N0VTBCQi0wRDlfbGM3N2MzRFJ6ZThhaTBXbDRVeS1qeElCYksy?oc=5",
+        "source": "Novinata.bg",
         "image": null
       },
       {
@@ -923,11 +875,11 @@
         "image": null
       },
       {
-        "title": "Радев на среща с Google: Имаме много какво да предложим на инвеститорите - Bgonair",
+        "title": "Премиерът Радев обсъди с Google проекти в дигиталната инфраструктура на България - Vesti.bg",
         "description": "",
-        "date": "2026-10-22T16:12:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUJlVVp4RUt4WmpBb2FleXBLNDY0TUdVckNnUGVxNkVBRlRYREVYUFpSSzBPSDExd3BGTGI5dUxRaXB2NXZWVUJBUkkwNEh0ZXFMYllCcDZIVmRTTE5DcEdCeVYwQzMybi1Hd3UwUjVyZEExUlpRV1BzX002LTlZQzZpVHUyRlUxQW9EeXprYTI2bXdXVV9BYWJwLTJJY3E3aV9BTi1KZnZFTFRvOHpXTXluQjZHdmc?oc=5",
-        "source": "Bgonair",
+        "date": "2026-10-22T17:27:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDNjSG1ZQzBtWS1wT0pFSlgySklEaDR0aVZZbVlEMldHZk5yMTBZYlZjc1Nmc0VINXNrU3NZeGVzTzc0ZU56ZWp1enRIWU9SS2lvTW8yUUE3aFBnd0p3aXNpVGhoTDhZUnZhV0l3Zlo2ZlhVUTA2TVpTc01iemNsSWg5Z2otZ2VfVTQ2S3kzTGRuTW5fcWdqY042aVNkSjNSQ1NmLTFIbndlMWhhVmxhUkVZNHJPeEt2cnNr?oc=5",
+        "source": "Vesti.bg",
         "image": null
       },
       {
@@ -951,6 +903,54 @@
         "description": "",
         "date": "2026-10-22T14:25:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjFGQ1dvbDdFY1RWckNmUFhhZ2dBaUMxSk1sVG82RzJSZGlxRzAxQmtMa2l3Z2RLVVM1Y2luRnRpN0JVMXhGZEo2cVRpM3NzdGc0QURiWHhMalZBbXM5clhPdW9sajJwSHF6TFVZdVQxTDd6VXhtdlFyRGsxMHI4VGR3ay1HVXY2cnBJTUNmcTUzekVkaXVVcWtUdXVXcERxdDB0aW1oY09kYXlxZ0JwTERNNnRockhj?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Космически технологии и изкуствен интелект: България търси стратегически инвестиции от САЩ » Инфомрежа - Infomreja.bg",
+        "description": "",
+        "date": "2026-10-22T13:37:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXdiOHF0amxZQjltbzBLYkdxU3l6X0x5TnkzSi1TbWdLS19ObWNWUlR0ZWcwV0lkdGVmT2dyWjhrNERNNy1WbmhHMnZuLTREdEtLWnB6RjNtTUxTbU55NkU4WjlJZFA0SHJvUUlRRlI3bXhnXzNmU214R1lsZDdFcW80cXJKSktaaGVXb3dyaGFUX1ZuY2phOXNYWDh0MnlyOHlRb2k1S2dfUU1FbkM4MXhhZ29hVWFhWVM2UFlR?oc=5",
+        "source": "Infomreja.bg",
+        "image": null
+      },
+      {
+        "title": "Радев похвали пред американския бизнес опита на България в сферата на високите технологии - News.bg",
+        "description": "",
+        "date": "2026-10-22T13:09:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzMwa1R4dzMyWk5FWHhSbGRpS2NiT1NmWXgxb3lETVRzcU1NZW11QkFSMTJmc2c0dUdqOXA0bzRULTAyNTM3UU80VzZHcEZQME4xOVloVy1STGtfZGRZOF9XSGlqWlF6enZXZm9BYktkMGZ2NHVSZVh4MDc2aFpLd0hRaU5IWUx1QTdBRXNPaWIxYkNLVm5pU3hXOG5IRVBoVm9wSHA2SWw4ZGk5T1QzY3MtdTFqVk03MmJZaHdB?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "Нови технологии в обучението в ПЗГ - Силистра - portal-silistra",
+        "description": "",
+        "date": "2026-10-22T11:38:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55dHdpVWFLeXpKemF5VjJFcFh4UHRSelNlMkQ3RE1tUVhqcUs3VXQwMVlBRjh0SVcyV2dxeXNiYzRNX2xDQzV4cDRkbFlBcE1lOUdV?oc=5",
+        "source": "portal-silistra",
+        "image": null
+      },
+      {
+        "title": "Шеф на Palantir: Европа трябва да приеме известна технологична зависимост от САЩ - Investor.bg",
+        "description": "",
+        "date": "2026-10-22T11:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRmpla3JKajNzYUdpVVczYklXdVdIZEVra2swWnhYbVZCenRrWVRuUmljLWYxdi1VQUF0Q1hxaGJ0empJS0tRSUxwV1BaR0xGdkRqbkI5RE9ZNFJsSEp6MThYTnR1ZXNjUE00aTRINEp4YUNiLXkxZkxVOXNmYTVqTTlqMTFNZlFxVHM0VndRbjZJZEtzRjU3d2J4aWlqbWhMUkNGVzBDajBFbmFfRHM2WFZidkotN0ZCY3gwWGlBMFlka0hGcDJtNXNwcWRPZ3Bxb05TZg?oc=5",
+        "source": "Investor.bg",
+        "image": null
+      },
+      {
+        "title": "Високи технологии и ИИ във врачанската болница - Clinica.bg",
+        "description": "",
+        "date": "2026-10-22T09:51:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIYnVCUndqaUZHSVpZLUt4ZTBBcUlmSWF3d3VFUG9acG40X0ZQTUtSWUtpck4wUXlRWWhINjRwc0lXX09ydlo0WWVKQzlSYmJ6RDVZMEljenFnVm5DQkctc1JmMmFwRVRxU0UzVVVhYW9BZ1ZWQ1hKTEZtbzc?oc=5",
+        "source": "Clinica.bg",
+        "image": null
+      },
+      {
+        "title": "Palantir уверява европейците, че не може да изключи AI системата на НАТО - Технологии - manager.bg",
+        "description": "",
+        "date": "2026-10-22T07:35:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV1g1ZXBNQ3llUXlncnc1aG5YRWpQOGNCQzRCalp2NXFYWmhhNFl1RERZNDAwNFIyNWVmRXZHWWlPMTktVDBsZEh4R2FrQlRqcEt1Y1o3V2w2RXNpN0wyRjB2NE90a2FnTmZ3VjhobjVjNzJhcl9lVEduMjBlVkFmbFlYWVhYd0pRRERQN3B6TVlwMDJPWWZXSmlhNXZCR2VwR3l5X0R0cHo2RVA3NXdjbDMwX2pwLTF6bWxDN1AzOXBpZE5NQWdOa2lFTjZOU3dNcGc2bGdaSTl2bmlVSU1BQ25EUDFRN1NC?oc=5",
         "source": "manager.bg",
         "image": null
       }
