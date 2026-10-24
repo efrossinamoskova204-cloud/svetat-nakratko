@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-10-24T19:37:29.316467+00:00",
+  "generatedAt": "2026-10-24T20:01:30.523832+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Гласуването в чужбина на президентските избори започна от Окланд, Нова Зеландия",
+        "description": "Последни правото си на глас ще упражнят сънародниците ни в секциите в Калифорния и Невада",
+        "date": "2026-10-24T19:58:25+00:00",
+        "link": "https://dnes.dir.bg/politika/glasuvaneto-v-chuzhbina-na-prezidentskite-izbori-zapochna-ot-okland-nova-zelandiya",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/24/3040142/384x216.jpg?_=1792874610"
+      },
+      {
+        "title": "Подземна война се води в мрака под фронтовата линия в Украйна",
+        "description": "Битките са не само на повърхността, но и в многобройните тръбопроводи",
+        "date": "2026-10-24T19:44:44+00:00",
+        "link": "https://dnes.dir.bg/na-fokus/podzemna-voyna-se-vodi-v-mraka-pod-frontovata-liniya-v-ukrayna",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/24/3039893/384x216.jpg?_=1792835961"
+      },
+      {
+        "title": "Прояви на насилие на места в протестите срещу войните и растящите разходи в Италия (снимки)",
+        "description": "Властите осигуриха засилено полицейско присъствие, а много магазини бяха затворени заради опасения от възможни щети",
+        "date": "2026-10-24T19:42:26+00:00",
+        "link": "https://dnes.dir.bg/svyat/proyavi-na-nasilie-na-mesta-v-protestite-sreshtu-voynite-i-rastyashtite-razhodi-v-italiya-snimki",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/24/3040127/384x216.jpg?_=1792873994"
+      },
       {
         "title": "В Многопрофилната болница в Ловеч бе закрита избирателната секция поради наличие на по-малко от 10 избиратели",
         "description": "Една избирателна секция в 11 МИР – Ловеч бе закрита и освободени членовете й за утрешните избори за президент и вицепрезидент. Това стана с решение на Районната избирателна комисия (РИК) в Ловеч, публикувано на страницата й. В него се посочва, че в РИК e постъпила заповед от 22 октомври на кмета на община Ловеч, с която е закрита избирателна секция №111800080 в Многопрофилната болница за активно лечение \"Проф. д-р Параскев Стоянов\" в Ловеч. Причи",
@@ -177,33 +201,17 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231923-izborniyat-den-za-chlenove-na-vss-v-pernik-priklyuchi-bez-narusheniya-glasuvaha",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14029272/20261024_191000.jpg"
-      },
-      {
-        "title": "Във Велико Търново 43-ма прокурори от общо 49 по списък гласуваха в изборите за членове на нов Висш съдебен съвет",
-        "description": "Във Велико Търново 43-ма прокурори от общо 49 по списък гласуваха в изборите за членове на нов Висш съдебен съвет от квотата на прокурорите. Гласуването започна в 8:00 часа и приключи в 18:00 ч., като премина без проблеми, съобщи за БТА председателят на изборната комисия Илиан Благоев. Преди разпечатването на урната с бюлетините от комисията беше констатирано, че всички стикери по нея са здрави. Извадените бюлетини бяха преброени и проверени за н",
-        "date": "2026-10-24T16:34:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231921-vav-veliko-tarnovo-43-ma-prokurori-ot-obshto-49-po-spisak-glasuvaha-v-izborite-z",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14029256/20261024_074619.jpg"
-      },
-      {
-        "title": "Протестиращи в Тирана хвърляха камъни, полицията отговори със сълзотворен газ (снимки)",
-        "description": "Запалиха контейнери за отпадъци и откъртиха тротоарни плочки, отвърнаха им с водни оръдия",
-        "date": "2026-10-24T16:33:23+00:00",
-        "link": "https://dnes.dir.bg/svyat/protestirashti-v-tirana-hvarlyaha-kamani-politsiyata-otgovori-sas-salzotvoren-gaz-snimki",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/24/3040084/384x216.jpg?_=1792862385"
-      },
-      {
-        "title": "Приключи гласуването в Пазарджик на изборите за членове на ВСС от професионалната квота на прокурорите, участвали са 93,10% от имащите право на глас",
-        "description": "Приключи гласуването в Пазарджик на изборите за членове на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите, гласували са 93,10% от имащите право прокурори. Тричленна комисия отвори изборната урна и преброи бюлетините. Организирано е публично видеонаблюдение в реално време и видеозаснемане на отварянето на избирателната кутия, преброяването на бюлетините и установяването на тяхната действителност. Гласуването в избирателната сек",
-        "date": "2026-10-24T16:32:34+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231897-priklyuchi-glasuvaneto-v-pazardzhik-na-izborite-za-chlenove-na-vss-ot-profesiona",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14029146/90c5963c-6a99-4b41-ac83-4a0c378da4de.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Хиляди хора се събраха в Тел Авив на протест срещу Нетаняху преди изборите",
+        "description": "Няколко хиляди души се стекоха днес в Тел Авив на мащабна демонстрация срещу правителството, три дни преди парламентарните избори, които се възприемат широко като референдум \"за\" или \"против\" премиера Бенямин Нетаняху, предаде Франс прес. Събитието е организирано от гражданската организация Съвет \"Октомври\", създадена от семействата на жертвите и заложниците от 7 октомври 2023 г., за да се потърси отговорност за провала в сигурността, довел до ат",
+        "date": "2026-10-24T19:37:49+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231913-hilyadi-hora-se-sabraha-v-tel-aviv-na-protest-sreshtu-netanyahu-predi-izborite",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14029770/48a90b0689524c17b88b15dba26a3226--0--449074ba684c4ad2ad6a8886cfda4cbb.jpg"
+      },
       {
         "title": "Флавио Болсонаро и Лула са почти изравнени преди балотажа на президентските избори в Бразилия, показва социологическо проучване",
         "description": "Бразилският сенатор Флавио Болсонаро и президентът Луиз Инасио Лула да Силва остават с почти изравнени позиции преди утрешния балотаж на президентските избори, показва проучване на частния Бразилски институт за пазарни и социологически проучвания в партньорство с Националната конфедерация по транспорт, предаде Ройтерс. Според анкетата десният сенатор и син на бившия президент Жаир Болсонаро би получил 46,3% от гласовете, докато за левия кандидат ",
@@ -379,14 +387,6 @@
         "link": "https://www.bta.bg/bg/news/world/1231836-iranskiyat-prezident-obvini-sasht-za-provala-na-vremennoto-sporazumenie",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13972510/3afb960ab7b5446b877eb88cde5e4341--1--473bd93051884121a4c9572ecb84b661.jpg"
-      },
-      {
-        "title": "В Милано са разположени войници наред с други мерки за сигурност в очакване на днешните протести",
-        "description": "Италия разположи военнослужещи в Милано, където днес се очакват нови протести, седмица след като демонстрации прераснаха в сблъсъци с полицията и разграбване на магазини, предаде Асошиейтед прес. Премиерът Джорджа Мелони обяви пакет от мерки, включително изпращането на още 500 войници в града и по-строги наказания за непълнолетни, които според полицията са съставлявали значителна част от участниците в протестите. Допълнителните военнослужещи ще с",
-        "date": "2026-10-24T13:21:11+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231806-v-milano-sa-razpolozheni-voynitsi-nared-s-drugi-merki-za-sigurnost-v-ochakvane-n",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028594/8489dcb7c839449f98a6f9ed4d3a8a4b--0--cf440b69c100495cabd42e98ad5edb94.jpg"
       },
       {
         "title": "Туристическият бизнес и академичната общност обсъдиха ролята на AI и благополучието в корпоративния свят - БТА",
@@ -625,6 +625,14 @@
         "image": null
       },
       {
+        "title": "Какво разплака актрисата Гергана Стоянова след посещението й в училище в плевенското село Божурица? - Pleven info",
+        "description": "",
+        "date": "2026-10-23T19:30:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUhLcG1uSktwWkxWQlpEb3VaTTdmcmoteGtPWGw5dTlUcmNSblRVcXF4eGNDYWhLc1RaV2xERk9FVEJIY200cWpGTmtfVFg5ai1lRXhhMHhYejBOY2RUT21Zd1JRVm1VZzFrTllpcnY4MVYyOUtpNVEzWjhmNUJKVXJLS0ZXc3lOUkFXeHpIN0lQcFozQ2V3U1prUGR6M29nN3hWelBPcGlVUXA3QXJxTjhsMUR0eG0tNVFBWQ?oc=5",
+        "source": "Pleven info",
+        "image": null
+      },
+      {
         "title": "НАОА връчва отличията за добри практики във висшето образование и науката - уча в Пловдив",
         "description": "",
         "date": "2026-10-23T19:28:40+00:00",
@@ -726,14 +734,6 @@
         "date": "2026-10-23T09:30:53+00:00",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTY2cDVnWkxkeHJvUldHdHhacWJQY05LRC1pZUUwZmdwN1hoS25xZ3ZBeHFBU2dnZHhDZXphcmUwTi0zaW51RGllZlYwWVBaUS1PUzBQd3VXWWdZTHo3OUpGTWx2WE5vT2dCNUYtQ2N4RTJiY3g2NHB1ZG9ETFlrdF9EQXpfZ3BselNlTTlFN3JYVnlPZENLX2RDU2w0TXF1dGNSckliRkdLYnNaZWRVaXMyaDc?oc=5",
         "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Протес и във Виена срещу съкращенията на разходите за образование - News.bg",
-        "description": "",
-        "date": "2026-10-23T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
-        "source": "News.bg",
         "image": null
       }
     ],
