@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-10-24T12:07:44.397782+00:00",
+  "generatedAt": "2026-10-24T12:50:34.694455+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Столетницата Парашкева Велева от Бракница съхранява паметта за родния край в книга за поколенията",
+        "description": "Столетницата Парашкева Велева от поповското село Бракница навърши 100 години на 23 октомври. Днес семейството и съселяни празнуват заедно с нея. Родена в селото, живяла десетилетия в София, а днес – при внучката си Цветелина Иванова в Шумен, Парашкева остава свързана с родния край не само чрез спомените си, но и чрез книгата „Кратки бележки по историята на Бракница“, която издава през 2016 г., когато е 90-годишна. За близките и съселяните си Пара",
+        "date": "2026-10-24T12:48:40+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231821-stoletnitsata-parashkeva-veleva-ot-braknitsa-sahranyava-pametta-za-rodniya-kray-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028680/viber_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2026-10-24_15-22-11-477.jpg"
+      },
+      {
+        "title": "Украинският министър на отбраната обяви, че \"Старлинк\" отново функционира в страната",
+        "description": "Системите отчитат възстановяване на скоростите при \"Старшийлд\", съобщи Евген Хмара",
+        "date": "2026-10-24T12:33:52+00:00",
+        "link": "https://dnes.dir.bg/svyat/ukrainskiyat-ministar-na-otbranata-obyavi-che-starlink-otnovo-funktsionira-v-stranata",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/24/3039983/384x216.jpg?_=1792848268"
+      },
+      {
+        "title": "От Асоциацията на жените съдии в България заявиха във Велико Търново, че ще работят за повишаване на общественото доверие в правосъдието",
+        "description": "Асоциацията на жените съдии в България ще работи за укрепване на общественото доверие в правосъдието, по-активен диалог между съда и обществото и професионалното развитие на съдийската общност. Това каза пред журналисти във Велико Търново председателят на организацията Калина Станчева по повод първото Общо събрание на асоциацията, на което бяха представени стратегията за периода 2027–2030 г. и програмата за дейността през 2027 г. „Искаме да напра",
+        "date": "2026-10-24T12:24:28+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231798-ot-asotsiatsiyata-na-zhenite-sadii-v-balgariya-zayaviha-vav-veliko-tarnovo-che-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028537/20261024_132450%281%29.jpg"
+      },
+      {
+        "title": "Варна става Черноморски хъб за сигурност",
+        "description": "Франция заяви подкрепа за проекта и призова за мораториум върху атаките срещу търговски кораби в Черно море",
+        "date": "2026-10-24T12:07:41+00:00",
+        "link": "https://dnes.dir.bg/politika/varna-stava-chernomorski-hab-za-sigurnost",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/24/3039969/384x216.jpg?_=1792845790"
+      },
       {
         "title": "Убиха Слави Бинев - всичко, което знаем дотук",
         "description": "Един от задържаните е съпруг на съдружничка на бизнесмена в строителството и спорта, семейства са били близки, полицията смята, че е открила оръжието",
@@ -59,6 +91,22 @@
         "image": "https://www.bta.bg/upload/14028505/1.jpg"
       },
       {
+        "title": "Дъщерята на Путин иска да надхитри Бог, за да му осигури вечен живот - Dnes.bg",
+        "description": "",
+        "date": "2026-10-24T11:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3hwT0l6ZEtIc2J4TGFqR1pwNU52cjlNRWU0YXhiUzZNXzFmSEVmb1FKTm1PaTQ2SWkzNGktWFRHRFVMbFVrUi1raWVLS0VUMjJfbHpjb1Jva3o1Tk1BUUpmMk4xLVlqS0ctN1hjeGowRXBmWEN6a1dIVHU1WWNqQXpsUkFPcjY3QnI2U29QSkFCejBNMzBELTVObVVzNkdtWGpqV2c1eG9UOWJQNWc?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
+        "title": "''Преди имаше автобуси за България по изборите сега защо няма?'' - offnews.bg",
+        "description": "",
+        "date": "2026-10-24T11:17:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlhOLVl4bGxlYkp5dFlqSTFCTTA5LVdpZDBVQjNiRFEyNmJqc0tFdWdpUnZIdGdkVU1NS0FocjQ3TWtyNm0wN0F1WWdxRF85NER4ZmNjQWRuRkJDeG5xVzRIekR5cFhoMkwyZzY0WHZZOThWRjhvcWJJTHhNeDhkaTFnSUhieVNnaUs3Q2ZkTml0akVpOEdmY3pGc1ZNOUlsc2tR?oc=5",
+        "source": "offnews.bg",
+        "image": null
+      },
+      {
         "title": "Прокурорите избират четирима членове на ВСС измежду 25 кандидати",
         "description": "Общата избирателна активност в Общото събрание на прокурорите за избор на членове на ВСС към 13:00 ч. е 61.77 %",
         "date": "2026-10-24T11:15:14+00:00",
@@ -81,14 +129,6 @@
         "link": "https://dnes.dir.bg/na-fokus/trima-krupni-biznesmeni-byaha-ubiti-za-poslednite-3-mesetsa",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/24/3039917/384x216.jpg?_=1792839536"
-      },
-      {
-        "title": "Бизнесменът Слави Бинев е убит в столичния квартал „Павлово“ - БНТ Новини",
-        "description": "",
-        "date": "2026-10-24T10:58:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0d4MS1nbjh0bTh3dDFkUy1Lek5acGtLdFl3dWtBTmN6ek5VTkRmYjl4MkR2OFBBN1MxV3FfU1pNandpLUxBWjBlbTE0NWxfc09mUFhtOENPcHFjakxQSjhhMnBrdmJac1NIYXZfZUczdkFwTXNQZHRuVmNZMXVEZjNnb040MTRNbnZjLXk5QkhpQkVnRFZLcXFYN0hkZUNILUtv?oc=5",
-        "source": "БНТ Новини",
-        "image": null
       },
       {
         "title": "Вицепремиерът Иво Христов и унгарският вицепремиер Анита Орбан обсъдиха двустранното сътрудничество и предизвикателствата пред сигурността",
@@ -161,49 +201,41 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231750-postoyannata-komisiya-po-zaetost-v-sliven-saglasuva-zayavki-za-130-rabotni-mesta",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/11782115/50.jpg"
-      },
-      {
-        "title": "Над 350 служители на МВР ще осигуряват охраната на изборните секции и на обществения ред в област Шумен на 25 октомври",
-        "description": "Над 350 служители на МВР ще осигуряват охраната на изборните секции, на обществения ред, на изборните материали, реагирането на сигнали и пожарната безопасност в област Шумен до края на изборния ден на 25 октомври, съобщи говорителят на Областната дирекция на МВР в Шумен Ася Йорданова. Ще бъдат охранявани 295 секции, подвижните избирателни секции са 22. На територията на областта на разположение ще бъдат и 31 мобилни групи, които ще работят по по",
-        "date": "2026-10-24T10:17:13+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231754-nad-350-sluzhiteli-na-mvr-shte-osiguryavat-ohranata-na-izbornite-sektsii-i-na-ob",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11660698/20251003_133259.jpg"
-      },
-      {
-        "title": "Повече от 450 служители на МВР ще работят за сигурността и обществения ред в Русенско в изборния ден",
-        "description": "Повече от 450 служители на МВР ще работят за сигурността и обществения ред в Русенско на президентските избори утре. Това съобщи регионалният говорител на МВР в Русе Даниела Малчева. Ръководството и служителите на Областната дирекция на МВР са предприели необходимите действия за осигуряване на обществения ред и законосъобразното протичане на изборите. Малчева информира, че в областта се провеждат специализирани полицейски дейности, насочени към п",
-        "date": "2026-10-24T10:06:30+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231751-poveche-ot-450-sluzhiteli-na-mvr-shte-rabotyat-za-sigurnostta-i-obshtestveniya-r",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/8187990/ru-04-07-24-28.jpg"
-      },
-      {
-        "title": "Над 400 танцьори участват в 15-ото издание на фестивала „Джумалийско надиграване“ в Търговище",
-        "description": "Търговище е домакин на 15-ото издание на Националния фолклорен фестивал на любителските клубове по танци „Джумалийско надиграване 2026“. На откритата сцена в местността Борово око днес уменията си показват над 400 танцьори от 11 клуба от страната. Организатор на фестивала е Клубът за народни хора „Джумалийци“ с ръководител Стамен Стаменов, който е и мениджър и продуцент на събитието. Фестивалът дава възможност за изява на клубове, групи и формаци",
-        "date": "2026-10-24T10:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1231724-nad-400-tantsyori-uchastvat-v-15-oto-izdanie-na-festivala-dzhumaliysko-nadigrav",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028162/20261024_104222.jpg"
-      },
-      {
-        "title": "За предстоящите избори за президент и вицепрезидент в Кюстендилска област са разкрити 282 избирателни секции, съобщиха от РИК",
-        "description": "За предстоящите избори за президент и вицепрезидент в Кюстендилска област са разкрити 282 избирателни секции, каза на брифинг председателят на Районната избирателна комисия Денис Христов. Секциите с машинно гласуване са 169, като в 53 от тях машините ще бъдат две. От секциите с машинно гласуване 39 са в община Кюстендил, девет в община Дупница и пет в община Сапарева баня. В 113 секции ще се гласува с хартиени бюлетини. Разкрити са секции в лечеб",
-        "date": "2026-10-24T09:54:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231733-za-predstoyashtite-izbori-za-prezident-i-vitseprezident-v-kyustendilska-oblast-s",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028245/20261024_110601.jpg"
-      },
-      {
-        "title": "Демерджиев и Бинев трябвало да открият турнир по таекуондо, отмениха церемонията",
-        "description": "Вътрешният министър е патрон на състезанието, но след убийството анулира участието си",
-        "date": "2026-10-24T09:48:23+00:00",
-        "link": "https://dnes.dir.bg/krimi/demerdzhiev-zaedno-s-binev-e-tryabvalo-da-otkrie-turnir-po-taekuondo-otmeniha-tseremoniyata",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/14/3035851/384x216.jpg?_=1791970843"
       }
     ],
     "Свят": [
+      {
+        "title": "Пет италиански активистки се завърнаха в родината си, след като бяха задържани от израелските сили на Западния бряг",
+        "description": "Пет италиански активистки, задържани от израелските сили на Западния бряг, се завърнаха в Италия днес, съобщи италианското външно министерство, цитирано от Франс прес. Те бяха арестувани преди два дни, докато придружаваха палестински фермери по време на прибирането на реколтата от маслини. Според Израел активистките са се намирали в район, за който силите за сигурност не са издали предварително разрешение за извършване на земеделска дейност. По в",
+        "date": "2026-10-24T12:44:22+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231811-pet-italianski-aktivistki-se-zavarnaha-v-rodinata-si-sled-kato-byaha-zadarzhani",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028401/5ad2c4e4c11949a08e82cc45b8142e39--0--53f164ef72b8433092fbe8f151093466.jpg"
+      },
+      {
+        "title": "Париж се подготвя за нова вълна от протести днес и властите засилват присъствието си в цяла Франция",
+        "description": "Париж днес се подготвя за нова демонстрация на студенти и работници с искания за повече средства за образованието и мерки срещу рязкото поскъпване на живота, предаде Асошиейтед прес. Новото шествие е ограничено до югоизточните покрайнини на града, далеч от центъра, а полицията засилва присъствието си в цяла Франция. По-рано вътрешният министър Лоран Нуниез заяви, че в страната ще бъдат разположени до 70 000 служители на силите за сигурност, както",
+        "date": "2026-10-24T12:30:30+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231795-parizh-se-podgotvya-za-nova-valna-ot-protesti-dnes-i-vlastite-zasilvat-prisastvi",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028366/56971e7b61194ca9b19dba3b8e024370--0--2e300c01d57640ee94884a5e63cc01f5.jpg"
+      },
+      {
+        "title": "Ким Чен-ун се завърна в Северна Корея след посещение в Китай",
+        "description": "Севернокорейският лидер Ким Чен-ун се завърна в страната си след еднодневно посещение в китайския граничен град Дандун, съобщиха китайската новинарска агенция Синхуа и Франс прес. По време на визитата Ким се срещна с най-високопоставения китайски политически съветник Ван Хунин, който е член на Постоянния комитет на Политбюро на Китайската комунистическа партия. Той е предал на Ким \"сърдечните поздрави и най-добрите пожелания\" на китайския президе",
+        "date": "2026-10-24T12:21:40+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231809-kim-chen-un-se-zavarna-v-severna-koreya-sled-poseshtenie-v-kitay",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14027995/e5b438fddbbf4fcaa1e2bd8d41ee9e2f--0--4b41a734cc9b4537a7e2c5a6bb2f902d.jpg"
+      },
+      {
+        "title": "Големите музеи в Париж затвориха поради опасения от нови протестни сблъсъци",
+        "description": "Големите музеи в Париж, сред които Лувърът, музеят „Орсе“, музеят „Пикасо“ и „Гран Пале“, затвориха врати в събота поради опасения от нови сблъсъци, докато Франция се подготвяше за поредна вълна от протести в цялата страна, съобщи АП. В „Гран Пале“ в момента се провежда голяма изложба с творби на Пол Сезан. „Арт Базел“, едно от водещите световни изложения за съвременно изкуство, също отмени програмата си за уикенда, след като в петък беше отворен",
+        "date": "2026-10-24T12:20:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1231814-golemite-muzei-v-parizh-zatvoriha-poradi-opaseniya-ot-novi-protestni-sblasatsi",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14008975/30513f4c067e4931b32c1298d1a0ce56--0--6ae915908efc488d81be9980032a7153.jpg"
+      },
       {
         "title": "Спорната реформа в чешките обществени медии преодоля първото си препятствие в парламента",
         "description": "Управляващата коалиция в Чехия преодоля първото парламентарно препятствие по пътя към приемането на спорна реформа в обществените медии, предаде ДПА. Коалицията, водена от министър-председателя Андрей Бабиш, възнамерява занапред да финансира обществените медии директно от държавния бюджет и да премахне таксите, плащани от потребителите за обществените радио и телевизия. Критици се опасяват, че тази промяна ще направи медиите зависими от правителс",
@@ -371,38 +403,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzh4LUd3cnlydmtIM0k2eE9qUEw0SUZpZmJMYUlielJJb2dfbGsyOVNYRG9wQ3R1Ujloa3I5VTVvQldqOExNdWhjV3pGdjQzUVBNMDFiQS1HQ3hub1FIWFRSUVRhRWlnVTZTN0VFS2pUX01qQ3NlTE1fZlVIT1ZGbkYzLWw3YTE2SVNpSlVTRjBwelljUm5Ydk5vLThFdHZJbDlGSDZPRFBIcGZyUUI1V1RYUlBjdGRfWkE?oc=5",
         "source": "manager.bg",
         "image": null
-      },
-      {
-        "title": "Аджерпрес: Тематичен парк за 2,5 млн. евро, посветен на мечките от цял свят, ще бъде открит в румънския град Совата - Делник БГ",
-        "description": "",
-        "date": "2026-10-24T08:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQQTJmR1lJOUQ3RmpsLVJ0Q1N1UHJHVWhoLTFNQ2JDSTZfWFRkVGs5YVlCMUFURW0ycTlZRWZIRDF3N0FqWk9sdjA3Y25tVjNSVkh0ZGo3MU0wRGhrNTlzM3N6UVNKZjdjY2NfMFVMMXZ6TU02Um1mNUpKb19WYUU1b1NwUjcyRkVXeUxXS01LSGtnaUo3MWFwZXlCc3B1WXVnci1UN0RUS3ZBWFJ2SUhnTFhmcFJDaWY3V0E1VE55djJNTUlDN0p2OWJraTdMVk9ZTFNJTW9YTDl3YXlxbWRfdU43NXI1XzdYVUphXzRVUmc3b3NOSHRkWXRNLTNqTWdScUF0V1JSSUR4RGVRU2NNdEJJTkwzcVRScUN6NmZlOE1aYUV5Y21fRnVzYVJVLTlJalRBdHEwcDBwQlJjaFFRLW5xcXFObGtRbmxn?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
-        "title": "Регистрираният в Нигерия случай на ебола е свързан с първоначалния случай в Кения, заяви министърът на здравеопазването",
-        "description": "Геномният анализ на единствения потвърден до момента случай на ебола в Нигерия показва, че вирусът е тясно свързан с щама, открит при първоначалния случай в Кения, съобщи снощи нигерийският министър на здравеопазването Мухамад Али Пате, цитиран от Ройтерс. Агенцията отбелязва, че това разкрива първата генетична връзка между двете огнища. Нигерийските власти заявиха, че няма доказателства, че човекът, с когото е започнало разпространението в Кения",
-        "date": "2026-10-24T07:41:59+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231635-registriraniyat-v-nigeriya-sluchay-na-ebola-e-svarzan-s-parvonachalniya-sluchay-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13901566/76cd0f9e0a7f4bd586371d75dc292691--0--2ef186fa41e94b23856401dfd995b0ce.jpg"
-      },
-      {
-        "title": "Ким Чен-ун пристигна в Китай при първото си посещение от година - Свят - manager.bg",
-        "description": "",
-        "date": "2026-10-24T07:22:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPanEtTUhwWGNzSFFYUTFqam01MkpKckZ0Sm1kcEVRVUpDbXBfTG5vWF92ajE1Z0hmVEI4d09zZDROc3pyaEZEX3BwZ0dPVTQzME90S1NNUzhaOEg0UlZ3akFhS1Z4anNaUVlfek5feGU3ZlJRTml5R0FjV2tHYXU5NGRJMUVnLVlPWW5Ya2s0dlg3dUxsVDYwUlRnVU9EUmRlTTdNTFVwcmRiRGU4R3c?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Севернокорейският лидер Ким Чен-ун пристигна в Китай, съобщиха южнокорейски медии",
-        "description": "Севернокорейският лидер Ким Чен-ун пристигна в граничния китайски град Дандун на посещение в съседната страна, преминавайки по новооткрит мост, предаде Ройтерс, позовавайки се на южнокорейската новинарска агенция Йонхап. Говорител на южнокорейското Министерство на обединението заяви, че засега няма коментар. Министерството на външните работи на Китай също не отговори незабавно на запитване за коментар. Този месец Китай и Северна Корея официално о",
-        "date": "2026-10-24T07:16:10+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231677-severnokoreyskiyat-lider-kim-chen-un-pristigna-v-kitay-saobshtiha-yuzhnokoreysk",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13496787/9022637ee7904b51b1fb33ff310e007b--0--00171a247ecd40d58e34ff86eb156817.jpg"
       }
     ],
     "Наука": [
@@ -559,6 +559,14 @@
         "image": null
       },
       {
+        "title": "Пловдивският фестивал на науката разширява хоризонтите с 94 събития, повече практически занимания и среща с изкуството - Делник БГ",
+        "description": "",
+        "date": "2026-10-22T10:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQa0pwc2tKUlJKSUstd3Y4VEgxUVU1dGhYdWd0Q05sM3VPLXNuRERrY3U4QUo1MzJLNkNLWEFuaFZlSjZOdnROZnY0S0ZBUlBtcjZkWWg4bEhBanFManZqWEtUdHNZR1kzLUFub2hyckNDX09xWUpBTDFfd0xoaklKODhNT2FsTWRRRUhpTGZhb0tsNVhmclY1WFZxelRxMG1RemtGZHlleFRMLWFGMVVKVjVTSnVyOHhZREF3SjJ4LU4wRUxERFZjS1pDSFRZME05bWV2NzVsRlU2T1J5a0loeFNTSTdOM1huNDJlZlNNSi1kOW1rZFZLSVR1WVp5M096SFNvdkhYWkIzb1NjSVVnTlpKVXlkMmNwak92QUwzTE5GRExzVjV1OGY3aUpraEN1T0dUeW5OOEVHamJqOXpuMXdPMHdjVFc5NzNTOXFVSE8?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
         "title": "Започна IV Пловдивски фестивал на науката, предстоят четири дни с демонстрации и експерименти - MediaBricks",
         "description": "",
         "date": "2026-10-22T09:32:23+00:00",
@@ -597,17 +605,25 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFRScDM5dUNUdDFyWFJCb1hCemdiRWVlOTZPMjRSeC1uZDlScF9GTkNIVXZkTVI0cmRTUmF4X2hDSFVoMVQza25fVlAyczRRRDBfQ2lDWHRER05vZkhmWENTVndwRHpfS012R0Rja2ZRZ1hZNFBtMzFqaWxsZWplMjJQYnJ4LXlDVlphZC1iTmxMUHpTZzR1ZGgwMmZ2YkxP?oc=5",
         "source": "БНР Новини",
         "image": null
-      },
-      {
-        "title": "Любов Костова: Науката е навсякъде – от мечтите за Марс до тайната на киселото зеле - marica.bg",
-        "description": "",
-        "date": "2026-10-20T12:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQm1TWkwtNXZRa0QwOHgzU2JoUVRpa0dLNFphSWNBOVAzWWhpWlF4Qy1ScVFPeEZJOUtrQXNuejJRbmdoSWl2SjhRX1BHTmc3dklmUDJfdHRObldLQzhUTWVRd1FBTERWcWwtVmY5eGV2YlpVaF9mdGhoZTFWZDBfZUVUT09TaEk5TGt3RDVtb1BfMGRFNTlDbll4VXBoTGlTVGdyMjFmcEwxQzhNSm9MT205SEszaEl4VE1IWklDUHfSAcABQVVfeXFMT0JtU1pMLTV2UWtEMDh4M1NiaFFUaWtHSzRaYUljQTlQM1loaVpReEMtUnFRT3hGSTlLa0FzbnoyUW5naElpdko4UV9QR05nN3ZJZlAyX3R0Tm5XS0M4VE1lUXdRQUxEVnFsLVZmOXhldmJaVWhfZnRoaGUxVmQwX2VFVE9PU2hJOUxrd0Q1bW9QXzBkRTU5Q25ZeFVwaExpU1RncjIxZnBMMUM4TUpvTE9tOUhLM2hJeFRNSFpJQ1B3?oc=5",
-        "source": "marica.bg",
-        "image": null
       }
     ],
     "Образование": [
+      {
+        "title": "Ученици от СУ \"Иван Вазов\" вдъхновяват бъдещи здравни професионалисти - БНР Новини",
+        "description": "",
+        "date": "2026-10-24T12:41:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWxDOUFzeldmOE5GaEhyTl9RNVhDY0phOHVjeGFibDhyRUg3Y0UtR0djUFYtdHlfOHRHWDdvczRjeDNBTWxuSlhtdWlESW03TTRDVnhfZDg4M3l1U3UxN0dvWnR1Wk5NNXNxZng1NjlQc2FwUWloYlZNd3I5dUJIdk5GeUpOcE9XdGVQcVozRm5vbWV0LXllZEtWeHpNb181bEo5a2YtZ2FvYW1yQWJz?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Проф. Сергей Игнатов: Ако образованието ни излиза скъпо, колко по-скъпо излиза простотията? - БГНЕС",
+        "description": "",
+        "date": "2026-10-24T12:11:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaVRHOXZ6ODYyX0t5X2ZYQUZ3U290dkQ0RWpFZWs2MEQycnlOZ3daMWJwbEwwV0lOMFJJSlhrazlfY1dlaWNxanBKQ0laMWxVY25lQ193WkYyVGFpQlpMZ2JnQzJLVXZzLTZHRTVVU0ZEUEVncUJNSVdDUXNjMnhzQU5HZGR1dG9PVVp3eFE0Z0dlQ0Jmdno0U2xhRHU5WXhFMDY1N1NVLXZhR3c1?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
       {
         "title": "Ученици обучават ученици: Вижте как младите възпитаници от СУ„Иван Вазов“ - Бургас вдъхновяват бъдещите здравни професионалисти - Сливен Медия",
         "description": "",
@@ -713,19 +729,19 @@
         "image": null
       },
       {
-        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР Новини",
-        "description": "",
-        "date": "2026-10-23T13:23:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2NZOVhwWWNIMXVVTjBOMTJoX0dPdmQzQm5YYU5KWjgtVlhsU2lub2VvVktPS0VzSXg5aXBjYzdlLU5YVHVoNE5jM3VYZkFFejE5UFhsSTN0VlVCZElUVm9IXzZ5dUJ4bExTMC1MWmFHSzRJdGtLSmtuRHYyYTFhaUtneHpoM18wMTEyV0FVaW5fQ1k3ODBrenRybHcyYW1zS0NrMzlRNzBQMnRFTGgyN1lJMTA4YlhwXzdvMzZ3?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Протести във Виена: Демонстрациите са срещу съкращения в образованието - Euronews Bulgaria",
         "description": "",
         "date": "2026-10-23T13:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVU5RSmVpOGZvMjNXaXh4dlhCQmZGOHdrVUVCTjRISVNDNnFhVmI4SW9ialhoLXNlYmhka1dxbE5RcldkbzFjZzJiVHRUTkhrall0OWNaQmJtUzZpQ2ZUZ09hVHhGRElpMEZsN1VaR0RFQy1VeE05a2ducmxlRGJ2ZnI5U2VYd1pJcnZTdjdGZlJjRHVVMHhETkFJRl90RC1Yb0sw?oc=5",
         "source": "Euronews Bulgaria",
+        "image": null
+      },
+      {
+        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР",
+        "description": "",
+        "date": "2026-10-23T12:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGo2T0xuRkRWeGQxTUhaRDlKVUJyWHBpTE9QLWZCb29HTlV4Nm1lZzBEM25SZWRXNXZSZVN4ZllsbzNuNV8zYWdRcE14N3F1M2VBSDkwYS1KUThsUnhobElibUd0SlpIT202WHhtOXoxZTl1Szc4Sll3SmlEaExuNjZpMkRlY0tEUjktNUtzMjYwRjBPZnphRE5kRi1JYUY0MTdabnYzSTVoTWVQcTRHOVZSY09Db2s?oc=5",
+        "source": "БНР",
         "image": null
       },
       {
@@ -791,22 +807,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
         "source": "News.bg",
         "image": null
-      },
-      {
-        "title": "Висшето образование има стратегическа роля в икономическата стабилност и международния имидж на България, каза ректорът на СУ проф. Елиза Стефанова - БТА",
-        "description": "",
-        "date": "2026-10-23T08:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWhYLVlWYklkWUdfcUhlWFZQSjJ1U3J6dGFPdC1fQWlZR29mVVJ3bGdKcEpGY09nbGFlaXBoUVdRN1haWmE2b2dNckRCVWpyNndCNmY4WVdSSnhyMWdhbzl1RHRzVTQ3OWJGeENpYWRnN2lCQjltZTFDMHFuZ3RfeE13LWNqQVFoVFNjWW5qZEtlUUtHRGxLT3VxTnVMS3lyVzNodnVrZjRhRVpEUUVrd0hDaTl5SFdYT0pV?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Има как учениците лесно да изберат професия с бъдеще на пазара на труда - Bgonair",
-        "description": "",
-        "date": "2026-10-23T08:48:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUNXcXBYczlkNU52MjktOUpDT3FjVVhFY212TWRTa083dFVQNl9iU053bDB4eEFKSjhXN21CWWpqUmxId2pmbmEtQXRuYXFNaU9nQmo3dG1OTXVuSU5YWkJFTFJmbkNHTkM1X2FDazVwNExJSXdzSnlMVzQ0TUdfOTFPOGp1emdGOVdOTFEwTG5fdHZGLTE3VUV1aFR1TVNVek1vZU5RaXNDa05ZWEpUd3dpNU44dDhQY3ZaOFJEMzFveEtS?oc=5",
-        "source": "Bgonair",
-        "image": null
       }
     ],
     "Технологии": [
@@ -848,14 +848,6 @@
         "date": "2026-10-23T13:35:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXBsLUZRWnJjcHhwYUxWNkhSd2dxdHV5WFJVLUYzbWdncUFubjZrSk5pU2tWNFpkVUlNTUFHS0dDR0U1X0JVTU1oWnNwa3JDb28ydXh6d195aUdQUHVZSWt4b2J6WWlsZi14alNMQnNickFHa1RlR05UT2I1czE0NzhSaWE3ZXh3ME1POUFHSTlCYXpTQ0x2Sl8wVEFLejVwOVZJLW11R2J5Mml4dmxSb2NUbjUta3gzdlYzeVN5cUFUOGhNNWc?oc=5",
         "source": "Epoch Times Bulgaria",
-        "image": null
-      },
-      {
-        "title": "Law Blocks AI – Платформа за правни технологии, съставяне на документи с AI и цифрови подписи - quasa.io",
-        "description": "",
-        "date": "2026-10-23T13:18:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFFPLVFBREpPYmNYVkJ6S3I2WHZhcGxfZ2xsX2ttN09peWpXZGtrdE14MTVXNncwUlZwZEJYb0ZvNnZtMTl0anI4dFN5TDJYWWZKc000VTAwRFVjTVBjbDl5WkFHdHU4X05wNFprSVctQTNlN1lFenZBYkVjUGdXRjJYb0h6NFRUUGs0cGJGLTFMdmE1aEh5OFVLb08tTjBFZlJGNXpHR0t0SlBsSmdmaEZKa0JVVG5D?oc=5",
-        "source": "quasa.io",
         "image": null
       },
       {
@@ -979,14 +971,6 @@
         "image": null
       },
       {
-        "title": "САЩ ще отпуснат 389 млн. долара за научноизследователска и развойна дейност в областта на силовите полупроводници и критичните материали - Дебати БГ",
-        "description": "",
-        "date": "2026-10-22T15:45:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVpGWHdiUEd5c1dQMkhDYkNoTTRJUEtEZjQzOHpzQW5mSHRIOUtTSVNLVzVGWXFTbE9qQ1QyMW1GX2F2S2I1akVSUVh2ejFfT2pUcm53M203UVdnRERqWEhqY29oallpdGdDMUQwMHlsUHFkY2w0cURUYkozTnZzWlJFXzcwQXhxeTZrMkVYeGxhbkdZNmkyQVZfTGowdVo2ZUFFRnZjU05FX3JtdENyWTBHS0pkUUlWNWtPaUhzM0QtenhMTW5TdWtseDhtNGpPc1FfT09zZHlpOGk2eFVwX1VaX3JmUXJYMDR1M05jZ2hveEU?oc=5",
-        "source": "Дебати БГ",
-        "image": null
-      },
-      {
         "title": "От космически технологии до интелигентно производство: Главболгарстрой запозна членовете на GFCC с технологични лидери в България - Dir.bg",
         "description": "",
         "date": "2026-10-22T14:30:36+00:00",
@@ -1008,6 +992,22 @@
         "date": "2026-10-22T13:54:13+00:00",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUEc1SllFa19YYmNNTXJDbS14VWFTU1RZa0JpSDBsWVpURUVEQUZxVGlGazlnbl9oenlBaWN0RFFlNzJkZjFUS05zOTlRdmhHMW1razhuYzJEd1p0VVZMazVCQXVYbDN0Z0xiNUNEekFibWx4elNfTkhDc2ZlSnZJZVhQZjVMZ1Q2THA4YXY4ekRIOTdnU2ozSlZRLUs2aVcwSVhHNVdqMA?oc=5",
         "source": "3e-news",
+        "image": null
+      },
+      {
+        "title": "Космически технологии и изкуствен интелект: България търси стратегически инвестиции от САЩ » Инфомрежа - Infomreja.bg",
+        "description": "",
+        "date": "2026-10-22T13:37:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXdiOHF0amxZQjltbzBLYkdxU3l6X0x5TnkzSi1TbWdLS19ObWNWUlR0ZWcwV0lkdGVmT2dyWjhrNERNNy1WbmhHMnZuLTREdEtLWnB6RjNtTUxTbU55NkU4WjlJZFA0SHJvUUlRRlI3bXhnXzNmU214R1lsZDdFcW80cXJKSktaaGVXb3dyaGFUX1ZuY2phOXNYWDh0MnlyOHlRb2k1S2dfUU1FbkM4MXhhZ29hVWFhWVM2UFlR?oc=5",
+        "source": "Infomreja.bg",
+        "image": null
+      },
+      {
+        "title": "Радев похвали пред американския бизнес опита на България в сферата на високите технологии - News.bg",
+        "description": "",
+        "date": "2026-10-22T13:09:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzMwa1R4dzMyWk5FWHhSbGRpS2NiT1NmWXgxb3lETVRzcU1NZW11QkFSMTJmc2c0dUdqOXA0bzRULTAyNTM3UU80VzZHcEZQME4xOVloVy1STGtfZGRZOF9XSGlqWlF6enZXZm9BYktkMGZ2NHVSZVh4MDc2aFpLd0hRaU5IWUx1QTdBRXNPaWIxYkNLVm5pU3hXOG5IRVBoVm9wSHA2SWw4ZGk5T1QzY3MtdTFqVk03MmJZaHdB?oc=5",
+        "source": "News.bg",
         "image": null
       }
     ]
