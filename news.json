@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-10-24T07:44:01.255717+00:00",
+  "generatedAt": "2026-10-24T08:09:25.810350+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Застреляха известния бизнесмен Слави Бинев",
+        "description": "На мястото има криминалисти, а полицията разследва убийството",
+        "date": "2026-10-24T08:00:50+00:00",
+        "link": "https://dnes.dir.bg/krimi/zastrelyaha-izvestniya-biznesmen-slavi-binev",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2025/04/02/2863906/384x216.jpg?_=1744526988"
+      },
+      {
+        "title": "Проект на художничката Олга Володина, представящ България, е отличен на Международното биенале в Ташкент",
+        "description": "Проектът Our AI Life на концептуалния фотограф и пърформанс артист Олга Володина е отличен с диплом на XI Международно биенале на съвременното изкуство в Ташкент, Узбекистан. Художничката, която живее и работи в София, представи България на форума, приключил на 16 октомври, съобщават от екипа ѝ. Тазгодишното издание на биеналето беше под мотото „Хоризонт на събитията“ и се организира от Академията по изкуствата на Узбекистан. В него участваха 70 ",
+        "date": "2026-10-24T08:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1231695-proekt-na-hudozhnichkata-olga-volodina-predstavyasht-balgariya-e-otlichen-na-m",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028055/Screenshot_20261024_080302373.jpg"
+      },
+      {
+        "title": "Поезията у нас върви нагоре, каза поетесата Кристин Димитрова пред БТА",
+        "description": "В свят, в който всичко сякаш се разваля, поезията върви нагоре, каза в интервю за БТА поетесата Кристин Димитрова, която тази година беше член на журито на 43-тото издание на Националния конкурс за поезия „Веселин Ханчев“. Тя представи в Стара Загора и най-новата си стихосбирка „Квартална антропология“. По думите ѝ книгата се е появила почти неусетно. „Оказа се, че през годините след последната ми книга, аз съм продължавала да пиша, но просто не ",
+        "date": "2026-10-24T07:50:22+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1231563-poeziyata-u-nas-varvi-nagore-kaza-poetesata-kristin-dimitrova-pred-bta",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14026338/%D0%BA%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD.jpg"
+      },
+      {
+        "title": "В спокойна обстановка започнаха изборите за членове на ВСС от квотата на прокурорите във Видин",
+        "description": "Изборите за членове на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите започна навреме и протича нормално във Видин. Към момента няма възникнали проблеми, съобщи за БТА председателят на 5-а секционна избирателна комисия прокурор Лилия Петрова. Избирателна секция № 5 се намира в Окръжен съд – Видин (гр. Видин, пл. „Бдинци“ № 1) и е предназначена за съдиите и магистратите от Окръжен съд – Видин, Административен съд – Видин, Район",
+        "date": "2026-10-24T07:49:38+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231675-v-spokoyna-obstanovka-zapochnaha-izborite-za-chlenove-na-vss-ot-kvotata-na-proku",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028062/20261024_093629.jpg"
+      },
       {
         "title": "Добри са условията за туризъм в планините, съобщиха от Планинската спасителна служба на БЧК",
         "description": "Условията в планините са подходящи за туризъм, съобщиха за БТА от Планинската спасителна служба (ПСС) на Българския Червен кръст (БЧК). Температурите са между два и шест градуса. Времето в планините е ясно и слънчево, допълниха от ПСС. През изминалото денонощие не е имало инциденти в планините. Днес времето ще бъде предимно слънчево, с разкъсана висока облачност, съобщиха от Националния институт по метеорология и хидрология (НИМХ). Преди обяд в н",
@@ -9,6 +41,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231697-dobri-sa-usloviyata-za-turizam-v-planinite-saobshtiha-ot-planinskata-spasitelna",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14025093/MIL_5187.jpg"
+      },
+      {
+        "title": "Зеленски: САЩ преразглеждат ограниченията за \"Старлинк\" в Украйна",
+        "description": "Надявам се това да се случи до ден-два, не по-късно, коментира украинският президент",
+        "date": "2026-10-24T07:31:32+00:00",
+        "link": "https://dnes.dir.bg/svyat/zelenski-sasht-prerazglezhdat-ogranicheniyata-za-starlink-v-ukrayna",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/07/3033652/384x216.jpg?_=1791369333"
       },
       {
         "title": "Оранжерия за отглеждане на канабис е разкрита в Дупница, съобщиха от полицията",
@@ -147,14 +187,6 @@
         "image": "https://www.bta.bg/upload/14027866/viber_image_2026-10-24_09-11-44-921.jpg"
       },
       {
-        "title": "Товарен кораб стресира морския контрол във Варна - Mediapool.bg",
-        "description": "",
-        "date": "2026-10-24T06:35:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUg4clV3OVYtYzRzQWJ1dW1sNUVVTlQweEFnS2JzUXdhRFlxWm5mTHlEM0N5QXh2eDV5QmQxeWppRUZnWFI2RktEVVgzNHhqYVd5VTJPVWZzN3VhRm55eno3c2JkZFFwZGRzcUxqU1kySDRYR3p2ZjZaMno4cXZvUHhubXRPR1g2NE9IUQ?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
         "title": "Изборът на членове на ВСС от прокурорската квота започна в Добрич",
         "description": "Изборът на членове на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите започна в Добрич. Осма избирателна секция е разположена в частта на Окръжната прокуратура в сградата на Съдебната палата. Право на глас имат 24 прокурори, съобщи председателят на избирателната секция прокурор Даниел Илиев. Той беше и първият, който упражни правото си на глас. Изборният ден започна нормално. Подготвени са изборните книжа, печатите, урната и не",
         "date": "2026-10-24T06:35:00+00:00",
@@ -169,38 +201,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231670-v-yambol-23-ma-prokurori-uchastvat-v-izbora-za-izlachvane-na-chetirima-chlenove-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14027867/20261024_081605.jpg"
-      },
-      {
-        "title": "Изборният ден във Враца за членове на ВСС от квотата на прокурорите започна нормално",
-        "description": "Общо 40 прокурори от Врачанско имат право днес да участват в избора за членове на Висшия съдебен съвет (ВСС) от квотата на прокурорите, според избирателния списък за избирателна секция № 6, публикуван на сайта на ВСС. Изборите се провеждат в сградата на Съдебната палата в областния град. Изборният ден започна нормално и в определения час, и тримата членове на комисията в избирателната секция във Враца са се явили навреме, каза за БТА председателя",
-        "date": "2026-10-24T06:32:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231663-izborniyat-den-vav-vratsa-za-chlenove-na-vss-ot-kvotata-na-prokurorite-zapochna-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14027909/20261024_080042.jpg"
-      },
-      {
-        "title": "В Съдебната палата в Търговище започна изборът на членове на Висшия съдебен съвет от професионалната квота на прокурорите",
-        "description": "В Съдебната палата в Търговище започна изборът на членове на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите. Право на глас в 25-та избирателна секция - Търговище имат 13 прокурори, каза за БТА прокурор Стоянка Проданова. В обхвата на района влизат Окръжната прокуратура, Районната прокуратура в Търговище, както и нейните две териториални отделения в Попово и Омуртаг. За провеждането на изборния процес е избрана тричленна избира",
-        "date": "2026-10-24T06:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231665-v-sadebnata-palata-v-targovishte-zapochna-izborat-na-chlenove-na-visshiya-sadebe",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14027815/20261024_082058.jpg"
-      },
-      {
-        "title": "Гласуване за избор на членове на новия състав на Висшия съдебен съвет от професионалната квота на прокурорите започна във Велико Търново",
-        "description": "Гласуване за избор на членове на новия състав на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите започна в Съдебната палата във Велико Търново. То се провежда с хартиени бюлетини в 29 избирателни секции в страната, съвпадащи с броя и местоположението на окръжните съдилища. За редовни членове на секцията в Окръжна прокуратура (ОП) – Велико Търново са избрани прокурорите Цветан Маринов, Илиан Благоев и Цветомира Колева, а за резе",
-        "date": "2026-10-24T06:29:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231658-glasuvane-za-izbor-na-chlenove-na-noviya-sastav-na-visshiya-sadeben-savet-ot-pro",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14027780/20261024_080609.jpg"
-      },
-      {
-        "title": "Пентагонът обяви институтите \"Конфуций\" за заплаха за националната сигурност на САЩ",
-        "description": "Американският министър на отбраната Пийт Хегсет определи центровете за изучаване на китайски език и култура като \"пропагандни клетки\"",
-        "date": "2026-10-24T06:23:04+00:00",
-        "link": "https://dnes.dir.bg/svyat/pentagonat-obyavi-institutite-konfutsiy-za-zaplaha-za-natsionalnata-sigurnost-na-sasht",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/05/05/2979775/384x216.jpg?_=1777995135"
       }
     ],
     "Свят": [
@@ -431,6 +431,14 @@
         "image": null
       },
       {
+        "title": "Шест дни до ада: Експериментът, който разкри тъмната страна на човека - FlashNews",
+        "description": "",
+        "date": "2026-10-23T20:20:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ29pQnlpMWktaTZ2VWp4ZEZEQ3NYTnhMMmp4dUlqcll3cmZlLVY1T1ZNX1JBclhBZm1xUjl1T1pueXhSc2hWVG85LVBQQ082WktrTEI3WnRjS09PLWpvWkVPaGtKVXBlM3FNMDBGWlZtRkhwRFVfR1l1RmJqeTYzOGF5RVBNYm82R2pMM0Fna0tNeUVDMWV1Qk5jUQ?oc=5",
+        "source": "FlashNews",
+        "image": null
+      },
+      {
         "title": "Марс е по-геологично активен, отколкото се смяташе - БГНЕС",
         "description": "",
         "date": "2026-10-23T18:41:05+00:00",
@@ -444,14 +452,6 @@
         "date": "2026-10-23T18:19:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIaEI1SHVXM1pzcm9VbmNiaUhCRXFFWldudHVQdWVvLTdhU3dDd3Fuem9kUUwtSFVGcGlhNXB4X2xDQVFVMlNCY2VhXzhlWTBvT3Y3Y1RRVUF0VU1JdlZtLTQzZlNuZWpyTWVv?oc=5",
         "source": "Cross.bg",
-        "image": null
-      },
-      {
-        "title": "ЧЕТВЪРТИ ПЛОВДИВСКИ ФЕСТИВАЛ НА НАУКАТА | 22 -25 ОКТОМВРИ - Община Пловдив",
-        "description": "",
-        "date": "2026-10-23T17:33:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1BadjY1WlNReXVkTHpQbTgweVdyUGNsY0Fqc2pLdlVYb1Q2WUpmeHludXZ0MzFGZmJyVTJ2cmVVcnA5RkM5bHdIVEtZNzZLZk8zMVgzS095bE1oZjQ1bEtualVYWktmUHI2UFk4UTdmYjM5UjJ4T1Q3MVppeUxYTTRpMUtrdw?oc=5",
-        "source": "Община Пловдив",
         "image": null
       },
       {
@@ -479,6 +479,14 @@
         "image": null
       },
       {
+        "title": "Наука, AI и Космос: България демонстрира технологичния си потенциал пред Глобалната федерация по конкурентоспособност - Actualno.com",
+        "description": "",
+        "date": "2026-10-23T07:47:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa0xDRDNTWkRkQ3prY0t5b0xjdWh0TTI4X2hlLWdnUzF3bm51QUUzVnZRTE5vOExfbHNHMnVCc2dtQkpkZTVnTjBNSHBneVNZVUgyY29TclhXX1RZRkgtSFdaRm5fT2tBc25zRG5WVHpIYzB0cHNQUzlrMnVIUGNtWVhIU1gySF9FdHdnMVZMbTN1QkN5NGd2QVhvUGtRY0JOcDVLb2RXRkhVVFpyUjZ5eDVnRTVnUjNBMUduYWhXR0xCeEFyRjliWEJXUnNWM3l2aFhYOEpBUlQwbVJ3TmRCR2NUcV9VZGRlRVNsVGNNbmN3VDZuVFBSc252eTNvM28?oc=5",
+        "source": "Actualno.com",
+        "image": null
+      },
+      {
         "title": "Учени откриха изненадваща хормонална връзка между котките и стопаните им - Клуб 'Z'",
         "description": "",
         "date": "2026-10-23T07:31:37+00:00",
@@ -495,14 +503,6 @@
         "image": null
       },
       {
-        "title": "Учени разгадаха квантова загадка, която озадачаваше физиците в продължение на десетилетия - Kaldata.com",
-        "description": "",
-        "date": "2026-10-23T06:13:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Z9IB0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Zw?oc=5",
-        "source": "Kaldata.com",
-        "image": null
-      },
-      {
         "title": "„Умно финансиране”: Защо е важно да инвестираме в наука - nova.bg",
         "description": "",
         "date": "2026-10-23T05:47:00+00:00",
@@ -511,19 +511,19 @@
         "image": null
       },
       {
-        "title": "От самото ядро на Земята от милиарди години може да е изтичал водород - Kaldata.com",
+        "title": "Млади умове се докосват до реалната наука в ПГЕЕ-Банско - ТопПреса",
         "description": "",
-        "date": "2026-10-22T15:14:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxNZUw5OFN6dEEwa0dwM0RnemI0cW9QLXhkeGtmSkFlRmRZQ2ZSa01mbmhRWFNVT2Y4clEzWmg4dmI5ZXQ3SU81c05mX3MycEtEVF9hbTNfSjUwVEtqdE1mR1VacmNtTVdMalo1YkY5TXVkSC1fQmxqekhhaFUtb21JTFoxajk1Sm1Wc0hmaGR3aVlyd3FHVS05d1d6V25NRURKUXdBWi1ER19HMUF1M1IyWk9VM1JOYkxqTmRpekRnUGpkUDBIMUFXcmkzRlZYU1M4TnpkekxPaWlPTDV2Y2RtUERraGZvaXVpblRjVm5aX3lQNlljVEh5S3ZFSTRvb3U1N1VIV2h4bFVabjNXaE1FLTM1dzFkcVlKd1hTZ0ZtZTJydVo2U2RZOTJ1Mm9RWXhjUHBDTVRWQmRlaC1HcjVhUHN6NHFoLUphRS1pY3R6djd2b05QRndQUl9PR1hIei15OExWV1lCUHM2dVhVbXoxd1JJRXFaRElxWWlPbVY0NkZjdTVfc3g0N3lubTB6S0EtLXl2eTNKdUNnS0dPSFB2dTA1QUVOYnZmZERXWU5GOVM4OW9EYThHN3dJR1HSAbwDQVVfeXFMTWVMOThTenRBMGtHcDNEZ3piNHFvUC14ZHhrZkpBZUZkWUNmUmtNZm5oUVhTVU9mOHJRM1poOHZiOWV0N0lPNXNOZl9zMnBLRFRfYW0zX0o1MFRLanRNZkdVWnJjbU1XTGpaNWJGOU11ZEgtX0JsanpIYWhVLW9tSUxaMWo5NUptVnNIZmhkd2lZcndxR1UtOXdXelduTUVESlF3QVotREdfRzFBdTNSMlpPVTNSTmJMak5kaXpEZ1BqZFAwSDFBV3JpM0ZWWFNTOE56ZHpMT2lpT0w1dmNkbVBEa2hmb2l1aW5UY1ZuWl95UDZZY1RIeUt2RUk0b291NTdVSFdoeGxVWm4zV2hNRS0zNXcxZHFZSndYU2dGbWUycnVaNlNkWTkydTJvUVl4Y1BwQ01UVkJkZWgtR3I1YVBzejRxaC1KYUUtaWN0enY3dm9OUEZ3UFJfT0dYSHoteThMVldZQlBzNnVYVW16MXdSSUVxWkRJcVlpT21WNDZGY3U1X3N4NDd5bm0wektBLS15dnkzSnVDZ0tHT0hQdnUwNUFFTmJ2ZmREV1lORjlTODlvRGE4Rzd3SUdR?oc=5",
-        "source": "Kaldata.com",
+        "date": "2026-10-23T05:44:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOYmR6Ym9mUGdpU0ZXU0NtT0tMYzVydG80cDBVUFhzMjk2SGxIcTJaVk5KNUwwc1VRUzVuSXN4ZWhUeVdtMENHTThnUGRScjlkQndqQkJfS2FLSUVmcDVhTVltdXFXUE9aYVBhYk9KYmdZR2I2eWljWlYzWGp2ZVc4TzdRWHowNjBRRHprMHBLc0s4VVVtUzJlLS14bUtudF9sMGEwS3RDanVCNHlUbGttcFhQZkFOUG56bzlReU1vc2YzcXNXWTJucG40QXpRMnpvUjM2a0l2aXR0R2psdVliZDJscHh5RDUyWW1qbXZxbDJBdnZVTV9LRW5BY3I3TkhNUGEwOVhYZzlOSkU0d28zTjJBRUZmOXBzRmhHMHRIRnFOOG5Ca1hXTTByam93NDVzeGlrVXlKTEN5bURjX0lTWnczMzVMdmFETmc?oc=5",
+        "source": "ТопПреса",
         "image": null
       },
       {
-        "title": "Свръхбързата и надеждна памет от ново поколение може да се произвежда от уран - Kaldata.com",
+        "title": "Безопасност на екстремните граници: Как Mercedes-Benz превърна катастрофата в наука - NetNews – Новините на Ямбол",
         "description": "",
-        "date": "2026-10-22T14:39:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxPdXc2TlRQM0RKMENqbk1SaWNVVkNVeEV1dkRHTmV4U0p1aEJVLXdnMHNsMTZWY0Z5Vjd5azZEcWJDaWpmakFBem5GSVFvdUs5QzJpcF9MMkNhZzY0ek9MYmkyLXRTZ3VsNkl3ZHhMWEc3WWtDZXlsSWpzaVM5M1BfTUFHVTNwaWdOZmhjVEVuZHhDbkhQRmZzUXlYSVhRdnY4N29BZUdPSWN6U2dNVUJ0dzhUZ1BFMEY4dDlqaFRjWjRZaVVyM21wUFFhbEtmZVhTNHdBNnYwc20teUE2ZGtFdlJTNkFxLTgwT1JzSk9xckZWRjhCQ2ZLZDQ0VU1Xcm92ZXJvblhHQ2QyY19wUmxDakNhWXoxWGxEbE5IazFNNHVfU0h0cnN1a3ozREI1MF9RUXZlMEk2TnBHWVNYdEx0emcxX3dMc09HYXhweS1qSDk5dW5wY2ZEZEdhaHNmMDNpeUN5c0NvU3RDc3ZQSmh3emFVUnBINl9pUmotLVdfcW8wYVhOQzFIV3I0VkZSOF9PQUdsYmpOVjZaQTRxdWxhaWZOWWI0emRRQk9BLUlmZzRsTlhUbHAzNGRUR01SdlJSMW9TR1ozMzJQTVVhOEN2T3c4XzFMdlVITHhyLXJmQkJJZWdoRGJXTFVWWFY3Z2t5Q0NYWUZxUXJaOVUyRFVmdHo4N0lZUTNYcmxncldGejlqRVBMeDUyY1ktejN6cnVQZnp4X3FVR0JvOEFuNTdNUnJNUEZ1ZGdyZUZCWDlQTDBQcVFUMm9pWlNETm1BY3J5OHNDMnVycWRfV0p3WlptcEVKendNWm5TYldYbnhMZ3daaklfWm4yeFVybnJLRDVFS3ZtMjZxbHpJdmN4RHJmLXd1UnBXcDZ6QUNYVE5UUjM0S1dsYUNJRzBHM1FEcWdaNHB3THdHLVRPR244dlhQaG9JdTdndl90LURkVmhFMF9ZRjRZNXRPSFR4bXh6S1E4QlhWTmtwbTFOWklCNEJnV9IB8AVBVV95cUxPdXc2TlRQM0RKMENqbk1SaWNVVkNVeEV1dkRHTmV4U0p1aEJVLXdnMHNsMTZWY0Z5Vjd5azZEcWJDaWpmakFBem5GSVFvdUs5QzJpcF9MMkNhZzY0ek9MYmkyLXRTZ3VsNkl3ZHhMWEc3WWtDZXlsSWpzaVM5M1BfTUFHVTNwaWdOZmhjVEVuZHhDbkhQRmZzUXlYSVhRdnY4N29BZUdPSWN6U2dNVUJ0dzhUZ1BFMEY4dDlqaFRjWjRZaVVyM21wUFFhbEtmZVhTNHdBNnYwc20teUE2ZGtFdlJTNkFxLTgwT1JzSk9xckZWRjhCQ2ZLZDQ0VU1Xcm92ZXJvblhHQ2QyY19wUmxDakNhWXoxWGxEbE5IazFNNHVfU0h0cnN1a3ozREI1MF9RUXZlMEk2TnBHWVNYdEx0emcxX3dMc09HYXhweS1qSDk5dW5wY2ZEZEdhaHNmMDNpeUN5c0NvU3RDc3ZQSmh3emFVUnBINl9pUmotLVdfcW8wYVhOQzFIV3I0VkZSOF9PQUdsYmpOVjZaQTRxdWxhaWZOWWI0emRRQk9BLUlmZzRsTlhUbHAzNGRUR01SdlJSMW9TR1ozMzJQTVVhOEN2T3c4XzFMdlVITHhyLXJmQkJJZWdoRGJXTFVWWFY3Z2t5Q0NYWUZxUXJaOVUyRFVmdHo4N0lZUTNYcmxncldGejlqRVBMeDUyY1ktejN6cnVQZnp4X3FVR0JvOEFuNTdNUnJNUEZ1ZGdyZUZCWDlQTDBQcVFUMm9pWlNETm1BY3J5OHNDMnVycWRfV0p3WlptcEVKendNWm5TYldYbnhMZ3daaklfWm4yeFVybnJLRDVFS3ZtMjZxbHpJdmN4RHJmLXd1UnBXcDZ6QUNYVE5UUjM0S1dsYUNJRzBHM1FEcWdaNHB3THdHLVRPR244dlhQaG9JdTdndl90LURkVmhFMF9ZRjRZNXRPSFR4bXh6S1E4QlhWTmtwbTFOWklCNEJnVw?oc=5",
-        "source": "Kaldata.com",
+        "date": "2026-10-23T02:56:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQLVhaaFFhV0dIN1UxQUdiYVFWWVdnNzdYSEx0Xy1qSXZwUjJ6SURueVBoMDFlZzEzWjB2SHZIQy1jSHZEUEt2c0N1LXdSQndfNTIwWDhLYV9IODF1amxmNkcyTjlBOXE1SmNYeUk2VmNLLWdmOWdXTjYtWXRLSkVUOGlCMUxBZzA5ZVRtMmhSN2NBVm5YeS14YkgyRVdydVRwaUxwdXdKV25UWkFlaUktQlpFSnFDVk5TU2JlcklZZldnXzhsQk5aZGZJVll6NWNLcHhZeEgzakpJbmticWljMzctanpJQ2ZjeFVwZno5d0dXTmNicHkyN0N4SjdNdm5FcmUwZ21FMW8yNTBySFZJZlk4Y2ZXUV9HNTVuU29ZRk5kZVYzc2JJRDVGOU94TXB1V2dhbzRlZVBzQmhz?oc=5",
+        "source": "NetNews – Новините на Ямбол",
         "image": null
       },
       {
@@ -548,14 +548,6 @@
         "date": "2026-10-22T11:35:18+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1MzeXFGXzV0SHlBVTh0YUpIRkVHSW13SEN3ZWVfZXRtTWJleGo2WExMWFVMMUR2YXRYUENyVFloX0ltYjhhV2c1RHVKbjl1S0JkVTdGZlE1WC0xYnNPSnd4cnJ5YWU5SmJTa1pNZDg3cFFOZVVPREFkYXI5cVdJakd3emo3b1N0cmhMa2NmcHMwM2c?oc=5",
         "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Образованието трябва да е възвисено над партийното, каза председателят на парламентарната Комисия по образование и наука Димитър Здравков - Утро Русе",
-        "description": "",
-        "date": "2026-10-22T11:28:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83NFJYOExxb2VkNF9WQjdGWnR2MEhDYXRvY0tPanNKNFZtd3NWcF96RWc4T2NjaUlGOFRleHAwMklYUXpWSHVqaNIBSEFVX3lxTE83NFJYOExxb2VkNF9WQjdGWnR2MEhDYXRvY0tPanNKNFZtd3NWcF96RWc4T2NjaUlGOFRleHAwMklYUXpWSHVqaA?oc=5",
-        "source": "Утро Русе",
         "image": null
       },
       {
@@ -605,9 +597,25 @@
         "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPcTR0aVVleTRmSENWTjJlOWZSc1FLSWtNQmROTUdxOU5jWTdlUk9JU1A2OXpEU3F5SkVHMTJZS2tBOTFfMjVVeW9XRnJwd2JrR01EZldfV1FLbE11a2FHVUpBS1B6b3FVN3IyNENNNDZzMlJFV0ZmcjFnT0R3WVhRVHhVam5IM0swaXJIZmV6RW9YSVdmUjc1TjFfLTlLc2hTNDJ0YWVsWnNtcmluc2hsSnBhaS02VXpYc29zZjZncWkzVkJhaTdnYTJZTU1zci1Ud1FaY2lweFJ5RU1PV3A5aldSeHJWNVlUOWZzdkJ2a1pBZ0ctQ0kzcm44Skt4cmZINDlzR1RVU0FNWkVtcTNRUFRwRlVvYU9WN0dtczlZbVRJV1JCT1NJME5uOWFJRnZVa19kWUJ1Ujk1SEphaWFLVlhhN2xpaWRNZVJlMF84dUEzV0NBTy1jNV94a0tPbzhTOExDZ2ZOeFozM3IyUkc4Y29nWWtIMDFBSUt2c01yRGV3cVVrMDFzOFpuenNJUnBwd2tzbTJRa093aWpNZWFBUXl4QWZCMkY4dFFVbGVTdVNfd9IBugNBVV95cUxQbmp3WEduc2lfZUpyc01XZlZBMVJ6dkRZakpXVUtLOGs4ODBMS1FwcTNhNnkwd2oxbVNZTWN3bXVmYmtwUFEtekpSNWY5UkQ1dVpUVUJZUGRFY1ZSRDNlZ3UwOTZueVpwYUlQSjRqUGZpNnVpNTlNNFNxWHF4UUwyd2xjUTUyM05Bc2xMNzhIYWdfcy1TWFd6ei0wU3VfenB5SlUySm10ZVhNNWdxY2hnbzlEVkpOcndKclpneEdaUFVNUFFQbk5qbzhWVGxkWnJXTGsyS0h4TXVnUk1Gd0NrblZFazZQalhfX1N2cXZ0cVU0OFhqM1NNeE5XcnJJV1V3bldGZnVLeGY2OUlYUzRqYWFQSXp2M09iUE1Vb1YyOFN1dThEN0t3TTc3N0Zxa1VOQjgtMkVnQUowdnF3WkhJUlNLcldYbFhELUxaZUJkVFJia1VmZEl3ZnBjYS1zS2xuTGhSNk9kRDlCci1KOWNyLTAwekpLQnRZc0pZRmx4Umc0SWw5WkVfRmdDTHprMVRWbC1URHVtMHBrelkyYmRfNmIwZ08tenpsREJMU0tla050YnVFSFNXWW1R?oc=5",
         "source": "Kaldata.com",
         "image": null
+      },
+      {
+        "title": "Учени установиха връзка между фазите на съня и риска от 83 заболявания - Списание Осем",
+        "description": "",
+        "date": "2026-10-21T09:59:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxOYzhhZmpHZWYwVFFpaEZOc1VWWUx0WDJkYkpJLVliUmhES3Q1dl9kNW9KbnJFN1FBc2RibXNxdHl5QjhZYlZlQ0w0S3l4V3E3RGxvek1tZG9DUGJON085Q284OXd3bTlUUUZwak0tdXdycFgyaV9VX2t0QlFLOEExSTd1UDFUTmpOMnRBN2s1TTRNdGNkTFluQ2otVThLLU9kR2ZsOFhkeWo4ZGlTanpnZndnakZwclYtOGRtNEgxRGgtM0ZKNWVYaENoUDd4OWxsTG0wYkh4eWRDTHRyUkl4amx0dzBTVVhjZnh4UkxNaGR4TWlYSVJFQnMzRDR6OWxQQnFrcl9MTDdLLVpsZm5wVFFOWjdraTlwc1JtWDdFekV5SEtDRGxITnRhMEVyNDJMZnd1aEtXcUYwdGRvOUZzV0V0UlBtNGpBYXkyanJoNXhabmFfME5KbDdLaTdxczdxbnpQMmp6cEdrOHNXd2otYl9FSDhxZVUwaDZXWXRHQ1hOd09HcVVwamJpX2lxMThmazNCZmxwekJfX2VCeS1ZSWtHWTFMWmJSdU1iRnBQZUdGWFFWYmJ6ejNXeXROTkxzMVhzVFQ0Njg4UXhFTTFUNk94VEVvMFFFdkcxcFNhdnJwMHh2em9HWVJqQnA0NmNyQ251MkJOMnlJQTQ3R1VPa1ZkLTNpMDJxLVZaczRHdDJoUkZLUy1vT2swYnM2RE0?oc=5",
+        "source": "Списание Осем",
+        "image": null
       }
     ],
     "Образование": [
+      {
+        "title": "Учителят Тео гостува в Приморско: Теодосий Теодосиев ще се срещне с жители и гости на града - Poligraff",
+        "description": "",
+        "date": "2026-10-24T08:05:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR01iMnpOWVFaODllOTNPVUsxb2lNTEtJMFgydkxTVWlWZ0RPQWFTQU9wb3V6cjJaTUxHd0czLWVMZVdEVUc3XzNOdVppVy1YLUZjbjBOSVFBTjhUTnJzNlVlNUV3Wkt4b3FGQUZ3NE9fcTNGYnY0d0pMbHYtU1lsaGFzMTA5SlV5N0JuNFpTQlFKOEdZN2h6RlB5dXlwNjh2RllJR3cxMGZLSzBPRG03MHlobl9lMHcxejBtVG1reXo5Z2FHaW56bA?oc=5",
+        "source": "Poligraff",
+        "image": null
+      },
       {
         "title": "Търсят се директори на две детски градини в Симеоновград - Haskovo Live",
         "description": "",
@@ -646,14 +654,6 @@
         "date": "2026-10-23T19:28:40+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMzVpd0FKNGxMVl9ORWxxT1ZPZ2RjTTViNjFkc2tPN0oxSzBWblpKQVN5WU1BeklZMVNJcTIzb1VQeUdoMVlVQThmY1pxcS1xSkgwdE1FVUlmdGRiNzZtT3pfMUJVdDZZQjBfYkY3eGRPMjFRREdzS2VVUGRaWi1ad0k4SXpyYWVwbWYxVTVoSjVGeDVVRDhZUmQ2RDZ1cFVhUkY0Ung5Q01zLVMwTlh3aWRJaE1MTFN0cTZfMG8zZ2NmMFM4S0FRUXNnZmI0aVpadVpyUWhmZXp0UTVRTnpqRUFTbV9YWmRXTHJjaUpqak9ZT0tIRk1HUm05MGNlN2xqZlAxaHNCMElaZlBydHhwRUk5UzlqTlF3bGxZR1ZxZ05XRnpXR3ZKQ25ySUt0Y0k5NEh6U3FDSmU2dlRCNXJNQkN3?oc=5",
         "source": "уча в Пловдив",
-        "image": null
-      },
-      {
-        "title": "\"Детска усмивка\" събра ученици от две училища в Тутракан - Кворум Силистра",
-        "description": "",
-        "date": "2026-10-23T18:00:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yd3ZqbkF0QV8yM3ZkallybVBFNFNUS0lnb1lPVDhOY2w0UEh0NDJGakx6OXdnc3pCakFrQjdpeWtsaTB0NVRITjRKcDh5cjFQWGNNLV9n?oc=5",
-        "source": "Кворум Силистра",
         "image": null
       },
       {
