@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-10-24T08:44:29.926766+00:00",
+  "generatedAt": "2026-10-24T09:11:00.184983+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Трима души са задържани за убийството на Слави Бинев, съобщи и.ф. главен секретар на МВР Любомир Николов",
+        "description": "Трима са задържани за убийството на Слави Бинев в София, каза на брифинг изпълняващият длъжността главен секретар на МВР Любомир Николов. Те са арестувани при тунел „Траянови врата\" на 54-и км. Арестуваните са двама души с турски имена и един с българска лична карта. Установени са две оръжия. Прострелната рана на починалия е в областта на главата.",
+        "date": "2026-10-24T09:08:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231727-trima-dushi-sa-zadarzhani-za-ubiystvoto-na-slavi-binev-saobshti-i-f-glaven-sek",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13994705/1000066505.jpeg"
+      },
+      {
+        "title": "Експерименти с вода и работилница за електронно пиано организира „Музейко“ на 25 октомври",
+        "description": "Демонстрации, посветени на плаваемостта и морските течения, творчески занимания и работилница за изработване на електронно пиано са част от програмата „Творчески предизвикателства: Морското дъно“ на детския научен център „Музейко“ на 25 октомври, съобщават от екипа на музея. В демонстрацията „Водни детективи“ децата ще научат защо някои предмети потъват, а други плават, както и как корабите се задържат на водната повърхност. Заниманието е подходя",
+        "date": "2026-10-24T09:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1231720-eksperimenti-s-voda-i-rabotilnitsa-za-elektronno-piano-organizira-muzeyko-na-2",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028160/big_921b86be669d6090175f31f3f34afd0983378279.png"
+      },
+      {
+        "title": "Задържани са трима заподозрени за убийството на Слави Бинев",
+        "description": "У тях е открито оръжие, с което се предполага, че е извършено престъплението",
+        "date": "2026-10-24T08:58:32+00:00",
+        "link": "https://dnes.dir.bg/krimi/zadarzhani-sa-zapodozreni-za-ubiystvoto-na-slavi-binev",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/22/3039205/384x216.jpg?_=1792666706"
+      },
+      {
+        "title": "Прогноза за времето",
+        "description": "През нощта в страната ще преобладава ясно време. След полунощ в низините и котловините ще се образува ниска слоеста облачност или мъгла. Ще бъде почти тихо. Минималните температури ще бъдат между 5° и 10°, в София – около 7°. Атмосферното налягане ще продължи да се понижава и ще бъде по-ниско от средното за месеца, съобщиха от Националния институт по метеорология и хидрология (НИМХ). Утре ще преобладава слънчево време. До обяд на много места в ра",
+        "date": "2026-10-24T08:55:23+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1231719-prognoza-za-vremeto",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14025087/MIL_5160.jpg"
+      },
+      {
+        "title": "Застреляха бизнесмена Слави Бинев - bTV Новините",
+        "description": "",
+        "date": "2026-10-24T08:52:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuS2d2MHl5bVBYeThmbWl0ZjRkcG1SNk8xT29ZdDhhS3MzMWZfa0M0Vng3MG1uXzdvV3FyamlUdElxOXBXQXRsS0FIektyNHBINmhncHBRZ0lOenE1NnQyaFZSUWpoNks5YzJvQlZZRjdmZVRCdnk5cl9hUQ?oc=5",
+        "source": "bTV Новините",
+        "image": null
+      },
+      {
+        "title": "САЩ спешно освобождават до 400 000 барела петрол от стратегическия си резерв",
+        "description": "Предоставянето на петрола ще помогне да се компенсират временните прекъсвания на доставките, твърдят от Министерството на енергетиката",
+        "date": "2026-10-24T08:49:16+00:00",
+        "link": "https://business.dir.bg/energien-pazar/sasht-speshno-osvobozhdavat-do-400-000-barela-petrol-ot-strategicheskiya-si-rezerv",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/08/04/3013303/384x216.jpg?_=1785826709"
+      },
       {
         "title": "Специализиран екип от архитекти и проектанти е изготвил проект за възстановяване на сградата на ДНА в Разград",
         "description": "Специализиран екип от архитекти и проектанти изготви технически инвестиционен проект за възстановяване на сградата на ДНА в Разград, съобщиха от Областната администрация. Проектът е разработен по възлагане на Областната администрация в Разград. Той предвижда цялостна консервация, реставрация, преустройство и адаптация на сградата за административни нужди, като бъдат запазени нейните архитектурни характеристики, автентичната фасада и историческият",
@@ -33,14 +81,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231708-v-mvr-e-postapil-signal-za-ubiystvo-v-sofiya-saobshtiha-ot-prestsentara-na-mini",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14005050/20261018_085054.jpg"
-      },
-      {
-        "title": "Убит е бизнесменът и бивш депутат Слави Бинев - Dnevnik.bg",
-        "description": "",
-        "date": "2026-10-24T08:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcllJLTlBWHMwME9rY1J4Sjd5Q3FIOWhtUUVfTHc4SUFsbnRXN24tMERSQmUyemhNRVAzNV80Y2pMWlU1QzVyc1dOUmx6SERDUjllY1dId3U0QXZxMnBIbnRZMTg2S0VxSkhvYlQxZ3prWVZiMFpjcmNsc0ZjU1JFOENneVdrdE9xdC1yRzktLVlJUW8tV1p2QnFXZGw3MlU?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
       },
       {
         "title": "Застреляха известния бизнесмен Слави Бинев",
@@ -161,49 +201,33 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231668-glasuvaneto-za-chlenove-na-vss-ot-prokurorskata-kvota-v-burgas-zapochna-normalno",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14028026/2.jpg"
-      },
-      {
-        "title": "Волейболният Дунав ще представи отбора си с контрола срещу Добруджа 07 и томбола за абонаментна карта",
-        "description": "Волейболният Дунав (Русе) ще представи състава си за новия сезон в Winbet Суперволей с контрола срещу Добруджа 07 (Добрич), съобщи за БТА старши треньорът на русенския тим Красимир Миронов. Двубоят ще се играе от 17:00 часа днес в зала „Дунав“ в Русе, а входът за зрителите ще бъде свободен. По време на срещата привържениците ще могат да закупят абонаментни карти за домакинските мачове на отбора през сезона и да участват в томбола за една такава к",
-        "date": "2026-10-24T07:01:00+00:00",
-        "link": "https://www.bta.bg/bg/news/sport/1231684-voleybolniyat-dunav-shte-predstavi-otbora-si-s-kontrola-sreshtu-dobrudzha-07-i-t",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028020/1000101715.jpg"
-      },
-      {
-        "title": "Среща и разговор с художничката Нора Ампова организира днес галерия Credo Bonum",
-        "description": "Среща и разговор с художничката Нора Ампова организира днес от 17:00 ч. столичната галерия Credo Bonum, съобщават домакините. Изложбата „Пейзаж от бъдещето“ на Нора Ампова бе открита на 6 октомври в галерия Credo Bonum. Куратор е Весела Ножарова, като експозицията ще може да бъде разгледана до 6 ноември. С изложбата художничката представя промяна в живописната си практика. Серията включва свързани помежду си картини и скулптурни обекти, върху кои",
-        "date": "2026-10-24T07:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1231500-sreshta-i-razgovor-s-hudozhnichkata-nora-ampova-organizira-dnes-galeriya-credo-b",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13927541/800826372_1508460634641001_4182712672243042749_n.jpg"
-      },
-      {
-        "title": "В Плевен нормално започна гласуването за избор на членове на ВСС от професионалната квота на прокурорите",
-        "description": "В Плевен нормално започна гласуването за избор на членове на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите. Това съобщи за медиите прокурорът от Районна прокуратура – Плевен Борислава Александрова, която е в състава на избирателната комисия. Тя каза още, че изборният ден е започнал точно в 8:00 ч. както е по правилата за произвеждане на тези избори. До момента изборите протичат нормално, без затруднения. За избирателната акти",
-        "date": "2026-10-24T06:59:26+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231680-v-pleven-normalno-zapochna-glasuvaneto-za-izbor-na-chlenove-na-vss-ot-profesiona",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028005/20261024_090545.jpg"
-      },
-      {
-        "title": "В Силистра започна изборът на членове на ВСС от прокурорската квота",
-        "description": "Гласуването за избор на членове на Висшия съдебен съвет (ВСС) от прокурорската квота започна нормално в избирателна секция № 19 в Силистра. Към момента няма затруднения в организацията и не са установени нарушения, съобщи за БТА председателят на избирателната комисия прокурор Стефка Ганчева. По думите ѝ право на глас в секцията в Силистра имат 14 прокурори от съдебния район. Прокурор Стефка Ганчева изрази мнение, че предизвикателствата пред новия",
-        "date": "2026-10-24T06:59:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231681-v-silistra-zapochna-izborat-na-chlenove-na-vss-ot-prokurorskata-kvota",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028006/%D0%98%D0%B7%D0%B1%D0%BE%D1%80%D0%B8+%D0%92%D0%A1%D0%A1.jpg"
-      },
-      {
-        "title": "Общо 36 прокурори гласуват в Сливен за членове на Висшия съдебен съвет",
-        "description": "Изборният ден в 20-а избирателна секция в Сливен за избор на членове на Висшия съдебен съвет (ВСС) от професионалната квота на прокурорите започна в 8:00 часа. Право на глас в секцията имат общо 36 прокурори от Районната, Окръжната и Военно-окръжната прокуратура. „Гласуването е с хартиени бюлетини, а изборният ден ще продължи до 18:00 часа“, каза пред БТА прокурор Христо Христов от Окръжната прокуратура в Сливен, председател на 20-а избирателна с",
-        "date": "2026-10-24T06:57:28+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1231682-obshto-36-prokurori-glasuvat-v-sliven-za-chlenove-na-visshiya-sadeben-savet",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028000/20261024_081123.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Asia Motor Show 2026 започна: Автомобилният свят на Азия е в София до 26 октомври - Novinata.bg",
+        "description": "",
+        "date": "2026-10-24T09:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3hZTDdkdlREOEM4UnJuM0UtVVBaZXVDSG1keHlsVUFsUTFuMWdZaWh2S2o3SWZNbTB0dmZEWmFlS2hlT3lJNjVRQ2hGcmdoYTg4RWtDQ29HVEZOS0ZhS2xqSTk4ZTZfT2RSam5ha181TGRCNTQ3dWJuT0pHRDg0MEdZX1BLWjA0aU5yU0UwYVJzZ1J5SDk4dG5QZkJPQnc1cXpXQU9vaUVyMVJBY2M3eW1yYw?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
+        "title": "Луксозните магазини във Франция заковават с дъски прозорците в очакване на нови улични протести",
+        "description": "Луксозните бутици във Франция заковат дъски пред обикновено бляскавите си витрини и наемат охрана днес преди очакваните нови протести, а някои планират изобщо да не отварят врати – след като миналия уикенд участници в безредици разграбиха магазини в цялата страна, предаде Ройтерс. Франция привлича множество купувачи от чужбина, които търсят луксозни стоки. Това е важен източник на приходи за марките, изправени пред спад в търсенето. Някои обаче п",
+        "date": "2026-10-24T08:59:37+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231715-luksoznite-magazini-vav-frantsiya-zakovavat-s-daski-prozortsite-v-ochakvane-na-n",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14007737/7778cc278c584791b04763ef9aafaf29--1--bc48d1dc31fa4e7686e863196a134c1e.jpg"
+      },
+      {
+        "title": "Политическото минало на Александър Вучич: От Милошевич и призивите за убийства до „Сръбски свят“ - БГНЕС",
+        "description": "",
+        "date": "2026-10-24T08:45:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZIa2E5a0JtVkFrX08zd0lNQ1M1VTdlSEFQUUlCMVA5alNvUmloc3ZrblNlaVFpQ0tuQmZURms2MldWeGxMdnZwMjhzUDVnUXZGeUl3dDFvNTZxLTZFaWxIYzZyWExRNl9nTldzbWhENEFrb0ZQWGFISEhRTmxic2JBaDJSNElUd1c5Q3Y2RTZhbWhBUEdyWGhBUzdUWktEWENGVHJsX1FGUjlrVy04ZmxiY0tVaVRlRmo0?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
       {
         "title": "Нетаняху обеща голяма изненада за Палестинската автономия",
         "description": "Израелският премиер Бенямин Нетаняху заяви, че е подготвил „голяма изненада“ за Палестинската автономия, след като нареди мащабна военна операция на окупирания Западен бряг след вчерашното смъртоносно нападение, предаде Франс прес. В снощно интервю за телевизия i24, проведено на фона на предизборната кампания за парламентарните избори във вторник, премиерът избегна въпрос дали възнамерява да разпусне Палестинската автономия, като каза, че е привъ",
@@ -235,6 +259,14 @@
         "link": "https://www.bta.bg/bg/news/world/1231698-posolstvoto-na-sasht-saobshti-za-zasileni-merki-za-sigurnost-v-yordaniya-sled-sm",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14025949/e196cfb3657b46f9b6af8cb943d9c12c--0--46054c5645b64c52aa15e69a93761107.jpg"
+      },
+      {
+        "title": "САЩ търсят съюзници в Куба: Рубио отправи необичаен призив към гражданите - Свят - manager.bg",
+        "description": "",
+        "date": "2026-10-24T08:04:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzh4LUd3cnlydmtIM0k2eE9qUEw0SUZpZmJMYUlielJJb2dfbGsyOVNYRG9wQ3R1Ujloa3I5VTVvQldqOExNdWhjV3pGdjQzUVBNMDFiQS1HQ3hub1FIWFRSUVRhRWlnVTZTN0VFS2pUX01qQ3NlTE1fZlVIT1ZGbkYzLWw3YTE2SVNpSlVTRjBwelljUm5Ydk5vLThFdHZJbDlGSDZPRFBIcGZyUUI1V1RYUlBjdGRfWkE?oc=5",
+        "source": "manager.bg",
+        "image": null
       },
       {
         "title": "Аджерпрес: Тематичен парк за 2,5 млн. евро, посветен на мечките от цял свят, ще бъде открит в румънския град Совата - Делник БГ",
@@ -371,38 +403,6 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzYnRLRFp0bnp2UzZmQTNTTXlsb3JkaGxrTmNxT2pPbmZyMnVvbE1RVG1FbW9lZkxyczhPNGY0ZHkzZlRTbmpBV01zYTlweEk3YW9QTC1xQQ?oc=5",
         "source": "БТА",
         "image": null
-      },
-      {
-        "title": "Argentina Disappeared - БТА",
-        "description": "",
-        "date": "2026-10-24T02:56:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rSXlxNHNya1o2bG1MOWRCQjVjUnEtdTgwREIxQVVfOUVhZTRPOHUxMW1JSjVsaThUX2gyU1dBMW1Edm1LQXhCRGM4NXVWQTNrMjZGenVhaw?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "CORRECTION Mavericks Pacers basketball - БТА",
-        "description": "",
-        "date": "2026-10-24T02:56:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaOHlkMlBrZm1sc0NScVd3R3lLTHlTVmxwMW9aX0dSRnM5bWVYUFo1YllQQVNJLTdvYVR6YUw4bHZ4SDNEUDVueHJrMG05bVhQbTdHVEZEcw?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Задържаните имигранти нямат право на изслушване за определяне на гаранция, постанови американски апелативен съд",
-        "description": "Апелативен съд в САЩ постанови вчера, че според Конституцията на САЩ администрацията на американския президент Доналд Тръмп не е длъжна да предоставя на задържаните имигранти възможност да поискат освобождаване под гаранция, предаде Ройтерс. С решение, прието с 10 гласа \"за\" срещу 7 \"против\", благодарение на консервативното си мнозинство, базираният в Ню Орлиънс, щата Луизиана, Апелативен съд на САЩ за Пети окръг постанови, че гаранциите за справ",
-        "date": "2026-10-24T02:22:36+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231621-zadarzhanite-imigranti-nyamat-pravo-na-izslushvane-za-opredelyane-na-garantsiya-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/8705603/9fbf12f0d9664325a07b7616c1dd86fd--0--528cd92a20f14b62850e22388e9dfe1f.jpg"
-      },
-      {
-        "title": "2026 AFI Fest - \"Behemoth!\" Premiere - БТА",
-        "description": "",
-        "date": "2026-10-24T01:57:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81VFhvN19sQXRkVFRwZ1VlTFd5eGRWMjk4aTVEZXlwN1g0b29pcUExckY4QUt5U0xaaU16NWtsd1Y3S0tKNG9qMnA0b1h1Ml9Sd1Z3RWhhMA?oc=5",
-        "source": "БТА",
-        "image": null
       }
     ],
     "Наука": [
@@ -428,6 +428,14 @@
         "date": "2026-10-23T22:37:24+00:00",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vT0JoZTRqNHhQN2daaHZ2WU1ycTQwcm0zUzcxdFQ5MUM3d0ViUllrVHFWY1RZRE10RTl0bFdoRVhyQkh3bWlwODdJUXU2bGt6dHNhNUd3QVlvT3VsYmFuQlBGd0R4YjJYS3FVQ2ZKdEYxdG95VDFTUg?oc=5",
         "source": "БГНЕС",
+        "image": null
+      },
+      {
+        "title": "Google дарява още 1 млн. долара на българския институт INSAIT за разработване на изкуствен интелект - marica.bg",
+        "description": "",
+        "date": "2026-10-23T22:09:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZzIxZWljZlZkUG04NjEwbXRHeDlvT09pX1kyQWN4SGNkVDdCbmhBOUplY1JoUmRaX2tQLWtIT2dqQzhsRGg5NHpTUmVnTHdlSHp2WXI3bk1CeE9Gc2x1V0JTWTJHUHRiMEQ5VmxkZlh6UlFoUldVQWs2b1VFOUl2LUI2dEZLam5kZEZ3eGI2Yk9lVHBsZUk4RWtqOTZkejJEUkFwVUY3ZFN6QUhfRldnSlZCQy1EeVo3VTRCNzFCUVAtb3pWbUhvTHFTNjFvVTVPcEpfMVFLWC1fd9IB3wFBVV95cUxOY2p2X0UwNlg1bU9NUnRwTW9DS1pXa2c2Mkg1dzIwekx5NEZEY1Q1M2E3MFloVldkYl9MUThfMzB4WVlUc0dhb01YbjYzUUxLdWh6RUZQQjhBbnYwRE5zQzFBelJEcmMzNjh3LVdLUjFabWZaVGdsTFBvZVBzV0p2M0xmVGhlWW9CODRoRjhLLTlWRmtNbENyMFBhdW8yV1habVNNRmpTWDViYllVNm82YWJvSzFDQ2tSUGlZRWpfMi10TVRDa3g3c2t6OWhNdVVheXJFb0s3SGdMa0RQWGo0?oc=5",
+        "source": "marica.bg",
         "image": null
       },
       {
@@ -559,14 +567,6 @@
         "image": null
       },
       {
-        "title": "Анастас Терзобалиев обсъди академическо и културно сътрудничество между България и Ирак в Ербил - Novinata.bg",
-        "description": "",
-        "date": "2026-10-22T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUpmaFY1T1VZenpjbkFoeWkxY05ONHRmY2YzdkpSVE5XZlY5aDdNWXgwMnY0d281UDRmSW9ZSzFlQXE3SDFtTXptbGtBaUxKZWhtbnFXazJfbzliWVRkMHpUNjg0MC1FalZOdXZXYmZFTWhBVzVsSXFDdkxjWHJCSm9DYmx1RE9lcDF4VFBpTFBQN0ZkVGtwZzVkdmx5WERUemhLWHFqTHRBLVlicmZWck5iblBSbHNGRGN3MDFqOG10RjR3NGliWA?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
         "title": "Пловдив е домакин на четвъртия фестивал на науката - БНР Новини",
         "description": "",
         "date": "2026-10-22T03:28:17+00:00",
@@ -580,14 +580,6 @@
         "date": "2026-10-21T13:56:45+00:00",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Da0NRUTh0NDBvSS0ycmxZZUNmYlZWOU95blFKc0k1X1F2VGlORU4wajBva1JMYkc4OURFdUxmS3BIa0tNZGh0bUE3Q1BRaXhYSjByOHhRcGk4bS1lYXE1LXphUmFieEx3Sy1MTGN4RUhpZThCNU45T083bTI?oc=5",
         "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Учени възстановиха лицето на най-стария известен Homo sapiens - Kaldata.com",
-        "description": "",
-        "date": "2026-10-21T13:02:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPcTR0aVVleTRmSENWTjJlOWZSc1FLSWtNQmROTUdxOU5jWTdlUk9JU1A2OXpEU3F5SkVHMTJZS2tBOTFfMjVVeW9XRnJwd2JrR01EZldfV1FLbE11a2FHVUpBS1B6b3FVN3IyNENNNDZzMlJFV0ZmcjFnT0R3WVhRVHhVam5IM0swaXJIZmV6RW9YSVdmUjc1TjFfLTlLc2hTNDJ0YWVsWnNtcmluc2hsSnBhaS02VXpYc29zZjZncWkzVkJhaTdnYTJZTU1zci1Ud1FaY2lweFJ5RU1PV3A5aldSeHJWNVlUOWZzdkJ2a1pBZ0ctQ0kzcm44Skt4cmZINDlzR1RVU0FNWkVtcTNRUFRwRlVvYU9WN0dtczlZbVRJV1JCT1NJME5uOWFJRnZVa19kWUJ1Ujk1SEphaWFLVlhhN2xpaWRNZVJlMF84dUEzV0NBTy1jNV94a0tPbzhTOExDZ2ZOeFozM3IyUkc4Y29nWWtIMDFBSUt2c01yRGV3cVVrMDFzOFpuenNJUnBwd2tzbTJRa093aWpNZWFBUXl4QWZCMkY4dFFVbGVTdVNfd9IBugNBVV95cUxQbmp3WEduc2lfZUpyc01XZlZBMVJ6dkRZakpXVUtLOGs4ODBMS1FwcTNhNnkwd2oxbVNZTWN3bXVmYmtwUFEtekpSNWY5UkQ1dVpUVUJZUGRFY1ZSRDNlZ3UwOTZueVpwYUlQSjRqUGZpNnVpNTlNNFNxWHF4UUwyd2xjUTUyM05Bc2xMNzhIYWdfcy1TWFd6ei0wU3VfenB5SlUySm10ZVhNNWdxY2hnbzlEVkpOcndKclpneEdaUFVNUFFQbk5qbzhWVGxkWnJXTGsyS0h4TXVnUk1Gd0NrblZFazZQalhfX1N2cXZ0cVU0OFhqM1NNeE5XcnJJV1V3bldGZnVLeGY2OUlYUzRqYWFQSXp2M09iUE1Vb1YyOFN1dThEN0t3TTc3N0Zxa1VOQjgtMkVnQUowdnF3WkhJUlNLcldYbFhELUxaZUJkVFJia1VmZEl3ZnBjYS1zS2xuTGhSNk9kRDlCci1KOWNyLTAwekpLQnRZc0pZRmx4Umc0SWw5WkVfRmdDTHprMVRWbC1URHVtMHBrelkyYmRfNmIwZ08tenpsREJMU0tla050YnVFSFNXWW1R?oc=5",
-        "source": "Kaldata.com",
         "image": null
       },
       {
@@ -605,9 +597,33 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFJyYkZlS0FrWVkyZGtRbEZMLWwxc1hXR1hJQlgwVTVwYTVJS1Z0ak1ldlFHemowc0RTSTN1TC1BMF9nNHVVMWx4UEhVX3dQN0xqcUdDNEZDRjZTeUZjeF9TaWF5ZWI5bmozUG0tZllKdEZ1MTFWRDRDcVBaZDloWlhZeEJTZWQwcVFrbWE3eVRRN2FiOGZobXdOc2M2Rk3SAZ8BQVVfeXFMTmRScmJGZUtBa1lZMmRrUWxGTC1sMXNYV0dYSUJYMFU1cGE1SUtWdGpNZXZRR3pqMHNEU0kzdUwtQTBfZzR1VTFseFBIVV93UDdManFHQzRGQ0Y2U3lGY3hfU2lheWViOW5qM1BtLWZZSnRGdTExVkQ0Q3FQWmQ5aFpYWXhCU2VkMHFRa21hN3lUUTdhYjhmaG13TnNjNkZN?oc=5",
         "source": "marica.bg",
         "image": null
+      },
+      {
+        "title": "Д-р Казмин: Медицината е наука и изкуство, бих добавил и занаят - БНР Новини",
+        "description": "",
+        "date": "2026-10-20T14:16:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFRScDM5dUNUdDFyWFJCb1hCemdiRWVlOTZPMjRSeC1uZDlScF9GTkNIVXZkTVI0cmRTUmF4X2hDSFVoMVQza25fVlAyczRRRDBfQ2lDWHRER05vZkhmWENTVndwRHpfS012R0Rja2ZRZ1hZNFBtMzFqaWxsZWplMjJQYnJ4LXlDVlphZC1iTmxMUHpTZzR1ZGgwMmZ2YkxP?oc=5",
+        "source": "БНР Новини",
+        "image": null
       }
     ],
     "Образование": [
+      {
+        "title": "Ученици от СУ „Иван Вазов“ – Бургас представят здравни професии на деца в Сарафово - Novinata.bg",
+        "description": "",
+        "date": "2026-10-24T09:06:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFBtYU50RERMU2hVdGRVZTBVVGdKak80N01sandYMy1wSWpiZU9VSWIwQ1pyYnNDM0Y2VHRjZFZidTYxeFhoZU1NWXdIOFRZREpXWXZISERDbmpGN1MzM3ZVNTFRdGc1ZUdzOXhxLUlmdzNhSXcwSWVkNGJxOTA2UGRvTlFfR2M2c25KRjZkWmhmLTN0d1pmcm9LMmdDYk15ZVZoQTQ4amtQNk53Z09kMmpsM3M?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
+        "title": "Ученици от Силистра обсъждат теми от предмета \"Гражданско образование\" - БНР Новини",
+        "description": "",
+        "date": "2026-10-24T09:05:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDhqUHBMVDZjU2RvZWVmc25ZQmpuZkd6LXUyUFc3VlJxQkZLcmZnMzd4MXA4WGFiV3p0Z3I2MFdhdGMzZ2JmVk4yNVFUYkkzTXJDdVgzTnlXVUFoX2ppVHhJdEwyWTZpQm9vc29RczdxeGZpamRvQnh5NXZRZzY5dzJldW9xa2pYR1F1VmprbnRZZVZFNVdObjNWbU1WSGZKUHNGVW4tUnFYSFpDMWhLZ0Nn?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
       {
         "title": "Учителят Тео гостува в Приморско: Теодосий Теодосиев ще се срещне с жители и гости на града - Poligraff",
         "description": "",
@@ -630,6 +646,14 @@
         "date": "2026-10-24T06:46:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbk9tOEd1TnJkNkZ4TXBTdUdSTWV0SnBsLUEtZFVJU2RqbXZmeVUzODNwakpTckgtTWFualhOcmxqOHNncHFQb21DcmhwbDZqTWphNElRLUdQMTZlRGJSb0tMYUVDTkViVnY5T0hsS3pjSmFZQ24wUUplRHltOFYtUnZGY252Zw?oc=5",
         "source": "Haskovo Live",
+        "image": null
+      },
+      {
+        "title": "Хората с висше образование не са най-големите фенове на големите - https://novini247.com/",
+        "description": "",
+        "date": "2026-10-24T06:43:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHV2aUIwQlBnX2hsMWdLaTlURTZSR2NXMWJadkM2VjZyXzZGWnNzNXBjRUpmZHJXMXA5VWVfdkRDTkJCNHgxZjFfSDVxWVlwNHdhOVJhWjJhaFJzVFZQTkVkYTRHRmFkdDRkWWtKOTg2S2VOZ0xFZUNxZ1Y3ZnktUlQ3LUxhc09wc0U3OTJUNXpWQXNMbktOVHhYR2FFeksz?oc=5",
+        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -665,11 +689,11 @@
         "image": null
       },
       {
-        "title": "Google предоставя нови 1 млн. долара на софийския институт INSAIT - Stolica.BG",
+        "title": "\"Детска усмивка\" събра ученици от две училища в Тутракан - Кворум Силистра",
         "description": "",
-        "date": "2026-10-23T17:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1JtcFRQQWdqV19ZaFNvRXpqSUlVcVdxdGNqaHVOd1NZRmNsXzNidkE3ejNybUFiSHJUUG1oamZwb3R5MkQwYVlGdHJOQi1PN0V3OUw4VVRGLWxLSWJ5RGFhN29DelA0dkVZSXFITnBYNWNoTjBrOUtJNTZvaW9CZ0hMNktGd0hkbUJlMzFVS1U4cWpMSk5pVDlLeVpBUQ?oc=5",
-        "source": "Stolica.BG",
+        "date": "2026-10-23T18:00:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yd3ZqbkF0QV8yM3ZkallybVBFNFNUS0lnb1lPVDhOY2w0UEh0NDJGakx6OXdnc3pCakFrQjdpeWtsaTB0NVRITjRKcDh5cjFQWGNNLV9n?oc=5",
+        "source": "Кворум Силистра",
         "image": null
       },
       {
@@ -705,6 +729,14 @@
         "image": null
       },
       {
+        "title": "В Математическия факултет на ВТУ обсъдиха съвременните тенденции в образованието - RegNews.NET",
+        "description": "",
+        "date": "2026-10-23T12:23:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVW52UmJMX0RWZHhwNkJ4TzE4UG94NHh6V3hOZ3pzb3RMRXNlQlkxVFlJTmlOTGVPTnB6UWg0aDBnN0hxeHFWRkQ1cUZXMXhma1dhY05wNkJCZ3pUQUhRMG1SX3NZcEZ5Sjg3VlpKXzY5NTBxUENEeU9NNVplY2RtMUMxM1lPbHNHTlFmSnBRXzhBYnY0WUpzT2VMUHhnVFo4d3BXT20yejVRMzVIQnd5RlJsdGxCQU5pdTA3ZHAwOGt3WlctZ2c?oc=5",
+        "source": "RegNews.NET",
+        "image": null
+      },
+      {
         "title": "Десет бивши министри на образованието се обявиха срещу предложения един учебник от Радев - Dnevnik.bg",
         "description": "",
         "date": "2026-10-23T12:09:00+00:00",
@@ -726,6 +758,14 @@
         "date": "2026-10-23T11:15:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlBjTUprbFZRQ1ktWktMZEg3SnNKbmptcmZYYnpRMzJBeGNDOWc3a3RGNjlpQUdPWGpZcHNxTjNqYVlweS1lYk94VVZmcHFadURYY2dmMU9RN2NmbFZEdkx3X3h0WWRRMG9iX05HZWJ3T0tWMGJJMmdQaUVJZzVwamxmRXFwUndCVENTQ3BsbHNCc3paMW9kbWJha184X25KWV9RNUNyeTd3MkhuT1JV?oc=5",
         "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "Десет бивши образователни министри се обявиха срещу въвеждането на един учебник по основните предмети - balkanec.bg",
+        "description": "",
+        "date": "2026-10-23T10:55:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcXU3RjRTYm44bDY0dVc2WGJrc0w5WFM2NzFqd3hUUkJkOWpuVXdWZWlfbndNN2pJVU5ma0NfUjJ2MW5kTjY4eVpnaHdqOGdBTUNuWFVQWEVCRXFScFdDVkFlVXRzWjZlaEY2ektBVU9QNDBQZTZRWlZQbTlYUnNvWUUzRjVNTVZIU3pRaEJlbHpHZnoxcE4zVlVWWGFFODdyeDZYZXFieElIb1FPTC1JLUxhWHgxOHZxdmhDOEJlZGJVREdPTDFhQllMQ3NiaFZUdDY5eg?oc=5",
+        "source": "balkanec.bg",
         "image": null
       },
       {
@@ -766,46 +806,6 @@
         "date": "2026-10-23T09:01:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
         "source": "News.bg",
-        "image": null
-      },
-      {
-        "title": "Висшето образование има стратегическа роля в икономическата стабилност и международния имидж на България, каза ректорът на СУ проф. Елиза Стефанова - БТА",
-        "description": "",
-        "date": "2026-10-23T08:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWhYLVlWYklkWUdfcUhlWFZQSjJ1U3J6dGFPdC1fQWlZR29mVVJ3bGdKcEpGY09nbGFlaXBoUVdRN1haWmE2b2dNckRCVWpyNndCNmY4WVdSSnhyMWdhbzl1RHRzVTQ3OWJGeENpYWRnN2lCQjltZTFDMHFuZ3RfeE13LWNqQVFoVFNjWW5qZEtlUUtHRGxLT3VxTnVMS3lyVzNodnVrZjRhRVpEUUVrd0hDaTl5SFdYT0pV?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Има как учениците лесно да изберат професия с бъдеще на пазара на труда - Bgonair",
-        "description": "",
-        "date": "2026-10-23T08:48:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUNXcXBYczlkNU52MjktOUpDT3FjVVhFY212TWRTa083dFVQNl9iU053bDB4eEFKSjhXN21CWWpqUmxId2pmbmEtQXRuYXFNaU9nQmo3dG1OTXVuSU5YWkJFTFJmbkNHTkM1X2FDazVwNExJSXdzSnlMVzQ0TUdfOTFPOGp1emdGOVdOTFEwTG5fdHZGLTE3VUV1aFR1TVNVek1vZU5RaXNDa05ZWEpUd3dpNU44dDhQY3ZaOFJEMzFveEtS?oc=5",
-        "source": "Bgonair",
-        "image": null
-      },
-      {
-        "title": "Силистра и Гюргево обмениха добри практики за по-достъпно приобщаващо образование - Кворум Силистра",
-        "description": "",
-        "date": "2026-10-23T08:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudWtfOTNDQjBsb2U5TkhDanE0cExqa3E1S0FwWmNQUThieFg1TmhIdjVRU1Q2eWlQeHVWWk9ZZmZoMkJMamstbHRROWFRSG92eTdxYUVn?oc=5",
-        "source": "Кворум Силистра",
-        "image": null
-      },
-      {
-        "title": "ОУ Найден Геров спечели нов еко проект по Еразъм+ - Chernomorie-bg.com",
-        "description": "",
-        "date": "2026-10-23T07:23:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEx6NWR4dGJVcmtLcDRLWkpUOG5DZkZqdHlfZDJxZ2ZzVTItcGdOSUN2RFJmcFFVMjZxZUs1UlZNVmxVOFQzaXY1bHI0VkhvNnBIYlNWN1VFOUdPc2g1ZjZNdXJkT2QxZ0RBNmZUdEx0MzRBTkt6bk5QdWNPM0tFcVBPSmJtc0s5dGtNa1ZRSQ?oc=5",
-        "source": "Chernomorie-bg.com",
-        "image": null
-      },
-      {
-        "title": "Спортно училище „Г. Бенковски“ – Плевен обявява свободно работно място за огняр - Pleven info",
-        "description": "",
-        "date": "2026-10-23T05:51:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjBkMEFiYVd6b01ZdW05NHM4NzAtRDRFTFJ4YjZuQS10WU1OV0NxaUVaMkpPS2VSWWdCUXFnZDZ4ZjNNNmI3VG85bUZEc0dqWVdUV1hhXzI0Mmh4SXJOZEJyQ2tuVkhYZ3VJQ2F6Ym9fUFlpS1dLRlRPSkFMZ0l4VWt5aE1PQk1OeWJGeUtZQ1Q3N0lXSThxYlNvcllrbzd1YlBPNw?oc=5",
-        "source": "Pleven info",
         "image": null
       }
     ],
@@ -848,6 +848,14 @@
         "date": "2026-10-23T13:35:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSXBsLUZRWnJjcHhwYUxWNkhSd2dxdHV5WFJVLUYzbWdncUFubjZrSk5pU2tWNFpkVUlNTUFHS0dDR0U1X0JVTU1oWnNwa3JDb28ydXh6d195aUdQUHVZSWt4b2J6WWlsZi14alNMQnNickFHa1RlR05UT2I1czE0NzhSaWE3ZXh3ME1POUFHSTlCYXpTQ0x2Sl8wVEFLejVwOVZJLW11R2J5Mml4dmxSb2NUbjUta3gzdlYzeVN5cUFUOGhNNWc?oc=5",
         "source": "Epoch Times Bulgaria",
+        "image": null
+      },
+      {
+        "title": "Law Blocks AI – Платформа за правни технологии, съставяне на документи с AI и цифрови подписи - quasa.io",
+        "description": "",
+        "date": "2026-10-23T13:18:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFFPLVFBREpPYmNYVkJ6S3I2WHZhcGxfZ2xsX2ttN09peWpXZGtrdE14MTVXNncwUlZwZEJYb0ZvNnZtMTl0anI4dFN5TDJYWWZKc000VTAwRFVjTVBjbDl5WkFHdHU4X05wNFprSVctQTNlN1lFenZBYkVjUGdXRjJYb0h6NFRUUGs0cGJGLTFMdmE1aEh5OFVLb08tTjBFZlJGNXpHR0t0SlBsSmdmaEZKa0JVVG5D?oc=5",
+        "source": "quasa.io",
         "image": null
       },
       {
@@ -1000,14 +1008,6 @@
         "date": "2026-10-22T14:25:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjFGQ1dvbDdFY1RWckNmUFhhZ2dBaUMxSk1sVG82RzJSZGlxRzAxQmtMa2l3Z2RLVVM1Y2luRnRpN0JVMXhGZEo2cVRpM3NzdGc0QURiWHhMalZBbXM5clhPdW9sajJwSHF6TFVZdVQxTDd6VXhtdlFyRGsxMHI4VGR3ay1HVXY2cnBJTUNmcTUzekVkaXVVcWtUdXVXcERxdDB0aW1oY09kYXlxZ0JwTERNNnRockhj?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Пловдивският фестивал на науката събира над 60 учени в 94 събития - 3e-news",
-        "description": "",
-        "date": "2026-10-22T13:54:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUEc1SllFa19YYmNNTXJDbS14VWFTU1RZa0JpSDBsWVpURUVEQUZxVGlGazlnbl9oenlBaWN0RFFlNzJkZjFUS05zOTlRdmhHMW1razhuYzJEd1p0VVZMazVCQXVYbDN0Z0xiNUNEekFibWx4elNfTkhDc2ZlSnZJZVhQZjVMZ1Q2THA4YXY4ekRIOTdnU2ozSlZRLUs2aVcwSVhHNVdqMA?oc=5",
-        "source": "3e-news",
         "image": null
       }
     ]
