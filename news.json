@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:40:20.739166+00:00",
+  "generatedAt": "2026-10-24T23:05:00.202937+00:00",
   "categories": {
     "България": [
       {
@@ -205,6 +205,14 @@
     ],
     "Свят": [
       {
+        "title": "Сто души са арестувани по време безредици в Барселона",
+        "description": "Общо сто души за били арестувани в Барселона в събота, след като участници в антисистемна демонстрация са разграбили магазини и са подпалили публична собственост около централния площад „Каталуня“, съобщи Ройтерс. Министърът на вътрешните работи на испанския регион Каталония Нурия Парлон съобщи, че около 25 процента от задържаните са непълнолетни. Той допълни, че са били причинени над 30 пожара, а 14 магазина са били вандализирани в района, който",
+        "date": "2026-10-24T23:03:38+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231980-sto-dushi-sa-arestuvani-po-vreme-bezreditsi-v-barselona",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14003368/1729c083b3b04d6b9635bed1ff38864c--0--ea0a792052474f5d97b5f8c486b4457e.jpg"
+      },
+      {
         "title": "Тръмп потвърди, че обмисля да премести пресцентъра на Белия дом на друго място",
         "description": "Президентът на САЩ Доналд Тръмп потвърди, че обмисля да премести пресцентъра на Белия дом на друго място, предаде Ройтерс. В публикация в социалните мрежи Тръмп отхвърли информация, че планира да премахне залата за брифинги на Белия дом и да възстанови на нейно място исторически плувен басейн. Той заяви, че никога дори не му е „минавало през ума да направи нещо толкова глупаво“. Президентът обаче посочи, че може да премести журналистите от сегашн",
         "date": "2026-10-24T22:11:39+00:00",
@@ -371,14 +379,6 @@
         "link": "https://www.bta.bg/bg/news/world/1231867-chast-ot-potrebitelite-v-krim-i-kontroliranite-ot-rusiya-rayoni-v-ukrayna-sa-bez",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13701454/1864d5cd65c840e48051fb14a80cfe66--0--b1ece804d7aa49469979272249e5062e.jpg"
-      },
-      {
-        "title": "Най-малко четирима души загинаха при удари срещу йеменската столица Сана, съобщи свързана с хусите медия",
-        "description": "Подкрепяните от Иран йеменски хуси съобщиха, че водената от Саудитска Арабия коалиция днес е нанесла удари по Сана и района около столицата, предаде Франс прес. При атаките са загинали най-малко четирима души. Има и ранени. Хусите съобщиха и за около 20 удара по крайбрежния град Мока. Телевизионният канал на хусите \"Ал Масира\" съобщи, че освен четиримата загинали в Сана, има \"няколко загинали и ранени\" при атака срещу циментов завод в покрайнинит",
-        "date": "2026-10-24T14:46:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231834-nay-malko-chetirima-dushi-zaginaha-pri-udari-sreshtu-yemenskata-stolitsa-sana-s",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13973946/4f237d457b1148d1860d7165deb53b26--0--7c277fcbed31441d911f33aa89bf044c.jpg"
       },
       {
         "title": "Израелската армия прогони над 1200 палестинци от Хеброн след смъртоносна атака - Свят - manager.bg",
@@ -553,11 +553,11 @@
         "image": null
       },
       {
-        "title": "Сергей Игнатов: Ако образованието ни излиза скъпо, колко по-скъпо излиза простотията? - DUNAVMOST.com",
+        "title": "Полицията използва газ и водни оръдия при сблъсъци в Тирана - paragraf.bg",
         "description": "",
-        "date": "2026-10-24T15:22:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2tERDZIRXVhMW11RnRjcW1zR3dXR09vU3h1eGpSYkJKXzl4UXFtSE1VUHMwd3pqUk1EN2xzTk93b2JNRndxcVJPQzU4QnRZelgxZVFtZEJUbndrLUNWWEpnV0NFRWZ4aXV0MTZMUF9ucjQxU1FJOVl4V1pYNElhUnBWV1FUUFZyUnJuN2xDcHFPQWlpaENHV2ZfNTlJOHlLb3YyZ1hpV1R0OHl2S1ZSWW9tXzltRUE?oc=5",
-        "source": "DUNAVMOST.com",
+        "date": "2026-10-24T16:45:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnZVQnZBZUhmbTl6TzNzY00wZlpxRWQ2ZGl6OERnenQ5dVJxaXV0ck93ZzBHdzIwRUdNS3VjY2R5ODhGS3NuN2FEaWF5YlRyRHR4U1Zkb3NWUmFqNXNCVWMwWnV1R0pWVUxreXpOQUpjdHRLbXZCdjl1bnhxSTJnaHV0cXUyRGMwRlpmag?oc=5",
+        "source": "paragraf.bg",
         "image": null
       },
       {
@@ -617,14 +617,6 @@
         "image": null
       },
       {
-        "title": "Деветокласници от Враца учиха за екологичното равновесие чрез интерактивен урок - Konkurent.bg",
-        "description": "",
-        "date": "2026-10-24T07:45:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkp2VXF4MFlFeXFOamV2Q1NjYlVMZ3AwRVR1LXNSSm1VbzI2Q0VQNTd4RlVySl93UzNOTGtRc01zWTJIMnFzcVU0MXZIWF9LN3dtSER3WFljZmkyc0ZtYVBjclBiWEN1V19SUldzVmFsek5sUzMyY2djUzUtVDFWOEpaWlFnNjlGbmVfNTcwOEJwbFJ3WXU5VWV5TzBEcUNvTlRXcURwQlZvMXRlUnJsUFlkLUdXN1JBVllMNlFJLW1ZQ2prdnVoMQ?oc=5",
-        "source": "Konkurent.bg",
-        "image": null
-      },
-      {
         "title": "Търсят се директори на две детски градини в Симеоновград - Haskovo Live",
         "description": "",
         "date": "2026-10-24T06:46:04+00:00",
@@ -638,14 +630,6 @@
         "date": "2026-10-24T06:05:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnpJeTBzOGdiWGFRM1hWYmlBT1JyV2tlVkFiSWRuQ09BeXBzRDV6ZUw0LWNRcHpRN2VYVzY4U2djZ1U5LVVmVk81QmJPQ0dtQTJJdkFuYmtacGlkR2tZeVhYYk50RnB3aFZvSTB5Y29wOWZGXzdTZjhhZXBIbTR4bHltLXZGS1VEVDMyb0lJZ1NzeW1qMmNhbjJhN09BSzUxRzdtWkZ6SmhEX0w5czcwU3lGZHpWSnRXcVJ2bHNMTWpFNkUxbnZuQ1l3?oc=5",
         "source": "Свободна точка",
-        "image": null
-      },
-      {
-        "title": "Научният потенциал на филиала в гр. Тараклия се заяви на 65-та международна конференция на Русенския университет „Ангел Кънчев“ - Rousse.Info",
-        "description": "",
-        "date": "2026-10-23T21:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNGJPejdXVG9FcF9XU2VVSW1tWGRpbEdLMjFvS3lZQ3pxV2QtS1pzNEZxaXc1Q1FsMFFacmRaamZWbzNCbGZhMExtSmw0ck5kdDlfNV9rQUFLa2ZoOUpkY3NJV1lob21zUTBzT0M0U0Z0RFZXQzd6WUlKalpVZUtRa2VNT01SbFU1czNRZHlSRUJaNXpJR0RubXM1Um5zMDJwQXhVbUprVmp2Y2dTUUlSZnRFWEtHTjRvcDFGTDVrbmlEVUQ1NlJFSXNvTWxqdGtNZ3ZDU2RmR1ktU19Ma0tqUDdhdWtKNThpTUdv?oc=5",
-        "source": "Rousse.Info",
         "image": null
       },
       {
@@ -681,22 +665,6 @@
         "image": null
       },
       {
-        "title": "\"Детска усмивка\" събра ученици от две училища в Тутракан - Кворум Силистра",
-        "description": "",
-        "date": "2026-10-23T18:00:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yd3ZqbkF0QV8yM3ZkallybVBFNFNUS0lnb1lPVDhOY2w0UEh0NDJGakx6OXdnc3pCakFrQjdpeWtsaTB0NVRITjRKcDh5cjFQWGNNLV9n?oc=5",
-        "source": "Кворум Силистра",
-        "image": null
-      },
-      {
-        "title": "Google предоставя нови 1 млн. долара на софийския институт INSAIT - Stolica.BG",
-        "description": "",
-        "date": "2026-10-23T17:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1JtcFRQQWdqV19ZaFNvRXpqSUlVcVdxdGNqaHVOd1NZRmNsXzNidkE3ejNybUFiSHJUUG1oamZwb3R5MkQwYVlGdHJOQi1PN0V3OUw4VVRGLWxLSWJ5RGFhN29DelA0dkVZSXFITnBYNWNoTjBrOUtJNTZvaW9CZ0hMNktGd0hkbUJlMzFVS1U4cWpMSk5pVDlLeVpBUQ?oc=5",
-        "source": "Stolica.BG",
-        "image": null
-      },
-      {
         "title": "Костадинов: Независимост, благоденствие, единство, образование и силна армия са петте ни приоритета - Кворум Силистра",
         "description": "",
         "date": "2026-10-23T15:49:11+00:00",
@@ -713,14 +681,6 @@
         "image": null
       },
       {
-        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР Новини",
-        "description": "",
-        "date": "2026-10-23T13:23:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2NZOVhwWWNIMXVVTjBOMTJoX0dPdmQzQm5YYU5KWjgtVlhsU2lub2VvVktPS0VzSXg5aXBjYzdlLU5YVHVoNE5jM3VYZkFFejE5UFhsSTN0VlVCZElUVm9IXzZ5dUJ4bExTMC1MWmFHSzRJdGtLSmtuRHYyYTFhaUtneHpoM18wMTEyV0FVaW5fQ1k3ODBrenRybHcyYW1zS0NrMzlRNzBQMnRFTGgyN1lJMTA4YlhwXzdvMzZ3?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Протести във Виена: Демонстрациите са срещу съкращения в образованието - Euronews Bulgaria",
         "description": "",
         "date": "2026-10-23T13:00:00+00:00",
@@ -729,11 +689,11 @@
         "image": null
       },
       {
-        "title": "В Математическия факултет на ВТУ обсъдиха съвременните тенденции в образованието - RegNews.NET",
+        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР",
         "description": "",
-        "date": "2026-10-23T12:23:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVW52UmJMX0RWZHhwNkJ4TzE4UG94NHh6V3hOZ3pzb3RMRXNlQlkxVFlJTmlOTGVPTnB6UWg0aDBnN0hxeHFWRkQ1cUZXMXhma1dhY05wNkJCZ3pUQUhRMG1SX3NZcEZ5Sjg3VlpKXzY5NTBxUENEeU9NNVplY2RtMUMxM1lPbHNHTlFmSnBRXzhBYnY0WUpzT2VMUHhnVFo4d3BXT20yejVRMzVIQnd5RlJsdGxCQU5pdTA3ZHAwOGt3WlctZ2c?oc=5",
-        "source": "RegNews.NET",
+        "date": "2026-10-23T12:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGo2T0xuRkRWeGQxTUhaRDlKVUJyWHBpTE9QLWZCb29HTlV4Nm1lZzBEM25SZWRXNXZSZVN4ZllsbzNuNV8zYWdRcE14N3F1M2VBSDkwYS1KUThsUnhobElibUd0SlpIT202WHhtOXoxZTl1Szc4Sll3SmlEaExuNjZpMkRlY0tEUjktNUtzMjYwRjBPZnphRE5kRi1JYUY0MTdabnYzSTVoTWVQcTRHOVZSY09Db2s?oc=5",
+        "source": "БНР",
         "image": null
       },
       {
@@ -742,6 +702,46 @@
         "date": "2026-10-23T12:09:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDktdEFOOGxiRWFpT1owWklIb2R5MzNyX1M2M3hvbUhoWWpPRFdScHRHVjFNM3VrZjFhVVNZdjJrM2tkTklSR05ZYTMyY1N5eTUwWU9OdU94c19XaS1IcVhwR0lIYTFzVXhqWHFwbWxBVFFER3hZQlR1aXR1a3VScldFRWlORFYtc3I3aHp0UGR2eGNQcDk0WVVnZG9sWDBPd1J4bQ?oc=5",
         "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "Данни за образователните институции в системата на предучилищното и училищното образование - Министерство на образованието и науката",
+        "description": "",
+        "date": "2026-10-23T11:36:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNlBWUHFHdXFhLVpBMHdqLTZFM0FycUlLZ0x4V01PZHpiV3BFbU8tdUMwX2NnY3N2Tlk5YmdrNVZiNTE0VkoxcENoeGstWHdJTHdpdXhrWmdCSjQ5cE5rbUpXMjZOQnd6ZGRLUktSalZRUFQ4OHFoTzRVVmo0WFlJYVU4Smdnb1BYZHA4NzM3NDY5SFNrVG5yQnlVRGJ4T2NqYUlhcGlJZi0tUzNqdER3dE5BUEVaRmNwMTdWeUpweHc5ZmdBV1ZaQ2FaMFRXZ3RMUXF5ZUxfN0RwMi15R2NxTFIwWHJHQWl6ZzdkMWlPb3Q?oc=5",
+        "source": "Министерство на образованието и науката",
+        "image": null
+      },
+      {
+        "title": "Есенна феерия и вълшебства събраха деца, родители и учители в ОУ „Васил Левски“ в с. Орешак - Троян експрес",
+        "description": "",
+        "date": "2026-10-23T10:35:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EWkh2UE1tNVA3Z1NBZ2lsRHZRT21YTDRldk1fYW9XVFBlUTUzOEgtNnlwTjcxZUlsQTlZT3hUWU5IczhzZDd1Z280UHRaVVZqeUlsYlAwN2pLTFFRU1otZTVYbmZ3VjB0c002YTBNZXpQLVhWdjJ5TGNtYVk?oc=5",
+        "source": "Троян експрес",
+        "image": null
+      },
+      {
+        "title": "\"Зелена светлина\": българските лекари ще могат да практикуват в САЩ при едно условие - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-23T10:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1cwbkV3ZWpkOGhheTFTRVllOTBYWFZibTdqSEppVE9KOUR0Q0I0TUl3a01Dam1sQVpsWTJYYzZJMk1KZ3l2Mzd1akE1endoVVB2N3JOLUphbklqRTg4d0UtN3BYX3N4UWEyeEFWakdNbkRMNktMamNlNUNNYVBUMk9nOXI0NlNLTEhXcTAzNmdzZENBc09TbzlwUnFqSTU0YkFXcTB3?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "БСК представя наръчник за използването на AI в наставничеството в дуалното обучение - Българска стопанска камара",
+        "description": "",
+        "date": "2026-10-23T09:31:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVemhKdTY1V2NMbWtZc0JENXRQQnVySmRvMG5IUk9DWjN5emlEVnNGV1Nkb1VVNUV5cmtZcUg3aENZdXgzU0tGNWFiUmx2NFNp?oc=5",
+        "source": "Българска стопанска камара",
+        "image": null
+      },
+      {
+        "title": "Започна 51-ата Национална конференция на учителите по химия с международно участие - MediaBricks",
+        "description": "",
+        "date": "2026-10-23T09:30:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTY2cDVnWkxkeHJvUldHdHhacWJQY05LRC1pZUUwZmdwN1hoS25xZ3ZBeHFBU2dnZHhDZXphcmUwTi0zaW51RGllZlYwWVBaUS1PUzBQd3VXWWdZTHo3OUpGTWx2WE5vT2dCNUYtQ2N4RTJiY3g2NHB1ZG9ETFlrdF9EQXpfZ3BselNlTTlFN3JYVnlPZENLX2RDU2w0TXF1dGNSckliRkdLYnNaZWRVaXMyaDc?oc=5",
+        "source": "MediaBricks",
         "image": null
       }
     ],
@@ -763,11 +763,11 @@
         "image": null
       },
       {
-        "title": "Войници разработиха и внедриха тандем от дрон и робот за 10 дни - Информационен център на МО",
+        "title": "Ами ако AI всъщност изпитва нещо? Може ли да страда? И трябва ли да има права? - Profit.bg",
         "description": "",
-        "date": "2026-10-24T09:58:34+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNOHlGWm03MmdQNnNFa3Z0QXltaVRDVVVZUWVDeGU1c1EzRVZNek5HNEJvWmdNdmR5MjJFLWlLcnJjVVozYmVwNjBHdnpFTmNCcl9TUHFCYkQ5aldyRjFraVdEcThnMXlwcG9GanlfVFo0MHdiNm5oaFMwR2g0bEVMb3FFbC11bFVKMTNTR3NXVEFYa2l3NHVTbElCekc5THplNlJ6ekp5Y291VXhoaXAwdHg3aUw4ZUpMcC0yeGhVMHdTRUNpU0ZZVmVvTUFLSTRaWGhNTWc3bFJhRDdlS1RZTGVUNTJ6Z1MwSHZtcVBKZUhsMzg5T1NNWDI1NmJlUF9vbGh0NFBlcnhOU0ZJWGFTSUs1MDRWd1lCQnNwODc4UmhLYl9VS1BHWVo3VzdRbkxEdUkwWndRZlRkazdKeEtNa2dQOGRnaVgzYWFxSUp3?oc=5",
-        "source": "Информационен център на МО",
+        "date": "2026-10-24T08:42:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqaWRsemdzblBjeHc1d2JtZVh1UnVjNVZ6YUxkeG56UnZOUENXNFQwT3RzVWI4YUNRbm1XZ1kteXhBdVVzbkJ5THRUS2RrSWJMOWxmWEJvOGU?oc=5",
+        "source": "Profit.bg",
         "image": null
       },
       {
@@ -923,11 +923,11 @@
         "image": null
       },
       {
-        "title": "Радев обсъди с Google проекти в дигиталната инфраструктура на България - DarikNews.bg",
+        "title": "Премиерът Радев обсъди с Google проекти в дигиталната инфраструктура на България - Vesti.bg",
         "description": "",
-        "date": "2026-10-22T16:43:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeF9IZUdBck1vTnhjVG5RVmpJaVFwdXFFMnR0T1BoeGdJQ01sZGo1VkI5aWFfenFVN1djVEY4ckQ0bVg1SHVUQkNod3hlX3Bra3hzdnJvN3AxNEZvcE9HcmVLR0RtMXltWXZPZ3Q3b0dRWGVkZnpwSWREckN2cjN1a1BVQ05QdU45RU9ydldSUmwxQ3djQ2xOWC1GdXRYdDcyMGdiYW1iNUtuT0V3VXFkYjhueGFVNms1?oc=5",
-        "source": "DarikNews.bg",
+        "date": "2026-10-22T17:27:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDNjSG1ZQzBtWS1wT0pFSlgySklEaDR0aVZZbVlEMldHZk5yMTBZYlZjc1Nmc0VINXNrU3NZeGVzTzc0ZU56ZWp1enRIWU9SS2lvTW8yUUE3aFBnd0p3aXNpVGhoTDhZUnZhV0l3Zlo2ZlhVUTA2TVpTc01iemNsSWg5Z2otZ2VfVTQ2S3kzTGRuTW5fcWdqY042aVNkSjNSQ1NmLTFIbndlMWhhVmxhUkVZNHJPeEt2cnNr?oc=5",
+        "source": "Vesti.bg",
         "image": null
       },
       {
