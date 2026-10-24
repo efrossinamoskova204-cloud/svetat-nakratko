@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-10-24T16:42:46.051988+00:00",
+  "generatedAt": "2026-10-24T17:09:06.556841+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Младият курсист, който открадна малък самолет и се разби с него, имал проблеми с гаджето",
+        "description": "Служители на летището свидетелстват, че 22-годишният младеж е бил афектиран още при пристигането си",
+        "date": "2026-10-24T16:56:31+00:00",
+        "link": "https://dnes.dir.bg/intsidenti/mladiyat-kursist-koyto-otkradna-malak-samolet-i-se-razbi-s-nego-imal-problemi-s-gadzheto",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/24/3040087/384x216.jpg?_=1792863802"
+      },
+      {
+        "title": "\"Политико\": Европа е изправена пред зима на голямо недоволство",
+        "description": "В навечерието на ключови избори в Испания, Франция, Гърция и Италия поредица от кризи засилва социалното напрежение на континента",
+        "date": "2026-10-24T16:45:28+00:00",
+        "link": "https://dnes.dir.bg/svyat/politiko-evropa-e-izpravena-pred-zima-na-golyamo-nedovolstvo",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/19/3038062/384x216.jpg?_=1792441249"
+      },
       {
         "title": "Общо 19 прокурори от имащите право на глас 26 гласуваха в Ловеч за членове на Висшия съдебен съвет от квотата на прокурорите",
         "description": "Общо 19 прокурори от имащите право на глас 26 са гласували в 11-та избирателна секция в Ловеч за членове на Висшия съдебен съвет от професионалната квота на прокурорите. Това съобщи председателят на избирателната секция Светла Иванова в люляковия град след преброяването на бюлетините и съставянето на протокола. Изборният ден е преминал нормално и без затруднения или нарушения в гласуването. Всички бюлетини в урната са действителни. Гласуването в ",
@@ -73,14 +89,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231920-pri-blizo-sto-protsenta-izbiratelna-aktivnost-premina-izborniyat-den-za-chlenove",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14027990/20261024_080705.jpg"
-      },
-      {
-        "title": "Астън Вила нанесе първо поражение на Манчестър Сити във Висшата лига - Gong.bg",
-        "description": "",
-        "date": "2026-10-24T16:23:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXFzS0hNM3BjTEFOckJWNS0xM0FKeTNBVzEwdWNVNS1qUzFHQUFmQ3ZERmE1S3dWejhocGlFOFc4YUJHdG5tc3VHTC1DQ1pMSG9EZFYzZkQ2NDV5NHp4ZDFDb3JtN0wzT3FGNG4zRG9MZGZ6czh4YmM4dW02SWpKQlhTdWJjRmhDbkRoMWxEZFR2Yk9sN2x5bkpCa0tfeU5raGJidFVaRFF5b2JuR2pTXzlnMWZ4OTA?oc=5",
-        "source": "Gong.bg",
-        "image": null
       },
       {
         "title": "Избирателната активност за членове на прокурорската колегия на Висшия съдебен съвет във Варна надхвърля 83 процента",
@@ -193,17 +201,25 @@
         "link": "https://dnes.dir.bg/intsidenti/lovets-zastrelya-gabar-pomislil-go-za-divo-zhivotno",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2019/12/27/1929645/384x216.jpg?_=1577438925"
-      },
-      {
-        "title": "Малък самолет \"Чесна\" падна в селски двор, 22-годишният пилот загина",
-        "description": "При инцидента няма пострадали сгради и жители на плевенското село Бохот",
-        "date": "2026-10-24T14:57:49+00:00",
-        "link": "https://dnes.dir.bg/intsidenti/malak-samolet-chesna-padna-v-selski-dvor-22-godishniyat-pilot-zagina",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2025/02/07/2847963/384x216.jpg?_=1738938040"
       }
     ],
     "Свят": [
+      {
+        "title": "Йеменските хуси съобщиха, че са атакували петролни обекти и летища в Саудитска Арабия",
+        "description": "Йеменските бунтовници хуси съобщиха, че днес са предприели атаки срещу петролни обекти и летища в Саудитска Арабия, в това число обект на саудитската петролна компания \"Сауди Арамко\" (Saudi Aramco) в Янбу, петролната рафинерия в Рабиг и международното летище \"Крал Халид\" в Рияд, предаде Ройтерс. Военният говорител на групировката Яхия Сария каза, че са били атакувани също международното летище \"Крал Фахд\" в Дамам, летището в Наджран и авиобаза в ",
+        "date": "2026-10-24T16:58:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231927-yemenskite-husi-saobshtiha-che-sa-atakuvali-petrolni-obekti-i-letishta-v-saudit",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14029252/ecdafb379aea425a97345a798b9c7d27--0--af2d5773658147e99d7241a9f8a1e837.jpg"
+      },
+      {
+        "title": "Първият сгъваем телефон на \"Епъл\" вече се продава из цял свят - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-24T16:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUG41aGJNX1FlX1NGNVRRMG11a01CTlF3UE14QTk0SVVJYnBTaE5YeEV0ZV9JckZkd0pLRlNTY2xiMnNfUEtvcC15bEx5cWkyQWZCWWNpNFY5ZldrekJDUnVFbF9Oc04wR21SY0QzVVEyX25LZjQ2YmlBSWlIUmllZlJMak1xOUlLcmEyR0dBcWpOTHg0VnZoQzVENnZ6R09VYnE2T0JvQWd5dw?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
       {
         "title": "Около 110 000 души излязоха на протестно шествие в Париж; ситуацията е спокойна, съобщи столичната полиция",
         "description": "Около 110 000 души излязоха днес по улиците на Париж с искания за повишаване на покупателната способност и в защита на обществените услуги, предаде Франс прес, позовавайки се на данни на полицията. Властите заявиха, че \"ситуацията остава спокойна в целия столичен район\". Шествието потегли от \"Порт д'Итали\" около 14:00 ч. и достигна \"Порт дьо Венсен\" към 17:00 ч. Полицията съобщи още, че са извършени над 3000 проверки, а 65 души са задържани. Мина",
@@ -365,14 +381,6 @@
         "image": "https://www.bta.bg/upload/14000046/08423a46a37c4235a472160b41aa1962--0--63ddd23e67e748cca60021b6a77bc0ff.jpg"
       },
       {
-        "title": "Украйна съобщи, че системата \"Старлинк\" отново работи безпроблемно",
-        "description": "Американската сателитна интернет услуга \"Старлинк\", която е от жизненоважно значение за противовъздушната отбрана на Украйна, отново функционира в страната, съобщи украинското Министерство на отбраната, цитирано от ДПА. Системите отчитат възстановяване на скоростите при \"Старшийлд\", заяви украинският министър на отбраната Евген Хмара, визирайки специализирана услуга на компанията на Илон Мъск, която обаче е предназначена за правителствени и военн",
-        "date": "2026-10-24T10:58:58+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231762-ukrayna-saobshti-che-sistemata-starlink-otnovo-raboti-bezproblemno",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13789974/a2b3473985344faea3d829824303ffae--0--f1c04604478b4018868be334b097311e.jpg"
-      },
-      {
         "title": "Киев: Украйна възстанови „стабилната“ връзка с мрежата Starlink на Мъск - Свят - manager.bg",
         "description": "",
         "date": "2026-10-24T10:33:12+00:00",
@@ -394,14 +402,6 @@
         "date": "2026-10-24T09:49:12+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDFrQnQ0Yi14NGZ6V1NwbVdhRzBDNW1OMlc5UFNQbzNYOFd3RHZTZmJILTE4cmtrWUdUVVFkTmFjYWUzSU5fQktJTHlyUm9rZlJWNmdPRTFBNGdOSS03bl8wUXMyU0FRWUZpRlNyWFFNYWFXOGJ5bXhXaDNFOGdnbnpQWk4xVjhfZ1VXa2E0dVBRY0tSTEFGVFhnR3VhMWJUVHN2cGVQTFJyRmJwV2oxRERObDJCM1dXM3hz?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Asia Motor Show 2026 започна: Автомобилният свят на Азия е в София до 26 октомври - Novinata.bg",
-        "description": "",
-        "date": "2026-10-24T09:06:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR3hZTDdkdlREOEM4UnJuM0UtVVBaZXVDSG1keHlsVUFsUTFuMWdZaWh2S2o3SWZNbTB0dmZEWmFlS2hlT3lJNjVRQ2hGcmdoYTg4RWtDQ29HVEZOS0ZhS2xqSTk4ZTZfT2RSam5ha181TGRCNTQ3dWJuT0pHRDg0MEdZX1BLWjA0aU5yU0UwYVJzZ1J5SDk4dG5QZkJPQnc1cXpXQU9vaUVyMVJBY2M3eW1yYw?oc=5",
-        "source": "Novinata.bg",
         "image": null
       }
     ],
@@ -548,6 +548,14 @@
         "date": "2026-10-21T13:56:45+00:00",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Da0NRUTh0NDBvSS0ycmxZZUNmYlZWOU95blFKc0k1X1F2VGlORU4wajBva1JMYkc4OURFdUxmS3BIa0tNZGh0bUE3Q1BRaXhYSjByOHhRcGk4bS1lYXE1LXphUmFieEx3Sy1MTGN4RUhpZThCNU45T083bTI?oc=5",
         "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Науката на популярен език превзема Пловдив за четири дни - marica.bg",
+        "description": "",
+        "date": "2026-10-21T06:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZFJyYkZlS0FrWVkyZGtRbEZMLWwxc1hXR1hJQlgwVTVwYTVJS1Z0ak1ldlFHemowc0RTSTN1TC1BMF9nNHVVMWx4UEhVX3dQN0xqcUdDNEZDRjZTeUZjeF9TaWF5ZWI5bmozUG0tZllKdEZ1MTFWRDRDcVBaZDloWlhZeEJTZWQwcVFrbWE3eVRRN2FiOGZobXdOc2M2Rk3SAZ8BQVVfeXFMTmRScmJGZUtBa1lZMmRrUWxGTC1sMXNYV0dYSUJYMFU1cGE1SUtWdGpNZXZRR3pqMHNEU0kzdUwtQTBfZzR1VTFseFBIVV93UDdManFHQzRGQ0Y2U3lGY3hfU2lheWViOW5qM1BtLWZZSnRGdTExVkQ0Q3FQWmQ5aFpYWXhCU2VkMHFRa21hN3lUUTdhYjhmaG13TnNjNkZN?oc=5",
+        "source": "marica.bg",
         "image": null
       }
     ],
@@ -755,11 +763,27 @@
     ],
     "Технологии": [
       {
+        "title": "Изкуствен интелект срещу дезинформацията: Институт GATE представи инструменти за разпознаване на манипулации - Cross.bg",
+        "description": "",
+        "date": "2026-10-24T16:16:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ddl9PSUg5dFo3bWw0Uk9OaWFPMEZrMlZSbnUxdWNPcy1VT3cxbk83TGFkRlRKQUxDdEUtZ0NLLU1BcDNCOWVHRl9ISmgtcnRDN1JsZzVCYVN4Z1g0NzFsNDZLb2lXeEEtcXFxTWp3MnRmSkE?oc=5",
+        "source": "Cross.bg",
+        "image": null
+      },
+      {
         "title": "„Не вярвам, че нашата технология ще има положително влияние“. Защо напускат служители на Гугъл - Свободна точка",
         "description": "",
         "date": "2026-10-24T15:21:30+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmJSdHZwb0ZPODBNanlyTS0tUkRGQXVEN19ZLWsybThoRFZUalBSS2h6d1ZyR1YyN1pwdnFoNzhScWhHMTYyajVlLUpFUmVFODEtNXRGWTNpb0xaUlFBMVRBRDl1ZV9UcFFBWVFpQUFJRW8tM0NFbFV3R3NDWWtjTzk0TFpEcFBEb1h2emZQa1NOaFJ1b3VxM0JHODFhZlBDZmpCUGhXeWhJcUpVWjJKMHRWME1CWlV2SUdjbEd0ZUh2VnhTZXpBN1BOczdpRzI3?oc=5",
         "source": "Свободна точка",
+        "image": null
+      },
+      {
+        "title": "Войници разработиха и внедриха тандем от дрон и робот за 10 дни - Информационен център на МО",
+        "description": "",
+        "date": "2026-10-24T09:58:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNOHlGWm03MmdQNnNFa3Z0QXltaVRDVVVZUWVDeGU1c1EzRVZNek5HNEJvWmdNdmR5MjJFLWlLcnJjVVozYmVwNjBHdnpFTmNCcl9TUHFCYkQ5aldyRjFraVdEcThnMXlwcG9GanlfVFo0MHdiNm5oaFMwR2g0bEVMb3FFbC11bFVKMTNTR3NXVEFYa2l3NHVTbElCekc5THplNlJ6ekp5Y291VXhoaXAwdHg3aUw4ZUpMcC0yeGhVMHdTRUNpU0ZZVmVvTUFLSTRaWGhNTWc3bFJhRDdlS1RZTGVUNTJ6Z1MwSHZtcVBKZUhsMzg5T1NNWDI1NmJlUF9vbGh0NFBlcnhOU0ZJWGFTSUs1MDRWd1lCQnNwODc4UmhLYl9VS1BHWVo3VzdRbkxEdUkwWndRZlRkazdKeEtNa2dQOGRnaVgzYWFxSUp3?oc=5",
+        "source": "Информационен център на МО",
         "image": null
       },
       {
@@ -883,6 +907,14 @@
         "image": null
       },
       {
+        "title": "Банките ще се сблъскат с конкуренцията на AI агентите при разплащанията - bloombergtv.bg",
+        "description": "",
+        "date": "2026-10-23T08:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd1BvSnRBN0tPTmpEQ3NRbXBHNHd5aWswUUY0Y3ZwZ2pCUjlPVHY0cU5rZnhFeHpUZ0JrNVZkelJrUlBxTXlPY0VkMndkbFlPUmhOZzZ0b1hOTmlZSmhGR25ELUV4S0pXRk1yY2NmNFVhSTBYLU5KVjRXTzNuT0VobU9mYk9UR09OZWZjMWpCZFR3eExDR3pNUkxyaThjaVQ1VVdfbi1KSTdvc0NwYkRWQ3cyOHpJVXhhak5GXzdSb28xTkw0UGxTZ2dHbU9sZUc3?oc=5",
+        "source": "bloombergtv.bg",
+        "image": null
+      },
+      {
         "title": "Google дарява нови 1 млн. долара на INSAIT - MediaBricks",
         "description": "",
         "date": "2026-10-23T06:45:40+00:00",
@@ -929,30 +961,6 @@
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPejRVdlFNZkpZcUlWdWhwczkzS29yRjRoUzB2NDN6LXRwdlltTHIxUUVYVDAyOUhpelFLTnpLSjdxcXA3cTZ4dWE2bHpRdmJmdktDWUNoUmJCNGFBdUZUMDdySXhDNzJWUVZYT1F0NkctTE9lTHZDYURpWlBPakVRVmtDMTRsaE5MMmFxSTJWc2c5VEdtM1dIU00tMFhXdjVSaFpnWDlCajVjdzVsMHZfazZ6MHpwNF92cWZlVWFCcTJWTHVfOGhJdmtfQmo5SHhKVXVSNGdCUFZ1X3hmTXItLTBFSjdNVVd4bGNJUnNNZFg4WjhKUnM3dQ?oc=5",
         "source": "Dir.bg",
         "image": null
-      },
-      {
-        "title": "Роботите също имат нужда от инженери - Технологии - manager.bg",
-        "description": "",
-        "date": "2026-10-22T14:25:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjFGQ1dvbDdFY1RWckNmUFhhZ2dBaUMxSk1sVG82RzJSZGlxRzAxQmtMa2l3Z2RLVVM1Y2luRnRpN0JVMXhGZEo2cVRpM3NzdGc0QURiWHhMalZBbXM5clhPdW9sajJwSHF6TFVZdVQxTDd6VXhtdlFyRGsxMHI4VGR3ay1HVXY2cnBJTUNmcTUzekVkaXVVcWtUdXVXcERxdDB0aW1oY09kYXlxZ0JwTERNNnRockhj?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Космически технологии и изкуствен интелект: България търси стратегически инвестиции от САЩ » Инфомрежа - Infomreja.bg",
-        "description": "",
-        "date": "2026-10-22T13:37:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXdiOHF0amxZQjltbzBLYkdxU3l6X0x5TnkzSi1TbWdLS19ObWNWUlR0ZWcwV0lkdGVmT2dyWjhrNERNNy1WbmhHMnZuLTREdEtLWnB6RjNtTUxTbU55NkU4WjlJZFA0SHJvUUlRRlI3bXhnXzNmU214R1lsZDdFcW80cXJKSktaaGVXb3dyaGFUX1ZuY2phOXNYWDh0MnlyOHlRb2k1S2dfUU1FbkM4MXhhZ29hVWFhWVM2UFlR?oc=5",
-        "source": "Infomreja.bg",
-        "image": null
-      },
-      {
-        "title": "Радев похвали пред американския бизнес опита на България в сферата на високите технологии - News.bg",
-        "description": "",
-        "date": "2026-10-22T13:09:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYzMwa1R4dzMyWk5FWHhSbGRpS2NiT1NmWXgxb3lETVRzcU1NZW11QkFSMTJmc2c0dUdqOXA0bzRULTAyNTM3UU80VzZHcEZQME4xOVloVy1STGtfZGRZOF9XSGlqWlF6enZXZm9BYktkMGZ2NHVSZVh4MDc2aFpLd0hRaU5IWUx1QTdBRXNPaWIxYkNLVm5pU3hXOG5IRVBoVm9wSHA2SWw4ZGk5T1QzY3MtdTFqVk03MmJZaHdB?oc=5",
-        "source": "News.bg",
-        "image": null
       }
     ]
   },
@@ -969,7 +977,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 18,
+      "count": 19,
       "feeds": 1
     },
     "Образование": {
