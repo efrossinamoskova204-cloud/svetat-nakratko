@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-10-25T17:39:57.729370+00:00",
+  "generatedAt": "2026-10-25T18:04:36.033896+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Според първите резултати от екзитпола на „Маркет линкс“ за президентските избори: Йотова - Вълчев са с 32,2%, Гюров - Кандев - 31,6%",
+        "description": "Според първите резултати от екзитпола на социологическата агенция „Маркет линкс“ към 19:00 ч, представени по Би Ти Ви, разпределението на гласовете за кандидатите за президент и вицепрезидент според вота за президентските избори е: Кандидатпрезидентска двойка Илияна Йотова и Кирил Вълчев - 32,2%, Кандидатпрезидентска двойка Андрей Гюров и Георги Кандев - 31,6%, Кандидатпрезидентска двойка Костадин Костадинов и Петър Волгин - 13,5%, Кандидатпрезид",
+        "date": "2026-10-25T18:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232446-spored-parvite-rezultati-ot-ekzitpola-na-market-links-za-prezidentskite-izbori",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14032958/20261025_124548.jpg"
+      },
+      {
+        "title": "Според първите резултати от екзитпола на „Тренд“ за президентските избори двойката Йотова - Вълчев е с 36,5%, Гюров – Кандев - с 32,4%",
+        "description": "Според първите резултати от екзитпола на Изследователски център „Тренд“ към 19:00 часа, представени по Нова телевизия, разпределението на гласовете за кандидатите за президент и вицепрезидент според вота за президентските избори е: Илияна Йотова - Кирил Вълчев - 36,5% Андрей Гюров - Георги Кандев - 32,4% Костадин Костадинов - Петър Волгин - 14 %, Радостин Василев - Красимир Манов - 3,4 %, Ивелин Михайлов - Юлиана Матеева - 3% Иван Христанов - Сто",
+        "date": "2026-10-25T18:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232456-spored-parvite-rezultati-ot-ekzitpola-na-trend-za-prezidentskite-izbori-dvoyka",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/661740/295007577_565100748646553_875397903032259016_n.jpg"
+      },
+      {
+        "title": "Първите резултати от екзитпола на „Алфа Рисърч” за президентските избори сочат - Йотова - Вълчев - 35,3%, Гюров - Кандев - 32,4%",
+        "description": "Според първите резултати от екзитпола на социологическата агенция „Алфа Рисърч” към 19:00 часа, представени по Българската национална телевизия (БНТ), разпределението на гласовете за кандидатите за президент и вицепрезидент на днешния вот е следното: Илияна Йотова - Кирил Вълчев - 35,3% Андрей Гюров - Георги Кандев - 32,4% Костадин Костадинов - Петър Волгин – 12,6% Радостин Василев - Красимир Манов – 4,1% Ивелин Михайлов - Юлиана Матеева – 3,5% И",
+        "date": "2026-10-25T18:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232443-parvite-rezultati-ot-ekzitpola-na-alfa-risarch-za-prezidentskite-izbori-sochat",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14032960/20261025_124829.jpg"
+      },
+      {
+        "title": "Според първите резултати от екзитпола на „Мяра“ за президентските избори Йотова-Вълчев са с 35,2% подкрепа, Гюров-Кандев с 32,2%",
+        "description": "Според първите резултати от екзитпола на социологическата агенция „Мяра“ към 19:00 ч., представени по Нова телевизия, разпределението на гласовете за кандидатите за президент и вицепрезидент е: Илияна Йотова и Кирил Вълчев - 35,2% Андрей Гюров и Георги Кандев - 32,2% Костадин Костадинов и Петър Волгин - 13,4% Радостин Василев и Красимир Манов - 3,9% Ивелин Михайлов и Юлиана Матеева - 3,3% Иван Христанов и Стоянка Черкезова - 1,6%.",
+        "date": "2026-10-25T18:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232445-spored-parvite-rezultati-ot-ekzitpola-na-myara-za-prezidentskite-izbori-yotova",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14032959/20261025_124636.jpg"
+      },
       {
         "title": "В изборния ден в Ловешка област са издадени две удостоверения за гласуване, от началото на седмицата са общо 26, съобщиха от полицията",
         "description": "В днешния изборен ден в Ловешка област са издадени две удостоверения за гласуване от сектор „Български документи за самоличност“ към Областната дирекция на МВР и от структурите му в региона. Това съобщи за БТА регионалният говорител на МВР Габриела Тодорова. От началото на седмицата те са общо 26, допълниха от полицията. Удостоверения за гласуване можеха да получат граждани без валидни документи за самоличност, подали вече заявление за нова лична",
@@ -11,12 +43,20 @@
         "image": "https://www.bta.bg/upload/12055201/4.jpg"
       },
       {
-        "title": "Първи данни от вота от екзитполовете: Йотова - 35,3%, Гюров - 32,4 сто",
+        "title": "Първи данни от екзитполовете: Йотова - между 32,2 и 35,3%, Гюров - между 31,6 и 32,4%",
         "description": "Избирателната активност към 19 часа е 22.3 процента, според социолозите от \"Алфа Рисърч\"",
         "date": "2026-10-25T17:36:57+00:00",
         "link": "https://dnes.dir.bg/politika/parvi-danni-ot-vota-ot-ekzitpolovete-jotova-35-3-gyurov-32-4-sto",
         "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/25/3040385/384x216.jpg?_=1792950777"
+        "image": "https://static.dir.bg/uploads/images/2026/10/25/3040398/384x216.jpg?_=1792954085"
+      },
+      {
+        "title": "Първи резултати от първия тур на президентските избори: Илияна Йотова е с най-висока подкрепа, втори е Андрей Гюров - bTV Новините",
+        "description": "",
+        "date": "2026-10-25T17:34:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQk9FdHdaQlFobHN0dExENFRjeDRrcG5ObW1oUE1FaURVS291UXBoWTltRWZjQXZpSG5kSF9KdmVJbW9XOFIyMXczajlWMGxyV0ljZHJ3OWJRR2NRMzh0SUxUM2xlSjgxb3RFbHdiaTRoVHJjX3haOTZvSm03S1RDdmVTUjROWXZwNlUya3VONVEzX0FGekU3Y0ZvM0dTd3dIQ0MzOHM4N2pmN0tQOHQ5S05YYk1UYWl5Tk10SnZrclJCNjYwZlp2eVRjRGVUc1NwOHRlYVlrUUd4bFR4LWt1ak1DZy1ndnFT?oc=5",
+        "source": "bTV Новините",
+        "image": null
       },
       {
         "title": "Русия удари с дронове нови два кораба в Черно море",
@@ -51,6 +91,14 @@
         "image": "https://www.bta.bg/upload/14033243/MIN_8933.jpeg"
       },
       {
+        "title": "Кремъл ескалира \"междузвездните войни\" със Запада: Руски спътник направи опасна маневра - Dnes.bg",
+        "description": "",
+        "date": "2026-10-25T16:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjRMTXFoY2I0N0c2RkpCRFd3WjRZSjZ6TFJlMTRIRDN5XzBzVkFPYWd2dml3c1FIRmVPbGN3WHd4STlzTlNQVjhzYS1KTTJuaWFUMGZycjk3clg2NTJMRWhMWWk4LUdYODU2S0dHY1lKRHp5TTQ3RkFzWjJ0eFBFVVNBRlVQR3gyVTZpSk9lQnBMaUt1VkFrb0lPZHh5d2FDcEZpT1V4OHg0dFV4RDdCbFBweHZlb210clZRYkZfVXU3TnNYNGc?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
         "title": "Почина проф. Александър Джеров",
         "description": "Изтъкнатият юрист, конституционалист и политик си отиде на 97 години",
         "date": "2026-10-25T16:46:40+00:00",
@@ -61,7 +109,7 @@
       {
         "title": "ЦИК: 16,04% е избирателната активност към 16.00 ч. - БНТ Новини",
         "description": "",
-        "date": "2026-10-25T16:41:15+00:00",
+        "date": "2026-10-25T16:42:24+00:00",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEVTRm12d0c4dXYtNGFUUEhpYkpoX2RMUE11RzU3MHc5OGJHRlhXTWhudm9ndVMxWXQyQ1RwbXJhTE4yd1d3dlEzVGRVOGV0TmhtellmRm1BRFh1R0ZXcXdCbGpERjBFM2g1aWxMNTRxb3lDRldhOWZBRGdCWHdyejZIWHMzNGI5eHJPQXFPZWQ?oc=5",
         "source": "БНТ Новини",
         "image": null
@@ -99,10 +147,10 @@
         "image": "https://static.dir.bg/uploads/images/2026/04/19/2974092/384x216.jpg?_=1776583835"
       },
       {
-        "title": "Избирателната активност в страната към 16:00 е 16,04 %, най-висока е в 23 избирателен район в София - 25,09 %, а най-ниска в Кърджали – 6,77 %",
-        "description": "Избирателната активност към 16:00 ч. в страната е 16,04 %, съобщи говорителят на Централната избирателна комисия (ЦИК) Стоянка Балова на третия брифинг пред журналисти във връзка с днешните избори за президент и вицепрезидент. Най-висока е активността в 23 избирателен район – София - 25,09 %, а най-ниска в област - Кърджали – 6,77 %. Избирателната активност по области: Благоевград - 14,15 % Бургас - 15,0 % Варна - 17,93 % Велико Търново - 16,96 %",
+        "title": "Избирателната активност в страната към 16:00 е 16,04%, най-висока е в 23-ти избирателен район в София, а най-ниска в Кърджали",
+        "description": "Избирателната активност към 16:00 ч. в страната е 16,04 %, съобщи говорителят на Централната избирателна комисия (ЦИК) Стоянка Балова на третия брифинг пред журналисти във връзка с днешните избори за президент и вицепрезидент. Най-висока е активността в 23 избирателен район (ИР) – София, а най-ниска е в Кърджали. Избирателната активност по избирателни райони: Благоевград - 14,15 % Бургас - 15,0 % Варна - 17,93 % Велико Търново - 16,96 % Видин - 1",
         "date": "2026-10-25T16:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1232381-izbiratelnata-aktivnost-v-stranata-kam-16-00-e-16-04-nay-visoka-e-v-23-izbira",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232381-izbiratelnata-aktivnost-v-stranata-kam-16-00-e-16-04-nay-visoka-e-v-23-ti-izbi",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14033469/Izbiratelna-Aktivnost-2026-16h-map.jpg"
       },
@@ -153,57 +201,17 @@
         "link": "https://www.bta.bg/bg/news/1232412-normalno-proticha-izborniyat-protses-v-stara-zagora-saobshti-predsedatelyat-na-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14032883/IMG_5399.JPG"
-      },
-      {
-        "title": "Затруднено е движението по пътя Мездра – Ботевград заради пътен инцидент",
-        "description": "Катастрофа между бус и лека кола е причина за затрудненото движение по път I-1 Мездра – Ботевград, в района на Лютидол, съобщиха за БТА от Областната дирекция на МВР-Враца. При инцидента няма тежко пострадали. Движението се пропуска в едната лента. За пътния инцидент съобщиха и от Агенция „Пътна инфраструктура“ на сайта си.",
-        "date": "2026-10-25T15:29:51+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1232415-zatrudneno-e-dvizhenieto-po-patya-mezdra-botevgrad-zaradi-paten-intsident",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13738148/20260805_103156.jpg"
-      },
-      {
-        "title": "В избирателната секция в областната болница в Търговище са гласували вече 33 пациенти, 14 от тях са вписани допълнително",
-        "description": "В избирателната секция в Многопрофилната болница за активно лечение (МБАЛ) в Търговище са гласували вече 33 пациенти, 14 от тях са вписани допълнително в списъка, съобщиха от общинската администрация във връзка с изборите за президент и вицепрезидент на България. Всички 15 души, заявили желание да гласуват в подвижната избирателна секция в общината, също са упражнили правото си на вот. Към 16:00 часа избирателната активност в община Търговище е 1",
-        "date": "2026-10-25T15:28:29+00:00",
-        "link": "https://www.bta.bg/bg/news/1232413-v-izbiratelnata-sektsiya-v-oblastnata-bolnitsa-v-targovishte-sa-glasuvali-veche-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032071/20261025_101742.jpg"
-      },
-      {
-        "title": "РИК - Перник провери и отхвърли като неоснователни три сигнала, свързани с машинното гласуване и тайната на вота",
-        "description": "Районната избирателна комисия (РИК) в Перник провери и отхвърли като неоснователни три сигнала, свързани с машинното гласуване и тайната на вота. Това съобщи за БТА председателят на комисията Христо Петров. Единият сигнал е за липсващи странични капаци на машина за гласуване в секцията в пернишкото село Богданов дол. Петров обясни, че в осем области на страната са доставени машини без такива капаци, като вместо тях са осигурени картонени паравани",
-        "date": "2026-10-25T15:28:12+00:00",
-        "link": "https://www.bta.bg/bg/news/1232403-rik-pernik-proveri-i-othvarli-kato-neosnovatelni-tri-signala-svarzani-s-mashi",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032896/20261016_102430.jpg"
-      },
-      {
-        "title": "Избирателната активност в 25-и район в София към 16:00 е 19,7%",
-        "description": "Избирателната активност към 16:00 часа в 25-и район в София е 19,7%, съобщиха за БТА от Районната избирателна комисия (РИК). Правото си на глас са упражнили 70 080 от общо 356 417 избиратели. Преустановено е гласуването с машини в две секции заради проблеми. Упражняването на вота там продължава с хартиени бюлетини, посочиха от РИК. В 25-и изборен район, към който спадат административните райони \"Банкя\", \"Връбница\", \"Илинден\", \"Красна поляна\", \"Лю",
-        "date": "2026-10-25T15:27:00+00:00",
-        "link": "https://www.bta.bg/bg/news/1232409-izbiratelnata-aktivnost-v-25-i-rayon-v-sofiya-kam-16-00-e-19-7-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14031433/MIL_5577.JPG"
-      },
-      {
-        "title": "Избирателната активност в област Сливен е 11,51% към 16:00 часа",
-        "description": "Общо 19 444 избиратели в област Сливен са упражнили правото си на глас към 16:00 часа, съобщиха от Районната избирателна комисия (РИК). Избирателната активност в областта е 11,51%. Общо 170 477 избиратели имат право на глас в областта, където са образувани 292 секционни избирателни комисии. Няма проблеми с машините, каза за БТА председателят на РИК Минко Стефанов. През деня в РИК са постъпили няколко сигнала, сред които за затруднен достъп до сли",
-        "date": "2026-10-25T15:25:35+00:00",
-        "link": "https://www.bta.bg/bg/news/1232410-izbiratelnata-aktivnost-v-oblast-sliven-e-11-51-kam-16-00-chasa",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14031653/20261025_100257.jpg"
-      },
-      {
-        "title": "Към 16:00 ч. избирателната активност в страната е 16,04%, съобщи говорителят на ЦИК Стоянка Балова",
-        "description": "Към 16:00 ч. избирателната активност за страната е 16,04 %, съобщи по време на брифинг говорителят на Централната избирателна комисия (ЦИК) Стоянка Балова във връзка с днешните избори за президент и вицепрезидент. На предходните избори за президент през 2021 г. избирателната активност по това време е била 24,12 %. Към момента най-високата избирателната активност в страната е в 23-ти избирателен район – София - 25,9 % , а най-ниска е в Кърджали – ",
-        "date": "2026-10-25T15:23:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1232430-kam-16-00-ch-izbiratelnata-aktivnost-v-stranata-e-16-04-saobshti-govoritelyat",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14033141/Izbiratelna-Aktivnost-2026-16h-2.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Новият парк \\\"Зелениград\\\" в Белоградчик посреща туристи от цял свят - Konkurent.bg",
+        "description": "",
+        "date": "2026-10-25T17:49:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhLN3pTNFU4M3JIN3FjNzlMUTdLcmNPVDdNVm5kRTV1UHF0em9PRHhFN0hFWFZ5eEMzdm9MTHhORnBfUmtWY1EzR3gzbXV0bUhXbDVua1otcjNnQjI5czhyV3V4ZkxhUXJXcS01U1ZZdGtOUDJXRTVSYngxRkNzUkNsUk5WMzNGeTR3WXFOOXVHbHBoaE5hRm52WU45TGlDT3lqR29ScHc3QmZNeG5NTkNBZ2pUUXc?oc=5",
+        "source": "Konkurent.bg",
+        "image": null
+      },
       {
         "title": "Тръмп за руския петрол: Те не го дадоха на нас, а на целия свят - Bgonair",
         "description": "",
@@ -219,14 +227,6 @@
         "link": "https://www.bta.bg/bg/news/world/1232447-zelenski-tazi-sedmitsa-rusiya-e-atakuvala-ukrayna-s-okolo-1600-upravlyaemi-bomb",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14021226/d7592559d17c44aaa2d2c9076cc362d8--1--04851b1931914d0693ba46d3ef58380f.jpg"
-      },
-      {
-        "title": "Почина бивш треньор на националния отбор по футбол - bTV Новините",
-        "description": "",
-        "date": "2026-10-25T17:18:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlZUYm8xQlB2RTJxb2RPSDdaaXhVbW5fUHhFdWgyaHZPbFFUaU4teE9zdjUxb1ZMMGN4WXBxU1RudlktbklkRXcxZGZISDlRaU1lanRSaVYwV2k3eDFoRFpadjF2TTM0RDZlV3RpN3VWdTRlNkVjOVlPY1g0MmpPWXFya1Jxb29jczg4cmZvX0dCdnBzMmJvRWhldw?oc=5",
-        "source": "bTV Новините",
-        "image": null
       },
       {
         "title": "Водачката на венецуелската опозиция Мария Корина Мачадо съобщи, че се е върнала във Венецуела",
@@ -263,7 +263,7 @@
       {
         "title": "Путин: Протестите в страните в Европа се дължат на собствените им грешки",
         "description": "Причините за протестите в европейските страни се коренят в собствените им грешки, включително в прекомерния им държавен дълг, заяви днес руският президент Владимир Путин в интервю за журналиста от телевизия \"Вести\" Павел Зарубин, предаде ТАСС. \"На какво се дължи това? На собствените им грешки, и то в различни области. В икономиката и финансите — прекомерен държавен дълг, надхвърлящ 100% от брутния вътрешен продукт. В Италия например той достига п",
-        "date": "2026-10-25T16:01:46+00:00",
+        "date": "2026-10-25T16:01:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1232407-putin-protestite-v-stranite-v-evropa-se-dalzhat-na-sobstvenite-im-greshki",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14022821/8f6e4452a7c34231a1d99d6bb8b41055--0--d6a47f9754d0453690ae131ffab27b1d.jpg"
@@ -315,6 +315,14 @@
         "link": "https://www.bta.bg/bg/news/world/1232334-rusiya-e-gotova-da-vazobnovi-tristrannite-pregovori-za-ukrayna-sled-4-noemvri-z",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13858956/be8eeeff9bae4f078197f17f6bf23b5c--0--bed23c1475f34ff4aea0b16fa8d1e53d.jpg"
+      },
+      {
+        "title": "Слаба активност и в Турция: Българските граждани гласуват за по-добър свят СНИМКИ - marica.bg",
+        "description": "",
+        "date": "2026-10-25T14:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb05UNm1KYmJFeEZTY3pUWklncTBPNlZXQUVzUU5NSjlXWlVQU0lhQmoyUWROQ0tuLUhMb25XNnp4bVFWS0djbnVTSUJzS0gya3JJNE9aYW1aMGN1TXN5aGxTT2JwWWk5R19NWmhKYmUwMTBKbmJtUGs0Y2s5X1J4ZUZzRzNrVlVFYVZ6NFlpOUhTXzcxQkxKTVRWMWtoODExUVBlbk1QRjNOWUXSAbABQVVfeXFMUGQwMjZjbmREYnoxZFRSMG02NTV6bGJjMlRXaGRvRV9qNUJZWW05UWVRc1hVTGZRSmZmYVJmMTJVMTdWSWpaSVhqakFQSWc5RFZvS3pWdlZqc2dFdm52cUNxTnBDR2VZV2Z5bzhFSnJtSUdzNDd4OW5pODMtYWNQUnplTmRYX2Zwb2t0a3R2TDZ3NjZTWmUtaUhCSVZNdUFlSndOMGotdkZZSHZUSzl2YjA?oc=5",
+        "source": "marica.bg",
+        "image": null
       },
       {
         "title": "Иран призова гражданите да намалят потреблението на газ с 10% преди зимата - Свят - manager.bg",
@@ -395,14 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1232278-izbornite-byura-v-braziliya-otvoriha-za-vtoriya-tur-na-vota-za-prezident",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14032278/2e908c0e763a41b2a1c3f4b7ef5058d3--0--f1cc628a64704dacaccaf89b8244c57d.jpg"
-      },
-      {
-        "title": "Каталунската полиция обяви, че е извършила 128 ареста по време на неразрешена демонстрация в центъра на Барселона",
-        "description": "Сто двадесет и осем души, сред които 73 непълнолетни, бяха арестувани в Барселона от снощи до тази сутрин заради прояви на вандализъм, увреждане на обществена собственост и грабежи, съобщи каталунската полиция, цитирана от Франс прес. \"В момента изготвяме официалните доклади, които ще бъдат изпратени до прокуратурата за непълнолетни, както и до съответния съд за пълнолетните\", обясни Силвия Ката, висша служителка на каталунската полиция. На видео",
-        "date": "2026-10-25T12:03:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232212-katalunskata-politsiya-obyavi-che-e-izvarshila-128-aresta-po-vreme-na-nerazresh",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13854155/e24bd3c9479a44d498e5c95f5d45537c--2--d5a1d9a8ec6f41539f9cf3a1fc45fc71.jpg"
       }
     ],
     "Наука": [
@@ -412,14 +412,6 @@
         "date": "2026-10-25T17:32:45+00:00",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzk2UmNhUHhjdk5MM2ZLbnBNTkhqUk5pNTZnMjVpWVBUb2E5X3dIR0xYZDBFd3Ric0VtMEZ5aDdsX0ZNaUl4R2V1bGxHM3pOcDVYRjlDYXhGTVc1eHZsSVNDTEN3MHBUc2FoRS1sb1pqUl9Eb3lCNVNmekNpeWo1dFRzaWJEaG15WGc?oc=5",
         "source": "Avtora",
-        "image": null
-      },
-      {
-        "title": "Роботи превзеха дансинга в Китай: 110 хуманоидни машини с рекорд в „Гинес“ - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-10-25T14:59:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1g1NFNNWjh3QVFvQVNGLS1OYUc0OEViN29kNk9fbzB6SHMwSjdFU09aY05xSGJTM3pXNGlrM3RUV251UG00Q3Y5VEJkWkVCMjJ0ZjdyaklTeWl4X3d6TkZNN0ZraGR1Sl9sYzhfOVcxd09udjNxYXlEekpLOGxCUlNfT2xfdWcwRDdPZGZuTExKMmpHLV9MY0lxYjM5QQ?oc=5",
-        "source": "Таралеж: Истината има значение",
         "image": null
       },
       {
@@ -479,6 +471,14 @@
         "image": null
       },
       {
+        "title": "Учени разгадаха квантова загадка, която озадачаваше физиците в продължение на десетилетия - Kaldata.com",
+        "description": "",
+        "date": "2026-10-23T06:13:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Z9IB0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Zw?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
         "title": "„Умно финансиране”: Защо е важно да инвестираме в наука - nova.bg",
         "description": "",
         "date": "2026-10-23T05:47:00+00:00",
@@ -487,11 +487,11 @@
         "image": null
       },
       {
-        "title": "Безопасност на екстремните граници: Как Mercedes-Benz превърна катастрофата в наука - NetNews – Новините на Ямбол",
+        "title": "Роботи, фосили и космически пътешествия на Пловдивския фестивал на науката - БНР Новини",
         "description": "",
-        "date": "2026-10-23T02:56:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQLVhaaFFhV0dIN1UxQUdiYVFWWVdnNzdYSEx0Xy1qSXZwUjJ6SURueVBoMDFlZzEzWjB2SHZIQy1jSHZEUEt2c0N1LXdSQndfNTIwWDhLYV9IODF1amxmNkcyTjlBOXE1SmNYeUk2VmNLLWdmOWdXTjYtWXRLSkVUOGlCMUxBZzA5ZVRtMmhSN2NBVm5YeS14YkgyRVdydVRwaUxwdXdKV25UWkFlaUktQlpFSnFDVk5TU2JlcklZZldnXzhsQk5aZGZJVll6NWNLcHhZeEgzakpJbmticWljMzctanpJQ2ZjeFVwZno5d0dXTmNicHkyN0N4SjdNdm5FcmUwZ21FMW8yNTBySFZJZlk4Y2ZXUV9HNTVuU29ZRk5kZVYzc2JJRDVGOU94TXB1V2dhbzRlZVBzQmhz?oc=5",
-        "source": "NetNews – Новините на Ямбол",
+        "date": "2026-10-22T13:41:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2sxNHdkWElwYWEtcVppNFJKY1RyRGJxS3JaSTU2T3VzVVg2eDk3aUwtY2VoQnBSdFdxOEVDNWR6RjBMVUt1eXZDQzlFX3F5RFpzelR4M3JvcmgwaWxlTXpYWW9OeWFWU0xUcUxNVTluYWZEWlJLOTB3cTZOVndHOWFHQndoZzg2SEVxR1pLQ3NMSUZyYS1MSUlfYlNpWDhabkt4WU41MlpmVGp6dUFfcWY0aw?oc=5",
+        "source": "БНР Новини",
         "image": null
       },
       {
@@ -500,6 +500,30 @@
         "date": "2026-10-22T12:50:18+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU9FWFZtYmR0Sl9tY05yLV9wdXFuSlE1RGpySUZ3a2RJQTM2eWRxaktqRVZlRU1aN0JMaXl0WjdCTm8tRnpaYzU4MXI2bEdsVmhadG5BRnpQYjZINlhodDlvT19hNFBiQjhleGhndGVWbDQwV05LVUpEbDZaUUtXUnBjRlVYLVNtOGk5U2Rtd3kyU1g2R2UwNEQzZXR3d2FJVWdSTGNtbFd1UQ?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Образованието трябва да е възвисено над партийното, каза председателят на парламентарната Комисия по образование и наука Димитър Здравков - Делник БГ",
+        "description": "",
+        "date": "2026-10-22T11:28:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUWJqa0lxbThtM3RKclBwMThJem0zTW9BQW9JQ3RBbUYzeWFSbm1OSFlnellTMnNieE9DMmFyRnprSVBTUXJqYW1qMVJ6ZElHQUNZX1IwYXBiclZhbTJ5RHpRUE01R0ZSQmJXVnNUN1hkQVAzdk5iV0VNNkVVX1BVQUpFQ2xlakw3d3k4U2VRSnMtdkMySlJwYUJ1TWJkMkE3S01zTnVtM2VPejNBbE00Nnk5QlgwWW10a0VvcEMzMTZ4UzFhX1N6czN4b2FIbUdGYURmejhDZEE2YzZMV1JDb0dUbmhoRHFiVmlsSFJuSWVxYURWWUxiQktkaW5JZFR0WmtUSENwMnJLLTdtNUxmTDdXM0JUUG50NC1RbFNJTzMxS1FzWUJ0Z0hpZkc4ZmJMV1BqTlVUWkd4SjVlTVNPREIwWGpPd3BSTHVBLUdzMzlaQQ?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
+        "title": "Започна IV Пловдивски фестивал на науката, предстоят четири дни с демонстрации и експерименти - MediaBricks",
+        "description": "",
+        "date": "2026-10-22T09:32:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2xJUDZIMHYxbWwxMlpVeDlRQnBtWEFVZGJTampvYTF6eG84a19faGFNb0Z1eDlfSmRxaWUtX3d2RnpxNTBXWnd2aklXbHl0clNUMkYzNnRFUFJRYWluSlM4TGtFRnMtbkRBUkpWZndLbTR2S2p4VVh1bk9lNnhVSHhDbGNINHVSUnY2VUdwZFBPSHBzaHNGbno1OWJrVW1CNGRtb3JwWXY1aEZNUEFGOXBBVEkxcXNVWHZaVw?oc=5",
+        "source": "MediaBricks",
+        "image": null
+      },
+      {
+        "title": "Науката на популярен език превзема Пловдив за четири дни - marica.bg",
+        "description": "",
+        "date": "2026-10-22T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGd5M2xwSXRfaXFoQVhWemFoNmRyOG9YcWxsWXgtTWxWSHRGajA4SFFFZEo2UWp6eE9HVGJUTlFkVlo2N2lDeDZiRlFVU2NjSFhwS3pOQW9kbS0xVUlaR3FFbGFPbTNTeVlUYl9DTTVCTHhrMDBmV3lELVBvSnZaWTMwd3NmNmRjZ3lhdnpRaXY4dHVhRjgtQzl30gGfAUFVX3lxTE5kUnJiRmVLQWtZWTJka1FsRkwtbDFzWFdHWElCWDBVNXBhNUlLVnRqTWV2UUd6ajBzRFNJM3VMLUEwX2c0dVUxbHhQSFVfd1A3TGpxR0M0RkNGNlN5RmN4X1NpYXllYjluajNQbS1mWUp0RnUxMVZENENxUFpkOWhaWFl4QlNlZDBxUWttYTd5VFE3YWI4Zmhtd05zYzZGTQ?oc=5",
+        "source": "marica.bg",
         "image": null
       }
     ],
@@ -795,14 +819,6 @@
         "image": null
       },
       {
-        "title": "Зам.-министър Левент Мемиш: България има потенциал да се утвърди като база за производство и иновации в автомобилната индустрия - 3e-news",
-        "description": "",
-        "date": "2026-10-23T09:56:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSThkM2ZVLVdCV1duR1NCVkJ3Z2N1TldFNmtISXJTTmZWVnhWVHBUVmhYMGtsM0FPMWIwWFI5Z3NrNlJsb2JqbzhlTlVCRGRhdXY5NjRJUXFVdG5MV3IyNWdIckFVSFpEcGJpbHBtbUZvdDZ2ZXZ1OUpMbE1NcEZLZVNDOGdPLTQ3YlRJUjZ2MkFlekdnZlFRX0pzV2liMVJHbzlCckQ0aU9EMHZDUDdHSFAyT0Q0WmNxQjVXMVppZFYzZlFvZUpPS3VBa2x4eUpWdUx0NjFLWHlhdWdzb200V0JsRFY5VlNocjJuaHladHowWEJVTkQ0?oc=5",
-        "source": "3e-news",
-        "image": null
-      },
-      {
         "title": "Asia Motor Show 2026 отвори врати в София: Азиатската автомобилна инвазия и новите технологии на едно място - Mobile Bulgaria",
         "description": "",
         "date": "2026-10-23T09:14:56+00:00",
@@ -905,6 +921,14 @@
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIYnVCUndqaUZHSVpZLUt4ZTBBcUlmSWF3d3VFUG9acG40X0ZQTUtSWUtpck4wUXlRWWhINjRwc0lXX09ydlo0WWVKQzlSYmJ6RDVZMEljenFnVm5DQkctc1JmMmFwRVRxU0UzVVVhYW9BZ1ZWQ1hKTEZtbzc?oc=5",
         "source": "Clinica.bg",
         "image": null
+      },
+      {
+        "title": "България развива технологии за сигурност и отбрана чрез мрежата на НАТО DIANA - Epoch Times Bulgaria",
+        "description": "",
+        "date": "2026-10-22T06:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjNHN1RGM2czOXZsZ04zUHYwWnNNSVV4RTgzQUFwVzc3MWZCX1A4QTNENVlmUURiQlV4Rzl4NklKRU5sbVFrN1VPMFFGX1E1QVctdTdZMnRCS29SVEdBYzFvdVNCN0c5cDh3cG9CWDNLX3ZBMkRNZFZ0dUhPdXJ4b3NJZVQxd2RqV3BJSWFuOGM3SVFBVjlYal85b1A4dnZYM1AzSmZ3?oc=5",
+        "source": "Epoch Times Bulgaria",
+        "image": null
       }
     ]
   },
@@ -921,7 +945,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 12,
+      "count": 15,
       "feeds": 1
     },
     "Образование": {
