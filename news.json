@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:00:10.585722+00:00",
+  "generatedAt": "2026-10-25T00:52:05.555423+00:00",
   "categories": {
     "България": [
       {
@@ -205,6 +205,14 @@
     ],
     "Свят": [
       {
+        "title": "Летището в Рияд обяви, че възобновява дейността си, но йеменските хуси предупредиха авиокомпаниите и пътниците да не го използват",
+        "description": "Международното летище „Крал Халид“ в столицата на Саудитска Арабия Рияд обяви, че от днес определя два от терминалите си за обслужване на вътрешни и на международни полети от национални авиопревозвачи, след като по-рано този месец прекрати полетите заради нападенията от страна на йеменските бунтовници хуси, съобщи Ройтерс. В съобщението се казва, че Терминал 1 на летището ще обслужва вътрешните полети, а Терминал 2 – международните. Работата на л",
+        "date": "2026-10-25T01:23:57+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231981-letishteto-v-riyad-obyavi-che-vazobnovyava-deynostta-si-no-yemenskite-husi-pre",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11823745/V_SH2701.jpg"
+      },
+      {
         "title": "Сто души са арестувани по време безредици в Барселона",
         "description": "Общо сто души за били арестувани в Барселона в събота, след като участници в антисистемна демонстрация са разграбили магазини и са подпалили публична собственост около централния площад „Каталуня“, съобщи Ройтерс. Министърът на вътрешните работи на испанския регион Каталония Нурия Парлон съобщи, че около 25 процента от задържаните са непълнолетни. Той допълни, че са били причинени над 30 пожара, а 14 магазина са били вандализирани в района, който",
         "date": "2026-10-24T23:03:38+00:00",
@@ -381,14 +389,6 @@
         "image": "https://www.bta.bg/upload/14026379/8cba36ce6b1d4a03999200ed1b0834cb--0--b73693f50b8f4fddacf0fd865875c540.jpg"
       },
       {
-        "title": "Част от потребителите в Крим и контролираните от Русия райони в Украйна са без ток в резултат на украински атаки",
-        "description": "Украински удари прекъснаха днес електроснабдяването в части от Крим и контролираните от Русия райони на Източна и Южна Украйна, предаде Ройтерс, като се позова на руското министерство на енергетиката. Част от потребителите в Крим, Херсонска и Запорожка област, както и в Донецката и Луганската народни републики (ДНР и ЛНР), останаха без електричество вследствие на външно въздействие върху обекти от енергийната инфраструктура, съобщи министерството",
-        "date": "2026-10-24T15:04:29+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231867-chast-ot-potrebitelite-v-krim-i-kontroliranite-ot-rusiya-rayoni-v-ukrayna-sa-bez",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13701454/1864d5cd65c840e48051fb14a80cfe66--0--b1ece804d7aa49469979272249e5062e.jpg"
-      },
-      {
         "title": "Израелската армия прогони над 1200 палестинци от Хеброн след смъртоносна атака - Свят - manager.bg",
         "description": "",
         "date": "2026-10-24T13:48:16+00:00",
@@ -553,6 +553,14 @@
         "image": null
       },
       {
+        "title": "Ученици от СУ \"Иван Вазов\" вдъхновяват бъдещи здравни професионалисти - БНР Новини",
+        "description": "",
+        "date": "2026-10-24T14:10:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWxDOUFzeldmOE5GaEhyTl9RNVhDY0phOHVjeGFibDhyRUg3Y0UtR0djUFYtdHlfOHRHWDdvczRjeDNBTWxuSlhtdWlESW03TTRDVnhfZDg4M3l1U3UxN0dvWnR1Wk5NNXNxZng1NjlQc2FwUWloYlZNd3I5dUJIdk5GeUpOcE9XdGVQcVozRm5vbWV0LXllZEtWeHpNb181bEo5a2YtZ2FvYW1yQWJz?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
         "title": "Проф. Сергей Игнатов: Ако образованието ни излиза скъпо, колко по-скъпо излиза простотията? - БГНЕС",
         "description": "",
         "date": "2026-10-24T12:11:54+00:00",
@@ -601,6 +609,14 @@
         "image": null
       },
       {
+        "title": "Деветокласници от Враца учиха за екологичното равновесие чрез интерактивен урок - Konkurent.bg",
+        "description": "",
+        "date": "2026-10-24T07:45:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkp2VXF4MFlFeXFOamV2Q1NjYlVMZ3AwRVR1LXNSSm1VbzI2Q0VQNTd4RlVySl93UzNOTGtRc01zWTJIMnFzcVU0MXZIWF9LN3dtSER3WFljZmkyc0ZtYVBjclBiWEN1V19SUldzVmFsek5sUzMyY2djUzUtVDFWOEpaWlFnNjlGbmVfNTcwOEJwbFJ3WXU5VWV5TzBEcUNvTlRXcURwQlZvMXRlUnJsUFlkLUdXN1JBVllMNlFJLW1ZQ2prdnVoMQ?oc=5",
+        "source": "Konkurent.bg",
+        "image": null
+      },
+      {
         "title": "Търсят се директори на две детски градини в Симеоновград - Haskovo Live",
         "description": "",
         "date": "2026-10-24T06:46:04+00:00",
@@ -614,6 +630,14 @@
         "date": "2026-10-24T06:05:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnpJeTBzOGdiWGFRM1hWYmlBT1JyV2tlVkFiSWRuQ09BeXBzRDV6ZUw0LWNRcHpRN2VYVzY4U2djZ1U5LVVmVk81QmJPQ0dtQTJJdkFuYmtacGlkR2tZeVhYYk50RnB3aFZvSTB5Y29wOWZGXzdTZjhhZXBIbTR4bHltLXZGS1VEVDMyb0lJZ1NzeW1qMmNhbjJhN09BSzUxRzdtWkZ6SmhEX0w5czcwU3lGZHpWSnRXcVJ2bHNMTWpFNkUxbnZuQ1l3?oc=5",
         "source": "Свободна точка",
+        "image": null
+      },
+      {
+        "title": "Научният потенциал на филиала в гр. Тараклия се заяви на 65-та международна конференция на Русенския университет „Ангел Кънчев“ - Rousse.Info",
+        "description": "",
+        "date": "2026-10-23T21:21:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNGJPejdXVG9FcF9XU2VVSW1tWGRpbEdLMjFvS3lZQ3pxV2QtS1pzNEZxaXc1Q1FsMFFacmRaamZWbzNCbGZhMExtSmw0ck5kdDlfNV9rQUFLa2ZoOUpkY3NJV1lob21zUTBzT0M0U0Z0RFZXQzd6WUlKalpVZUtRa2VNT01SbFU1czNRZHlSRUJaNXpJR0RubXM1Um5zMDJwQXhVbUprVmp2Y2dTUUlSZnRFWEtHTjRvcDFGTDVrbmlEVUQ1NlJFSXNvTWxqdGtNZ3ZDU2RmR1ktU19Ma0tqUDdhdWtKNThpTUdv?oc=5",
+        "source": "Rousse.Info",
         "image": null
       },
       {
@@ -633,6 +657,22 @@
         "image": null
       },
       {
+        "title": "Какво разплака актрисата Гергана Стоянова след посещението й в училище в плевенското село Божурица? - Pleven info",
+        "description": "",
+        "date": "2026-10-23T19:30:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUhLcG1uSktwWkxWQlpEb3VaTTdmcmoteGtPWGw5dTlUcmNSblRVcXF4eGNDYWhLc1RaV2xERk9FVEJIY200cWpGTmtfVFg5ai1lRXhhMHhYejBOY2RUT21Zd1JRVm1VZzFrTllpcnY4MVYyOUtpNVEzWjhmNUJKVXJLS0ZXc3lOUkFXeHpIN0lQcFozQ2V3U1prUGR6M29nN3hWelBPcGlVUXA3QXJxTjhsMUR0eG0tNVFBWQ?oc=5",
+        "source": "Pleven info",
+        "image": null
+      },
+      {
+        "title": "\"Детска усмивка\" събра ученици от две училища в Тутракан - Кворум Силистра",
+        "description": "",
+        "date": "2026-10-23T18:00:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yd3ZqbkF0QV8yM3ZkallybVBFNFNUS0lnb1lPVDhOY2w0UEh0NDJGakx6OXdnc3pCakFrQjdpeWtsaTB0NVRITjRKcDh5cjFQWGNNLV9n?oc=5",
+        "source": "Кворум Силистра",
+        "image": null
+      },
+      {
         "title": "Google предоставя нови 1 млн. долара на софийския институт INSAIT - Stolica.BG",
         "description": "",
         "date": "2026-10-23T17:37:00+00:00",
@@ -646,6 +686,14 @@
         "date": "2026-10-23T15:49:11+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSDNjdWFEWE5qelZGV1dvbjZXUlFoMHdidFJ5RUY3RWpkTTdaaGNBdmRLd001QzNSUXpVcVVMX3Z4T2cyLWpCWjRYZklnLTJuN1MwWnZ3?oc=5",
         "source": "Кворум Силистра",
+        "image": null
+      },
+      {
+        "title": "Ученици от десет професионални гимназии в страната се състезаваха в мебелното проектиране и дизайна - БТА",
+        "description": "",
+        "date": "2026-10-23T15:45:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUhmaHR6bUkyQkh0RVhiNF9NZXA4WURVaFdvQVV6TjlRd0JhTXVMbU5nMWxWU1pQdGM5M2hISjhJV3pYTmpJOEc0MFh0MDZaNW9DaC1YcHRocjBDbk9sdmlaeFltTkktOGE0WmY3aXgxRTB1dDRsbklIdWV3b2xVbEczdElac0N0VWItdmV3ZHdUTGEwQ1pHVThaamU2cUZDNEcwZmd4Q19nc0xIdF9DeGo0Y3hzdEozT0tF?oc=5",
+        "source": "БТА",
         "image": null
       },
       {
@@ -681,59 +729,11 @@
         "image": null
       },
       {
-        "title": "Десет бивши министри на образованието се обявиха срещу предложения един учебник от Радев - Dnevnik.bg",
+        "title": "В Математическия факултет на ВТУ обсъдиха съвременните тенденции в образованието - RegNews.NET",
         "description": "",
-        "date": "2026-10-23T12:09:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDktdEFOOGxiRWFpT1owWklIb2R5MzNyX1M2M3hvbUhoWWpPRFdScHRHVjFNM3VrZjFhVVNZdjJrM2tkTklSR05ZYTMyY1N5eTUwWU9OdU94c19XaS1IcVhwR0lIYTFzVXhqWHFwbWxBVFFER3hZQlR1aXR1a3VScldFRWlORFYtc3I3aHp0UGR2eGNQcDk0WVVnZG9sWDBPd1J4bQ?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
-      },
-      {
-        "title": "Данни за образователните институции в системата на предучилищното и училищното образование - Министерство на образованието и науката",
-        "description": "",
-        "date": "2026-10-23T11:36:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNlBWUHFHdXFhLVpBMHdqLTZFM0FycUlLZ0x4V01PZHpiV3BFbU8tdUMwX2NnY3N2Tlk5YmdrNVZiNTE0VkoxcENoeGstWHdJTHdpdXhrWmdCSjQ5cE5rbUpXMjZOQnd6ZGRLUktSalZRUFQ4OHFoTzRVVmo0WFlJYVU4Smdnb1BYZHA4NzM3NDY5SFNrVG5yQnlVRGJ4T2NqYUlhcGlJZi0tUzNqdER3dE5BUEVaRmNwMTdWeUpweHc5ZmdBV1ZaQ2FaMFRXZ3RMUXF5ZUxfN0RwMi15R2NxTFIwWHJHQWl6ZzdkMWlPb3Q?oc=5",
-        "source": "Министерство на образованието и науката",
-        "image": null
-      },
-      {
-        "title": "Десет бивши просветни министри против въвеждането на един учебник по предмет - News.bg",
-        "description": "",
-        "date": "2026-10-23T11:15:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlBjTUprbFZRQ1ktWktMZEg3SnNKbmptcmZYYnpRMzJBeGNDOWc3a3RGNjlpQUdPWGpZcHNxTjNqYVlweS1lYk94VVZmcHFadURYY2dmMU9RN2NmbFZEdkx3X3h0WWRRMG9iX05HZWJ3T0tWMGJJMmdQaUVJZzVwamxmRXFwUndCVENTQ3BsbHNCc3paMW9kbWJha184X25KWV9RNUNyeTd3MkhuT1JV?oc=5",
-        "source": "News.bg",
-        "image": null
-      },
-      {
-        "title": "Есенна феерия и вълшебства събраха деца, родители и учители в ОУ „Васил Левски“ в с. Орешак - Троян експрес",
-        "description": "",
-        "date": "2026-10-23T10:35:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EWkh2UE1tNVA3Z1NBZ2lsRHZRT21YTDRldk1fYW9XVFBlUTUzOEgtNnlwTjcxZUlsQTlZT3hUWU5IczhzZDd1Z280UHRaVVZqeUlsYlAwN2pLTFFRU1otZTVYbmZ3VjB0c002YTBNZXpQLVhWdjJ5TGNtYVk?oc=5",
-        "source": "Троян експрес",
-        "image": null
-      },
-      {
-        "title": "\"Зелена светлина\": българските лекари ще могат да практикуват в САЩ при едно условие - Dnevnik.bg",
-        "description": "",
-        "date": "2026-10-23T10:20:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1cwbkV3ZWpkOGhheTFTRVllOTBYWFZibTdqSEppVE9KOUR0Q0I0TUl3a01Dam1sQVpsWTJYYzZJMk1KZ3l2Mzd1akE1endoVVB2N3JOLUphbklqRTg4d0UtN3BYX3N4UWEyeEFWakdNbkRMNktMamNlNUNNYVBUMk9nOXI0NlNLTEhXcTAzNmdzZENBc09TbzlwUnFqSTU0YkFXcTB3?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
-      },
-      {
-        "title": "Започна 51-ата Национална конференция на учителите по химия с международно участие - MediaBricks",
-        "description": "",
-        "date": "2026-10-23T09:30:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTY2cDVnWkxkeHJvUldHdHhacWJQY05LRC1pZUUwZmdwN1hoS25xZ3ZBeHFBU2dnZHhDZXphcmUwTi0zaW51RGllZlYwWVBaUS1PUzBQd3VXWWdZTHo3OUpGTWx2WE5vT2dCNUYtQ2N4RTJiY3g2NHB1ZG9ETFlrdF9EQXpfZ3BselNlTTlFN3JYVnlPZENLX2RDU2w0TXF1dGNSckliRkdLYnNaZWRVaXMyaDc?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Протес и във Виена срещу съкращенията на разходите за образование - News.bg",
-        "description": "",
-        "date": "2026-10-23T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
-        "source": "News.bg",
+        "date": "2026-10-23T12:23:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVW52UmJMX0RWZHhwNkJ4TzE4UG94NHh6V3hOZ3pzb3RMRXNlQlkxVFlJTmlOTGVPTnB6UWg0aDBnN0hxeHFWRkQ1cUZXMXhma1dhY05wNkJCZ3pUQUhRMG1SX3NZcEZ5Sjg3VlpKXzY5NTBxUENEeU9NNVplY2RtMUMxM1lPbHNHTlFmSnBRXzhBYnY0WUpzT2VMUHhnVFo4d3BXT20yejVRMzVIQnd5RlJsdGxCQU5pdTA3ZHAwOGt3WlctZ2c?oc=5",
+        "source": "RegNews.NET",
         "image": null
       }
     ],
@@ -824,14 +824,6 @@
         "date": "2026-10-23T12:07:34+00:00",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlMxa0hmcl93ZHQ5WlBYU2x1aFZfSnR5ZWJoYU8xMXVtVVZuUVoxWnpxWFRSc3NSYnhkZnFBa2EtdjJMQmZqRlhCcDRoYnMyX0ZYb2ZnLXJqeF84WlplSGNXaFdQS25MYkExTmZCS0xScm9fcWZKRWNpUm9zWk1LbjNCTlN1cENxZmhBaXZYRV9sUFIwdkxEUFFBYjVXSEhhdmc?oc=5",
         "source": "3e-news",
-        "image": null
-      },
-      {
-        "title": "Технологиите зад растежа: „Главболгарстрой“ срещна GFCC с водещи техкомпании и научни центрове - Investor.bg",
-        "description": "",
-        "date": "2026-10-23T10:52:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcTNfTGRKdkRaclFYcHFac1F1MkpvdlBTQ3VFMFA4TVdaRE1JZ0tGOHVGNHJZZEo4Q2t5LUpRelZ5YWhwdHczbmlOSmZ2OVNsOFNzeTZQZm4xUDJSYndUbUZYazZlR2dtaU5rQWdWOUlCeXZVLWRibTBJRHA5eUlJWkhucHpDOW9oRnVuYThnMGdva3NfOUlCd1FkMk42OV9JMlBmU1ZaNzhKOUwwZFZEYkFkTXBsb3BHYVlOa0NaNkJiY01YbVY1b3oyTGNBT1NNTDNvQnZaSTBGbnpDLUdWejR3SnZkSzA?oc=5",
-        "source": "Investor.bg",
         "image": null
       },
       {
@@ -936,6 +928,14 @@
         "date": "2026-10-22T14:30:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPejRVdlFNZkpZcUlWdWhwczkzS29yRjRoUzB2NDN6LXRwdlltTHIxUUVYVDAyOUhpelFLTnpLSjdxcXA3cTZ4dWE2bHpRdmJmdktDWUNoUmJCNGFBdUZUMDdySXhDNzJWUVZYT1F0NkctTE9lTHZDYURpWlBPakVRVmtDMTRsaE5MMmFxSTJWc2c5VEdtM1dIU00tMFhXdjVSaFpnWDlCajVjdzVsMHZfazZ6MHpwNF92cWZlVWFCcTJWTHVfOGhJdmtfQmo5SHhKVXVSNGdCUFZ1X3hmTXItLTBFSjdNVVd4bGNJUnNNZFg4WjhKUnM3dQ?oc=5",
         "source": "Dir.bg",
+        "image": null
+      },
+      {
+        "title": "Роботите също имат нужда от инженери - Технологии - manager.bg",
+        "description": "",
+        "date": "2026-10-22T14:25:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjFGQ1dvbDdFY1RWckNmUFhhZ2dBaUMxSk1sVG82RzJSZGlxRzAxQmtMa2l3Z2RLVVM1Y2luRnRpN0JVMXhGZEo2cVRpM3NzdGc0QURiWHhMalZBbXM5clhPdW9sajJwSHF6TFVZdVQxTDd6VXhtdlFyRGsxMHI4VGR3ay1HVXY2cnBJTUNmcTUzekVkaXVVcWtUdXVXcERxdDB0aW1oY09kYXlxZ0JwTERNNnRockhj?oc=5",
+        "source": "manager.bg",
         "image": null
       }
     ]
