@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T02:11:02.724871+00:00",
+  "generatedAt": "2026-10-25T02:43:21.857392+00:00",
   "categories": {
     "България": [
       {
@@ -25,6 +25,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1231977-izborat-za-chlenove-na-vss-ot-kvotata-na-prokurorite-otiva-na-balotazh",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/9990494/1000083650-01.jpeg"
+      },
+      {
+        "title": "Прокурорите не избраха хората си във ВСС от първия опит - Mediapool.bg",
+        "description": "",
+        "date": "2026-10-24T21:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRk0wbmpJbnBNcGJlZklSR0p2ZGJLUU1hOTFpZFpYRXBvYk1NTEF5eGppUWdsZnFQWmNOaDQ4NlVMQ2NYZF9oN3VneTkybTdUR2FpRTU0cW41ZFRwYVFCbFNsYWtlLTh3U1gzWkd2Vlpvblp1QlpOdDgtbDR2WXNsRS1qUUE5RHB3OVlxcExKYUMxSm1kcVE?oc=5",
+        "source": "Mediapool.bg",
+        "image": null
       },
       {
         "title": "Илон Мъск: Военните на Украйна нарушиха условията и използваха \"Старлинк\" за убийства",
@@ -89,14 +97,6 @@
         "link": "https://dnes.dir.bg/intsidenti/mashinist-e-zaginal-pri-intsidenta-s-lokomotiv-na-tsentralna-gara-v-sofiya",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/20/3038282/384x216.jpg?_=1792496867"
-      },
-      {
-        "title": "Над 400 000 души излязоха на протести днес във Франция - Dnes.bg",
-        "description": "",
-        "date": "2026-10-24T18:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjJIMU42eE1xcjJaQTdwYmpkZ2UxLUwzdnR3Nkcyck1CR0dIcVBmTXUzYVJCWXlfOVBxWkZ4c21DdFNUNkVsQV9sRUgtejlOci1QWHoxV1cyWlFxYzZoQXBpZVI4dk1sVm5qWFV3bFpYOU5GVXczNWVUMGhLWE9uOEpsb3Rzbm9BUVU5WVVDcTdoVlNuZXk3MGJ4NA?oc=5",
-        "source": "Dnes.bg",
-        "image": null
       },
       {
         "title": "След над 8 години чакане Тотнъм най-сетне ликува на \"Стамфорд Бридж\" - Dir.bg",
@@ -204,6 +204,14 @@
       }
     ],
     "Свят": [
+      {
+        "title": "Новото летище в Сидни от днес започна да обслужва пътници",
+        "description": "Новото летище в най-големия австралийски град Сидни днес започна да обслужва пътнически полети, съобщи Ройтерс. Премиерът на Австралия Антъни Албанезе определи събитието като важен момент в развитието на града и каза: „За първи път от над 50 години Австралия открива голямо ново летище“. Проектът е на стойност 5,6 млрд. австралийски долара (около 3,5 млрд. евро). Летището, наречено „Уестърн Сидни“, е разположено в Баджерис Крийк на около 60 км от ",
+        "date": "2026-10-25T02:11:27+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1231982-novoto-letishte-v-sidni-ot-dnes-zapochna-da-obsluzhva-patnitsi",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/1146774/2a7c042cbce446ee9793a40ee74c33dc--0--6f2ac062f20b4aeba52a2d5f2ef59b6e.jpg"
+      },
       {
         "title": "Няколкостотин души излязоха на протест в Лайпциг срещу плановете на американска отбранителна компания да започне дейност в германския град",
         "description": "Няколкостотин души излязоха в събота на протест в източния германски град Лайпциг срещу плановете на американската отбранителна компания „Ковънант“ (Covenant) да започне дейност в северната част на града, предаде ДПА. Полицията, която оцени броя на участниците на около 400 души, осигури охраната на шествието, проведено под проливен дъжд. Репортер на ДПА отбеляза, че сред протестиращите преобладавали млади хора, които носели плакати, символи на ле",
@@ -389,14 +397,6 @@
         "image": "https://www.bta.bg/upload/14026085/44c840c3f9a9e93cf82c80a73a536155--1--e2ddab428f4341e195764719fc58cb84.jpg"
       },
       {
-        "title": "Палестинската автономна власт призова международната общност да се намеси в отговор на израелската операция в района на Хеброн",
-        "description": "Палестинската автономна власт призовава международната общност да се намеси в отговор на действията на израелските сили за сигурност на окупирания Западен бряг, предаде ДПА. Тя заяви, че мерките в района на Хеброн, включително принудителното разселване на жители, разрушаването на къщи и други сгради и блокирането на населени места, представляват колективно наказание и предупреди, че тази ескалация няма да донесе нито сигурност, нито мир за никого",
-        "date": "2026-10-24T15:42:56+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1231860-palestinskata-avtonomna-vlast-prizova-mezhdunarodnata-obshtnost-da-se-namesi-v-o",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028399/5e5c48187f1c4f0a8e70ba18eb90748b--0--3864bf6cac864138b33f3c323ee6023b.jpg"
-      },
-      {
         "title": "Израелската армия прогони над 1200 палестинци от Хеброн след смъртоносна атака - Свят - manager.bg",
         "description": "",
         "date": "2026-10-24T13:48:16+00:00",
@@ -545,14 +545,6 @@
         "image": null
       },
       {
-        "title": "Полицията използва газ и водни оръдия при сблъсъци в Тирана - paragraf.bg",
-        "description": "",
-        "date": "2026-10-24T16:45:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnZVQnZBZUhmbTl6TzNzY00wZlpxRWQ2ZGl6OERnenQ5dVJxaXV0ck93ZzBHdzIwRUdNS3VjY2R5ODhGS3NuN2FEaWF5YlRyRHR4U1Zkb3NWUmFqNXNCVWMwWnV1R0pWVUxreXpOQUpjdHRLbXZCdjl1bnhxSTJnaHV0cXUyRGMwRlpmag?oc=5",
-        "source": "paragraf.bg",
-        "image": null
-      },
-      {
         "title": "Проф. Сергей Игнатов: Ако образованието ни излиза скъпо, колко по-скъпо излиза простотията? - БГНЕС",
         "description": "",
         "date": "2026-10-24T12:11:54+00:00",
@@ -577,27 +569,19 @@
         "image": null
       },
       {
-        "title": "Възпитаници от СУ \"Иван Вазов\" вдъхновяват ученици в тайните на здравните професии в \"Сарафово\" - EraNova.bg",
-        "description": "",
-        "date": "2026-10-24T09:52:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDdYNl9vbk5JdWJNOG9PM3dUOGczZmJqMmNFMGZTbUItbHRLWXlJTjJlRWJkdEhteFo5NmdBV0IxUElxalNuR2hNMzFrMzdHT0ZabThZeXZCRFkxZ09qaTk1RXAtd0FqRVUtWWpSdnUyTUtHNjVNV2tCQTRUUm9IeGJqMGt5UmNaTUlCTEZNcW1lMkw5UHlPWHJTS3FmTzFMcHRXVUdFTEV1eWpUR1RR?oc=5",
-        "source": "EraNova.bg",
-        "image": null
-      },
-      {
-        "title": "Ученици от Силистра обсъждат теми от предмета \"Гражданско образование\" - БНР Новини",
-        "description": "",
-        "date": "2026-10-24T09:05:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDhqUHBMVDZjU2RvZWVmc25ZQmpuZkd6LXUyUFc3VlJxQkZLcmZnMzd4MXA4WGFiV3p0Z3I2MFdhdGMzZ2JmVk4yNVFUYkkzTXJDdVgzTnlXVUFoX2ppVHhJdEwyWTZpQm9vc29RczdxeGZpamRvQnh5NXZRZzY5dzJldW9xa2pYR1F1VmprbnRZZVZFNVdObjNWbU1WSGZKUHNGVW4tUnFYSFpDMWhLZ0Nn?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Ученици от Силистра обсъждат теми от предмета „Гражданско образование“ - Делник БГ",
         "description": "",
         "date": "2026-10-24T08:38:22+00:00",
         "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPTnNNNm1mWEUzTmNQMktnd3dGRVR1ZEZwb0NUYVc4bkV6Ti1aYUZTSTRsMjVhdGR6ZlhJXzB1YXdjdENsMGUyX09iRzREZWxFUy0xMWs0emFEdmgxSzBTTnJJMjFGSFVDNjNzQWNkMTJreDQzb2FGQlE3WnREU01ySS0tbHcyR0lqZ0lJVmdLQU5QQk5FaUNEV3hhZExGUVU0dmE1ZDZuSkgyWUFEWnl4b3NnYUlydTExOTItM2ZnM2VPR1R5T2tuTkpkRWhFZ05ieTdZZnViejhaY0tpSThlbzdUajhMWGpabzJlYWlZN1JJWmJ1c3duVjg2NEpxUDNwSm9rZnp0QUVyR0UtZWstSHJEY1NTOVJ6ekhJbi1WTXNZeG9OX25hYlA2LUxVUndsOFpZVENOSHBIMTdqZzVqcXZjRmdqazhDYk1YOVZ2V3dnSjVG?oc=5",
         "source": "Делник БГ",
+        "image": null
+      },
+      {
+        "title": "Ученици от Силистра обсъждат теми от предмета \"Гражданско образование\" - БНР",
+        "description": "",
+        "date": "2026-10-24T08:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS0MwNm1Uc2czREhKS1JRYmpCb3B4U0RBVUJ2WUhZRXpvS1VyR3VTOG9PYXNHUUxHZnpqYmZEQ2YydUNWZ25yOGNKMTJzWl9Bby1nb1NQVjBiU04wVWQzRHo1cGVVSFNUaVVmSF9xN05ieVBubUdZMXVyX2hpNWN1MGV2MzhZeWVYU0dxMVlZSlk2bzFjMGhhV1ZkaUN6Y0VaMjNHTnJjZw?oc=5",
+        "source": "БНР",
         "image": null
       },
       {
@@ -609,35 +593,11 @@
         "image": null
       },
       {
-        "title": "Регионален форум в Плевен обедини институции и образователната общност в диалог за бъдещето на образованието - Darik.bg",
-        "description": "",
-        "date": "2026-10-23T20:25:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQS05cnlUdUhISkc4TVYwQk5OTF9VRWhhNkRwUV9sSC10blJYdTdmbkJ6VXhsWmdCeFdLTndQSkdQZkVWS2c2MkxKWW5VR25MekNvNjBfX0pnYTVvUExQTE1Yd2JfZGJ4VGN0R2pzdjItQl9aZzUyWXhDWlhwemxhYkFMbDViZE1YMDRYN2c5NXpMdmpqNmdHQ1c0SE9PMXJQVk0zRWNpbEpSUmlXUDFfeW9aOFYzSXlQRVZYQ3ZMakJzWHRfeFJTWjJDbE01YVB4SDhVbjB3?oc=5",
-        "source": "Darik.bg",
-        "image": null
-      },
-      {
         "title": "Хората с висше образование не са най-големите фенове на Big Tech, а са най-колебливите - БГНЕС",
         "description": "",
         "date": "2026-10-23T20:01:30+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamdrWmVFeDVKQ2ZURWo5dU1sQjVITlM2UnI0eTVEeWFTaVFqLVlqNm8zb1pNQ3pVaUhTUTFjdTMxZHUzX2tsMjJtOWhjVTVTSWZVNDNMOGZTa0hBUkN4RFlCb3VtSkpHT3l2UGE5eEZDUGJQQURMVHJHbGozNTd6NUMzX2kzeUt4QWlRSnBWNGNhdG5ZcTdkRFhYT1JwZEpoallpR0Z2US1YTkU?oc=5",
         "source": "БГНЕС",
-        "image": null
-      },
-      {
-        "title": "Какво разплака актрисата Гергана Стоянова след посещението й в училище в плевенското село Божурица? - Pleven info",
-        "description": "",
-        "date": "2026-10-23T19:30:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdUhLcG1uSktwWkxWQlpEb3VaTTdmcmoteGtPWGw5dTlUcmNSblRVcXF4eGNDYWhLc1RaV2xERk9FVEJIY200cWpGTmtfVFg5ai1lRXhhMHhYejBOY2RUT21Zd1JRVm1VZzFrTllpcnY4MVYyOUtpNVEzWjhmNUJKVXJLS0ZXc3lOUkFXeHpIN0lQcFozQ2V3U1prUGR6M29nN3hWelBPcGlVUXA3QXJxTjhsMUR0eG0tNVFBWQ?oc=5",
-        "source": "Pleven info",
-        "image": null
-      },
-      {
-        "title": "Google предоставя нови 1 млн. долара на софийския институт INSAIT - Stolica.BG",
-        "description": "",
-        "date": "2026-10-23T17:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1JtcFRQQWdqV19ZaFNvRXpqSUlVcVdxdGNqaHVOd1NZRmNsXzNidkE3ejNybUFiSHJUUG1oamZwb3R5MkQwYVlGdHJOQi1PN0V3OUw4VVRGLWxLSWJ5RGFhN29DelA0dkVZSXFITnBYNWNoTjBrOUtJNTZvaW9CZ0hMNktGd0hkbUJlMzFVS1U4cWpMSk5pVDlLeVpBUQ?oc=5",
-        "source": "Stolica.BG",
         "image": null
       },
       {
@@ -657,22 +617,6 @@
         "image": null
       },
       {
-        "title": "Трима учители от Смолян участват в международна конференция в Брюксел - SmolyanNews",
-        "description": "",
-        "date": "2026-10-23T14:22:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLWNzM0t3S2phRXNrMVFYR1NITXNNQmd4cXlsMWFBYW1SbHdDUVpxOUk0TkZJQS1mbHRrZzlOMWNSaDU2YjVoR1ZyTXlnUktnREQxWVhraHF3bndKMmhxd1haZE5rNGxSV0pDNjIxSVlKRDZPR2RxVFNsWkl1ek1aM1JUZ3c3cHRSeWZSSE1rdXkyR25NYlJPQllzNXZJTUVZQ3NLZUZUNGhrQQ?oc=5",
-        "source": "SmolyanNews",
-        "image": null
-      },
-      {
-        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР Новини",
-        "description": "",
-        "date": "2026-10-23T13:23:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2NZOVhwWWNIMXVVTjBOMTJoX0dPdmQzQm5YYU5KWjgtVlhsU2lub2VvVktPS0VzSXg5aXBjYzdlLU5YVHVoNE5jM3VYZkFFejE5UFhsSTN0VlVCZElUVm9IXzZ5dUJ4bExTMC1MWmFHSzRJdGtLSmtuRHYyYTFhaUtneHpoM18wMTEyV0FVaW5fQ1k3ODBrenRybHcyYW1zS0NrMzlRNzBQMnRFTGgyN1lJMTA4YlhwXzdvMzZ3?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Нужна е държавна помощ за ученическите екскурзии - БНР Новини",
         "description": "",
         "date": "2026-10-23T13:00:33+00:00",
@@ -686,6 +630,14 @@
         "date": "2026-10-23T13:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVU5RSmVpOGZvMjNXaXh4dlhCQmZGOHdrVUVCTjRISVNDNnFhVmI4SW9ialhoLXNlYmhka1dxbE5RcldkbzFjZzJiVHRUTkhrall0OWNaQmJtUzZpQ2ZUZ09hVHhGRElpMEZsN1VaR0RFQy1VeE05a2ducmxlRGJ2ZnI5U2VYd1pJcnZTdjdGZlJjRHVVMHhETkFJRl90RC1Yb0sw?oc=5",
         "source": "Euronews Bulgaria",
+        "image": null
+      },
+      {
+        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР",
+        "description": "",
+        "date": "2026-10-23T12:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGo2T0xuRkRWeGQxTUhaRDlKVUJyWHBpTE9QLWZCb29HTlV4Nm1lZzBEM25SZWRXNXZSZVN4ZllsbzNuNV8zYWdRcE14N3F1M2VBSDkwYS1KUThsUnhobElibUd0SlpIT202WHhtOXoxZTl1Szc4Sll3SmlEaExuNjZpMkRlY0tEUjktNUtzMjYwRjBPZnphRE5kRi1JYUY0MTdabnYzSTVoTWVQcTRHOVZSY09Db2s?oc=5",
+        "source": "БНР",
         "image": null
       },
       {
@@ -705,14 +657,6 @@
         "image": null
       },
       {
-        "title": "Десет бивши просветни министри против въвеждането на един учебник по предмет - News.bg",
-        "description": "",
-        "date": "2026-10-23T11:15:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlBjTUprbFZRQ1ktWktMZEg3SnNKbmptcmZYYnpRMzJBeGNDOWc3a3RGNjlpQUdPWGpZcHNxTjNqYVlweS1lYk94VVZmcHFadURYY2dmMU9RN2NmbFZEdkx3X3h0WWRRMG9iX05HZWJ3T0tWMGJJMmdQaUVJZzVwamxmRXFwUndCVENTQ3BsbHNCc3paMW9kbWJha184X25KWV9RNUNyeTd3MkhuT1JV?oc=5",
-        "source": "News.bg",
-        "image": null
-      },
-      {
         "title": "\"Зелена светлина\": българските лекари ще могат да практикуват в САЩ при едно условие - Dnevnik.bg",
         "description": "",
         "date": "2026-10-23T10:20:00+00:00",
@@ -721,19 +665,75 @@
         "image": null
       },
       {
-        "title": "Започна 51-ата Национална конференция на учителите по химия с международно участие - MediaBricks",
-        "description": "",
-        "date": "2026-10-23T09:30:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTY2cDVnWkxkeHJvUldHdHhacWJQY05LRC1pZUUwZmdwN1hoS25xZ3ZBeHFBU2dnZHhDZXphcmUwTi0zaW51RGllZlYwWVBaUS1PUzBQd3VXWWdZTHo3OUpGTWx2WE5vT2dCNUYtQ2N4RTJiY3g2NHB1ZG9ETFlrdF9EQXpfZ3BselNlTTlFN3JYVnlPZENLX2RDU2w0TXF1dGNSckliRkdLYnNaZWRVaXMyaDc?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
         "title": "Протес и във Виена срещу съкращенията на разходите за образование - News.bg",
         "description": "",
         "date": "2026-10-23T09:01:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
         "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "Висшето образование има стратегическа роля в икономическата стабилност и международния имидж на България, каза ректорът на СУ проф. Елиза Стефанова - БТА",
+        "description": "",
+        "date": "2026-10-23T08:58:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWhYLVlWYklkWUdfcUhlWFZQSjJ1U3J6dGFPdC1fQWlZR29mVVJ3bGdKcEpGY09nbGFlaXBoUVdRN1haWmE2b2dNckRCVWpyNndCNmY4WVdSSnhyMWdhbzl1RHRzVTQ3OWJGeENpYWRnN2lCQjltZTFDMHFuZ3RfeE13LWNqQVFoVFNjWW5qZEtlUUtHRGxLT3VxTnVMS3lyVzNodnVrZjRhRVpEUUVrd0hDaTl5SFdYT0pV?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Силистра и Гюргево обмениха добри практики за по-достъпно приобщаващо образование - Кворум Силистра",
+        "description": "",
+        "date": "2026-10-23T08:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudWtfOTNDQjBsb2U5TkhDanE0cExqa3E1S0FwWmNQUThieFg1TmhIdjVRU1Q2eWlQeHVWWk9ZZmZoMkJMamstbHRROWFRSG92eTdxYUVn?oc=5",
+        "source": "Кворум Силистра",
+        "image": null
+      },
+      {
+        "title": "Протестът на НАТФИЗ: Студенти \"венчаха\" ректора и министъра, включиха се още университети - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-22T15:53:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkpIQjZ0NU9MTVB2bGxhbFl4OWVBYkZjMktEcy1RRHowcEJjUFRTUnR1MTdpcG1hdHhzUFhfT0FYbzFqUm9kNm9BWDk2UDMzOUcyNkpoUWgycWNDSkJ6UF9nNkJyTUE1dHVENmZYSFFWOHFyaVBCMExyS3RUcWFPcTBEYVU2TmxIVjRvSWltckhmVTBrcjRhei1wRDRYQU9LWVc3WXA1OTZQUTA?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "\"Първа стъпка към диктатура\": преподаватели застанаха срещу искането на Радев за един учебник по предмет - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-22T12:33:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd24zZ0ZITTB2dGtSUnlkd05QVXY0ZGhRbUFhZS1ZbEFzLXk1UEtxUjdjUFdrSzNfNFpBQVlKNXNZUWVJU3MzMEtfSHpia1N5TS1OQjlQWHBpdTFHaWdQYXQ1a1FOMkVSdTM1RC1DUWlibHQwMWY5SlVwMlZfUDY4YlZDV1JvQUhyWXE3d2l1c2VCaHVxSWtfQ09rYWlJMXIyUDg4TTFzb0w?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "Центърът за компютърни науки в Бургас започва нов проект за обучение - БНР Новини",
+        "description": "",
+        "date": "2026-10-22T11:53:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTAydE9LVEVoVzZnLWJGQ25zSG5aYlZILUF5R2lsc1c3RXlQU200UjFPQmw3dElOMVlXVGJWNGpPSkVLRXY2aVB4anVJZG80QXNQbUU3eHc1VWJkdUhMeFFfVnkzUHdjek5JUzJJWjlaaVA0b2ZfQ0Y4dXJkNDdfVnlveWZMbHh0aUNrYlFaUGRYM015bGdZVnRjRkx2Z0JVTUFJVC04YmtOejZHVERN?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "\"Въвеждането на един учебник е първа стъпка към диктатура.\" Учени от СУ и БАН се обявиха против идея на Радев - Клуб 'Z'",
+        "description": "",
+        "date": "2026-10-22T11:31:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1rcjhwazlpejkyUWJwc2pubGNtU05ETTJEV1VmQmtxbEpqZTNwQ3NZdVZFbzVsdHdIZ2Fz?oc=5",
+        "source": "Клуб 'Z'",
+        "image": null
+      },
+      {
+        "title": "Папата призова за образование, което уважава достойнството на всеки - Vatican News",
+        "description": "",
+        "date": "2026-10-22T11:26:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDVWd3JmSmxJTHhqWWxLUVU4ajBrMW5LWTZzVWpOTzFKU0tMWXgySXZRVmEyajljSG0xREFvTG5ObzY0QThUUmxiV21odmtseE0zcjM4ZGRBcFJmM1RxOHBNQlp0QndXVHQ1ZlFPeDQxTzVtYXRhSEZWaXpZOGJSQ19VRWhvUzJGZkpWaDRGYzdFUDBEc3dKdVhycFlFR2w0YUk2ZlNKTVRSQQ?oc=5",
+        "source": "Vatican News",
+        "image": null
+      },
+      {
+        "title": "Регионален форум във ВТУ обсъжда общата отговорност за качественото образование в пет области - infoPleven",
+        "description": "",
+        "date": "2026-10-22T10:35:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOSlFObFJIUllYY1F1b3dRRkM5T0ZVV2VNb1BWSVZWU0s3S09hREVGNDB4aHk0NHV3RGNDQXdmRV8zMjRrbHRSYjFqY0RHWk5aSVJMZlduRllYY1MtWjFGd1NERkowZ29sS3pwR0NBMGRlZGNudnRCeVRfNndhNjVGTjY0R21RT0JOUnR1Vy10dGJrWWV5UlpxUUFFQllXZGpjQmhaSkliU1BYZ3UyYjYtYzNldXJDam8yOXZDRjlmQVpKZTg2Sk85b0tSQ3lQRkxzZHpkNVdNXzctX2pnNGVJVk5aNkFmYlE5bS1LZHdXQjhsR2xGbFpYb0V6WlZ0enhwYzNDQ1kyeEVQQkFtNFJlMkxJd3Fpa2pYamJrRngtUm5BdGpnTGVlbjllalR4ZEw0bER3M3R5NHUwYlRJTnBEWWk2WQ?oc=5",
+        "source": "infoPleven",
         "image": null
       }
     ],
