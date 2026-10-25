@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-25T22:39:07.449150+00:00",
+  "generatedAt": "2026-10-25T23:04:04.291054+00:00",
   "categories": {
     "България": [
+      {
+        "title": "При 17,86% обработени протоколи Илияна Йотова и Кирил Вълчев водят с 35,5%, втори са Андрей Гюров и Георги Кандев с 30,5%, съобщиха от ЦИК",
+        "description": "Централната избирателна комисия (ЦИК) публикува на сайта си междинни резултати при 17,86% обработени протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК). Данните са към 00:00 ч. . Резултатите от изборите за президент и вицепрезидент показват следното разпределение: Илияна Йотова и Кирил Вълчев - 35,5% Андрей Гюров и Георги Кандев - 30,5% Костадин Костадинов и Петър Волгин - 13,5% Радостин Василев и Красимир Ма",
+        "date": "2026-10-25T22:46:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232606-pri-17-86-obraboteni-protokoli-iliyana-yotova-i-kiril-valchev-vodyat-s-35-5-v",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14031719/20261025_093711.jpg"
+      },
       {
         "title": "Станимир Стойчев спечели балотажа за кмет на старозагорското село Яворово",
         "description": "Станимир Стойчев спечели балотажа на частичните местни избори за кмет на кметство в старозагорското село Яворово. Това съобщиха от Общинската избирателна комисия (ОИК). Станимир Стойчев, който бе издигнат от Политическа партия „Възраждане“ е получил 127 гласа или над 54 процента подкрепа от всички 233-ма гласували. Спорове и възражения на членовете на комисията по взетото решение няма, посочват още от ОИК. Право на глас имаха 292-ма жители на сел",
@@ -65,6 +73,14 @@
         "link": "https://dnes.dir.bg/svyat/zelenski-obyavi-sreshta-s-rusiya-s-posrednichestvoto-na-sasht-prez-noemvri",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/25/3040456/384x216.jpg?_=1792967708"
+      },
+      {
+        "title": "Зеленски обяви среща с Русия с посредничеството на САЩ през ноември - Dir.bg",
+        "description": "",
+        "date": "2026-10-25T21:51:13+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGNpMkFXTXZPTVhYMlZYcEk1amZzam5mUkpteTVIM2ppX29TU0lNR2pjRHRKLTZGRWlTcVpQdmlTY1RKdXVncl9oMkZIMmRzbV94UVh5WnpkM2pWalpJV3Y1WkgtZkc3VWNqSGh4QWpzWVY2RnZBSzhUTEp1bjk0N1RadzFLTjVseGNjVk16NkI4ckVpek9oMzJRMWJHTFBETWc?oc=5",
+        "source": "Dir.bg",
+        "image": null
       },
       {
         "title": "На тези избори видяхме пълна делегитимация на това управление, каза лидерът на \"Продължаваме промяната\" Асен Василев",
@@ -185,25 +201,25 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1232579-ilyuziya-e-che-ako-ne-glasuvat-grazhdanite-mozhem-da-promenim-neshto-v-stranat",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14034779/MIL_5952.jpg"
-      },
-      {
-        "title": "ДБ: Има огромен срив на доверие към управляващите, властта не се справя, не знаят какво правят",
-        "description": "На тези избори демократите на България бяха силно подценени, смятат лидерите на коалицията",
-        "date": "2026-10-25T21:01:05+00:00",
-        "link": "https://dnes.dir.bg/politika/db-ima-ogromen-sriv-na-doverie-kam-upravlyavashtite-vlastta-ne-se-spravya-ne-znayat-kakvo-pravyat",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/25/3040433/384x216.jpg?_=1792964692"
-      },
-      {
-        "title": "Мартин Диловски спечели балотажа за кмет на борованското село Малорад",
-        "description": "Мартин Диловски, издигнат от ПП „Български гласъ“ спечели частичните избори за кмет на село Малорад, община Борован, съобщиха за БТА от Общинската избирателна комисия. Той е получил 437 от гласовете на имащите право на глас. За опонента му Светослав Георгиев, издигнат от ПП „Земеделски народен съюз“ са гласували 415 души. Общо в избирателните списъци са вписани 1409 души, от тях до урните са стигнали 873 души, 12 са избрали „Не подкрепям никого“,",
-        "date": "2026-10-25T20:59:42+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1232578-martin-dilovski-specheli-balotazha-za-kmet-na-borovanskoto-selo-malorad",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13776899/1.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Сърбия се променя: Партията на студентите победи Вучич на парламентарните избори - Свят - manager.bg",
+        "description": "",
+        "date": "2026-10-25T22:56:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVpwbGJGMWY0T3BMZFJFNGsyT0RXdTJmLTh3bE5mSXM0Z2VmSVN0NU1LakRxaEFES1pLVjcycHpOd2xaNzBmdXNPWWtsYzRGYmVOVmxiTEdScUpySExlVmpsTm9iWUFmaTVZOHp0WXAyUTRJNjlvUGllVlNjcjR6RE1xZXVhYUh6T3VHQU1BWUNIWm41OUtwYWZqMXN5MDlMYnJ3VkNDR2FlczNlbXZoeG5jZ1BhU0xNTGZuOGhGTDNxRUk?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Експерти изразиха тревога от изказвания на Нетаняху, че Израел може да използва криптовалути, за да избегне евентуални банкови санкции",
+        "description": "Над 100 икономисти и бивши високопоставени израелски представители изразиха „сериозна загриженост и тревога“ във връзка с изказвания на премиера Бенямин Нетаняху, че Израел може да използва криптовалути, за да избегне евентуални банкови санкции, съобщиха израелски медии, предаде ДПА. В писмо с остър тон подписалите го предупреждават, че всеобхватни санкции биха нанесли „огромни и необратими щети“ на израелската икономика. Сред подписалите са Джое",
+        "date": "2026-10-25T22:39:02+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1232263-eksperti-izraziha-trevoga-ot-izkazvaniya-na-netanyahu-che-izrael-mozhe-da-izpol",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14021787/855a96496692417ca05688f335c98ad3--1--1994d90e65224a4d96b914ac0c477b20.jpg"
+      },
       {
         "title": "Иран заяви, че не е затворил вратата пред дипломацията",
         "description": "Иран заяви, че каналите за комуникация със Съединените щати остават отворени въпреки нарастващите опасения от възобновяване на мащабен военен конфликт, докато както в Израел, така и в САЩ предстоят важни избори, предаде Асошиейтед прес. Говорителят на иранското външно министерство Есмаил Багаи заяви, че Техеран не е затворил вратата за дипломацията и че чрез посредници продължава обменът на послания между Иран и САЩ. В интервю за германска медия,",
@@ -229,12 +245,20 @@
         "image": "https://www.bta.bg/upload/14032216/96b008d8fbec4767863b7b7c226a1beb--0--d2292763c71246728143fb1cc012b07a.jpg"
       },
       {
-        "title": "Вучич обяви, че според предварителна извадка от резултатите партията му ще има 105 места в парламента, а студентите между 135 и 140",
-        "description": "Бившият сръбски президент Александър Вучич обяви, че Сръбската прогресивна партия, на която е основател, губи изборите за парламент, а студентите ги печелят. Сръбският президент се позова на предварителни данни от преброяването на бюлетините. „Нямаме крайните резултати. Мнозина ще се изненадат и ще разберете колко много някои лъгаха и какво си измислиха. Искам да ви информирам, че въз основа на стратифицираната извадка е ясно, че загубихме тези и",
-        "date": "2026-10-25T20:57:00+00:00",
-        "link": "https://www.bta.bg/bg/news/balkans/1232577-vuchich-obyavi-che-spored-predvaritelna-izvadka-ot-rezultatite-partiyata-mu-sht",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14034944/ESTO4257.JPG"
+        "title": "Обрат и в Сърбия! Вучич призна загуба - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-25T20:51:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVVDa0hWMGdMS0h6REF1Y2pmTE9kQkhNMENHRF9kbGVpaV9WcS1FOGRFVkxRR25IMlRCTDR5YmxLa3ZIWmRfRkJnc0NOLUlsQmNxUE5aNEwxSlpfLUFqTHlDR3VkVEIwSE1UZm01dzhDOHJ2elFYdDF0bHlLcE9fUlpRVmNOMlN5TjlfdmdEbw?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Световните медии с ключови думи за вота у нас - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-25T20:30:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFZnbDJVN2x2bVJGZUJIdFJucEhFem9kVTA5dkZGcXhQNlVJOTRpWVRzN1lDcUVVUmRWQjE5bl9wN2UzWmZORTNaSHVJbGdiSUhLTDlWUWwxdjZUdVVxYjFMVVRad3FEcjZhMXpSek5BeGdRNC1FWXFUR2dpVkUxa1EwbjE0YVNFUmlQSFhzR09uU0ZIdWNaV1V3?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Рубио: Завръщането на Мария Корина Мачадо във Венецуела е пряк резултат от усилията на Вашингтон",
@@ -259,6 +283,14 @@
         "link": "https://www.bta.bg/bg/news/world/1232544-husite-zayaviha-che-sa-atakuvali-letishteto-v-riyad-i-sauditski-voenni-bazi",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13982849/15ee1789cea2424da2b13e689be4b5e8--0--ffb4522ade9c4e4690941060c5c7d7e5.jpg"
+      },
+      {
+        "title": "Край! Европа се вдига срещу часовото време - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-25T19:11:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1ZiSmRybVd5VlQ2WE9iOXBLWWFBM2JSYmFvanNDSjFKYVNxNVZ2U2dtS0FwZ2dhMXp6cldVbHdiZGNpcHcwT0l1cEw2ZzdUSG9VYzhPYnMyLXBOemw5bVpkS1l0ZmdxYzFjZmNGbUlRWGZDUEk0N3NfNm1MWlRiSnpLdHpaclZkRENKUmJPa3VDbmM4Qnc?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Украйна оспори твърденията на Мъск, че е използвала Старлинк за нападения срещу Русия",
@@ -309,12 +341,28 @@
         "image": "https://www.bta.bg/upload/14033342/9a622b40c5084fd0809a68fe23fd1245--0--6432da36ff0b49699923d50c10164951.jpg"
       },
       {
+        "title": "Подпалиха любимото място на Хитлер - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-25T17:09:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnRmTHd3U3RmZ3F6SEdLdXEtUnlxVGhJdWRMRDZfbndMRUFXT2xIZldnWlpqa2pYRjJjNmNLb1hud041ZjQySHFnX3JlcnFmaUhPVDlfN19tVjAyZ2h2bnRKbDhlcWxPVjZKa1NsdGYwYnh0bVZaX05HeHFaWW5UazJheW0tUmMtNEJv?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "Нетаняху предупреди Иран да не се опитва да попречи на изборите в Израел",
         "description": "Израелският премиер Бенямин Нетаняху заяви, че Иран и негови съюзнически групировки може да се опитат да попречат на парламентарните избори в Израел, насрочени за вторник, като предупреди Ислямската република да не предприема атаки, предаде Франс прес. „Разполагаме с информация от разузнавателните служби, според която нашите врагове, Иран и неговите проксита, може да ни атакуват с цел да нарушат изборния процес“, заяви Нетаняху във видеопослание,",
         "date": "2026-10-25T16:55:52+00:00",
         "link": "https://www.bta.bg/bg/news/world/1232435-netanyahu-predupredi-iran-da-ne-se-opitva-da-poprechi-na-izborite-v-izrael",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14031573/9e597d1ace914a5690dc8e7b22a3b019--0--cd353772023c49b3a9f584018c981103.jpg"
+      },
+      {
+        "title": "Опашки пред урните в Сърбия! Вучич на кантар - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-25T16:52:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC02dTczdWtBWnNEOG5zbmZHYlg1TEZjRzloNTBsUUk4ZWpQaWJNRjlXaGtUaHpSUnlGMTFTTlJWVTE4b0M2cGdFaEQ1ZXhxZXVnSjZoX1RIQnFJYkptZ1ZOMjhOX3c5czlFTThBcVdwX1l3VmZmcFVrRXpuZnlzLUJNQlpzMW9YUG5RTkNDYnJib1l6ZXlLQ2F3?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Русия заяви, че е нанесла удари по товарни кораби в Черно море, както и по цели в украинския град Харков",
@@ -355,54 +403,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDFZQ1J2YnFoNTFnODh1TEhvaDY4SXlfdWl2OWUxQ0ZBcWU0YVZMbWZOR29USVoxc2FDSVdhSEMwZWtwSTVsQ0FBUUtUb0ZwQm1seTEtcDY4WjdseUhOdS1pOHR2LVAwRVQwZ2dlRVFLSEVRLS1HYjIxSnRQNEJvaFVEV1pBM21ObzdrcmFBQjhKNEMxWFBHN3pXZTVqTXN1NzhFeGJVc3g0ZUF5dVNv?oc=5",
         "source": "bTV Media Group",
         "image": null
-      },
-      {
-        "title": "Тръмп ще агитира в Мичиган ден след като Обама мобилизира демократите в щата",
-        "description": "Президентът на САЩ Доналд Тръмп ще се срещне днес с поддръжници на Републиканската партия в източната част на Мичиган – ден след като бившият президент Барак Обама проведе кампания за демократите в същия щат, предаде Ройтерс. Според агенцията това подчертава ключовото значение на щата за междинните избори следващата седмица. В Мичиган се води една от най-оспорваните битки за място в Сената на САЩ – надпревара за вакантен мандат между бившия репуб",
-        "date": "2026-10-25T15:31:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232236-tramp-shte-agitira-v-michigan-den-sled-kato-obama-mobilizira-demokratite-v-shtat",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14030932/d18f94b420d44228ae4870314114e63a--0--8f28c9da9fe84153bfee35c29365fd2c.jpg"
-      },
-      {
-        "title": "Един избирател събра погледите на целия свят. Най-необичайната гледка (СНИМКИ) - Стандарт нюз",
-        "description": "",
-        "date": "2026-10-25T15:28:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYlBOdXNTV282N0NGZzFhLW45eXNwYzZra2xPTEtPcnQ4U01uU3RscmN1ZFFUQ014SFotVzNfX3h5T21QZFF6WUVJcm1mXzlod2EyUnZpNUJtX2xjSmR5SFpRSmxPR25MRU81QmNQbzJzY2ZvV0RkejQySm93LUcyNzgzbUpUcUI1bzg4TlY4Qnd4X1IwVndxT3FybXVISi14Q2RLWXNWejdsV1M4d2Zhd2xBOGJuT2lBUXZZak9ENlBHd3BHUnVLZlpqV2JFS0FnYnFPNjN4RQ?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Над 82 000 абоната в северните части на Великобритания са без ток заради бурята „Боело“",
-        "description": "Над 82 000 абоната - домакинства, учреждения и други обекти - са без електричествов резултат на бурята „Боело“, която продължава да бушува над северните части на Великобритания, с пориви на вятъра, достигащи 135 км/ч, предаде Пи Ей медия/ДПА. Оранжевият код за опасно силен вятър остава в сила до 23:00 ч. българско време днес. Екипите, работещи при тежки метеорологични условия, са възстановили електроснабдяването на 344 900 потребители, но 82 600 ",
-        "date": "2026-10-25T15:14:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232306-nad-82-000-abonata-v-severnite-chasti-na-velikobritaniya-sa-bez-tok-zaradi-burya",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032049/8ed16cc14af9428fa48816bcb3bfdeb5--0--f69d5724200c4c628ad8eccf9e5b039d.jpg"
-      },
-      {
-        "title": "Бразилците трябва да изберат дали да защитят бразилското знаме или американското, заяви бразилският президент Лула да Силва",
-        "description": "Бразилците имат избор дали да защитят националното знаме или това на САЩ на днешния втори тур на президентските избори, заяви след като гласува левият президент Луиз Инасио Лула да Силва, цитиран от Франс прес. Гласоподавателите трябва да изберат страна, в която знамето се уважава, каза той след като даде гласа си в своя избирателен район Сао Бернардо до Кампо, близо до Сао Пауло. Лула обвини своя съперник консерватор Флавио Болсонаро, че иска \"д",
-        "date": "2026-10-25T14:47:05+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232341-braziltsite-tryabva-da-izberat-dali-da-zashtityat-brazilskoto-zname-ili-amerikan",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032561/64d9b9223bf54045961400622e79f440--0--a753365c077f468d86f9b133ee91e3e4.jpg"
-      },
-      {
-        "title": "Охранител загина при украински удар по индустриална зона в руската Липецка област; четири жертви на атака в петък в град Орел",
-        "description": "Украински ракетен удар по индустриална зона в град Елец в руската югозападна Липецка област е отнела живота на охранител и е ранил парамедик, предаде Ройтерс, като се позова на местните власти. Областният губернатор Игор Артамонов заяви днес, че охранителят е работил в едно от предприятията в зоната. Парамедикът от местния медицински център е откаран в болницата. Губернаторът не назова обекта, поразен от удара. Междувременно губернаторът на руска",
-        "date": "2026-10-25T14:37:46+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232347-ohranitel-zagina-pri-ukrainski-udar-po-industrialna-zona-v-ruskata-lipetska-obla",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/504180/Rusia-map.jpg"
-      },
-      {
-        "title": "Слаба активност и в Турция: Българските граждани гласуват за по-добър свят СНИМКИ - marica.bg",
-        "description": "",
-        "date": "2026-10-25T14:15:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb05UNm1KYmJFeEZTY3pUWklncTBPNlZXQUVzUU5NSjlXWlVQU0lhQmoyUWROQ0tuLUhMb25XNnp4bVFWS0djbnVTSUJzS0gya3JJNE9aYW1aMGN1TXN5aGxTT2JwWWk5R19NWmhKYmUwMTBKbmJtUGs0Y2s5X1J4ZUZzRzNrVlVFYVZ6NFlpOUhTXzcxQkxKTVRWMWtoODExUVBlbk1QRjNOWUXSAbABQVVfeXFMUGQwMjZjbmREYnoxZFRSMG02NTV6bGJjMlRXaGRvRV9qNUJZWW05UWVRc1hVTGZRSmZmYVJmMTJVMTdWSWpaSVhqakFQSWc5RFZvS3pWdlZqc2dFdm52cUNxTnBDR2VZV2Z5bzhFSnJtSUdzNDd4OW5pODMtYWNQUnplTmRYX2Zwb2t0a3R2TDZ3NjZTWmUtaUhCSVZNdUFlSndOMGotdkZZSHZUSzl2YjA?oc=5",
-        "source": "marica.bg",
-        "image": null
       }
     ],
     "Наука": [
@@ -412,14 +412,6 @@
         "date": "2026-10-25T17:36:56+00:00",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzk2UmNhUHhjdk5MM2ZLbnBNTkhqUk5pNTZnMjVpWVBUb2E5X3dIR0xYZDBFd3Ric0VtMEZ5aDdsX0ZNaUl4R2V1bGxHM3pOcDVYRjlDYXhGTVc1eHZsSVNDTEN3MHBUc2FoRS1sb1pqUl9Eb3lCNVNmekNpeWo1dFRzaWJEaG15WGc?oc=5",
         "source": "Avtora",
-        "image": null
-      },
-      {
-        "title": "Роботи превзеха дансинга в Китай: 110 хуманоидни машини с рекорд в „Гинес“ - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-10-25T14:59:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1g1NFNNWjh3QVFvQVNGLS1OYUc0OEViN29kNk9fbzB6SHMwSjdFU09aY05xSGJTM3pXNGlrM3RUV251UG00Q3Y5VEJkWkVCMjJ0ZjdyaklTeWl4X3d6TkZNN0ZraGR1Sl9sYzhfOVcxd09udjNxYXlEekpLOGxCUlNfT2xfdWcwRDdPZGZuTExKMmpHLV9MY0lxYjM5QQ?oc=5",
-        "source": "Таралеж: Истината има значение",
         "image": null
       },
       {
@@ -455,6 +447,14 @@
         "image": null
       },
       {
+        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - Утро Русе",
+        "description": "",
+        "date": "2026-10-23T15:39:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xQnhoU01CSG9MdFQ4akhndWxLblFfMzRvbmhTVzVZa0dwRjhCdk96bG1YVlFYQmRfd3pSREh4T0dXRzhybU9QVNIBSEFVX3lxTE0xQnhoU01CSG9MdFQ4akhndWxLblFfMzRvbmhTVzVZa0dwRjhCdk96bG1YVlFYQmRfd3pSREh4T0dXRzhybU9QVA?oc=5",
+        "source": "Утро Русе",
+        "image": null
+      },
+      {
         "title": "Учени откриха изненадваща хормонална връзка между котките и стопаните им - Клуб 'Z'",
         "description": "",
         "date": "2026-10-23T07:31:37+00:00",
@@ -471,6 +471,14 @@
         "image": null
       },
       {
+        "title": "Учени разгадаха квантова загадка, която озадачаваше физиците в продължение на десетилетия - Kaldata.com",
+        "description": "",
+        "date": "2026-10-23T06:13:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Z9IB0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Zw?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
         "title": "„Умно финансиране”: Защо е важно да инвестираме в наука - nova.bg",
         "description": "",
         "date": "2026-10-23T05:47:00+00:00",
@@ -479,11 +487,11 @@
         "image": null
       },
       {
-        "title": "Безопасност на екстремните граници: Как Mercedes-Benz превърна катастрофата в наука - NetNews – Новините на Ямбол",
+        "title": "Роботи, фосили и космически пътешествия на Пловдивския фестивал на науката - БНР Новини",
         "description": "",
-        "date": "2026-10-23T02:56:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQLVhaaFFhV0dIN1UxQUdiYVFWWVdnNzdYSEx0Xy1qSXZwUjJ6SURueVBoMDFlZzEzWjB2SHZIQy1jSHZEUEt2c0N1LXdSQndfNTIwWDhLYV9IODF1amxmNkcyTjlBOXE1SmNYeUk2VmNLLWdmOWdXTjYtWXRLSkVUOGlCMUxBZzA5ZVRtMmhSN2NBVm5YeS14YkgyRVdydVRwaUxwdXdKV25UWkFlaUktQlpFSnFDVk5TU2JlcklZZldnXzhsQk5aZGZJVll6NWNLcHhZeEgzakpJbmticWljMzctanpJQ2ZjeFVwZno5d0dXTmNicHkyN0N4SjdNdm5FcmUwZ21FMW8yNTBySFZJZlk4Y2ZXUV9HNTVuU29ZRk5kZVYzc2JJRDVGOU94TXB1V2dhbzRlZVBzQmhz?oc=5",
-        "source": "NetNews – Новините на Ямбол",
+        "date": "2026-10-22T13:41:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2sxNHdkWElwYWEtcVppNFJKY1RyRGJxS3JaSTU2T3VzVVg2eDk3aUwtY2VoQnBSdFdxOEVDNWR6RjBMVUt1eXZDQzlFX3F5RFpzelR4M3JvcmgwaWxlTXpYWW9OeWFWU0xUcUxNVTluYWZEWlJLOTB3cTZOVndHOWFHQndoZzg2SEVxR1pLQ3NMSUZyYS1MSUlfYlNpWDhabkt4WU41MlpmVGp6dUFfcWY0aw?oc=5",
+        "source": "БНР Новини",
         "image": null
       },
       {
@@ -492,6 +500,30 @@
         "date": "2026-10-22T12:50:18+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU9FWFZtYmR0Sl9tY05yLV9wdXFuSlE1RGpySUZ3a2RJQTM2eWRxaktqRVZlRU1aN0JMaXl0WjdCTm8tRnpaYzU4MXI2bEdsVmhadG5BRnpQYjZINlhodDlvT19hNFBiQjhleGhndGVWbDQwV05LVUpEbDZaUUtXUnBjRlVYLVNtOGk5U2Rtd3kyU1g2R2UwNEQzZXR3d2FJVWdSTGNtbFd1UQ?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Образованието трябва да е възвисено над партийното, каза председателят на парламентарната Комисия по образование и наука Димитър Здравков - Делник БГ",
+        "description": "",
+        "date": "2026-10-22T11:28:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUWJqa0lxbThtM3RKclBwMThJem0zTW9BQW9JQ3RBbUYzeWFSbm1OSFlnellTMnNieE9DMmFyRnprSVBTUXJqYW1qMVJ6ZElHQUNZX1IwYXBiclZhbTJ5RHpRUE01R0ZSQmJXVnNUN1hkQVAzdk5iV0VNNkVVX1BVQUpFQ2xlakw3d3k4U2VRSnMtdkMySlJwYUJ1TWJkMkE3S01zTnVtM2VPejNBbE00Nnk5QlgwWW10a0VvcEMzMTZ4UzFhX1N6czN4b2FIbUdGYURmejhDZEE2YzZMV1JDb0dUbmhoRHFiVmlsSFJuSWVxYURWWUxiQktkaW5JZFR0WmtUSENwMnJLLTdtNUxmTDdXM0JUUG50NC1RbFNJTzMxS1FzWUJ0Z0hpZkc4ZmJMV1BqTlVUWkd4SjVlTVNPREIwWGpPd3BSTHVBLUdzMzlaQQ?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
+        "title": "Започна IV Пловдивски фестивал на науката, предстоят четири дни с демонстрации и експерименти - MediaBricks",
+        "description": "",
+        "date": "2026-10-22T09:32:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2xJUDZIMHYxbWwxMlpVeDlRQnBtWEFVZGJTampvYTF6eG84a19faGFNb0Z1eDlfSmRxaWUtX3d2RnpxNTBXWnd2aklXbHl0clNUMkYzNnRFUFJRYWluSlM4TGtFRnMtbkRBUkpWZndLbTR2S2p4VVh1bk9lNnhVSHhDbGNINHVSUnY2VUdwZFBPSHBzaHNGbno1OWJrVW1CNGRtb3JwWXY1aEZNUEFGOXBBVEkxcXNVWHZaVw?oc=5",
+        "source": "MediaBricks",
+        "image": null
+      },
+      {
+        "title": "Науката на популярен език превзема Пловдив за четири дни - marica.bg",
+        "description": "",
+        "date": "2026-10-22T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGd5M2xwSXRfaXFoQVhWemFoNmRyOG9YcWxsWXgtTWxWSHRGajA4SFFFZEo2UWp6eE9HVGJUTlFkVlo2N2lDeDZiRlFVU2NjSFhwS3pOQW9kbS0xVUlaR3FFbGFPbTNTeVlUYl9DTTVCTHhrMDBmV3lELVBvSnZaWTMwd3NmNmRjZ3lhdnpRaXY4dHVhRjgtQzl30gGfAUFVX3lxTE5kUnJiRmVLQWtZWTJka1FsRkwtbDFzWFdHWElCWDBVNXBhNUlLVnRqTWV2UUd6ajBzRFNJM3VMLUEwX2c0dVUxbHhQSFVfd1A3TGpxR0M0RkNGNlN5RmN4X1NpYXllYjluajNQbS1mWUp0RnUxMVZENENxUFpkOWhaWFl4QlNlZDBxUWttYTd5VFE3YWI4Zmhtd05zYzZGTQ?oc=5",
+        "source": "marica.bg",
         "image": null
       }
     ],
@@ -657,6 +689,14 @@
         "image": null
       },
       {
+        "title": "Десет бивши просветни министри против въвеждането на един учебник по предмет - News.bg",
+        "description": "",
+        "date": "2026-10-23T11:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlBjTUprbFZRQ1ktWktMZEg3SnNKbmptcmZYYnpRMzJBeGNDOWc3a3RGNjlpQUdPWGpZcHNxTjNqYVlweS1lYk94VVZmcHFadURYY2dmMU9RN2NmbFZEdkx3X3h0WWRRMG9iX05HZWJ3T0tWMGJJMmdQaUVJZzVwamxmRXFwUndCVENTQ3BsbHNCc3paMW9kbWJha184X25KWV9RNUNyeTd3MkhuT1JV?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
         "title": "\"Зелена светлина\": българските лекари ще могат да практикуват в САЩ при едно условие - Dnevnik.bg",
         "description": "",
         "date": "2026-10-23T10:20:00+00:00",
@@ -686,14 +726,6 @@
         "date": "2026-10-23T08:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudWtfOTNDQjBsb2U5TkhDanE0cExqa3E1S0FwWmNQUThieFg1TmhIdjVRU1Q2eWlQeHVWWk9ZZmZoMkJMamstbHRROWFRSG92eTdxYUVn?oc=5",
         "source": "Кворум Силистра",
-        "image": null
-      },
-      {
-        "title": "Протестът на НАТФИЗ: Студенти \"венчаха\" ректора и министъра, включиха се още университети - Dnevnik.bg",
-        "description": "",
-        "date": "2026-10-22T15:53:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkpIQjZ0NU9MTVB2bGxhbFl4OWVBYkZjMktEcy1RRHowcEJjUFRTUnR1MTdpcG1hdHhzUFhfT0FYbzFqUm9kNm9BWDk2UDMzOUcyNkpoUWgycWNDSkJ6UF9nNkJyTUE1dHVENmZYSFFWOHFyaVBCMExyS3RUcWFPcTBEYVU2TmxIVjRvSWltckhmVTBrcjRhei1wRDRYQU9LWVc3WXA1OTZQUTA?oc=5",
-        "source": "Dnevnik.bg",
         "image": null
       }
     ],
@@ -739,11 +771,11 @@
         "image": null
       },
       {
-        "title": "Съветникът на президента на Украйна по отбранителни технологии Сергей Бескрестнов - novini247.com",
+        "title": "Съветникът на президента на Украйна по отбранителни технологии Сергей Бескрестнов - https://novini247.com/",
         "description": "",
-        "date": "2026-10-25T10:39:07+00:00",
+        "date": "2026-10-25T11:38:21+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc1N6SjhISGd2VlBUMmpNZTc3RmtzYVVEcGhwdDhlRWRrVmVnazc1VzZMNGFmWUdxc1BpdnZ0WHE4R25wLVFwQS04RV82dDgzLTFBMjE0Ym9pZGxjUlItVGJXbV9vYkQtODg0dmpseVBEZlpXb2tBX19wTWRoVkttbVV5bW5qTHhBM01ScDJpWktPSnFXOEltZ3FFVWtLeHlXRUJlTHd1WXZOUlhoOTVEMUZHbGZTYjdfYzRMaFB5RzRBZw?oc=5",
-        "source": "novini247.com",
+        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -819,14 +851,6 @@
         "image": null
       },
       {
-        "title": "Япония проучва ИИ за ранно откриване на риск сред учениците - Ruse news",
-        "description": "",
-        "date": "2026-10-24T08:37:24+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEY1SDFZcFVydXhKYjZRMUZQSVVOcEZaMDBFQm9LSExaaWxIX25TRzAxbGJOZ0tFb3YxdmVadjBXeWktcHZMcTdWR3k2YnU3Nkx6Uk9YckVGSUVwWU52Nl9DZ0xXQzYxUEFhQ3ozQjBFR2lTdWJTTXY0Wlg1ckExeGJQMDdKcVVCRF95WjB5VzhvU0RlNl96b0hLN2U2WW1ySHoxbjQ0QQ?oc=5",
-        "source": "Ruse news",
-        "image": null
-      },
-      {
         "title": "Украинските военни отчитат стабилен Starlink при движение над 400 км/ч - paragraf.bg",
         "description": "",
         "date": "2026-10-24T08:34:23+00:00",
@@ -897,6 +921,14 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX05vdGlSTjM3c0ZkbDFQZmItSUVEcGpEQkhhc1M4Qzg3REhRbkJsSElnRWc2bi1nbHMxVGROT3pTM0U0UmE3ZVkzQm9NVnF4bDhWemc2NXRsd0ZPY1JtRFVwUGVseGpzSGlqanMyeENva2ZfQ0JBTDlwWU1aeExxUVBScmdsazd0M2U5M1ExeXAwdnVBR2FMa2lab0RzTThkZnVDTDhtcjZleTRvdEtBYnFHVWhzX05KSDkwdG9mdU5GaDFsR241UnZ2VjNSVFV6d3ZVRllmclA?oc=5",
         "source": "Mobile Bulgaria",
         "image": null
+      },
+      {
+        "title": "Google предоставя ново дарение от 1 милион долара на INSAIT в София - Свободна точка",
+        "description": "",
+        "date": "2026-10-23T09:10:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTBFdXFJcVU5cUdlcTAtaWQ4V19WM1ZybTdhQXJ3RGc2bmVtYnBCY1lNYjZla0VORGJfeDRUbXJEcmd0dVIxaE5vcFNoNVI3OFhrTTUxaEFuNFZsYTU4QUhLdExXNWU5VmJfMjJZNDJ5Q1hIbTVJNll1Z3huakc3TnlVQ0E4clFYUlFJTXBSaHpubVUtWTV6cVlMSEYzT1gwRzdDejBR?oc=5",
+        "source": "Свободна точка",
+        "image": null
       }
     ]
   },
@@ -913,7 +945,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 11,
+      "count": 15,
       "feeds": 1
     },
     "Образование": {
