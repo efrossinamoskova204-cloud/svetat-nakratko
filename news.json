@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-10-25T16:08:50.866655+00:00",
+  "generatedAt": "2026-10-25T16:43:08.555343+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Путин: Протестите в страните в Европа се дължат на собствените им грешки",
+        "description": "Броят на мигрантите е нараснал дотолкова, че интеграцията им вече е не просто трудна - държавите не са в състояние да ги интегрират, каза още руският президент",
+        "date": "2026-10-25T16:22:00+00:00",
+        "link": "https://dnes.dir.bg/svyat/putin-protestite-v-stranite-v-evropa-se-dalzhat-na-sobstvenite-im-greshki",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/25/3040364/384x216.jpg?_=1792947550"
+      },
+      {
+        "title": "Следете на живо в Dir.bg: Всичко най-интересно от изборния ден",
+        "description": "Новините в реално време",
+        "date": "2026-10-25T16:20:17+00:00",
+        "link": "https://dnes.dir.bg/na-fokus/sledete-na-zhivo-v-dir-bg-vsichko-nay-interesno-ot-izborniya-den",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/24/3040069/384x216.jpg?_=1792859603"
+      },
+      {
+        "title": "Приключи повторното гласуване за членове на Висшия съдебен съвет от квотата на прокурорите",
+        "description": "Приключи повторното гласуване за членове на Висшия съдебен съвет от квотата на прокурорите, съобщиха от ВСС. Магистратите гласуват за четирима членове на ВСС, като те трябва да бъдат избрани от общо 25 кандидати. Днес се проведе балотаж, тъй като във вчерашния ден нито един кандидат за член на ВСС от квотата на прокурорите не успя да получи необходимия брой гласове, за да бъде избран. Ако отново не е избран съответният брой членове с необходимото",
+        "date": "2026-10-25T16:18:47+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232428-priklyuchi-povtornoto-glasuvane-za-chlenove-na-visshiya-sadeben-savet-ot-kvotata",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028106/1000043181.jpeg"
+      },
       {
         "title": "Жителите на село край Белица бойкотираха вота заради кмета Ревански, нито един човек не е гласувал",
         "description": "В съседното село Кузьово ситуацията е сходна - един гласувал жител и трима членове на комисията",
@@ -14,7 +38,7 @@
         "title": "Избирателната активност в страната към 16:00 е 16,04 %, най-висока е в 23 избирателен район в София - 25,09 %, а най-ниска в Кърджали – 6,77 %",
         "description": "Избирателната активност към 16:00 ч. в страната е 16,04 %, съобщи говорителят на Централната избирателна комисия (ЦИК) Стоянка Балова на третия брифинг пред журналисти във връзка с днешните избори за президент и вицепрезидент. Най-висока е активността в 23 избирателен район – София - 25,09 %, а най-ниска в област - Кърджали – 6,77 %. Избирателната активност по области: Благоевград - 14,15 % Бургас - 15,0 % Варна - 17,93 % Велико Търново - 16,96 %",
         "date": "2026-10-25T16:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/1232381-izbiratelnata-aktivnost-v-stranata-kam-16-00-e-16-04-nay-visoka-e-v-23-izbira",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232381-izbiratelnata-aktivnost-v-stranata-kam-16-00-e-16-04-nay-visoka-e-v-23-izbira",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14032960/20261025_124829.jpg"
       },
@@ -25,14 +49,6 @@
         "link": "https://dnes.dir.bg/politika/obyaviha-posledni-rezultati-predi-ofitsialnite-3",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/24/3040021/384x216.jpg?_=1792858388"
-      },
-      {
-        "title": "Следете на живо в Dir.bg: Всичко най-интересно от изборния ден",
-        "description": "Новините в реално време",
-        "date": "2026-10-25T15:58:01+00:00",
-        "link": "https://dnes.dir.bg/na-fokus/sledete-na-zhivo-v-dir-bg-vsichko-nay-interesno-ot-izborniya-den",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/24/3040069/384x216.jpg?_=1792859603"
       },
       {
         "title": "Избирателната активност в област Благоевград е 14,15 процента към 16:00 часа",
@@ -57,6 +73,14 @@
         "link": "https://dnes.dir.bg/politika/borisov-glasuva-zashtoto-e-dlazhen-horata-ne-vizhdat-obedinitel-na-natsiyata",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/25/3040359/384x216.jpg?_=1792944704"
+      },
+      {
+        "title": "Кървави избори в Сърбия: Нападнаха майката на Александър Вучич в Белград, маскирани бият пред секциите - Vesti.bg",
+        "description": "",
+        "date": "2026-10-25T15:40:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPay1zMWt6OWplZzgtM1NiTnNVWldoWk9HTzlXNWhmbW55R09rQ1l0d0M2bWhYaUh3aEY3LU9SUGVHdjlFNHB3NjkzOG11aVdEb1J6amNQTUlrdWlzQWlQdEwxaXhaYWpPbDF0b0VlWGNoOU9yVjZlN09aOGM0NU5kOWRlYzA3cXhURUhpRGs2a0ZINFZyaDZ3OHVISDNYaE9pM0oya3owQ1Q3cjQtM2piVGJKWm1VMDJEeVJWenlKR01EMUUyeWc3dmVBQi1abDBwN0RTa0lR?oc=5",
+        "source": "Vesti.bg",
+        "image": null
       },
       {
         "title": "Женският баскетболен Берое и Александра Катанич се разделят",
@@ -120,7 +144,7 @@
         "date": "2026-10-25T15:23:00+00:00",
         "link": "https://www.bta.bg/bg/news/bulgaria/1232348-kam-16-00-ch-izbiratelnata-aktivnost-v-stranata-e-16-04-saobshti-govoritelya",
         "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032901/1000169080.jpeg"
+        "image": "https://www.bta.bg/upload/14033141/Izbiratelna-Aktivnost-2026-16h-2.jpg"
       },
       {
         "title": "Активността на президентските избори в Габрово към 16:00 ч. е 17,30 на сто",
@@ -177,30 +201,6 @@
         "link": "https://www.bta.bg/bg/news/1232400-izbiratelnata-aktivnost-v-23-ti-rayon-v-sofiya-e-25-7-kam-16-00-chasa",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14031376/BKK_8730+%281%29.JPG"
-      },
-      {
-        "title": "Избирателната активност в област Плевен към 16:00 часа е 14,8%",
-        "description": "Избирателната активност в област Плевен на изборите за президент и вицепрезидент на Република България към 16:00 часа е 14,8%. Това съобщи за БТА председателят на Районната избирателна комисия (РИК) в Плевен Кристина Николаева. Тя каза още, че изборният ден протича спокойно. В две секции в общините Плевен и Никопол гласуването е преминало само с хартиени бюлетини заради проблем с машините. Правото си на глас в областта до този час са упражнили 33",
-        "date": "2026-10-25T15:06:51+00:00",
-        "link": "https://www.bta.bg/bg/news/1232396-izbiratelnata-aktivnost-v-oblast-pleven-kam-16-00-chasa-e-14-8-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032847/20261023_140946.jpg"
-      },
-      {
-        "title": "Избирателната активност към 16:00 часа в Софийска област е 18,37 процента",
-        "description": "Избирателната активност към 16:00 часа в Софийска област е 18,37 процента, съобщи председателят на Районната избирателна комисия Иванка Андреева. До 16:00 часа са гласували общо 34 982 души на територията на Софийска област. Най-висока е избирателната активност в община Правец - 23,94 процента, а най-ниска - в община Ихтиман - 13,63 процента. Избирателната активност към 11:00 часа в Софийска област бе 7,77 процента. Във всички секции изборният пр",
-        "date": "2026-10-25T15:05:16+00:00",
-        "link": "https://www.bta.bg/bg/news/1232393-izbiratelnata-aktivnost-kam-16-00-chasa-v-sofiyska-oblast-e-18-37-protsenta",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14031688/20261025_102707.jpg"
-      },
-      {
-        "title": "Обновената изложбена зала „Сирак Скитник“ в Сливен отваря врати на Димитровден",
-        "description": "Обновената изложбена зала „Сирак Скитник“ в Сливен ще бъде официално открита на 26 октомври – Димитровден, празника на града, съобщиха от общинския пресцентър. Церемонията ще започне в 18:00 ч. в пространството пред галерията, след което ще бъде открита Националната изложба по изобразително изкуство – Сливен 2026 и ще бъде връчена наградата „Сирак Скитник“. Залата, част от Художествената галерия „Димитър Добрович“, е обновена по проект, финансира",
-        "date": "2026-10-25T15:04:35+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1232371-obnovenata-izlozhbena-zala-sirak-skitnik-v-sliven-otvarya-vrati-na-dimitrovden",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032745/20261008_091240.jpg"
       }
     ],
     "Свят": [
@@ -229,10 +229,10 @@
         "image": "https://www.bta.bg/upload/14030932/d18f94b420d44228ae4870314114e63a--0--8f28c9da9fe84153bfee35c29365fd2c.jpg"
       },
       {
-        "title": "Над 82 000 абоната в северните части на Великобритания са без тока заради бурята „Боело“",
+        "title": "Над 82 000 абоната в северните части на Великобритания са без ток заради бурята „Боело“",
         "description": "Над 82 000 абоната - домакинства, учреждения и други обекти - са без електричествов резултат на бурята „Боело“, която продължава да бушува над северните части на Великобритания, с пориви на вятъра, достигащи 135 км/ч, предаде Пи Ей медия/ДПА. Оранжевият код за опасно силен вятър остава в сила до 23:00 ч. българско време днес. Екипите, работещи при тежки метеорологични условия, са възстановили електроснабдяването на 344 900 потребители, но 82 600 ",
-        "date": "2026-10-25T15:14:07+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232306-nad-82-000-abonata-v-severnite-chasti-na-velikobritaniya-sa-bez-toka-zaradi-bury",
+        "date": "2026-10-25T15:14:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1232306-nad-82-000-abonata-v-severnite-chasti-na-velikobritaniya-sa-bez-tok-zaradi-burya",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14032049/8ed16cc14af9428fa48816bcb3bfdeb5--0--f69d5724200c4c628ad8eccf9e5b039d.jpg"
       },
@@ -407,14 +407,6 @@
     ],
     "Наука": [
       {
-        "title": "Роботи превзеха дансинга в Китай: 110 хуманоидни машини с рекорд в „Гинес“ - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-10-25T14:59:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1g1NFNNWjh3QVFvQVNGLS1OYUc0OEViN29kNk9fbzB6SHMwSjdFU09aY05xSGJTM3pXNGlrM3RUV251UG00Q3Y5VEJkWkVCMjJ0ZjdyaklTeWl4X3d6TkZNN0ZraGR1Sl9sYzhfOVcxd09udjNxYXlEekpLOGxCUlNfT2xfdWcwRDdPZGZuTExKMmpHLV9MY0lxYjM5QQ?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
-      },
-      {
         "title": "Институтът по математика и информатика е притегателен център за млади математици - БНР Новини",
         "description": "",
         "date": "2026-10-25T13:36:25+00:00",
@@ -455,6 +447,14 @@
         "image": null
       },
       {
+        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - Утро Русе",
+        "description": "",
+        "date": "2026-10-23T15:39:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xQnhoU01CSG9MdFQ4akhndWxLblFfMzRvbmhTVzVZa0dwRjhCdk96bG1YVlFYQmRfd3pSREh4T0dXRzhybU9QVNIBSEFVX3lxTE0xQnhoU01CSG9MdFQ4akhndWxLblFfMzRvbmhTVzVZa0dwRjhCdk96bG1YVlFYQmRfd3pSREh4T0dXRzhybU9QVA?oc=5",
+        "source": "Утро Русе",
+        "image": null
+      },
+      {
         "title": "Учени откриха изненадваща хормонална връзка между котките и стопаните им - Клуб 'Z'",
         "description": "",
         "date": "2026-10-23T07:31:37+00:00",
@@ -471,6 +471,14 @@
         "image": null
       },
       {
+        "title": "Учени разгадаха квантова загадка, която озадачаваше физиците в продължение на десетилетия - Kaldata.com",
+        "description": "",
+        "date": "2026-10-23T06:13:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Z9IB0gVBVV95cUxPQlVDNWdTZXZXSE5fc2pqN2dURWxNQlFtSURyOWl3NWVnWk9OSk52dUNKdXI2bUNHdlI3WEhRUXNVcWlvMlZFUmhoQjNKbm85eUFxLTVEM0ZKcENnVlFuMEY3MWNlVFdRRGUyaWpXTWtuZjZTLWJkWGZobkMxZ0RsWGVWa0JNMjhNQWZWbDlBNnBJU01haW9VWHV1UVQtc2dQcHZhbmhYb3lSUkF3RW91aDZyb2lqRjJRZ2pjM2d0S1pJY0JBaHVTeGw0VXZmR25GeG83NGVoNUNpSFhfUWdOQ0piR3JuZTlOX0EzV0U5WVVCbnhrTTNMUFFaYjF6Umo4VDBmRWIwYy12ZElTcGRLc1JmQ3FkWTY0dS04VVFrV3o2QjJhcTRBQm1DcFVRSVUyWEhIVGVYYkw1Ym5Ec2d3RFFOVksyRkRHWkc1SnlrNkp6dUxSZDZEa1ZMOFhmSi1OZ1pmY3g4OWp0UldDOVU5bnNrbi00X2l6a20xZV9lSkpwMzluOUxfaHpLUXJiSXg2T29DVk51WjBnZUY5Y1pfbnVMeVNKcnROS0g2VHB3ZVJ3SjBlZzd2dDFWNmhXYkhwbl9GWUhwTjMzM1p6eks3blZPTWszNEtHcTFBdFl5TDVYWkJlRkFmYlJhVFl0UFVKOV8zVDB3dTNjUDlDVTJaRUZHVngyQW10MGc5WnJ3azRnWF9BZkEzOU5heV9reS1CZjlnSTFmWUt5LTlfNUxMSU5qdlljZDNoanp0ZUphTGpRZWVzX3lqd2c1bGJlV0JuUWh2VEppZmhxUTBnNHdEbjNaN25uYWRmOWdDVlVLamtQMkJWMENUanRRVGFKNnBBRE1PNXRyX1ZEZ0xhZVF1czV1aWJBdUNuTnZYTEFzODliNXVSakRaRUdkaUZBNVZkdmRxdF9SVGJULW16elF1dkFJRlhXenJEaEVvdUtYNkh5Zw?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
         "title": "„Умно финансиране”: Защо е важно да инвестираме в наука - nova.bg",
         "description": "",
         "date": "2026-10-23T05:47:00+00:00",
@@ -479,11 +487,11 @@
         "image": null
       },
       {
-        "title": "Безопасност на екстремните граници: Как Mercedes-Benz превърна катастрофата в наука - NetNews – Новините на Ямбол",
+        "title": "Роботи, фосили и космически пътешествия на Пловдивския фестивал на науката - БНР Новини",
         "description": "",
-        "date": "2026-10-23T02:56:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQLVhaaFFhV0dIN1UxQUdiYVFWWVdnNzdYSEx0Xy1qSXZwUjJ6SURueVBoMDFlZzEzWjB2SHZIQy1jSHZEUEt2c0N1LXdSQndfNTIwWDhLYV9IODF1amxmNkcyTjlBOXE1SmNYeUk2VmNLLWdmOWdXTjYtWXRLSkVUOGlCMUxBZzA5ZVRtMmhSN2NBVm5YeS14YkgyRVdydVRwaUxwdXdKV25UWkFlaUktQlpFSnFDVk5TU2JlcklZZldnXzhsQk5aZGZJVll6NWNLcHhZeEgzakpJbmticWljMzctanpJQ2ZjeFVwZno5d0dXTmNicHkyN0N4SjdNdm5FcmUwZ21FMW8yNTBySFZJZlk4Y2ZXUV9HNTVuU29ZRk5kZVYzc2JJRDVGOU94TXB1V2dhbzRlZVBzQmhz?oc=5",
-        "source": "NetNews – Новините на Ямбол",
+        "date": "2026-10-22T13:41:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2sxNHdkWElwYWEtcVppNFJKY1RyRGJxS3JaSTU2T3VzVVg2eDk3aUwtY2VoQnBSdFdxOEVDNWR6RjBMVUt1eXZDQzlFX3F5RFpzelR4M3JvcmgwaWxlTXpYWW9OeWFWU0xUcUxNVTluYWZEWlJLOTB3cTZOVndHOWFHQndoZzg2SEVxR1pLQ3NMSUZyYS1MSUlfYlNpWDhabkt4WU41MlpmVGp6dUFfcWY0aw?oc=5",
+        "source": "БНР Новини",
         "image": null
       },
       {
@@ -492,6 +500,30 @@
         "date": "2026-10-22T12:50:18+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRU9FWFZtYmR0Sl9tY05yLV9wdXFuSlE1RGpySUZ3a2RJQTM2eWRxaktqRVZlRU1aN0JMaXl0WjdCTm8tRnpaYzU4MXI2bEdsVmhadG5BRnpQYjZINlhodDlvT19hNFBiQjhleGhndGVWbDQwV05LVUpEbDZaUUtXUnBjRlVYLVNtOGk5U2Rtd3kyU1g2R2UwNEQzZXR3d2FJVWdSTGNtbFd1UQ?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Образованието трябва да е възвисено над партийното, каза председателят на парламентарната Комисия по образование и наука Димитър Здравков - Делник БГ",
+        "description": "",
+        "date": "2026-10-22T11:28:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQUWJqa0lxbThtM3RKclBwMThJem0zTW9BQW9JQ3RBbUYzeWFSbm1OSFlnellTMnNieE9DMmFyRnprSVBTUXJqYW1qMVJ6ZElHQUNZX1IwYXBiclZhbTJ5RHpRUE01R0ZSQmJXVnNUN1hkQVAzdk5iV0VNNkVVX1BVQUpFQ2xlakw3d3k4U2VRSnMtdkMySlJwYUJ1TWJkMkE3S01zTnVtM2VPejNBbE00Nnk5QlgwWW10a0VvcEMzMTZ4UzFhX1N6czN4b2FIbUdGYURmejhDZEE2YzZMV1JDb0dUbmhoRHFiVmlsSFJuSWVxYURWWUxiQktkaW5JZFR0WmtUSENwMnJLLTdtNUxmTDdXM0JUUG50NC1RbFNJTzMxS1FzWUJ0Z0hpZkc4ZmJMV1BqTlVUWkd4SjVlTVNPREIwWGpPd3BSTHVBLUdzMzlaQQ?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
+        "title": "Започна IV Пловдивски фестивал на науката, предстоят четири дни с демонстрации и експерименти - MediaBricks",
+        "description": "",
+        "date": "2026-10-22T09:32:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc2xJUDZIMHYxbWwxMlpVeDlRQnBtWEFVZGJTampvYTF6eG84a19faGFNb0Z1eDlfSmRxaWUtX3d2RnpxNTBXWnd2aklXbHl0clNUMkYzNnRFUFJRYWluSlM4TGtFRnMtbkRBUkpWZndLbTR2S2p4VVh1bk9lNnhVSHhDbGNINHVSUnY2VUdwZFBPSHBzaHNGbno1OWJrVW1CNGRtb3JwWXY1aEZNUEFGOXBBVEkxcXNVWHZaVw?oc=5",
+        "source": "MediaBricks",
+        "image": null
+      },
+      {
+        "title": "Науката на популярен език превзема Пловдив за четири дни - marica.bg",
+        "description": "",
+        "date": "2026-10-22T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGd5M2xwSXRfaXFoQVhWemFoNmRyOG9YcWxsWXgtTWxWSHRGajA4SFFFZEo2UWp6eE9HVGJUTlFkVlo2N2lDeDZiRlFVU2NjSFhwS3pOQW9kbS0xVUlaR3FFbGFPbTNTeVlUYl9DTTVCTHhrMDBmV3lELVBvSnZaWTMwd3NmNmRjZ3lhdnpRaXY4dHVhRjgtQzl30gGfAUFVX3lxTE5kUnJiRmVLQWtZWTJka1FsRkwtbDFzWFdHWElCWDBVNXBhNUlLVnRqTWV2UUd6ajBzRFNJM3VMLUEwX2c0dVUxbHhQSFVfd1A3TGpxR0M0RkNGNlN5RmN4X1NpYXllYjluajNQbS1mWUp0RnUxMVZENENxUFpkOWhaWFl4QlNlZDBxUWttYTd5VFE3YWI4Zmhtd05zYzZGTQ?oc=5",
+        "source": "marica.bg",
         "image": null
       }
     ],
@@ -526,14 +558,6 @@
         "date": "2026-10-24T21:07:08+00:00",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFBtYU50RERMU2hVdGRVZTBVVGdKak80N01sandYMy1wSWpiZU9VSWIwQ1pyYnNDM0Y2VHRjZFZidTYxeFhoZU1NWXdIOFRZREpXWXZISERDbmpGN1MzM3ZVNTFRdGc1ZUdzOXhxLUlmdzNhSXcwSWVkNGJxOTA2UGRvTlFfR2M2c25KRjZkWmhmLTN0d1pmcm9LMmdDYk15ZVZoQTQ4amtQNk53Z09kMmpsM3M?oc=5",
         "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "Франция задържа 135 души на протестите, властите разположиха 70 000 полицаи - paragraf.bg",
-        "description": "",
-        "date": "2026-10-24T14:44:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONGJzVDcwclhZVUQwVWdlT1dCLTNrVmxGSEgtZVllbFRhMTZOeEVWUmVrMklyYUI5YVVVT2ttZENfT1RYT0tnREpwYzY4V3JEejFsMk9qdDJQYm41SVdZV2Rycms4di05eXR2VjRzV2pyeXhvZno3WWp5a0F1a3VXZ1ZZNkFFRk9CTk92bzNpX0xSY3RvR1VsTkl3UDZLMlVaZExN?oc=5",
-        "source": "paragraf.bg",
         "image": null
       },
       {
@@ -694,6 +718,14 @@
         "date": "2026-10-23T08:58:32+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWhYLVlWYklkWUdfcUhlWFZQSjJ1U3J6dGFPdC1fQWlZR29mVVJ3bGdKcEpGY09nbGFlaXBoUVdRN1haWmE2b2dNckRCVWpyNndCNmY4WVdSSnhyMWdhbzl1RHRzVTQ3OWJGeENpYWRnN2lCQjltZTFDMHFuZ3RfeE13LWNqQVFoVFNjWW5qZEtlUUtHRGxLT3VxTnVMS3lyVzNodnVrZjRhRVpEUUVrd0hDaTl5SFdYT0pV?oc=5",
         "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Силистра и Гюргево обмениха добри практики за по-достъпно приобщаващо образование - Кворум Силистра",
+        "description": "",
+        "date": "2026-10-23T08:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudWtfOTNDQjBsb2U5TkhDanE0cExqa3E1S0FwWmNQUThieFg1TmhIdjVRU1Q2eWlQeHVWWk9ZZmZoMkJMamstbHRROWFRSG92eTdxYUVn?oc=5",
+        "source": "Кворум Силистра",
         "image": null
       }
     ],
@@ -913,7 +945,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 11,
+      "count": 15,
       "feeds": 1
     },
     "Образование": {
