@@ -1,28 +1,20 @@
 {
-  "generatedAt": "2026-10-26T21:52:16.284995+00:00",
+  "generatedAt": "2026-10-26T22:45:29.296624+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Цената на батерия надхвърли 3 пъти тази на стар електромобил - Investor.bg",
+        "description": "",
+        "date": "2026-10-26T21:56:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFNid2V3UGZhVmhXRVozNko0R1Z5RTVJRDY0Ri1wOGZ4N285anQ4R0pSOFJTdl9MbHpmclBlcmJLOUVWZFkxbzRmYzM3Rm9RNFlSMWVoejZPZ0JVaUZxMXZTdnhuRkJHMmlHZmJPTUp4R3ZlRGprVUFUQjNobHAxR1FwOTF6Q1NlWU1ucE1KdEdBeU43a1h0TW8wMXVuTmx5dGtrSHlnVDEyNDFTcEE?oc=5",
+        "source": "Investor.bg",
+        "image": null
+      },
       {
         "title": "Кола на старо до 10 000 евро – тези модели рядко разочароват - Investor.bg",
         "description": "",
         "date": "2026-10-26T21:14:47+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUl9UenFqYnRUVTEzUTBYR29YdVBWanhkZHRHUzZ1bENpNzZLWWdYcDhnVnRCazNrc0Z3T015S2NSMEswd1d1TllqdUdUYWZaT2ZVRXNPd1hVSmxrc1ZrWlpCQ3BBSnlYVk9OMUUzQUJFUE9fNkJCVmpSYnNrN0hUZGo3MGJkVndnRzRZN0RQaERyRFNBZUtJSnAwUHhQeEpoZ1lybGpuRTFUalU?oc=5",
-        "source": "Investor.bg",
-        "image": null
-      },
-      {
-        "title": "Убийството на Слави Бинев: Два еднакви джипа са забелязани около дома му (ВИДЕО) - bTV Новините",
-        "description": "",
-        "date": "2026-10-26T20:56:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2RUWWhKamk1ODB3V1F3bzZITk5YWGdQTnFPYzVaanFfdkpfNXRkN0IwWHY3dC11alVrMFZYWDR2bW1OQ1VSRmZ1ZHNLcmhhR3h3eW9RMFNUOF9Cd0ZzTzAyb25wTFdKTUtWT3FZdkgwSWJPbTNETzJodUJRenViSHA3M3k2NExCM05SOUFySTIzR180SnVjTzQ1dU8tQW5yWENtYTBRa2hjUUkteXVv?oc=5",
-        "source": "bTV Новините",
-        "image": null
-      },
-      {
-        "title": "Цената на батерия надхвърли 3 пъти тази на стар електромобил - Investor.bg",
-        "description": "",
-        "date": "2026-10-26T20:50:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFNid2V3UGZhVmhXRVozNko0R1Z5RTVJRDY0Ri1wOGZ4N285anQ4R0pSOFJTdl9MbHpmclBlcmJLOUVWZFkxbzRmYzM3Rm9RNFlSMWVoejZPZ0JVaUZxMXZTdnhuRkJHMmlHZmJPTUp4R3ZlRGprVUFUQjNobHAxR1FwOTF6Q1NlWU1ucE1KdEdBeU43a1h0TW8wMXVuTmx5dGtrSHlnVDEyNDFTcEE?oc=5",
         "source": "Investor.bg",
         "image": null
       },
@@ -123,6 +115,14 @@
         "image": "https://www.bta.bg/upload/14037721/20261026_174155.jpg"
       },
       {
+        "title": "Убийството на Слави Бинев: Два еднакви джипа са забелязани около дома му (ВИДЕО) - bTV Новините",
+        "description": "",
+        "date": "2026-10-26T18:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2RUWWhKamk1ODB3V1F3bzZITk5YWGdQTnFPYzVaanFfdkpfNXRkN0IwWHY3dC11alVrMFZYWDR2bW1OQ1VSRmZ1ZHNLcmhhR3h3eW9RMFNUOF9Cd0ZzTzAyb25wTFdKTUtWT3FZdkgwSWJPbTNETzJodUJRenViSHA3M3k2NExCM05SOUFySTIzR180SnVjTzQ1dU8tQW5yWENtYTBRa2hjUUkteXVv?oc=5",
+        "source": "bTV Новините",
+        "image": null
+      },
+      {
         "title": "Певецът Веселин Маринов ще гостува в Петрич с концерта „Ти си любовта\"",
         "description": "Певецът Веселин Маринов ще гостува утре вечер в читалище „Братя Миладинови\" в Петрич, където ще представи концерта „Ти си любовта\". Музикалната проява е част от националното му турне, с което изпълнителят отбелязва 45 години творческа дейност, съобщават организаторите. Концертът ще започне в 18:30 часа. В програмата са включени популярни песни от различни периоди на музикалната кариера на изпълнителя. Есенният етап от юбилейното турне започна в н",
         "date": "2026-10-26T17:51:06+00:00",
@@ -205,12 +205,60 @@
     ],
     "Свят": [
       {
+        "title": "Зеленски заяви, че има \"жертви и ранени\" при атака срещу образователно учреждение в Киев",
+        "description": "Украинският президент Володимир Зеленски заяви днес, че има \"жертви и ранени\" при руска ракетна атака срещу образователно учреждение, парк, жилищни сгради и станция на метрото в Киев, предаде Ройтерс. \"За момента не знаем точния им брой, но за съжаление има жертви. Има и ранени. В ход са спасителни операции\", написа Зеленски в Телеграм и добави: \"Точно при такива условия заплахата е постоянна и ударите срещу нашите градове и села могат да дойдат ",
+        "date": "2026-10-26T22:37:09+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233336-zelenski-zayavi-che-ima-zhertvi-i-raneni-pri-ataka-sreshtu-obrazovatelno-uchr",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14022452/b0f580b915f84d4f95f4931351a3ec8b--0--5e216ace0bcb4494ac8daf4e38788702.jpg"
+      },
+      {
+        "title": "КАБАР: Киргизстан и Катар обсъдиха стартирането на директни полети",
+        "description": "Данияр Амангелдиев, първи вицепремиер на Киргизстан, проведе двустранна среща с Ахмед бин Мохамед ал Сайед, държавен министър на външната търговия към Министерството на търговията и промишлеността на Катар, предаде киргизстанската новинарска агенция КАБАР. По време на срещата, проведена в Доха, страните обсъдиха перспективите за развитие на двустранните търговски, икономически и инвестиционни връзки. На срещата бе поставен акцент върху увеличаван",
+        "date": "2026-10-26T22:02:30+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1232898-kabar-kirgizstan-i-katar-obsadiha-startiraneto-na-direktni-poleti",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14036654/6add.2e16d0ba.format-webp.fill-1668x1014.webpquality-65.jpg"
+      },
+      {
+        "title": "Флавио Болсонаро заяви, че бразилската полиция е поискала да ѝ предаде паспортите си",
+        "description": "Бразилският сенатор Флавио Болсонаро заяви днес, че бразилската федерална полиция е поискала да ѝ предаде паспортите си след посещението му при намиращия се в затвора негов баща - бившия президент Жаир Болсонаро, предаде Ройтерс. Сенаторът, който беше победен на вчерашния балотаж на изборите от действащия президент Луиз Инасио Лула да Силва, каза, че възнамерява да изпълни полицейското нареждане и че не планира на напусне страната след вота. Флав",
+        "date": "2026-10-26T21:58:04+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233335-flavio-bolsonaro-zayavi-che-brazilskata-politsiya-e-poiskala-da-predade-paspo",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14035841/6e2e343a1f55483c916f480aeb4b7f45--0--9c2963af917c45d5b48ee914763b93f3.jpg"
+      },
+      {
+        "title": "Хари Кейн срещу останалия свят: Днес връчват \"Златната топка\" - Gol.bg",
+        "description": "",
+        "date": "2026-10-26T21:48:14+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUJlWE81M05vaEFaY00tMUdsX3dMTFJMTDlvTHJNbkdicVg5elFkbTdVSFdidTVpRy00Y3NVMGRBZGl5emhjYVlVQ0lpQm1qM0x6Q2VrcVZNeVpSaUZFeW5aRUE3TFVrOWcwanBrRGRsVFdlMWhrd2hlUEkzeVpTNjZEZ3NsWWtmUGxjZVA2MVliRE01aC1IZWJZUmxVZDJ1aVRxWg?oc=5",
+        "source": "Gol.bg",
+        "image": null
+      },
+      {
         "title": "Тръмп предлага възнаграждение от 1 милион долара на всеки, който докладва за изборни измами на изборите в САЩ",
         "description": "Американският президент Доналд Тръмп предлага възнаграждение от 1 млн. долара на всеки, който докладва за изборни измами на изборите в САЩ и от това произтече арест и осъдителна присъда, предаде Ройтерс. Предложението идва само седмица преди междинните избори в САЩ, които според анкетите могат да поднесат неприятна изненада за Републиканската партия. Правителството на Тръмп възприе агресивен подход към контрола върху произвеждането на изборите, о",
         "date": "2026-10-26T21:37:33+00:00",
         "link": "https://www.bta.bg/bg/news/world/1233332-tramp-predlaga-vaznagrazhdenie-ot-1-milion-dolara-na-vseki-koyto-dokladva-za-iz",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037870/926c5937d145491080191ddc2019417b--0--6849eab233c04f599c0403d450548e93.jpg"
+      },
+      {
+        "title": "Шарън Озбърн разкри последните мигове на Ози - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T21:35:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmxLRVBtdEdUQk81ZUJmeUEwNHd6cVB3T0RQT20xNnlYVUZzRU8tODlJN3NEV19nMkxuSEw3WFVMYjZaNUNDNEdWMEJxNmZHRk9PX2dZby1xTnMtc0JyV0lHSVp5cTIxdzJHUXFmNGVfSWl3OU9Rck1teEt5dW9pOVY1VXB6MDRvZzl2d29qQk1wOFU3SXJz?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "До седмици! Бананите стават лукс в целия свят - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T21:29:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEpvTzdmX3BVeUF6N0VIUEdQWFBVcWxUVmhjblJuVk9PaGtXaVdRQTZfWXUxSlhTM05KOTJobG9qbDZicVBJNWtYb2pIWlpDTW9UbUJaYzgtaEJ1WldBQ2IxVDhjUXVEVjg2Q2pPbURpcUlqemQ0X19XMWxVRkV0N0c3MGRGM0VxYzNfbDJfREVtcS1wNURHRFRB?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Киев е подложен на ракетна атака, а един от ударите е нанесен близо до станция на метрото, съобщи кметът Кличко",
@@ -221,6 +269,14 @@
         "image": "https://www.bta.bg/upload/14021226/d7592559d17c44aaa2d2c9076cc362d8--1--04851b1931914d0693ba46d3ef58380f.jpg"
       },
       {
+        "title": "Трусове в Истанбул! Арестуваха краля на диамантите Aлтънбаш - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T21:06:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOF9RcC15WFN3bVljQ1prZjBXTVFBa1NZcGMyX0xKdERuYkJUMjVsNV9pajdFa1NyUkMxSXBQTE4zUVRGRkdwdUtabVl3ODcyUXByZGNSME1SR0p4ZkREdUR2S0tYUXptVTV6MzJLY2ZIZnFSOUtDVUtlUUdkVlhpMEgxTzFabzBKRnRaUklXOFBvclJ2NVdEYVJnTnIyRDVkNkx6QjZjV2hBVms?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "Зеленски подписа укази за продължаване на военното положение и мобилизацията в Украйна с още 90 дни",
         "description": "Украинският президент Володимир Зеленски подписа укази за продължаване на военното положение и мобилизацията в Украйна с още 90 дни - до 29 януари 2027 г., предаде агенция УНИАН. Двата указа бяха публикувани на сайта на президентската канцелария. Както съобщи по-рано УНИАН украинската Върховна рада гласува за продължаване на военното положение до 29 януари 2027 г. В подкрепа на внесения от украинския президент законопроект \"За продължаване на сро",
         "date": "2026-10-26T21:04:08+00:00",
@@ -229,12 +285,28 @@
         "image": "https://www.bta.bg/upload/14000003/22ec773a7c25460baed6982c047afea3--0--b0c950af957b446eb3ed5cd8776c93f5.jpg"
       },
       {
+        "title": "Катарзисът в Европа идва на две скорости - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T20:52:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXJpMU8tcWs2SUdpMl84NHN5Q0ltV1BqcHdUWHkxQjBJRjNmYzlMM3BLMlItVHpVemx5cEhrRWU3Sk1YODNCYWlhZElPMlR3LWs0bnoxcW5tMXd5Nkl5eDJXcEdVakl6TFRzd1piUElpTkRTQk9fWVc4dWdxZHZuOUdwZTJxczBCc1prd3Q1TVo?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "Тръмп заяви, без да представи доказателства, че президентските избори в Бразилия изглеждат манипулирани",
         "description": "Американският президент Доналд Тръмп заяви днес пред журналисти, без да представи доказателства, че президентските избори в Бразилия, спечелени вчера от левия президент Луиз Инасио Лула да Силва, изглеждат манипулирани, предаде Ройтерс. \"Не съм вземал страна, но изглежда, че това са поредните манипулирани избори\", заяви Тръмп. \"Изборните резултати трябва да бъдат неоспорими, а това, което видях, ми се стори много съмнително\", добави той. Победени",
         "date": "2026-10-26T20:30:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1233326-tramp-zayavi-bez-da-predstavi-dokazatelstva-che-prezidentskite-izbori-v-brazil",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037871/c1c63c66a3a6473c8a125f68919cd15d--0--4f7d6f3cf05a48b98611cae2a8634152.jpg"
+      },
+      {
+        "title": "Отиде си американски актьор с незабравима роля - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T20:23:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0ZUaUhNQVVFQjBmM1VhQU1yQ1hCb2lJUFI1VnJBcmRTN0hNcnNsQmtGWFNDdXJPNGRESHF5aGlMYi1ERjVON0pCWlltM1l3dGlDMVhjNWJkdjdoYUtYTWUxbWpSTi04cGM4bUswOVFQRGdVTGdZYWJWck4tQXk1VWVrYWpfZFdkTkE3VHlQRlJDakdFSE8taQ?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Руският сценограф Александър Кондратов е починал, след като е прекарал месеци в предварителния арест, съобщи неговият адвокат",
@@ -331,78 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1233283-predstaviteli-na-sauditska-arabiya-turtsiya-i-pakistan-obsadiha-v-teheran-usili",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037431/4c58d6e204ea4c3fb6961a472c5bd397--0--20b8a40603f94a529f8ab4470c59ba66.jpg"
-      },
-      {
-        "title": "Румъния обяви, че е разкрила мрежа за саботажи, координирана от Русия",
-        "description": "Румънската разузнавателна служба съобщи днес, че е разкрила мрежа за саботажи, координирана от Русия. В съобщението, публикувано на страницата на службата в интернет, се казва, че мрежата е разкрита в сътрудничество с местни и чуждестранни партньори. Според разпространената информация групата е отговорна за пожар през септември на индустриална площадка в Централна Румъния в близост до държавно предприятие от отбранителната промишленост - оръжейни",
-        "date": "2026-10-26T17:44:00+00:00",
-        "link": "https://www.bta.bg/bg/news/balkans/1233299-rumaniya-obyavi-che-e-razkrila-mrezha-za-sabotazhi-koordinirana-ot-rusiya",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11815877/301ed32505574c048ba2133b4f590bcf--0--4bf0e8adbfb14daaaa6a12189e99ac59.jpg"
-      },
-      {
-        "title": "Румъния обяви, че е разкрила мрежа за саботажи, координирана от Русия",
-        "description": "Румънската разузнавателна служба съобщи днес, че е разкрила мрежа са саботажи, координирана от Русия, предаде Ройтерс. Румънското разузнаване уточни, че групата е отговорна за пожар през септември на индустриална площадка в Централна Румъния в близост до държавно предприятие от отбранителната промишленост. „Координаторите в Руската федерация са възложили (на групата) широк кръг от цели в региона: държавни и частни производствени обекти за въоръже",
-        "date": "2026-10-26T17:44:00+00:00",
-        "link": "https://www.bta.bg/bg/news/balkans/1233291-rumaniya-obyavi-che-e-razkrila-mrezha-za-sabotazhi-koordinirana-ot-rusiya",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11815877/301ed32505574c048ba2133b4f590bcf--0--4bf0e8adbfb14daaaa6a12189e99ac59.jpg"
-      },
-      {
-        "title": "Жена, заразена с ебола в Нигерия, и съпругът ѝ, който е швейцарски дипломат, са приети в две отделни университетски болници в Швейцария",
-        "description": "Жена, живееща в Нигерия, която е заразена с ебола, и съпругът ѝ, който е швейцарски дипломат, са приети в болници в Швейцария, след като днес са били транспортирани със специален медицински полет от африканската страна, съобщиха швейцарските власти, цитирани от Ройтерс. Заразената жена е настанена в университетската болница в Женева, а съпругът ѝ, който е бил в контакт с нея и за когото първоначално имаше съмнения, че също е заразен, е поставен п",
-        "date": "2026-10-26T17:31:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233281-zhena-zarazena-s-ebola-v-nigeriya-i-saprugat-koyto-e-shveytsarski-diplomat-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14037466/7ea6c1eca22b434b8fec9a020e9c45dc--0--8adf49d403924ef4aa6350485b8f273c.jpg"
-      },
-      {
-        "title": "Коалицията, водена от Саудитска Арабия, съобщи, че силите ѝ са свалили три дрона над района на Рияд и над южните части на кралството",
-        "description": "Водената от Саудитска Арабия коалиция съобщи днес, че е свалила три безпилотни летателни апарата в района над Рияд и в южните част на кралството, предаде Франс прес. Тя не посочи кой може да е изпратил дроновете. Съобщението обаче дойде на фона на все по-честите атаки срещу водещия износител на петрол от страна на подкрепяните от Иран йеменски бунтовници хуси, отбелязва АФП. \"Три дрона бяха свалени и унищожени в района над Рияд и в южните региони",
-        "date": "2026-10-26T17:27:50+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233266-koalitsiyata-vodena-ot-sauditska-arabiya-saobshti-che-silite-sa-svalili-tri",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13995460/d01a26e3ad4543ef9d71ec3dedc897b9--0--124a7b0fb1e6404c96b2f1f4148a186d.jpg"
-      },
-      {
-        "title": "Украйна и Молдова подписаха споразумение за военно сътрудничество, обяви украинският премиер",
-        "description": "Украйна и Молдова подписаха споразумение за сътрудничество във военнотехническата сфера, обяви украинският премиер Сергий Корецки на съвместна пресконференция с молдовския премиер Василе Тофан, предаде Укринформ. „Днес подписахме споразумение за военнотехническо сътрудничество. То проправя път за обмяна на опит“, каза Корецки. Украйна също така е предложила на Молдова да разшири участието си в коалицията за разминиране. Въздушното пространство на",
-        "date": "2026-10-26T17:17:28+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233277-ukrayna-i-moldova-podpisaha-sporazumenie-za-voenno-satrudnichestvo-obyavi-ukrai",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13790005/364aa3c85f8642a98b212366ae93ba06--0--23f98f61b3854a448d6343c820cb5ef9.jpg"
-      },
-      {
-        "title": "Френският вътрешен министър отрече полицията да е защитавала крайнодесни групи по време на протестите",
-        "description": "Френският министър на вътрешните работи Лоран Нуниез отхвърли категорично обвиненията, че полицията е защитавала крайнодесни групи, участвали в прояви на насилие на протестите през почивните дни в редица градове в страната, съобщи Франс прес. \"Искам веднъж завинаги да сложа край на тези слухове. Разбира се, че полицията не ги е защитавала\", заяви днес Нуниез пред телевизия Бе Еф Ем Те Ве на фона на разразилите се спорове около участието на крайно",
-        "date": "2026-10-26T16:55:24+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233257-frenskiyat-vatreshen-ministar-otreche-politsiyata-da-e-zashtitavala-kraynodesni-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14020984/e72d681873004f8d8acf6809e7469433--0--7ea3223fbc374063bbba094a09001db3.jpg"
-      },
-      {
-        "title": "Художникът фантаст Христо Симеонов, който бродеше из свят без гравитация - Новини СЕГА",
-        "description": "",
-        "date": "2026-10-26T15:25:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXFFdm9SSDctNFNSUXl6ZV95TGVNY2dpSEdxQ19rZERNWkF1VjU2aXRGcDRtWHZELWxXTTZpTEdONjR1dExKSlRQaENuVUxQUGw2WVVOSlFXeV81Yi1DMTNMOGFQQm9nYzhPRllWVm14Nkl2ajdaQ3BYUHFXWU9DUWw4cUtxdlU3ell5RzhfdFZGSlBQemlwMkdCbVpYczV6RU9SOEtHcVpJRGltak9Zb1ZSM3dzQQ?oc=5",
-        "source": "Новини СЕГА",
-        "image": null
-      },
-      {
-        "title": "Тиаго Виктор Сантана: Да изградиш крепост на радостта, която да не допуска мрака - Rousse.Info",
-        "description": "",
-        "date": "2026-10-26T13:57:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXhDX0dqakE3N3dveHBiLU85TnhieHFwQ2dLbldCcXlQMUJBZnlOZ1owSk15S0xYR0hTSXhYci05NnduZVgzbEN6aGFRZmczSWIwb3ppUGx6a0JhQlNUSDBIbWF6MjQtd0ZUcUtpc2tKSkRHbWJWNE9lcmVQRzB2M1pmaEtTYmd2aTg3bTlIV1NZd2k2cWJCNFZKaTczNDh3VjNr?oc=5",
-        "source": "Rousse.Info",
-        "image": null
-      },
-      {
-        "title": "Шефът на МАЕ не очаква енергийните пазари да се върнат към нивата отпреди войната в Иран през 2027 г. - manager.bg",
-        "description": "",
-        "date": "2026-10-26T12:26:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnRCa2JnbWZGYXhSaEVjMG5Xa3JxWWR1ajZSN3hzeXlnUnF5OFFvdkg1cmp2YkFEc3JGT2JmQjNWSFgxYU8wUmhJNHg4VUd2bEhWZXg1ODctSURNcTRvdk1tTzV2YmtVQWgxS1k0NFg2OUdyNzhTaG16VVh0WlNYQ2lFMlN2ZzBFVE44WnBHcmhkM2l2elVmaFdXZUpHYVRTYzBVR01fM2xPSXp5dnVNVGNMUWpvN0dWb1REYjJHR0gxLW5kVHU4T3drSGNUSmswdThDQkJ6R3hVRDdKbkYzTA?oc=5",
-        "source": "manager.bg",
-        "image": null
       }
     ],
     "Наука": [
@@ -641,14 +641,6 @@
         "image": null
       },
       {
-        "title": "„Движение на просветителите“ стартира нов културно-образователен проект във Велико Търново - Радио Велико Търново",
-        "description": "",
-        "date": "2026-10-26T12:27:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOTFZEVTU1NERpaWxmWDIwNFlKTVBBeS1TakNzVm9VMXFPY1pCVFVxR0dZVjBNVldaeUlpNWFHb25jMHR6UDk3X3MyQTZfczJFdjA3SkRsUTYxdGFyQmxZZ2hqMUJUSzNZcnJMV1NTaFhjTTZMVnhpdmxMRVpXclF5ajI2ZHFYck5PemhrQTFwaFV2MTNteHVYOUw4eFY3cjhIYzJFQmxnYTNIYXBrVHRpN2V5anJiZEY1X3lPSnFkQ2JzanNDMHJhZnc3VlBuaGxDd3FVcXVlN2s3WTk1M29zaDNDYXZ0RUxEd0wzWVdGZThEaXk5cTJhbzItVllPdk9oNnpOTkhhOUkzT0ZaZ3dSbDlsd0VqcnJ1dnZLcGcyTWNCR2IyS01peEZDU2ZDcDFYN0lN?oc=5",
-        "source": "Радио Велико Търново",
-        "image": null
-      },
-      {
         "title": "Ученици от СУ \"Иван Вазов\" вдъхновяват бъдещи здравни професионалисти - БНР Новини",
         "description": "",
         "date": "2026-10-26T12:18:29+00:00",
@@ -697,19 +689,27 @@
         "image": null
       },
       {
-        "title": "Юбилеен сборник в чест на 75-годишнината на проф. д-р Димитър Гюров е публикуван от Университетското издателство „Св. Климент Охридски“ - Делник БГ",
-        "description": "",
-        "date": "2026-10-26T10:07:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNcW1OU0lrNFhDRW5PZmY5d0xoYjhhXzJMSUdIU0VPQjlLUHpzY3R4ZjJYTUxENDVsb1c5bXlqNWVFbmMyNFgwNlBwVEU3NExyYkxleVRXU1pGZUpGNzMyd1FrQzVDNl9CTG5UNGkxQU5oczlNc0tyN0piZGFpaTZhd1B6VVFUdkZNcWlYRzFCbTJCa3k4NU81UlpVX1RpUUU2cm54SmdmeUh3cjBWNHFIQVlKdjZyX0c0dk1aelpHanViV0lSNkpNVmhFbnNGOHVXcWJNNS1pb00xb3hUTjdZUkV6TVVpMFh1eEtfYWRsd2Jwd2NuTzI1bzhqbkhLczdkVVBtTktWUUJHd0N2WVlleWdqRk5BdzFCcUVNR0twWlQ0NzJwaEluMDFmV0VXb3RnOWtEenV4WkJzNDA1OWh2ZXFxSE9uNmdqdy1FelByeUFRbDBhYXc?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
         "title": "Ученици и учители от ПГ по туризъм – Русе се докоснаха до световното кулинарно изкуство на BIORESTCUP 2026 - Rousse.Info",
         "description": "",
         "date": "2026-10-26T09:30:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSm1SakVtb1dXS0t4SnJNMHhZaDNyT18xNXF1WEtyMnpBaU1pdDJJM1RkaDdTTG8xX0NfZ1haRlE4S1FPNGc2VGp4MG9mWi04ZjFySWpxTS1rY1ZGZzNRZkdkNllCN2Y4MTFQcXVjVWFtcU5aUHctMURxcXFmTzhkbXZqcmVpbGQ2eWNEU0dBeVd2VFhtdmtxdDJzOWJJTnJhXy1xaUNfZm1mWFQzZlhNMVhldU1nTVRUdFNsdHBvZnh2QVJnQkxn?oc=5",
         "source": "Rousse.Info",
+        "image": null
+      },
+      {
+        "title": "Как гласува България по възраст, образование и убеждения - Dnes.bg",
+        "description": "",
+        "date": "2026-10-26T08:46:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFNXR0RNTGk5NXRJNnhlYk1VVWx4LVczbmVVWU1lT3E5b0s0WWJrREVaZUJ4ZkRUMkVCX2Z4VERpOWIxbFBOaWs5a2staGpZMlZua0RsOEM0V0lNVkRMY0pCei1MX0FXekFkMF8zWkw3c3l0M3BLUlNFSVJ3enBBQ3BncFQzZC1uUTg2VlE5MXl4LWFPZUs1TDY3LWZsOEU?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
+        "title": "Свободни работни места в Казанлък към 26.10.2026, обявени от Дирекция „Бюро по труда“ / Новини от Казанлък - Kazanlak.Com",
+        "description": "",
+        "date": "2026-10-26T08:44:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVzFpZ3F4eTZ5Wm9XaVYzcVVtcHRoR3ZoRHY1WmROVmtjSmJxWlJvcnU0eXJBdkJtckJqM29lOC1fYXRzcVRrcDJheGI?oc=5",
+        "source": "Kazanlak.Com",
         "image": null
       }
     ],
