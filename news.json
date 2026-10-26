@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-10-26T01:54:36.123350+00:00",
+  "generatedAt": "2026-10-26T02:46:56.188100+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Приключи приемането на протоколите на секционните избирателни комисии от 23-ти и 25-и изборен район в зала „Арена 8888“ в София",
+        "description": "Представители на секционни избирателни комисии (СИК) от 23-ти многомандатен избирателен район (МИР) и от 25-и МИР приключиха с предаването на протоколите си в зала „Арена 8888“ в София. Изборният ден премина успешно, каза председателят на Районната избирателна комисия (РИК) 23 Даниел Тунчев. Той заяви, че очаква на балотажа организацията да върви по същия начин и да няма усложнения. Тунчев отбеляза, че при наличието на две кандидатпрезидентски дв",
+        "date": "2026-10-26T02:07:26+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232615-priklyuchi-priemaneto-na-protokolite-na-sektsionnite-izbiratelni-komisii-ot-23-t",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14034389/1000043336.jpeg"
+      },
       {
         "title": "При 61,55% обработени протоколи Илияна Йотова и Кирил Вълчев водят с 34,8%, втори са Андрей Гюров и Георги Кандев с 31,4%, съобщиха от ЦИК",
         "description": "Централната избирателна комисия (ЦИК) публикува на сайта си междинни резултати при 61,55% обработени протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК). Данните са към 3:00 ч. Резултатите от изборите за президент и вицепрезидент показват следното разпределение: Илияна Йотова и Кирил Вълчев - 34,8% Андрей Гюров и Георги Кандев - 31,4% Костадин Костадинов и Петър Волгин - 12,9% Радостин Василев и Красимир Манов",
@@ -9,6 +17,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1232616-pri-61-55-obraboteni-protokoli-iliyana-yotova-i-kiril-valchev-vodyat-s-34-8-v",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14035824/izbori+-+rezultati.jpg"
+      },
+      {
+        "title": "При 61,55% от протоколите дистанцията се скъсява: Йотова - 34,8%, Гюров - 31,4%",
+        "description": "На трето място е двойката на \"Възраждане\" с 12,9%, четвърти са кандидатите на МЕЧ с 4,5%",
+        "date": "2026-10-26T01:43:21+00:00",
+        "link": "https://dnes.dir.bg/politika/pri-61-55-ot-protokolite-distantsiyata-se-skasyava-jotova-34-8-gyurov-31-4",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/26/3040474/384x216.jpg?_=1792982327"
       },
       {
         "title": "Йотова с преднина от 4,7% пред Гюров при 47,39% от обработените протоколи",
@@ -27,8 +43,8 @@
         "image": "https://www.bta.bg/upload/14035674/cik+-+rezultati.jpg"
       },
       {
-        "title": "Лула да Силва победи за четвърти мандат начело на Бразилия",
-        "description": "Кандидатът на десницата Флавио Болсонаро не успя да повтори пътя на баща си, макар че беше водач на първия тур",
+        "title": "Лула да Силва победи за четвърти мандат начело на Бразилия (снимки)",
+        "description": "80-годишният ляв политик спечели 51,77% от гласовете срещу 48,23% за кандидата на десницата Флавио Болсонаро",
         "date": "2026-10-26T00:52:10+00:00",
         "link": "https://dnes.dir.bg/svyat/lula-da-silva-pobedi-za-chetvarti-mandat-nachelo-na-braziliya",
         "source": "Dir.bg",
@@ -185,25 +201,17 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1232599-tsik-zapochna-da-publikuva-mezhdinnite-rezultati-ot-prezidentskite-izbori",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14032888/1000169067.jpeg"
-      },
-      {
-        "title": "Андрей Гюров покани Илияна Йотова на дебат - БНТ Новини",
-        "description": "",
-        "date": "2026-10-25T21:45:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjNYckltSE1oa3B3QkZ1bjlJSFZZbWJwWUtUeVZnc0w5cEFfeG5hY3JrQWU3VjZaOHdNQmFPcUlsNl83aW5kV0FwSy1oZzhlRm1yeHpRd3JHRGJWbzkzcVFlbWxrbmZYdmJfMlpISERPZEp5UTdpUGtlYW16bnFlVlNheW56bEtidmJiSi1R?oc=5",
-        "source": "БНТ Новини",
-        "image": null
-      },
-      {
-        "title": "Избраха без мнозинство прокурорите в следващия ВСС",
-        "description": "Пламен Петков, Ивайло Илиев, Ивайло Ангелов и Красимира Филипова получиха най-много гласове, но никой не спечели повече от половината",
-        "date": "2026-10-25T21:36:55+00:00",
-        "link": "https://dnes.dir.bg/temida/izbraha-bez-mnozinstvo-prokurorite-v-sledvashtiya-vss",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/25/3040453/384x216.jpg?_=1792966735"
       }
     ],
     "Свят": [
+      {
+        "title": "Лидерката на венецуелската опозиция Мария Корина Мачадо се завърна в страната след близо година в чужбина",
+        "description": "Лидерката на венецуелската опозиция и носителка на Нобеловата награда за мир Мария Корина Мачадо се завърна вчера във Венецуела след близо година в чужбина и няколко неуспешни опита да се прибере в родината си, които обтегнаха отношенията ѝ с администрацията на американския президент Доналд Тръмп, предаде Ройтерс. „Тук съм. С вас“, написа Мачадо в социалната мрежа Екс. Нейният екип разпространи снимки от посещението ѝ в църква в западния щат Лара",
+        "date": "2026-10-26T02:02:55+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1232617-liderkata-na-venetsuelskata-opozitsiya-mariya-korina-machado-se-zavarna-v-strana",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14035560/15919daf4c3b4c55a7e229df90544b98--0--4cf9b36e0e8642db97a9ddc4ddb13f66.jpg"
+      },
       {
         "title": "Extreme Weather Vance - БТА",
         "description": "",
@@ -395,14 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1232407-putin-protestite-v-stranite-v-evropa-se-dalzhat-na-sobstvenite-im-greshki",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14022821/8f6e4452a7c34231a1d99d6bb8b41055--0--d6a47f9754d0453690ae131ffab27b1d.jpg"
-      },
-      {
-        "title": "Седем души са били убити днес в Газа, включително трима служители на охраната на университет, осем студенти са ранени",
-        "description": "Трима служители на университет в Газа са били убити, а осем студенти ранени при израелски удар, съобщиха местни палестински източници, които също така съобщиха за още четирима загинали на други места в анклава, предаде Франс прес. Израелската армия заяви, че проверява информацията. Според няколко източника от Ислямския университет в Газа израелски дрон е нанесъл удар по учебното заведение в северната част на територията, при който са загинали три",
-        "date": "2026-10-25T15:52:09+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232414-sedem-dushi-sa-bili-ubiti-dnes-v-gaza-vklyuchitelno-trima-sluzhiteli-na-ohranat",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14024481/f81a4cdb97b74956b1e61fbbc0a2a6e9--0--d864864c95224390babb5304c305fecd.jpg"
       }
     ],
     "Наука": [
@@ -428,6 +428,14 @@
         "date": "2026-10-25T10:16:24+00:00",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRlBOT1NjZlFlU21TZVlTT182V2tiMTlrTi1hQWVvMGV4WEV1Z082WnpFaTJoZ0RINzNidDBaNDNGSUpHSm9zS000Q0pXUzV5RU1lMm9ndkdjdDN3a2Q1VXp4S2dZTTlBQmpkaU5aazhQLW9TSFgxMnRwbUVTNEFudXF6MUVSanBDV1Zfa3I4dlMzUEtoTk51WXVfNjgzblVDRTFkUk0yUUxSRzNoOW5BSlAycFA0WkpZYkZGQXB4RG1rQllYdF8tZWl3SXdPNDRnWUtKWVY0LUxDeUM1WWtkMm1ET1E?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Археолози откриха дървена конструкция на 476 000 години - БГНЕС",
+        "description": "",
+        "date": "2026-10-25T10:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFozUG9jT0NEb2hwZlZtVmtUcHJpOW5LRzUyV3lVdElnSVZ4WjN6QUJXS04tSU9SYndBNGlKYVFuSmk0eWJXc0E5bXhJQ21VU0FuN3I1QWk4bmg2TWgyV094WFlKYWc5RlZpNlZZdnNsTmFfc3pCWWtyLUF0LWxMWE9R?oc=5",
+        "source": "БГНЕС",
         "image": null
       },
       {
@@ -537,6 +545,14 @@
         "image": null
       },
       {
+        "title": "Висшистите предпочетоха Гюров, Йотова събира най-много гласове сред избирателите с основно образование - TrafficNews",
+        "description": "",
+        "date": "2026-10-25T17:58:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUlEZTFTR2o4SzdBWUdxUF8yMEVvQ1c1eDBuWVJxREpVVHo5a2h4M3FHcUpkUGNCWkNJVVo5YTlBRkhDTEotREFZY1hzcGhHSXh1WU5iSjBnc2FDa0s3MWJfVXNBNEtrNDBqQUk2SU1QWGYtX1FkMGdsSWhHdzJUZkw2Q0cwZDNGdzRlS1VTZ1ptYU9Mdmtja2NR?oc=5",
+        "source": "TrafficNews",
+        "image": null
+      },
+      {
         "title": "Конституционният юрист Александър Джеров почина на 97 години - paragraf.bg",
         "description": "",
         "date": "2026-10-25T17:00:32+00:00",
@@ -569,11 +585,51 @@
         "image": null
       },
       {
+        "title": "Варненски музей кани ученици на уроци за народните будители - Moreto.net - Варна",
+        "description": "",
+        "date": "2026-10-25T13:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yT1ZXV0RqeW1rS0d3WjFPQ194NnotYVduQV8wU1RqLS1xMHBPZmhUZmtwZ3FHZWZ2djgwRFhuRTVXa0xJRDRWWXBiV3k3ZlZKQVRuYQ?oc=5",
+        "source": "Moreto.net - Варна",
+        "image": null
+      },
+      {
         "title": "Вестник ГЛАС: Медицинското образование се завърна в Добрич - dobrudjabg.com",
         "description": "",
         "date": "2026-10-25T11:13:34+00:00",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYm5QZF8yVkZDSkZPdkREUkFmOFBEalNwSmh6aW5lU0xvOFg4WDhkampPWXVwX2FGQkRqblEwLVpfcWhsNXlWWHFSdHRnVGxDMzdhSEViT241MXhENmdzek4yVW4tYWZ0U05xTmdpWWRHcjF1emUzNU1IeUtnUHNKMnBsUVFqaWVPSjRMcm8wS3A4c3hScmJqbUlkZw?oc=5",
         "source": "dobrudjabg.com",
+        "image": null
+      },
+      {
+        "title": "Училище в Кюстендил обучава деца по британска програма за начално образование - Новини от югозападна България",
+        "description": "",
+        "date": "2026-10-25T08:44:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J5UnBRd1A4QTVoT1RocDExUGFXTWR1cjloWlp3N3dvMDliLXJFWWE4YVNYMnNjWllWdnJQYXJsNVpLbXRxQnlkaDdidU9kR3ZaU1YxWVVSZDloSmI3Y2ZjMnNoeFVXbUxHY2JOdzlUX2lsX1BiWk1aVWw4WHZNLUpHcldFeWFkQjV6V212c3dzbkJMN2pTOXN2dHZKNlFjQU9jTVBmakF5b3J1RVlibVMyVG8?oc=5",
+        "source": "Новини от югозападна България",
+        "image": null
+      },
+      {
+        "title": "Франция в пламъци: Милиони излизат на улиците срещу кризата и за по-добро образование - NetNews – Новините на Ямбол",
+        "description": "",
+        "date": "2026-10-25T06:16:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSDk3MlZ3U053MW9ocVU4STFfcWJRRkpOMDRSbTdlbkpNcjNhaWwzb3gxNHAzTkw1cnFxMTEyTWVramxMM2FEY0VkY1VscmJNMWg2cklWMHp4bWJMeHJpaVVkLTdnWjZMUXZ4dGZYcmhfS3FKQUR4MzJtT1BTWTMyT0pyUEpiRFhQMUtRZDlYdldfUTlvSXUzazlnenlZb1djNnpQMWU2WWxuQUJWZmdMVDE5TUptVVN6RkdnVGRGdldDcWRYOGJUdGV3Mm1OZFVlVFBUamdoRFBWeGlkVHd2Nk5lMUFwS0lfTWlPVnNTS28wWWJUNndjMmpOX214N3dzcXFRTG1HZm53blNuM0hjMTNQTW9DUmp6dzFGMEkzbXRyVWNwNUFyeU9LOEE4Nko3UHBLUGZqWUxoSnQ4ZjNF?oc=5",
+        "source": "NetNews – Новините на Ямбол",
+        "image": null
+      },
+      {
+        "title": "Ученици от СУ „Иван Вазов“ – Бургас представят здравни професии на деца в Сарафово - Novinata.bg",
+        "description": "",
+        "date": "2026-10-24T21:07:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFBtYU50RERMU2hVdGRVZTBVVGdKak80N01sandYMy1wSWpiZU9VSWIwQ1pyYnNDM0Y2VHRjZFZidTYxeFhoZU1NWXdIOFRZREpXWXZISERDbmpGN1MzM3ZVNTFRdGc1ZUdzOXhxLUlmdzNhSXcwSWVkNGJxOTA2UGRvTlFfR2M2c25KRjZkWmhmLTN0d1pmcm9LMmdDYk15ZVZoQTQ4amtQNk53Z09kMmpsM3M?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
+        "title": "Полицията използва газ и водни оръдия при сблъсъци в Тирана - paragraf.bg",
+        "description": "",
+        "date": "2026-10-24T16:45:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnZVQnZBZUhmbTl6TzNzY00wZlpxRWQ2ZGl6OERnenQ5dVJxaXV0ck93ZzBHdzIwRUdNS3VjY2R5ODhGS3NuN2FEaWF5YlRyRHR4U1Zkb3NWUmFqNXNCVWMwWnV1R0pWVUxreXpOQUpjdHRLbXZCdjl1bnhxSTJnaHV0cXUyRGMwRlpmag?oc=5",
+        "source": "paragraf.bg",
         "image": null
       },
       {
@@ -601,6 +657,14 @@
         "image": null
       },
       {
+        "title": "Ученици обучават ученици: Вижте как младите възпитаници от СУ„Иван Вазов“ - Бургас вдъхновяват бъдещите здравни професионалисти - Сливен Медия",
+        "description": "",
+        "date": "2026-10-24T10:11:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejJmUzNmSy1NamtvWEQzVUdOUHBCWnQxWS1QSTlNWjMyaDRYd3hSay1iSDl4MzVrYW1qYzBrTm5jZnU3MjdjMk95SHFuaDVGa1FISGJjSXVhY3NWMUIxRzNPdllzWGNKVzNLT0ZXaF9mSGRyQlRlRlNQWmxKeG15V2M5Mk9lOGJOWkFTZ3JZM2JCbWs?oc=5",
+        "source": "Сливен Медия",
+        "image": null
+      },
+      {
         "title": "Ученици от Силистра обсъждат теми от предмета \"Гражданско образование\" - БНР Новини",
         "description": "",
         "date": "2026-10-24T09:05:46+00:00",
@@ -617,11 +681,27 @@
         "image": null
       },
       {
+        "title": "Деветокласници от Враца учиха за екологичното равновесие чрез интерактивен урок - Konkurent.bg",
+        "description": "",
+        "date": "2026-10-24T07:45:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkp2VXF4MFlFeXFOamV2Q1NjYlVMZ3AwRVR1LXNSSm1VbzI2Q0VQNTd4RlVySl93UzNOTGtRc01zWTJIMnFzcVU0MXZIWF9LN3dtSER3WFljZmkyc0ZtYVBjclBiWEN1V19SUldzVmFsek5sUzMyY2djUzUtVDFWOEpaWlFnNjlGbmVfNTcwOEJwbFJ3WXU5VWV5TzBEcUNvTlRXcURwQlZvMXRlUnJsUFlkLUdXN1JBVllMNlFJLW1ZQ2prdnVoMQ?oc=5",
+        "source": "Konkurent.bg",
+        "image": null
+      },
+      {
         "title": "Търсят се директори на две детски градини в Симеоновград - Haskovo Live",
         "description": "",
         "date": "2026-10-24T06:46:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbk9tOEd1TnJkNkZ4TXBTdUdSTWV0SnBsLUEtZFVJU2RqbXZmeVUzODNwakpTckgtTWFualhOcmxqOHNncHFQb21DcmhwbDZqTWphNElRLUdQMTZlRGJSb0tMYUVDTkViVnY5T0hsS3pjSmFZQ24wUUplRHltOFYtUnZGY252Zw?oc=5",
         "source": "Haskovo Live",
+        "image": null
+      },
+      {
+        "title": "Научният потенциал на филиала в гр. Тараклия се заяви на 65-та международна конференция на Русенския университет „Ангел Кънчев“ - Rousse.Info",
+        "description": "",
+        "date": "2026-10-23T21:21:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNGJPejdXVG9FcF9XU2VVSW1tWGRpbEdLMjFvS3lZQ3pxV2QtS1pzNEZxaXc1Q1FsMFFacmRaamZWbzNCbGZhMExtSmw0ck5kdDlfNV9rQUFLa2ZoOUpkY3NJV1lob21zUTBzT0M0U0Z0RFZXQzd6WUlKalpVZUtRa2VNT01SbFU1czNRZHlSRUJaNXpJR0RubXM1Um5zMDJwQXhVbUprVmp2Y2dTUUlSZnRFWEtHTjRvcDFGTDVrbmlEVUQ1NlJFSXNvTWxqdGtNZ3ZDU2RmR1ktU19Ma0tqUDdhdWtKNThpTUdv?oc=5",
+        "source": "Rousse.Info",
         "image": null
       },
       {
@@ -641,91 +721,19 @@
         "image": null
       },
       {
+        "title": "Заплати по 5600 евро, а България не иска да учи - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-23T16:21:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0k4bEVYdldTSFd3WktGOTFiOE5UdjZ5ZmQ3NGxVbmZFMDM5bXNiUWlPSUdodnh3WGd2OVZ1S3Z6QzNUQ1V3M0lxaDROemFTTWowbkh5VER6YmxZSnR4NnNITUFyWHVnVndFY1E1bHlVTGZvcGtncG1mOGw5a0I4TWJoVVp1SlZQN3RjZVE3Ump4TDNqMllnSVBuYnU?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "Костадинов: Независимост, благоденствие, единство, образование и силна армия са петте ни приоритета - Кворум Силистра",
         "description": "",
         "date": "2026-10-23T15:49:11+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSDNjdWFEWE5qelZGV1dvbjZXUlFoMHdidFJ5RUY3RWpkTTdaaGNBdmRLd001QzNSUXpVcVVMX3Z4T2cyLWpCWjRYZklnLTJuN1MwWnZ3?oc=5",
         "source": "Кворум Силистра",
-        "image": null
-      },
-      {
-        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - БТА",
-        "description": "",
-        "date": "2026-10-23T15:39:34+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcThDcXhpMG9YR3lwV1M2amZUdExnZzR0RmMxUjJ6NjFaZjd2QUdneFRadVJPWER1T1d1VUxFSG9BNUVaSjVwWjJvWnM1Skx0MFo1Rk9BRGNYZjF0Ui1aOHplTkF4SndxLUJkTnhETzBDQ3pDeEZMZFBFSzBvR216Tjl2Unh1MHVmQUJPb1B4WUkxVU1LVHRwTThaejJuUDRCcEFsbC0tb2ZvR01Sc0E0SkhnTUg0WDlyOTk0?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР Новини",
-        "description": "",
-        "date": "2026-10-23T13:23:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2NZOVhwWWNIMXVVTjBOMTJoX0dPdmQzQm5YYU5KWjgtVlhsU2lub2VvVktPS0VzSXg5aXBjYzdlLU5YVHVoNE5jM3VYZkFFejE5UFhsSTN0VlVCZElUVm9IXzZ5dUJ4bExTMC1MWmFHSzRJdGtLSmtuRHYyYTFhaUtneHpoM18wMTEyV0FVaW5fQ1k3ODBrenRybHcyYW1zS0NrMzlRNzBQMnRFTGgyN1lJMTA4YlhwXzdvMzZ3?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Десет бивши министри на образованието се обявиха срещу предложения един учебник от Радев - Dnevnik.bg",
-        "description": "",
-        "date": "2026-10-23T12:09:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDktdEFOOGxiRWFpT1owWklIb2R5MzNyX1M2M3hvbUhoWWpPRFdScHRHVjFNM3VrZjFhVVNZdjJrM2tkTklSR05ZYTMyY1N5eTUwWU9OdU94c19XaS1IcVhwR0lIYTFzVXhqWHFwbWxBVFFER3hZQlR1aXR1a3VScldFRWlORFYtc3I3aHp0UGR2eGNQcDk0WVVnZG9sWDBPd1J4bQ?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
-      },
-      {
-        "title": "Данни за образователните институции в системата на предучилищното и училищното образование - Министерство на образованието и науката",
-        "description": "",
-        "date": "2026-10-23T11:36:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNlBWUHFHdXFhLVpBMHdqLTZFM0FycUlLZ0x4V01PZHpiV3BFbU8tdUMwX2NnY3N2Tlk5YmdrNVZiNTE0VkoxcENoeGstWHdJTHdpdXhrWmdCSjQ5cE5rbUpXMjZOQnd6ZGRLUktSalZRUFQ4OHFoTzRVVmo0WFlJYVU4Smdnb1BYZHA4NzM3NDY5SFNrVG5yQnlVRGJ4T2NqYUlhcGlJZi0tUzNqdER3dE5BUEVaRmNwMTdWeUpweHc5ZmdBV1ZaQ2FaMFRXZ3RMUXF5ZUxfN0RwMi15R2NxTFIwWHJHQWl6ZzdkMWlPb3Q?oc=5",
-        "source": "Министерство на образованието и науката",
-        "image": null
-      },
-      {
-        "title": "Десет бивши просветни министри против въвеждането на един учебник по предмет - News.bg",
-        "description": "",
-        "date": "2026-10-23T11:15:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlBjTUprbFZRQ1ktWktMZEg3SnNKbmptcmZYYnpRMzJBeGNDOWc3a3RGNjlpQUdPWGpZcHNxTjNqYVlweS1lYk94VVZmcHFadURYY2dmMU9RN2NmbFZEdkx3X3h0WWRRMG9iX05HZWJ3T0tWMGJJMmdQaUVJZzVwamxmRXFwUndCVENTQ3BsbHNCc3paMW9kbWJha184X25KWV9RNUNyeTd3MkhuT1JV?oc=5",
-        "source": "News.bg",
-        "image": null
-      },
-      {
-        "title": "\"Зелена светлина\": българските лекари ще могат да практикуват в САЩ при едно условие - Dnevnik.bg",
-        "description": "",
-        "date": "2026-10-23T10:20:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1cwbkV3ZWpkOGhheTFTRVllOTBYWFZibTdqSEppVE9KOUR0Q0I0TUl3a01Dam1sQVpsWTJYYzZJMk1KZ3l2Mzd1akE1endoVVB2N3JOLUphbklqRTg4d0UtN3BYX3N4UWEyeEFWakdNbkRMNktMamNlNUNNYVBUMk9nOXI0NlNLTEhXcTAzNmdzZENBc09TbzlwUnFqSTU0YkFXcTB3?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
-      },
-      {
-        "title": "Протес и във Виена срещу съкращенията на разходите за образование - News.bg",
-        "description": "",
-        "date": "2026-10-23T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
-        "source": "News.bg",
-        "image": null
-      },
-      {
-        "title": "Висшето образование има стратегическа роля в икономическата стабилност и международния имидж на България, каза ректорът на СУ проф. Елиза Стефанова - БТА",
-        "description": "",
-        "date": "2026-10-23T08:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWhYLVlWYklkWUdfcUhlWFZQSjJ1U3J6dGFPdC1fQWlZR29mVVJ3bGdKcEpGY09nbGFlaXBoUVdRN1haWmE2b2dNckRCVWpyNndCNmY4WVdSSnhyMWdhbzl1RHRzVTQ3OWJGeENpYWRnN2lCQjltZTFDMHFuZ3RfeE13LWNqQVFoVFNjWW5qZEtlUUtHRGxLT3VxTnVMS3lyVzNodnVrZjRhRVpEUUVrd0hDaTl5SFdYT0pV?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Силистра и Гюргево обмениха добри практики за по-достъпно приобщаващо образование - Кворум Силистра",
-        "description": "",
-        "date": "2026-10-23T08:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudWtfOTNDQjBsb2U5TkhDanE0cExqa3E1S0FwWmNQUThieFg1TmhIdjVRU1Q2eWlQeHVWWk9ZZmZoMkJMamstbHRROWFRSG92eTdxYUVn?oc=5",
-        "source": "Кворум Силистра",
-        "image": null
-      },
-      {
-        "title": "Протестът на НАТФИЗ: Студенти \"венчаха\" ректора и министъра, включиха се още университети - Dnevnik.bg",
-        "description": "",
-        "date": "2026-10-22T15:53:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkpIQjZ0NU9MTVB2bGxhbFl4OWVBYkZjMktEcy1RRHowcEJjUFRTUnR1MTdpcG1hdHhzUFhfT0FYbzFqUm9kNm9BWDk2UDMzOUcyNkpoUWgycWNDSkJ6UF9nNkJyTUE1dHVENmZYSFFWOHFyaVBCMExyS3RUcWFPcTBEYVU2TmxIVjRvSWltckhmVTBrcjRhei1wRDRYQU9LWVc3WXA1OTZQUTA?oc=5",
-        "source": "Dnevnik.bg",
         "image": null
       }
     ],
@@ -752,14 +760,6 @@
         "date": "2026-10-25T14:03:26+00:00",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlFxVWRQY2dDMU4wWG1VMUZ0bVA5eVY2dlh2TjBCakJXYTlEeHVFWWI0SVd1WmxyanNnbFlFcWJmZHkxSUxGemthbWFzcFpEU25KOHc5OXE5SWtHSy1BM05tM3ViZVJIajJsdDVEeS05TUdDNzJ6X3RMdm01d0EtQzhTVmR1bkZPR0RQbU02M0V0WXo3NEZxbWxCZldzcjVtMkp0UUVuZ3ZyQXhnbEt2MnNMbmdFSkE?oc=5",
         "source": "Epoch Times Bulgaria",
-        "image": null
-      },
-      {
-        "title": "Парадоксът на Куба – въпреки американските санкции Хавана става все по-зависима от САЩ за горива, храни и енергийни технологии - Делник БГ",
-        "description": "",
-        "date": "2026-10-25T13:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPVjdSZ2NUTG4yOFdmaEQ3Zm5wSlJJTjRpSEl3cVFhSlc4d0YtWFV1R0ZTdF95bndZSkh1a1FnYTVRUnhTRHFhMzl4dnJ1NWc5RUUzYXc4VVdYS2tfWkRQN0kyUEVHa2RRM213bC1vNjFLLVRXZnlKbHNUbTU1TnJ6Wk52OVJRYmd0Y19rSWI4bHVqNGIybUNHeHh3N1psc18xMUk2dUNEM01uVF9qZ1hQbHhMZlpScnl3N2c0WVZlSy11T1NZSnJYcE1mQVQtUENiUUdVV0k5ZFZYcnh6bURLTzFtT3laVWp4OWdiWGlLQWhRaENzelhLZkZySlV5X3FIWHR2dTNoTzR5LXNubEI1SzBzd1NnRl9ibG85YnAxYlBfTENwMEFZZFphQ3I4M0pMM3NDTlNjYUNxNjU4dHEyR1Y0dlhSamt3LVAxZ0o4bmZCdw?oc=5",
-        "source": "Делник БГ",
         "image": null
       },
       {
@@ -792,6 +792,14 @@
         "date": "2026-10-25T04:49:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50OTZkMkt2ekZTdGlyX3lQN0dFYzNURGl1bmYtNVhWZVlsTkpvX2xyc2FvQVdoUUE3d2NCaElSZVV4NnhpVDVWRS15bVFteEptV0JNbl9NVWI?oc=5",
         "source": "Profit.bg",
+        "image": null
+      },
+      {
+        "title": "„Не вярвам, че нашата технология ще има положително влияние“. Защо напускат служители на Google - Свободна точка",
+        "description": "",
+        "date": "2026-10-24T15:21:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmJSdHZwb0ZPODBNanlyTS0tUkRGQXVEN19ZLWsybThoRFZUalBSS2h6d1ZyR1YyN1pwdnFoNzhScWhHMTYyajVlLUpFUmVFODEtNXRGWTNpb0xaUlFBMVRBRDl1ZV9UcFFBWVFpQUFJRW8tM0NFbFV3R3NDWWtjTzk0TFpEcFBEb1h2emZQa1NOaFJ1b3VxM0JHODFhZlBDZmpCUGhXeWhJcUpVWjJKMHRWME1CWlV2SUdjbEd0ZUh2VnhTZXpBN1BOczdpRzI3?oc=5",
+        "source": "Свободна точка",
         "image": null
       },
       {
@@ -945,7 +953,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 15,
+      "count": 16,
       "feeds": 1
     },
     "Образование": {
