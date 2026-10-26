@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-10-26T02:46:56.188100+00:00",
+  "generatedAt": "2026-10-26T03:19:00.633887+00:00",
   "categories": {
     "България": [
+      {
+        "title": "При 72,43% обработени протоколи кандидатпрезидентската двойка Йотова-Вълчев събира 34,8%, а Гюров-Кандев - 31,4%, предстои балотаж на 1 ноември",
+        "description": "Кандидатите за президент и вицепрезидент Илияна Йотова и Кирил Вълчев и Андрей Гюров и Георги Кандев отиват на балотаж следващата неделя - 1 ноември. Двойката Йотова-Вълчев събира 34,8%, а Гюров-Кандев - 31,4% при 72,43% обработени протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК). Данните са към 4:00 ч., публикувани на сайта на Централната избирателна комисия (ЦИК). Според Конституцията, за да бъде избран к",
+        "date": "2026-10-26T03:08:32+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1232619-pri-72-43-obraboteni-protokoli-kandidatprezidentskata-dvoyka-yotova-valchev-sab",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14035997/cik-rezultati-izbori.jpg"
+      },
+      {
+        "title": "Седмото издание на Софийския икономически форум поставя България в центъра на стратегическите дискусии за развитието на региона",
+        "description": "Софийският икономически форум (Sofia Economic Forum VII) събира водещи политически лидери, дипломати, представители на международни организации и бизнеса на своето седмо издание, което ще се състои днес, 26 октомври, в хотел „София Балкан Палас“ от 09:00 до 19:30 часа, с регистрация на участниците от 08:30 часа. Това съобщиха организаторите от Делфийския икономически форум (Delphi Economic Forum). Тазгодишното издание ще постави акцент върху геоп",
+        "date": "2026-10-26T03:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/economy/1230145-sedmoto-izdanie-na-sofiyskiya-ikonomicheski-forum-postavya-balgariya-v-tsentara-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/9976337/dji_fly_20241106_110914_229_1730884956941_photo_optimized.jpg"
+      },
       {
         "title": "Приключи приемането на протоколите на секционните избирателни комисии от 23-ти и 25-и изборен район в зала „Арена 8888“ в София",
         "description": "Представители на секционни избирателни комисии (СИК) от 23-ти многомандатен избирателен район (МИР) и от 25-и МИР приключиха с предаването на протоколите си в зала „Арена 8888“ в София. Изборният ден премина успешно, каза председателят на Районната избирателна комисия (РИК) 23 Даниел Тунчев. Той заяви, че очаква на балотажа организацията да върви по същия начин и да няма усложнения. Тунчев отбеляза, че при наличието на две кандидатпрезидентски дв",
@@ -185,25 +201,33 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGNpMkFXTXZPTVhYMlZYcEk1amZzam5mUkpteTVIM2ppX29TU0lNR2pjRHRKLTZGRWlTcVpQdmlTY1RKdXVncl9oMkZIMmRzbV94UVh5WnpkM2pWalpJV3Y1WkgtZkc3VWNqSGh4QWpzWVY2RnZBSzhUTEp1bjk0N1RadzFLTjVseGNjVk16NkI4ckVpek9oMzJRMWJHTFBETWc?oc=5",
         "source": "Dir.bg",
         "image": null
-      },
-      {
-        "title": "На тези избори видяхме пълна делегитимация на това управление, каза лидерът на \"Продължаваме промяната\" Асен Василев",
-        "description": "На тези избори видяхме пълна делегитимация на това управление, каза лидерът на „Продължаваме промяната“ Асен Василев в ефира на Нова телевизия. От милион и четиристотин хиляди души, 900 000 вече казват „Ние не подкрепяме Илияна Йотова“. И това не е заради Йотова – една голяма част не я подкрепя, защото не вярва на премиера Румен Радев и смята, че трябва да има коректив, смята той. За да имаме истински независим президент, неговото избиране не тря",
-        "date": "2026-10-25T21:51:12+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1232600-na-tezi-izbori-vidyahme-palna-delegitimatsiya-na-tova-upravlenie-kaza-liderat-n",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13907375/MIN_6542.jpeg"
-      },
-      {
-        "title": "ЦИК започна да публикува междинните резултати от президентските избори",
-        "description": "Централната избирателна комисия (ЦИК) започна да публикува междинните резултати от президентските избори, произведени на 25 октомври. При обработени 7,37% протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК) резултатите са: Илияна Йотова и Кирил Вълчев - 35,5% Андрей Гюров и Георги Кандев - 30,3% Костадин Костадинов и Петър Волгин - 13,5% Радостин Василев и Красимир Манов - 4,1% Ивелин Михайлов и Юлиана Матеева",
-        "date": "2026-10-25T21:46:55+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1232599-tsik-zapochna-da-publikuva-mezhdinnite-rezultati-ot-prezidentskite-izbori",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14032888/1000169067.jpeg"
       }
     ],
     "Свят": [
+      {
+        "title": "Флавио Болсонаро отказа да признае поражението си на президентските избори в Бразилия и ще поиска анулиране на резултатите",
+        "description": "Консервативният кандидат за президент на Бразилия Флавио Болсонаро заяви, че ще поиска анулиране на президентските избори, след като загуби на вчерашния втори тур от досегашния държавен глава Луиз Инасио Лула да Силва, предаде Франс прес. „Невъзможно е да признаем изборите“, заяви Болсонаро в столицата Бразилия. Според него „много неща все още трябва да бъдат изяснени“ след правния спор, довел до удължаване на изборния ден. Гласуването бе удължен",
+        "date": "2026-10-26T03:09:47+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1232620-flavio-bolsonaro-otkaza-da-priznae-porazhenieto-si-na-prezidentskite-izbori-v-br",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14035919/73535acf832b431d9d49a607b72a9247--0--e49abfeaf81046a88d380b6c6f6c6935.jpg"
+      },
+      {
+        "title": "\"Ялта 2.0\": Тръмп, Путин и Си може да разделят света, докато Европа остава извън играта - Dnes.bg",
+        "description": "",
+        "date": "2026-10-26T03:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlhyQWIxS3JIbU9aVW02NEtzdkhZRVd5cW11VTV6eWtyamxaVEVqbXFSakl4Y1VXTWVhaGduRkZIZF8yam9JRHBRLUNFNjNXLThjUU14ZnV1M0V4X0lZZkM4cmpjb1J2MDVQOXhRQW5TaFlWZHUtZnA3RU53c1JXMTFHMHRMcDZYa2JZNi1ieXlrQjRrSzAxM0dQbFJ6ZzB5bDA2N1FLUDZxMGR1Vmc2RzRxS04zbFVsU05rb1BR?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
+        "title": "Бразилците гласуваха в защита на демокрацията, заяви Лула да Силва след преизбирането си",
+        "description": "Бразилският президент Луиз Инасио Лула да Силва заяви след преизбирането си за безпрецедентен четвърти мандат, че бразилците са гласували, за да защитят демокрацията, предаде Франс прес. Междувременно редица латиноамерикански лидери го поздравиха за победата му на втория тур на президентските избори срещу консервативния сенатор Флавио Болсонаро, съобщи Ройтерс. Бразилците „отидоха да гласуват, защото успяхме да ги убедим, че гласуването е много в",
+        "date": "2026-10-26T02:59:58+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1232618-braziltsite-glasuvaha-v-zashtita-na-demokratsiyata-zayavi-lula-da-silva-sled-pr",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14035822/9377245b761540e2b1747821d48b93fd--0--392a7595c41f413f8468da3325503073.jpg"
+      },
       {
         "title": "Лидерката на венецуелската опозиция Мария Корина Мачадо се завърна в страната след близо година в чужбина",
         "description": "Лидерката на венецуелската опозиция и носителка на Нобеловата награда за мир Мария Корина Мачадо се завърна вчера във Венецуела след близо година в чужбина и няколко неуспешни опита да се прибере в родината си, които обтегнаха отношенията ѝ с администрацията на американския президент Доналд Тръмп, предаде Ройтерс. „Тук съм. С вас“, написа Мачадо в социалната мрежа Екс. Нейният екип разпространи снимки от посещението ѝ в църква в западния щат Лара",
@@ -217,6 +241,14 @@
         "description": "",
         "date": "2026-10-26T00:52:29+00:00",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2SGt6Tmt0ZG1vZUsyVFNZWnpzczNQVjVlZFVKb2dhRTlaVDR0dEFlWU55VFBvWUFfUmpNekZ2Slh6aFhDNTNRc3RhU2FwaDBNc1VISnVEYw?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "APTOPIX Venezuela Machado - БТА",
+        "description": "",
+        "date": "2026-10-26T00:52:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90RU9pSlh3WjN1aDI5V3dSakJtZmxTZWJFX2EyZTQ0Y1ozYmFadEM3V3pVMnhQOS1fMTFldUg0cHRacVhQbkgzaDRuNU5BcHVUVGk0TkxRbw?oc=5",
         "source": "БТА",
         "image": null
       },
@@ -371,38 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1232440-vodachkata-na-venetsuelskata-opozitsiya-mariya-korina-machado-saobshti-che-se-e",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14033342/9a622b40c5084fd0809a68fe23fd1245--0--6432da36ff0b49699923d50c10164951.jpg"
-      },
-      {
-        "title": "Нетаняху предупреди Иран да не се опитва да попречи на изборите в Израел",
-        "description": "Израелският премиер Бенямин Нетаняху заяви, че Иран и негови съюзнически групировки може да се опитат да попречат на парламентарните избори в Израел, насрочени за вторник, като предупреди Ислямската република да не предприема атаки, предаде Франс прес. „Разполагаме с информация от разузнавателните служби, според която нашите врагове, Иран и неговите проксита, може да ни атакуват с цел да нарушат изборния процес“, заяви Нетаняху във видеопослание,",
-        "date": "2026-10-25T16:55:52+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232435-netanyahu-predupredi-iran-da-ne-se-opitva-da-poprechi-na-izborite-v-izrael",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14031573/9e597d1ace914a5690dc8e7b22a3b019--0--cd353772023c49b3a9f584018c981103.jpg"
-      },
-      {
-        "title": "Русия заяви, че е нанесла удари по товарни кораби в Черно море, както и по цели в украинския град Харков",
-        "description": "Руското министерство на отбраната съобщи, че при нощна атака с дронове е нанесло удар по товарен кораб, насочващ се към черноморското пристанище Черноморск (Чорноморск на украински), както и по друг товарен съд, пътуващ към пристанището в Одеса през деня, предадоха Ройтерс и ТАСС. Според министерството двата кораба са били използвани за снабдяване на украинската армия. Руските сили са нанесли през нощта удари и по логистичен център, разпределител",
-        "date": "2026-10-25T16:47:37+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232423-rusiya-zayavi-che-e-nanesla-udari-po-tovarni-korabi-v-cherno-more-kakto-i-po-t",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/1835856/06a9f4a1ecf440f09389fb9f1e4ee24f--1--22ddaed249c14e81bfa545ea9c0b74da.jpg"
-      },
-      {
-        "title": "Матео Салвини се обяви против предоставянето на нова помощ за Украйна след преизбирането си днес начело на италианската партия \"Лига\"",
-        "description": "Италианският вицепремиер Матео Салвини обеща да се противопостави на предоставянето на допълнителна финансова и военна помощ на Украйна, след като днес бе преизбран за водач на дясната популистка партия \"Лига\", предаде ДПА. В изказване на конгреса на партия си Салвини заяви, че неговото преизбиране му дава правомощия да оспори пред правителството подкрепата на Италия за Украйна. \"Не можем да продължаваме да изпращаме пари и оръжия на Украйна\", ка",
-        "date": "2026-10-25T16:45:23+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232427-mateo-salvini-se-obyavi-protiv-predostavyaneto-na-nova-pomosht-za-ukrayna-sled-p",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13310923/0ff2c0027e05428b992bdc2db22719d4--0--aca80339a23f447c8d9eeeeb683ce854.jpg"
-      },
-      {
-        "title": "Путин: Протестите в страните в Европа се дължат на собствените им грешки",
-        "description": "Причините за протестите в европейските страни се коренят в собствените им грешки, включително в прекомерния им държавен дълг, заяви днес руският президент Владимир Путин в интервю за журналиста от телевизия \"Вести\" Павел Зарубин, предаде ТАСС. \"На какво се дължи това? На собствените им грешки, и то в различни области. В икономиката и финансите — прекомерен държавен дълг, надхвърлящ 100% от брутния вътрешен продукт. В Италия например той достига п",
-        "date": "2026-10-25T16:01:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1232407-putin-protestite-v-stranite-v-evropa-se-dalzhat-na-sobstvenite-im-greshki",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14022821/8f6e4452a7c34231a1d99d6bb8b41055--0--d6a47f9754d0453690ae131ffab27b1d.jpg"
       }
     ],
     "Наука": [
@@ -545,14 +545,6 @@
         "image": null
       },
       {
-        "title": "Висшистите предпочетоха Гюров, Йотова събира най-много гласове сред избирателите с основно образование - TrafficNews",
-        "description": "",
-        "date": "2026-10-25T17:58:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUlEZTFTR2o4SzdBWUdxUF8yMEVvQ1c1eDBuWVJxREpVVHo5a2h4M3FHcUpkUGNCWkNJVVo5YTlBRkhDTEotREFZY1hzcGhHSXh1WU5iSjBnc2FDa0s3MWJfVXNBNEtrNDBqQUk2SU1QWGYtX1FkMGdsSWhHdzJUZkw2Q0cwZDNGdzRlS1VTZ1ptYU9Mdmtja2NR?oc=5",
-        "source": "TrafficNews",
-        "image": null
-      },
-      {
         "title": "Конституционният юрист Александър Джеров почина на 97 години - paragraf.bg",
         "description": "",
         "date": "2026-10-25T17:00:32+00:00",
@@ -565,14 +557,6 @@
         "description": "",
         "date": "2026-10-25T16:38:44+00:00",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3k0X2VZcVdDMGpHbFlkLVplS3RWRTVYNHFSRlZFeHFJRE8tbEVJZXk4Nm1KaGtWSXhTYXRLOXRFb3Z1MTdERXFjc2taYXNVMmx6WjJrWnBESDA2dFFSUlFlTWMxYzQxUVZGb0h2Y0FNY3NGY0RqeHBPRUZXWmdPWlgzNDFpcjBhUlg0R1czWQ?oc=5",
-        "source": "paragraf.bg",
-        "image": null
-      },
-      {
-        "title": "Марин Коцев, художник и преподавател в НХА, почина на 86 години - paragraf.bg",
-        "description": "",
-        "date": "2026-10-25T13:30:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0R4X3ZVV2ktVjdpQ3hHQmJ5cG10OVdxTWdRUDYwWF9tU1JfTGtkdzNfS0tCWWtQaXh4OWpYUjlZekFjYmtWekhmb0ZMVURELWJuYkJzWjVvWHdvckFOUWNDQkZoTFlJalc2SmtHY3BlXzY4SnNRRGl0WFI0eEp5YnpOTDJjVnFOTEVzQjdR?oc=5",
         "source": "paragraf.bg",
         "image": null
       },
@@ -598,38 +582,6 @@
         "date": "2026-10-25T11:13:34+00:00",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYm5QZF8yVkZDSkZPdkREUkFmOFBEalNwSmh6aW5lU0xvOFg4WDhkampPWXVwX2FGQkRqblEwLVpfcWhsNXlWWHFSdHRnVGxDMzdhSEViT241MXhENmdzek4yVW4tYWZ0U05xTmdpWWRHcjF1emUzNU1IeUtnUHNKMnBsUVFqaWVPSjRMcm8wS3A4c3hScmJqbUlkZw?oc=5",
         "source": "dobrudjabg.com",
-        "image": null
-      },
-      {
-        "title": "Училище в Кюстендил обучава деца по британска програма за начално образование - Новини от югозападна България",
-        "description": "",
-        "date": "2026-10-25T08:44:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3J5UnBRd1A4QTVoT1RocDExUGFXTWR1cjloWlp3N3dvMDliLXJFWWE4YVNYMnNjWllWdnJQYXJsNVpLbXRxQnlkaDdidU9kR3ZaU1YxWVVSZDloSmI3Y2ZjMnNoeFVXbUxHY2JOdzlUX2lsX1BiWk1aVWw4WHZNLUpHcldFeWFkQjV6V212c3dzbkJMN2pTOXN2dHZKNlFjQU9jTVBmakF5b3J1RVlibVMyVG8?oc=5",
-        "source": "Новини от югозападна България",
-        "image": null
-      },
-      {
-        "title": "Франция в пламъци: Милиони излизат на улиците срещу кризата и за по-добро образование - NetNews – Новините на Ямбол",
-        "description": "",
-        "date": "2026-10-25T06:16:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSDk3MlZ3U053MW9ocVU4STFfcWJRRkpOMDRSbTdlbkpNcjNhaWwzb3gxNHAzTkw1cnFxMTEyTWVramxMM2FEY0VkY1VscmJNMWg2cklWMHp4bWJMeHJpaVVkLTdnWjZMUXZ4dGZYcmhfS3FKQUR4MzJtT1BTWTMyT0pyUEpiRFhQMUtRZDlYdldfUTlvSXUzazlnenlZb1djNnpQMWU2WWxuQUJWZmdMVDE5TUptVVN6RkdnVGRGdldDcWRYOGJUdGV3Mm1OZFVlVFBUamdoRFBWeGlkVHd2Nk5lMUFwS0lfTWlPVnNTS28wWWJUNndjMmpOX214N3dzcXFRTG1HZm53blNuM0hjMTNQTW9DUmp6dzFGMEkzbXRyVWNwNUFyeU9LOEE4Nko3UHBLUGZqWUxoSnQ4ZjNF?oc=5",
-        "source": "NetNews – Новините на Ямбол",
-        "image": null
-      },
-      {
-        "title": "Ученици от СУ „Иван Вазов“ – Бургас представят здравни професии на деца в Сарафово - Novinata.bg",
-        "description": "",
-        "date": "2026-10-24T21:07:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFBtYU50RERMU2hVdGRVZTBVVGdKak80N01sandYMy1wSWpiZU9VSWIwQ1pyYnNDM0Y2VHRjZFZidTYxeFhoZU1NWXdIOFRZREpXWXZISERDbmpGN1MzM3ZVNTFRdGc1ZUdzOXhxLUlmdzNhSXcwSWVkNGJxOTA2UGRvTlFfR2M2c25KRjZkWmhmLTN0d1pmcm9LMmdDYk15ZVZoQTQ4amtQNk53Z09kMmpsM3M?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "Полицията използва газ и водни оръдия при сблъсъци в Тирана - paragraf.bg",
-        "description": "",
-        "date": "2026-10-24T16:45:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnZVQnZBZUhmbTl6TzNzY00wZlpxRWQ2ZGl6OERnenQ5dVJxaXV0ck93ZzBHdzIwRUdNS3VjY2R5ODhGS3NuN2FEaWF5YlRyRHR4U1Zkb3NWUmFqNXNCVWMwWnV1R0pWVUxreXpOQUpjdHRLbXZCdjl1bnhxSTJnaHV0cXUyRGMwRlpmag?oc=5",
-        "source": "paragraf.bg",
         "image": null
       },
       {
@@ -681,27 +633,11 @@
         "image": null
       },
       {
-        "title": "Деветокласници от Враца учиха за екологичното равновесие чрез интерактивен урок - Konkurent.bg",
-        "description": "",
-        "date": "2026-10-24T07:45:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkp2VXF4MFlFeXFOamV2Q1NjYlVMZ3AwRVR1LXNSSm1VbzI2Q0VQNTd4RlVySl93UzNOTGtRc01zWTJIMnFzcVU0MXZIWF9LN3dtSER3WFljZmkyc0ZtYVBjclBiWEN1V19SUldzVmFsek5sUzMyY2djUzUtVDFWOEpaWlFnNjlGbmVfNTcwOEJwbFJ3WXU5VWV5TzBEcUNvTlRXcURwQlZvMXRlUnJsUFlkLUdXN1JBVllMNlFJLW1ZQ2prdnVoMQ?oc=5",
-        "source": "Konkurent.bg",
-        "image": null
-      },
-      {
         "title": "Търсят се директори на две детски градини в Симеоновград - Haskovo Live",
         "description": "",
         "date": "2026-10-24T06:46:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbk9tOEd1TnJkNkZ4TXBTdUdSTWV0SnBsLUEtZFVJU2RqbXZmeVUzODNwakpTckgtTWFualhOcmxqOHNncHFQb21DcmhwbDZqTWphNElRLUdQMTZlRGJSb0tMYUVDTkViVnY5T0hsS3pjSmFZQ24wUUplRHltOFYtUnZGY252Zw?oc=5",
         "source": "Haskovo Live",
-        "image": null
-      },
-      {
-        "title": "Научният потенциал на филиала в гр. Тараклия се заяви на 65-та международна конференция на Русенския университет „Ангел Кънчев“ - Rousse.Info",
-        "description": "",
-        "date": "2026-10-23T21:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNGJPejdXVG9FcF9XU2VVSW1tWGRpbEdLMjFvS3lZQ3pxV2QtS1pzNEZxaXc1Q1FsMFFacmRaamZWbzNCbGZhMExtSmw0ck5kdDlfNV9rQUFLa2ZoOUpkY3NJV1lob21zUTBzT0M0U0Z0RFZXQzd6WUlKalpVZUtRa2VNT01SbFU1czNRZHlSRUJaNXpJR0RubXM1Um5zMDJwQXhVbUprVmp2Y2dTUUlSZnRFWEtHTjRvcDFGTDVrbmlEVUQ1NlJFSXNvTWxqdGtNZ3ZDU2RmR1ktU19Ma0tqUDdhdWtKNThpTUdv?oc=5",
-        "source": "Rousse.Info",
         "image": null
       },
       {
@@ -721,18 +657,82 @@
         "image": null
       },
       {
-        "title": "Заплати по 5600 евро, а България не иска да учи - Стандарт нюз",
-        "description": "",
-        "date": "2026-10-23T16:21:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0k4bEVYdldTSFd3WktGOTFiOE5UdjZ5ZmQ3NGxVbmZFMDM5bXNiUWlPSUdodnh3WGd2OVZ1S3Z6QzNUQ1V3M0lxaDROemFTTWowbkh5VER6YmxZSnR4NnNITUFyWHVnVndFY1E1bHlVTGZvcGtncG1mOGw5a0I4TWJoVVp1SlZQN3RjZVE3Ump4TDNqMllnSVBuYnU?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Костадинов: Независимост, благоденствие, единство, образование и силна армия са петте ни приоритета - Кворум Силистра",
         "description": "",
         "date": "2026-10-23T15:49:11+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wSDNjdWFEWE5qelZGV1dvbjZXUlFoMHdidFJ5RUY3RWpkTTdaaGNBdmRLd001QzNSUXpVcVVMX3Z4T2cyLWpCWjRYZklnLTJuN1MwWnZ3?oc=5",
+        "source": "Кворум Силистра",
+        "image": null
+      },
+      {
+        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - БТА",
+        "description": "",
+        "date": "2026-10-23T15:39:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcThDcXhpMG9YR3lwV1M2amZUdExnZzR0RmMxUjJ6NjFaZjd2QUdneFRadVJPWER1T1d1VUxFSG9BNUVaSjVwWjJvWnM1Skx0MFo1Rk9BRGNYZjF0Ui1aOHplTkF4SndxLUJkTnhETzBDQ3pDeEZMZFBFSzBvR216Tjl2Unh1MHVmQUJPb1B4WUkxVU1LVHRwTThaejJuUDRCcEFsbC0tb2ZvR01Sc0E0SkhnTUg0WDlyOTk0?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Кр.Вълчев: Трябва да имаме известна сляпа вяра, когато инвестираме в образование - БНР Новини",
+        "description": "",
+        "date": "2026-10-23T13:23:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd2NZOVhwWWNIMXVVTjBOMTJoX0dPdmQzQm5YYU5KWjgtVlhsU2lub2VvVktPS0VzSXg5aXBjYzdlLU5YVHVoNE5jM3VYZkFFejE5UFhsSTN0VlVCZElUVm9IXzZ5dUJ4bExTMC1MWmFHSzRJdGtLSmtuRHYyYTFhaUtneHpoM18wMTEyV0FVaW5fQ1k3ODBrenRybHcyYW1zS0NrMzlRNzBQMnRFTGgyN1lJMTA4YlhwXzdvMzZ3?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Десет бивши министри на образованието се обявиха срещу предложения един учебник от Радев - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-23T12:09:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDktdEFOOGxiRWFpT1owWklIb2R5MzNyX1M2M3hvbUhoWWpPRFdScHRHVjFNM3VrZjFhVVNZdjJrM2tkTklSR05ZYTMyY1N5eTUwWU9OdU94c19XaS1IcVhwR0lIYTFzVXhqWHFwbWxBVFFER3hZQlR1aXR1a3VScldFRWlORFYtc3I3aHp0UGR2eGNQcDk0WVVnZG9sWDBPd1J4bQ?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "Данни за образователните институции в системата на предучилищното и училищното образование - Министерство на образованието и науката",
+        "description": "",
+        "date": "2026-10-23T11:36:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNlBWUHFHdXFhLVpBMHdqLTZFM0FycUlLZ0x4V01PZHpiV3BFbU8tdUMwX2NnY3N2Tlk5YmdrNVZiNTE0VkoxcENoeGstWHdJTHdpdXhrWmdCSjQ5cE5rbUpXMjZOQnd6ZGRLUktSalZRUFQ4OHFoTzRVVmo0WFlJYVU4Smdnb1BYZHA4NzM3NDY5SFNrVG5yQnlVRGJ4T2NqYUlhcGlJZi0tUzNqdER3dE5BUEVaRmNwMTdWeUpweHc5ZmdBV1ZaQ2FaMFRXZ3RMUXF5ZUxfN0RwMi15R2NxTFIwWHJHQWl6ZzdkMWlPb3Q?oc=5",
+        "source": "Министерство на образованието и науката",
+        "image": null
+      },
+      {
+        "title": "Десет бивши просветни министри против въвеждането на един учебник по предмет - News.bg",
+        "description": "",
+        "date": "2026-10-23T11:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdlBjTUprbFZRQ1ktWktMZEg3SnNKbmptcmZYYnpRMzJBeGNDOWc3a3RGNjlpQUdPWGpZcHNxTjNqYVlweS1lYk94VVZmcHFadURYY2dmMU9RN2NmbFZEdkx3X3h0WWRRMG9iX05HZWJ3T0tWMGJJMmdQaUVJZzVwamxmRXFwUndCVENTQ3BsbHNCc3paMW9kbWJha184X25KWV9RNUNyeTd3MkhuT1JV?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "\"Зелена светлина\": българските лекари ще могат да практикуват в САЩ при едно условие - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-23T10:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1cwbkV3ZWpkOGhheTFTRVllOTBYWFZibTdqSEppVE9KOUR0Q0I0TUl3a01Dam1sQVpsWTJYYzZJMk1KZ3l2Mzd1akE1endoVVB2N3JOLUphbklqRTg4d0UtN3BYX3N4UWEyeEFWakdNbkRMNktMamNlNUNNYVBUMk9nOXI0NlNLTEhXcTAzNmdzZENBc09TbzlwUnFqSTU0YkFXcTB3?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "Протес и във Виена срещу съкращенията на разходите за образование - News.bg",
+        "description": "",
+        "date": "2026-10-23T09:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1puME1UUk9ZWWw4RERSY184S2Zhc0RqbXZGR2hTbVRjTTFmajJRMFdiVzBRRVpENlE1UWlyT3NVYU9FRTlQZ0ZPVWxLc1FPcERudXhYLWNpMThlaXVvTHAtWkRtTTVLU3ZIbEJWNVBxR1ZnMzNRX3JpcU9ROTNIRzliU21yNlppTExQemVadE4xc1phWUpGNmhrSm84TUh6emxROHdLNA?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "Висшето образование има стратегическа роля в икономическата стабилност и международния имидж на България, каза ректорът на СУ проф. Елиза Стефанова - БТА",
+        "description": "",
+        "date": "2026-10-23T08:58:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWhYLVlWYklkWUdfcUhlWFZQSjJ1U3J6dGFPdC1fQWlZR29mVVJ3bGdKcEpGY09nbGFlaXBoUVdRN1haWmE2b2dNckRCVWpyNndCNmY4WVdSSnhyMWdhbzl1RHRzVTQ3OWJGeENpYWRnN2lCQjltZTFDMHFuZ3RfeE13LWNqQVFoVFNjWW5qZEtlUUtHRGxLT3VxTnVMS3lyVzNodnVrZjRhRVpEUUVrd0hDaTl5SFdYT0pV?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Силистра и Гюргево обмениха добри практики за по-достъпно приобщаващо образование - Кворум Силистра",
+        "description": "",
+        "date": "2026-10-23T08:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudWtfOTNDQjBsb2U5TkhDanE0cExqa3E1S0FwWmNQUThieFg1TmhIdjVRU1Q2eWlQeHVWWk9ZZmZoMkJMamstbHRROWFRSG92eTdxYUVn?oc=5",
         "source": "Кворум Силистра",
         "image": null
       }
