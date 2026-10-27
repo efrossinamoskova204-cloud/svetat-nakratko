@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:51:56.988322+00:00",
+  "generatedAt": "2026-10-27T02:44:13.342614+00:00",
   "categories": {
     "България": [
       {
@@ -27,20 +27,20 @@
         "image": null
       },
       {
-        "title": "НА ЖИВО: Битката за Златната топка, Ямал е най-добър млад играч - Gong.bg",
-        "description": "",
-        "date": "2026-10-26T20:57:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkZBYmVIRmxOQTJ1ZnFWLVRrM24wYzVOdzZBSUZEelFFaFJJZkIyRUw0U3FnWEtCS0NIV0x4TGZ5bFo3OEZuYWVaN0VDWTN0SjI5Znpxb0RTSEZBdEdKVGg3dXIxSG5Lc0NudlJaRVlCb0hqVkVGbnRvWmVzUkdTeFFJR3VQT2VZR1RveTZOSEVTTjdrYTJxc2hUcC00Zm1qc2E4eA?oc=5",
-        "source": "Gong.bg",
-        "image": null
-      },
-      {
         "title": "Веселин Маринов гостува в Гоце Делчев с концерта си „Ти си любовта“",
         "description": "Певецът Веселин Маринов гостува тази вечер в Гоце Делчев с концерт в Дома на културата „Пейо Яворов“. Музикалната проява е част от националното му турне „Ти си любовта“, с което отбелязва 45 години на сцената. В програмата са включени песни от различни периоди на творческия му път, сред които „Ти си любовта“, „Целувай и не говори“, „Няма да ти дам да остарееш“ и „Горчиво вино“. „Любим Гоце Делчев, честит Димитровден! Знам, че този празник тук е м",
         "date": "2026-10-26T20:40:11+00:00",
         "link": "https://www.bta.bg/bg/news/lik/1233323-veselin-marinov-gostuva-v-gotse-delchev-s-kontserta-si-ti-si-lyubovta-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037906/20261026_185445.jpg"
+      },
+      {
+        "title": "Почина звезда от \"Стар Трек\" - News.bg",
+        "description": "",
+        "date": "2026-10-26T20:13:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wY1psRURLZlJ0cU94cjZEdmItYVVPWVBlblFhUEEzRDQzcmJUcEcwRzUyZld6eVRKOE1COHVCb3ZTZDhXVU9VcmlQcnpGWVk2MTBYMVM4VWREYU5UZXQwWUg0SWRfZUZmeGc?oc=5",
+        "source": "News.bg",
+        "image": null
       },
       {
         "title": "\"Таймс\": Привържениците на принципа \"нито педя украинска земя\" живеят в приказките",
@@ -204,6 +204,22 @@
       }
     ],
     "Свят": [
+      {
+        "title": "Локалното прекратяване на огъня между Русия и Украйна влезе в сила, за да се позволи хуманитарна операция в град Олешки",
+        "description": "Локалното прекратяване на огъня между Русия и Украйна влезе в сила, за да се позволи хуманитарна операция в окупирания от Москва град Олешки, съобщиха днес и двете воюващи страни в отделни изявления, цитирани от Ройтерс. Руското министерство на отбраната написа в Телеграм, че е спряло обстрела по посока на украинския град Херсон от 4:00 ч. московско време (3:00 ч. българско време), за да се подготви за хуманитарната операция в Олешки, който е гра",
+        "date": "2026-10-27T02:41:01+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233346-lokalnoto-prekratyavane-na-oganya-mezhdu-rusiya-i-ukrayna-vleze-v-sila-za-da-se",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14001576/d654424fb4c34c23a0405e230cb8f98a--1--dd24a3011458499a951066c55564ff5d.jpg"
+      },
+      {
+        "title": "Правителството на Тръмп изгуби дело за блокиране на участие в изборите в Калифорния на предполагами неграждани на САЩ",
+        "description": "Американски апелативен съд постанови днес решение срещу правителството на президента Доналд Тръмп по остър спор в навечерието на междинните избори, отхвърляйки искането за блокиране на преброяването на подадени по пощата бюлетини на изборите в Калифорния на повече от 20 000 регистрирани гласоподаватели, за които федералното правителство твърди, че са предполагами неграждани на САЩ, предаде Ройтерс. Решението на Апелативния съд в Сан Франциско е п",
+        "date": "2026-10-27T02:04:04+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233345-pravitelstvoto-na-tramp-izgubi-delo-za-blokirane-na-uchastie-v-izborite-v-kalifo",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14000009/b62ea64b359b4ab8bfce4f32d9221f1d--0--491ea99b043d47c6a88ab7db31174fc9.jpg"
+      },
       {
         "title": "Правителството на Тръмп отново се опитва да съди бившия директор на ФБР Джеймс Коми",
         "description": "Срещу бившия директор на ФБР Джейм Коми, който е дългогодишен критик и враг на американския президент Доналд Тръмп, за трети път бяха повдигнати обвинения за разкриване на поверителна информация, свързана с националната сигурност, сочат публикувани днес съдебни документи, предаде Ройтерс. Коми е обвинен в предаване и заговор за предаване на класифицирана информация за националната отбрана през октомври 2016 г., се посочва в документите. Самият Ко",
@@ -381,28 +397,12 @@
         "image": "https://www.bta.bg/upload/2382744/ded81e380fa44ab4a8d6c24cf18374cc--0--ae1688abb57f41c680b736d06c83716d.jpg"
       },
       {
-        "title": "Либия съобщи, че международните ограничения върху въздушното ѝ пространство, наложени през 2015 година, са отменени - БТА",
-        "description": "",
-        "date": "2026-10-26T19:53:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGNBQVA1M3ZDaHFGbV80OGk1N0RJQ0ZmWXFuLUVVTTRSZXZXMnpKOHBuME5iVE1kSnhYVjNYU3RISTV6QlhUb293d3BsSWlEQkVoa3VUSHRJSm94NURLeWxKY2RTV2tObGkwSVZaY01EUjhydlNZTUpZUzJNVmpuTFJsSlVKcHM2aGk5cFlLZDhlYXJGUE1jbHhTX1pQUDNQZENHSUUta1BlRzhoenNMd1laTlJnZ1FUc3R0cQ?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Кораб гори край бреговете на Ирак, заяви Британската организация за морски търговски операции",
         "description": "Британската организация за морски търговски операции (UKMTO) заяви днес, че кораб гори край бреговете на Ирак, без да уточни причината за пожара или състоянието на екипажа, предаде Франс Прес. „Британската организация за морски търговски операции получи няколко съобщения за горящ кораб на 63 морски мили (близо 117 км) югоизточно от пристанищния град Ал Фау в Ирак. Към момента не са известни състоянието на екипажа, мащабът на щетите и въздействиет",
         "date": "2026-10-26T19:35:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1233313-korab-gori-kray-bregovete-na-irak-zayaviaobshti-britanskata-organizatsiya-za-mo",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13293677/c4e2792c6b7a483a94ce50ca0a8dd7f5--0--281dd561b35c4ddbbdba4561ee49f9a2.jpg"
-      },
-      {
-        "title": "Президентката на Венецуела обвини Мария Корина Мачадо, че прави \"шоу\" с връщането си в страната и изрази надежда диалогът с опозицията да продължи",
-        "description": "Временно изпълняващата длъжността президент на Венецуела Делси Родригес заяви, че се надява преговорите с част от опозицията да предоставят възможност да бъдат чути всички политически позиции, ден след като опозиционната лидерка Мария Корина Мачадо се завърна в страната, предаде Ройтерс. Същевременно Родригес обвини опозиционната лидерка и лауреатка на Нобеловата награда за мир Мачадо, че прави \"шоу\" с връщането си в страната, съобщи Франс прес. ",
-        "date": "2026-10-26T19:17:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233312-prezidentkata-na-venetsuela-obvini-mariya-korina-machado-che-pravi-shou-s-vra",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13890512/fe65fa39d8424f8f9ee9d909370e8ad9--0--2ad167f86cd94cfab3be88a061e783bc.jpg"
       }
     ],
     "Наука": [
@@ -431,6 +431,14 @@
         "image": null
       },
       {
+        "title": "17-годишна българка покорява Amazon с дебютна книга за наука и човешки права - https://novini247.com/",
+        "description": "",
+        "date": "2026-10-26T16:20:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkoxd2VpdEFOUzlCVktDdmNOQjNwSlp0ZWZjdUxVeW41MkFXTm9Dd19hN1JiZklJQXVWcllOdjNwSjYtbTlWM05hSVNuWm1Eb2V5NXExY1ZqMVg3MTdvNmxEN2plV1FtZExlWlBHZ1pYWG51OGNzS0VsRW1TM19CRXZxOHN6REtDX3RLRzlzZGtnajdWV0VfMWVjLTNwME1vbFdHUGhGUDE0QnRwT1pweG1KN090RXFyTkE?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
         "title": "Причина за депресията може да е и нарушение на биологичния часовник - Списание Осем",
         "description": "",
         "date": "2026-10-26T14:17:48+00:00",
@@ -442,7 +450,7 @@
         "title": "Учени предложиха първия метод за откриване на „огледален живот“ - Kaldata.com",
         "description": "",
         "date": "2026-10-26T14:02:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPMkFDN1BRRk5RVURvclFGbEtrZjFQXzRHZU40VjgxS0NKYXFwenRMV2VEZ2p6a0h4WkNjeXJCTWROTElXVGlBMXJoU05Tbzg4QUpOTzhuY1h5R3N5eWhxLXJ2azNEdVhiTzAzaTI5RmRGV09OTEM0Sjg0WTN5enZ0MjFpZXVsMkdLMWp1cTgyOUNkTTUwWEo5eUx0V284Sk9ZM1h5dHpyNklaWXltUUFGUk5BYW1LWVRwM0w1Y24yeXFzM3NuVG92SE1xVDJ0aTlGaG5KWlZ4dU9YamlGZ1c1eTdRZkdlMFgwcklKVmdxOWQtNFN3TjdFaHdvRnNWSkNvWlhVcTN1aVFZTzBxX1BCRHBKSDNJVDRaYmJXZElTWG9JT09RSGJWSWh2RXZCLVNYWm1xMHd2ZkNFSm5qdlF0UTcxYTBlaktLOEQ2bXphdE9zQnFoMmR3bS1lOTBOUXZoNi1tckpCOUdYRF9GeDVTZ0NDV0lsZnVEVEhMNEJsQWcyX1hPNl81Z09DTER0X2dNaURNV0dROFppbFVabTNrQVVUUlotZFM1N0tZN05ZNVJ0c1N6NmNNcUJ30gG6A0FVX3lxTE8yQUM3UFFGTlFVRG9yUUZsS2tmMVBfNEdlTjRWODFLQ0phcXB6dExXZURnanprSHhaQ2N5ckJNZE5MSVdUaUExcmhTTlNvODhBSk5POG5jWHlHc3l5aHEtcnZrM0R1WGJPMDNpMjlGZEZXT05MQzRKODRZM3l6dnQyMWlldWwyR0sxanVxODI5Q2RNNTBYSjl5THRXbzhKT1kzWHl0enI2SVpZeW1RQUZSTkFhbUtZVHAzTDVjbjJ5cXMzc25Ub3ZITXFUMnRpOUZobkpaVnh1T1hqaUZnVzV5N1FmR2UwWDBySUpWZ3E5ZC00U3dON0Vod29Gc1ZKQ29aWFVxM3VpUVlPMHFfUEJEcEpIM0lUNFpiYldkSVNYb0lPT1FIYlZJaHZFdkItU1habXEwd3ZmQ0VKbmp2UXRRNzFhMGVqS0s4RDZtemF0T3NCcWgyZHdtLWU5ME5Rdmg2LW1ySkI5R1hEX0Z4NVNnQ0NXSWxmdURUSEw0QmxBZzJfWE82XzVnT0NMRHRfZ01pRE1XR1E4WmlsVVptM2tBVVRSWi1kUzU3S1k3Tlk1UnRzU3o2Y01xQnc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQV01fdUFFMGlWLXVwX3g3dVRYRXpjX1JYRml2SGJ3ZkxOLVgyVmVBOURCZmlLcFBGQUlZU2tuOTNFZ1JsclVoSUJZaERSVzRHVzlBaGRvM1dvVk1XTHc1ZTRJcjRDUlotY0VGTUNwdEt1d0lhNXFqbER3eWFqYlFxcEo4cEwzaFd3ck0xdkZ6TS11ZUprTFJvbWpEcjJxYWYxbi1xc3NNT2dtbHFCTFIybm1qTW9jazlJeWphZWdKWGpaQy1fNmw4VXQ3VG81OHh6X0w0MjNCZzVDTzRsd3lXZHV6MlhNMmJwMi1GRGttOUlxVkZhRXprZVRtck42aGs0c3ptejduckYxcHZjTHVMdnNpMl9TOGhXNGpzZEZkenVKdDYwYmpEY0pMSG9QMllLWmU3eEJUelBXZm9CQmlnMVA2V0E0NnpXXzhCRkVlUFRiUnd6cHVnYnV4NGctcm04b19Kb0dyM3dZZFRpZUZiYkJWdGZCb3ROelVfWHV5R0U5b0Y5QjdLS1d2aVJ5WWVPcjAyVmVEaGFjMko1NzdqZTNnU2M4SEhqMDVJQmh1dE5Xd9IBugNBVV95cUxPMkFDN1BRRk5RVURvclFGbEtrZjFQXzRHZU40VjgxS0NKYXFwenRMV2VEZ2p6a0h4WkNjeXJCTWROTElXVGlBMXJoU05Tbzg4QUpOTzhuY1h5R3N5eWhxLXJ2azNEdVhiTzAzaTI5RmRGV09OTEM0Sjg0WTN5enZ0MjFpZXVsMkdLMWp1cTgyOUNkTTUwWEo5eUx0V284Sk9ZM1h5dHpyNklaWXltUUFGUk5BYW1LWVRwM0w1Y24yeXFzM3NuVG92SE1xVDJ0aTlGaG5KWlZ4dU9YamlGZ1c1eTdRZkdlMFgwcklKVmdxOWQtNFN3TjdFaHdvRnNWSkNvWlhVcTN1aVFZTzBxX1BCRHBKSDNJVDRaYmJXZElTWG9JT09RSGJWSWh2RXZCLVNYWm1xMHd2ZkNFSm5qdlF0UTcxYTBlaktLOEQ2bXphdE9zQnFoMmR3bS1lOTBOUXZoNi1tckpCOUdYRF9GeDVTZ0NDV0lsZnVEVEhMNEJsQWcyX1hPNl81Z09DTER0X2dNaURNV0dROFppbFVabTNrQVVUUlotZFM1N0tZN05ZNVJ0c1N6NmNNcUJ3?oc=5",
         "source": "Kaldata.com",
         "image": null
       },
@@ -466,7 +474,7 @@
         "title": "Китайски учени може да са разгадали една от най-големите загадки на Слънцето - Kaldata.com",
         "description": "",
         "date": "2026-10-26T10:12:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQS1dMdW45d3l2RDJnWmt1RnRhdW1rel9la2FhUHNodGFqYlhfUGFXcnNkWnFONk5IVHZSZUc4dUhTNFFvR1BlY0pzU0FNUHlXRVo2eG5ZVDh6Y0Z6clF1MXc0MTYzRzRMYVNMY2VNcG5PSnhOaHFaVTF5VTlhWjZIMjIybUk2bC1DanRtYmF6M3FmbVk0NW9TUnI3M3daTjBPQmoyQkhFQWdPdVE2cTZYM1ZVZkR2U0g5bWRfSDhoZ3JDdDJMdnEteEl0TFFrQTNfcm1HNWlpc3Nkc3RXRDF3RWlzLVFUbGJyc1N5SFJCVmNzVEtQUmdISmliWEJhdmE4ekdmLVlyNW84VXBlNnU2RTFhb1pjc3k3ZFBjRW9JemVDZDluOWRwRDNHYXFQN2RiZXdwaDI3SXVrS184OXpsTXdINTFCZEx0UEV5ZlJRUzVLVFU5N0dVOHd6TE1UWjh1Z2prWEFuV09HaEJoSXpyM1BOMTIxT1dZaHFfbk4yeHJYX1o3Nl9jZUVybGJjMGJEbjdHSXJTT1cxYkhwVEZ3NWxNQzh3T0I4VVNuU3Z3UVF2RVY1UnZrWXZxb9IBuwNBVV95cUxQS1dMdW45d3l2RDJnWmt1RnRhdW1rel9la2FhUHNodGFqYlhfUGFXcnNkWnFONk5IVHZSZUc4dUhTNFFvR1BlY0pzU0FNUHlXRVo2eG5ZVDh6Y0Z6clF1MXc0MTYzRzRMYVNMY2VNcG5PSnhOaHFaVTF5VTlhWjZIMjIybUk2bC1DanRtYmF6M3FmbVk0NW9TUnI3M3daTjBPQmoyQkhFQWdPdVE2cTZYM1ZVZkR2U0g5bWRfSDhoZ3JDdDJMdnEteEl0TFFrQTNfcm1HNWlpc3Nkc3RXRDF3RWlzLVFUbGJyc1N5SFJCVmNzVEtQUmdISmliWEJhdmE4ekdmLVlyNW84VXBlNnU2RTFhb1pjc3k3ZFBjRW9JemVDZDluOWRwRDNHYXFQN2RiZXdwaDI3SXVrS184OXpsTXdINTFCZEx0UEV5ZlJRUzVLVFU5N0dVOHd6TE1UWjh1Z2prWEFuV09HaEJoSXpyM1BOMTIxT1dZaHFfbk4yeHJYX1o3Nl9jZUVybGJjMGJEbjdHSXJTT1cxYkhwVEZ3NWxNQzh3T0I4VVNuU3Z3UVF2RVY1UnZrWXZxbw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQWVpxT0FpdXFGZktKWmtyQTZzd29Ub000eG8tODZoRFJfcjRoemV3dEFmRE1Rck1IVGRyVmhUMkpJYnYyRXZyN29rYzN4N3FzN0VCZS0yZG9zSURER21YelFTUjRRWGpKTFNyUmJYclVLLU43U3hoRG83bnQyMHo3Q2NsX0pOUk1LZTVJYzNrdEJzcnRiT1lJYUJVazM0WkZSUnlnNnJ5UWRKZU1BcXN3Z2VWbkRPYkdfdFRvX2EteHM1M1R2Zmh3aGhFaFBONzB5NlR6NzlrZ0pLUU5MNmM5QlZIelJHU2NYXzU3YTl3elJZUTk0VkFILWsyTjRENmNkNEpzU1FOaWVDVGp4LVR2WWxyZEFBQjhVZ0lnSlo0SFRNZ0UwcGw5cFBxYl9BYW81cDVqUHptblFNQ2k1dFQxWVVzZ2RGRzRyeC1rUGgweHA4YlMwUU1NZ2ZQNFVzTUJWa2FfcmdoaE1LRXhoLV9INHBEZEF6Y3E2ZEtqNUlpNU9kTTBVdHZaQ3dRR2pRUTJNanRjVUZKeWstZlVqOVNoc3J1OGJ6MS13U2xwWDNrVk5ZNFHSAZcFQVVfeXFMTkdhaFg0RkFQc0hDeU1WdEZDVEJpTUFxZm9rU0NEaFh0RW9hc2E3OEUtLS1IWnlTUlRQWW9uNkVBczUtN3UzdkFYUWhGWXZWaU9rck5sb0hKcUpvWmZiQWFIYlZySkVEQTMtWllNNFU3aGQxcVVneXgxZ1lwT2tkSUpqclhwdGFwck1yX0JiV18xU0JiMnl2cTR1SDkzNnpPQlc4aU5oY2tFT1dENGdjeEdfLWlydkVjeTZSSEhIbEpPbzBoV0RuMzhxNWVyb2F2cTVWdVBPV1NqeUxORTZZQXdVbXFpYkNyLU1fR0RUNmlMT1NpMUZsXzNoU0RnMW13NDRDNjltSS1LTmR4VHRZTGd2V1c1SmRCbklYUjkzQ051X2tnSVBYeTNvYmhkaTJCTVpRTE53aVppZm1RMjR6ZHNNOWIxYUpsaDZJZHgxMXE3YjhOYVRqa0VOVlFRREVEdTI5T1ZvTUgtZEJMa1B0ajVLOFhZQjFUZHJ2MjFCUmlkVmFub3ROSDExdWVCSlNLcmdtME9RUnpUa1BrUFprTnU3dnFyUHB3Sm1TNUFTNnBPQXhzRnFlYlFzZlRBSXc4TnNoaW5YUEc4eWNiVENwUlhXdzhtcTluWmpRSXN6Y0g5OXd2NGQ4UmU4MzRSOFpTcEQxQjIxelRoWFE4cmFMbXVsc0V0TUd2XzhwV1VPQW1GTUFqazBWeTAzVkYyT05lZ3BaY0VVNm5RV0xOT1BiVzdjOWRTRUhCSHhmWThLVTJ5U1lnLXJhZjl0Y3JjaERaVVRkTGtfLUhCdUlGdnN5MUNvMjg2dEk2NlpXWElQVThyZndoaVFjTUNVeGUyVEctM2treUotamNPd1B6N3ktNks5UkpPdDBZ?oc=5",
         "source": "Kaldata.com",
         "image": null
       },
@@ -479,11 +487,11 @@
         "image": null
       },
       {
-        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - Утро Русе",
+        "title": "Невероятните факти от света - Обекти |",
         "description": "",
-        "date": "2026-10-26T05:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kb3dvOVVheUVXQmFSQ3F2LThSSTVmTHpobFdMSURUT0p1YXBfV05ZbGN5Ti1TQVMzYkRZWlk3aS1zSmJodGtEddIBSEFVX3lxTE5kb3dvOVVheUVXQmFSQ3F2LThSSTVmTHpobFdMSURUT0p1YXBfV05ZbGN5Ti1TQVMzYkRZWlk3aS1zSmJodGtEdQ?oc=5",
-        "source": "Утро Русе",
+        "date": "2026-10-26T09:22:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLVDJTeVY3V1JqeDc3bDFGdWwtQTF5YmJwdDBxcE1rcEQ4Qks1UnpCSVZyTjFoY0tLVHVVSW0zZHd4YktUN1RuQlZtOFotbUdHazFVSU9rTmtpaV8xaEVsSHdLbloyM2ox?oc=5",
+        "source": "Обекти |",
         "image": null
       },
       {
@@ -513,11 +521,11 @@
     ],
     "Образование": [
       {
-        "title": "Стачкуващи учители блокираха центъра на Мадрид - БНР",
+        "title": "Стачкуващи учители блокираха центъра на Мадрид - БНР Новини",
         "description": "",
-        "date": "2026-10-27T00:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXZ2bEk1NV9Ed0Z3WUlxVUgtVmtCTXFGVGY2MEd4eVRHXzhKcnlBc3pBSGo2TEl6djRYZFhlRHE3cWRFZjlEOUtEYl9ES01vSVZkeWs1WTFXbmpMTFlmY3FxUWRnaDZiZl9DOVU2aTg3MHNBQ3IybFF1TTVSVVhHZWFaRmFKMkU1Tlk0?oc=5",
-        "source": "БНР",
+        "date": "2026-10-27T00:27:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2FlX1V6Qm9pM3FGNmNLZ1VSd0lEWmVRU2xHM1VFRFJmMU9BWDhvLTlGVXU4RXdLSGozQkJLNUo1YktVaVpqVVlkTzdacWNHT2VmeTVkNHptT2xlSzJneXRFeWtub1FmMnNiS1M0OHJrQk12TlI1Y0t3SHNvOVBkcjJCVEdZVDllRGxyYkJCSy1fZ2JZRmc?oc=5",
+        "source": "БНР Новини",
         "image": null
       },
       {
@@ -582,14 +590,6 @@
         "date": "2026-10-26T14:33:52+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGhmS2liWnUtREpfT1AxMzJXOUx1Zzl6NzBYT3BzRTVvWTlIOVRaQ1o3ZFRpMUNBalZldzZqYWlsQzdEMnBOXzBFMVVzUGdjZmo2MnN5TWxtX2RpakNPaTBkUUNacy1iYXVSRDdpRmNWOHBSRy0wbjVhSzlxZHNwczlsQ0JKNHpjeVQ0NGdkaFhvbG1tODFZOHBSc0g3U3A5?oc=5",
         "source": "Chernomorie-bg.com",
-        "image": null
-      },
-      {
-        "title": "Трудовец отчита инвестиции в инфраструктура, образование и спорт (Ботевград, Новини) - balkanec.bg",
-        "description": "",
-        "date": "2026-10-26T14:30:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVNKN2FSUExjM2ZwTld1UjV6LWd6bUZmclVVZktjYnloX3I3Y1lkdnF0Ynd0aVlza0xObUkyZWZDRlhjNjVBbWpkdGJuaGNHNWpZdEZWVlhqbm1JWVRuSUUyM3NDemZjMzgwZDlKMDlNdWVlRGVQZUtEUi1EaGd1STU1MWpocGNUd3RmUEtaYVllU1U4U2VGTDAxVjJZQQ?oc=5",
-        "source": "balkanec.bg",
         "image": null
       },
       {
@@ -710,6 +710,14 @@
         "date": "2026-10-26T10:23:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEFHRXlZRXlCZ2l1dzhMZ0J0aVpaRG5kamluNHlyN2ptckFFS05WSE1WQTZEUGlyQ3luNzd0VEZvMi01QzNpS0NZSU51WFVGOTh4aWZjS0I5OVh6Mm1JWUhwdzlpWEFIVlVzX01xRUFRTDdXcUNLUmoxOWdLd3R1VnJXZXFYbUE0anpzZy16dkhwUFJ2bDRrSmw2djBSVl9xVDl1TDlMemVTc2ZhLXI0WV96Z3Z1eXpXZUtTTnljSzl2ZDg0SVNoS2tHR3k?oc=5",
         "source": "Divident.eu",
+        "image": null
+      },
+      {
+        "title": "ФИД „ВИСШЕТО СПОРТНОПЕДАГОГИЧЕСКО ОБРАЗОВАНИЕ В ЕВРОПЕЙСКИ КОНТЕКСТ“ – 2 кредита, IV курс, ФС - Национална Спортна Академия (НСА) \"Васил Левски\"",
+        "description": "",
+        "date": "2026-10-26T10:11:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXQXdaWVRlQWR4SVQ4ZmJ5WFlmYzhEaUdDNDJpdGhjRW03cUlqSFdqd0NxeVRxOVkya1VEU2szdVdKMC13SlNyUEkyUm1JZw?oc=5",
+        "source": "Национална Спортна Академия (НСА) \"Васил Левски\"",
         "image": null
       }
     ],
@@ -929,7 +937,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 13,
+      "count": 14,
       "feeds": 1
     },
     "Образование": {
