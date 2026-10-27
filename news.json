@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:59:28.376769+00:00",
+  "generatedAt": "2026-10-27T01:51:56.988322+00:00",
   "categories": {
     "България": [
       {
@@ -23,6 +23,14 @@
         "description": "",
         "date": "2026-10-26T21:22:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlB4d0tTNG1FemhaNlg1VUNaQ0xDZ0liMzlJNDM2YzRCdDVYNDNqd0pKQlp6a1VUMWwxMFlKZnhscm5TUTFpNExyOUtVcF9PUVpoNU0xemh3SEpOXy1XeC1IMDZrV0xCNlpMa1N1YUdRSW4xYUlRa0ZRZTFMNUoxRzJfU24tSldlaElwV0pMQ1RKQQ?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
+        "title": "НА ЖИВО: Битката за Златната топка, Ямал е най-добър млад играч - Gong.bg",
+        "description": "",
+        "date": "2026-10-26T20:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkZBYmVIRmxOQTJ1ZnFWLVRrM24wYzVOdzZBSUZEelFFaFJJZkIyRUw0U3FnWEtCS0NIV0x4TGZ5bFo3OEZuYWVaN0VDWTN0SjI5Znpxb0RTSEZBdEdKVGg3dXIxSG5Lc0NudlJaRVlCb0hqVkVGbnRvWmVzUkdTeFFJR3VQT2VZR1RveTZOSEVTTjdrYTJxc2hUcC00Zm1qc2E4eA?oc=5",
         "source": "Gong.bg",
         "image": null
       },
@@ -59,20 +67,20 @@
         "image": "https://static.dir.bg/uploads/images/2023/07/17/2585547/384x216.jpg?_=1793047566"
       },
       {
-        "title": "ЦСКА победи втори съперник за титлата - Новини СЕГА",
-        "description": "",
-        "date": "2026-10-26T19:45:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzQ4aTZxd1lJR1lGT0xGZWdNeU9PNFphQXRhSzhsc3dVZDB1Wk1nczMwbDctUEVoUWhPNjR6VmVYOG01YjJyLXkwMlRRb21KcXBNbmdJTUtLVUdhclBVQ2xWREN1SEZweW4xMkVkTXhtTHVnSE84UXp3VlZ6TEVjbTIxRXlhZw?oc=5",
-        "source": "Новини СЕГА",
-        "image": null
-      },
-      {
         "title": "Васил Божков осъди прокуратурата заради изказвания на Иван Гешев и Сийка Милева",
         "description": "Според бизнесмена той е бил дискредитиран публично и е била нарушена презумпцията за невиновност",
         "date": "2026-10-26T19:29:26+00:00",
         "link": "https://dnes.dir.bg/temida/vasil-bozhkov-osadi-prokuraturata-zaradi-izkazvaniya-na-ivan-geshev-i-siyka-mileva",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/09/25/3029494/384x216.jpg?_=1790329166"
+      },
+      {
+        "title": "Германия задържа заподозрените за палежа на \"Старлинк\" до София - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-26T19:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJ6SEZOQ0ZtNmhKRlZiWXRNYUpHTTB0b2xvRTZXTF9HRkN4TGJWcEtfQUNMekxWZE1Ed0ZNSVVMUEotcUhpeVE4TkVHelljUGFxRlZFM2xLMDRyWXVPMUE4OXhOR3pTWFRicTBfNXBNVWdfc0xBaDFXT3R3WGxIa1RINlh4WUxULWJ6RnZ6Y3R0UjNwb25tWTVwYTFZM2xsc3hSbG84ME8?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
       },
       {
         "title": "Пиян шофьор удари и обърна по таван кола на пътя край Плевен, където загинаха четирима младежи",
@@ -89,6 +97,14 @@
         "link": "https://www.bta.bg/bg/news/lik/1233306-natsionalnata-agentsiya-za-otsenyavane-i-akreditatsiya-vrachi-godishnite-si-otli",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037729/1000169299.jpeg"
+      },
+      {
+        "title": "Бой между фенове на ЦСКА и Лудогорец на \"Васил Левски\" - Gong.bg",
+        "description": "",
+        "date": "2026-10-26T18:27:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0JxbjJIbjR2Qk85V3plV0I1ZTlZNEZ1OEs3SkFESHZ5a1JSRmFNcGFVZDhSOEc4bEV5SXRNMmd5clNoaWc5bno0RXhLb3RfSm9vRUtPWGp4UFRIQ2xzM2VyMWFVOVczZXVzd3V1MkRub0ZMUHBHWG9WSlhibnVlUXB0REZKdnpjZW44YzgyUF9vaTNWandxOWp0QWc5RWgw?oc=5",
+        "source": "Gong.bg",
+        "image": null
       },
       {
         "title": "Шофьор е задържан след катастрофа на пътя Плевен - село Ясен",
@@ -185,29 +201,21 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXNTR2JjSlpNb21yeW5hMDNUZWxlMjdIVGN5RW53S2Z4MUpDSXZVNFpHbk5jMTRKZFdRYmhDSWdDc1RmNkMtcENRSjVPdXliQVhWeUh1ZS1td3RGTl8xM3lyb0F3T29jVVgwMEp3YjZFRDNtLV83NmZJcjMyXzlOZkIyejA4NGxqclhxOUkyeVVBN1lMbWFiQlBhbW0ydw?oc=5",
         "source": "Dnevnik.bg",
         "image": null
-      },
-      {
-        "title": "Здравният министър разпореди проверка в \"Пирогов\" заради починалото дете",
-        "description": "10-годишният Росен е донесен на ръце от баща си в Спешна помощ в Етрополе в 12.30 ч. на 24 октомври след падане от трактор",
-        "date": "2026-10-26T17:21:17+00:00",
-        "link": "https://dnes.dir.bg/obshtestvo/zdravniyat-ministar-razporedi-proverka-v-pirogov-zaradi-pochinaloto-dete",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2025/05/03/2872351/384x216.jpg?_=1780642802"
-      },
-      {
-        "title": "Локомотив Пловдив и Славия не счупиха нулите - Dsport.bg",
-        "description": "",
-        "date": "2026-10-26T17:19:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xVHR0ZFZjVXFGLU0tZzZQUjdyaUlsSTZidEpiWERoOFJGSG55azl1ZEJDVGg0STJmSE0wT0Z1S3dkTlIwTzA1c3pBbUMyNUlsdHhDUnFQUjJ5SGZhcFNSRnlpOE93Y09UYmt2QVYyaW5kb29SaVFFbVVn?oc=5",
-        "source": "Dsport.bg",
-        "image": null
       }
     ],
     "Свят": [
       {
+        "title": "Правителството на Тръмп отново се опитва да съди бившия директор на ФБР Джеймс Коми",
+        "description": "Срещу бившия директор на ФБР Джейм Коми, който е дългогодишен критик и враг на американския президент Доналд Тръмп, за трети път бяха повдигнати обвинения за разкриване на поверителна информация, свързана с националната сигурност, сочат публикувани днес съдебни документи, предаде Ройтерс. Коми е обвинен в предаване и заговор за предаване на класифицирана информация за националната отбрана през октомври 2016 г., се посочва в документите. Самият Ко",
+        "date": "2026-10-27T01:40:03+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233344-pravitelstvoto-na-tramp-otnovo-se-opitva-da-sadi-bivshiya-direktor-na-fbr-dzheym",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13706343/951bf264e0f84e159d0e40d58235aac7--1--ce9e4b909d5f493b9672622df9370288.jpg"
+      },
+      {
         "title": "Силен тътен беше чут в столицата на Хаити Порт о Пренс",
-        "description": "Силен тътен беше чут днес в столицата на Хаити Порт о Пренс, съобщиха очевидци пред Ройтерс. Агенцията не може засега да установи източника или причината. Напрежението в карибската държава силно се покачи в резултат на разполагането на войници от Салвадор. Особено, след като четирима салвадорци от мироопазващите сили на ООН изчезнаха при нападение от засада от страна на престъпни банди.",
-        "date": "2026-10-27T00:57:51+00:00",
+        "description": "Силен тътен беше чут днес в столицата на Хаити Порт о Пренс, съобщиха очевидци пред Ройтерс. Агенцията не може засега да установи източника или причината. Напрежението в карибската държава се покачи рязко в резултат на разполагането на войници от Салвадор, особено след като четирима салвадорци от мироопазващите сили на ООН изчезнаха при нападение от засада от страна на престъпни банди.",
+        "date": "2026-10-27T00:57:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1233343-silen-taten-beshe-chut-v-stolitsata-na-haiti-port-o-prens",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14038224/0172dc67361b455290f7382d1c8331ef--0--fc405da371c54492a51c2909181c5839.jpg"
@@ -293,36 +301,12 @@
         "image": "https://www.bta.bg/upload/14035841/6e2e343a1f55483c916f480aeb4b7f45--0--9c2963af917c45d5b48ee914763b93f3.jpg"
       },
       {
-        "title": "Хари Кейн срещу останалия свят: Днес връчват \"Златната топка\" - Gol.bg",
-        "description": "",
-        "date": "2026-10-26T21:48:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUJlWE81M05vaEFaY00tMUdsX3dMTFJMTDlvTHJNbkdicVg5elFkbTdVSFdidTVpRy00Y3NVMGRBZGl5emhjYVlVQ0lpQm1qM0x6Q2VrcVZNeVpSaUZFeW5aRUE3TFVrOWcwanBrRGRsVFdlMWhrd2hlUEkzeVpTNjZEZ3NsWWtmUGxjZVA2MVliRE01aC1IZWJZUmxVZDJ1aVRxWg?oc=5",
-        "source": "Gol.bg",
-        "image": null
-      },
-      {
         "title": "Тръмп предлага възнаграждение от 1 милион долара на всеки, който докладва за изборни измами на изборите в САЩ",
         "description": "Американският президент Доналд Тръмп предлага възнаграждение от 1 млн. долара на всеки, който докладва за изборни измами на изборите в САЩ и от това произтече арест и осъдителна присъда, предаде Ройтерс. Предложението идва само седмица преди междинните избори в САЩ, които според анкетите могат да поднесат неприятна изненада за Републиканската партия. Правителството на Тръмп възприе агресивен подход към контрола върху произвеждането на изборите, о",
         "date": "2026-10-26T21:37:33+00:00",
         "link": "https://www.bta.bg/bg/news/world/1233332-tramp-predlaga-vaznagrazhdenie-ot-1-milion-dolara-na-vseki-koyto-dokladva-za-iz",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037870/926c5937d145491080191ddc2019417b--0--6849eab233c04f599c0403d450548e93.jpg"
-      },
-      {
-        "title": "Шарън Озбърн разкри последните мигове на Ози - Стандарт нюз",
-        "description": "",
-        "date": "2026-10-26T21:35:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmxLRVBtdEdUQk81ZUJmeUEwNHd6cVB3T0RQT20xNnlYVUZzRU8tODlJN3NEV19nMkxuSEw3WFVMYjZaNUNDNEdWMEJxNmZHRk9PX2dZby1xTnMtc0JyV0lHSVp5cTIxdzJHUXFmNGVfSWl3OU9Rck1teEt5dW9pOVY1VXB6MDRvZzl2d29qQk1wOFU3SXJz?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "До седмици! Бананите стават лукс в целия свят - Стандарт нюз",
-        "description": "",
-        "date": "2026-10-26T21:29:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEpvTzdmX3BVeUF6N0VIUEdQWFBVcWxUVmhjblJuVk9PaGtXaVdRQTZfWXUxSlhTM05KOTJobG9qbDZicVBJNWtYb2pIWlpDTW9UbUJaYzgtaEJ1WldBQ2IxVDhjUXVEVjg2Q2pPbURpcUlqemQ0X19XMWxVRkV0N0c3MGRGM0VxYzNfbDJfREVtcS1wNURHRFRB?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
       },
       {
         "title": "Киев е подложен на ракетна атака, а един от ударите е нанесен близо до станция на метрото, съобщи кметът Кличко",
@@ -341,14 +325,6 @@
         "image": null
       },
       {
-        "title": "Трусове в Истанбул! Арестуваха краля на диамантите Aлтънбаш - Стандарт нюз",
-        "description": "",
-        "date": "2026-10-26T21:06:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOF9RcC15WFN3bVljQ1prZjBXTVFBa1NZcGMyX0xKdERuYkJUMjVsNV9pajdFa1NyUkMxSXBQTE4zUVRGRkdwdUtabVl3ODcyUXByZGNSME1SR0p4ZkREdUR2S0tYUXptVTV6MzJLY2ZIZnFSOUtDVUtlUUdkVlhpMEgxTzFabzBKRnRaUklXOFBvclJ2NVdEYVJnTnIyRDVkNkx6QjZjV2hBVms?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Зеленски подписа укази за продължаване на военното положение и мобилизацията в Украйна с още 90 дни",
         "description": "Украинският президент Володимир Зеленски подписа укази за продължаване на военното положение и мобилизацията в Украйна с още 90 дни - до 29 януари 2027 г., предаде агенция УНИАН. Двата указа бяха публикувани на сайта на президентската канцелария. Както съобщи по-рано УНИАН украинската Върховна рада гласува за продължаване на военното положение до 29 януари 2027 г. В подкрепа на внесения от украинския президент законопроект \"За продължаване на сро",
         "date": "2026-10-26T21:04:08+00:00",
@@ -363,14 +339,6 @@
         "link": "https://www.bta.bg/bg/news/world/1233326-tramp-zayavi-bez-da-predstavi-dokazatelstva-che-prezidentskite-izbori-v-brazil",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037871/c1c63c66a3a6473c8a125f68919cd15d--0--4f7d6f3cf05a48b98611cae2a8634152.jpg"
-      },
-      {
-        "title": "Отиде си американски актьор с незабравима роля - Стандарт нюз",
-        "description": "",
-        "date": "2026-10-26T20:23:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0ZUaUhNQVVFQjBmM1VhQU1yQ1hCb2lJUFI1VnJBcmRTN0hNcnNsQmtGWFNDdXJPNGRESHF5aGlMYi1ERjVON0pCWlltM1l3dGlDMVhjNWJkdjdoYUtYTWUxbWpSTi04cGM4bUswOVFQRGdVTGdZYWJWck4tQXk1VWVrYWpfZFdkTkE3VHlQRlJDakdFSE8taQ?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
       },
       {
         "title": "Руският сценограф Александър Кондратов е починал, след като е прекарал месеци в предварителния арест, съобщи неговият адвокат",
@@ -403,9 +371,49 @@
         "link": "https://www.bta.bg/bg/news/world/1233314-nad-300-amerikanski-voennosluzheshti-shte-uchastvat-v-ucheniya-za-borba-s-narkot",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13845008/255144d81702482d973309627ce15688--0--3ffc27f0503b4e32adf36ff041c169f6.jpg"
+      },
+      {
+        "title": "Либия съобщи, че международните ограничения върху въздушното ѝ пространство, наложени през 2015 година, са отменени",
+        "description": "Министерството на транспорта на Либия съобщи днес, че ограниченията върху въздушното пространство на страната, наложени през 2015 г. от Международната организация за гражданска авиация към ООН (ИКАО) по време на гражданската война, са отменени, предаде Ройтерс. Решението, официално взето на 23 октомври, е било обявено от генералния секретар на ИКАО Хуан Карлос Саласар при откриването на среща на представители на гражданската авиация от Близкия из",
+        "date": "2026-10-26T19:53:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233320-libiya-saobshtiayavi-che-mezhdunarodnite-ogranicheniya-varhu-vazdushnoto-pros",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/2382744/ded81e380fa44ab4a8d6c24cf18374cc--0--ae1688abb57f41c680b736d06c83716d.jpg"
+      },
+      {
+        "title": "Либия съобщи, че международните ограничения върху въздушното ѝ пространство, наложени през 2015 година, са отменени - БТА",
+        "description": "",
+        "date": "2026-10-26T19:53:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGNBQVA1M3ZDaHFGbV80OGk1N0RJQ0ZmWXFuLUVVTTRSZXZXMnpKOHBuME5iVE1kSnhYVjNYU3RISTV6QlhUb293d3BsSWlEQkVoa3VUSHRJSm94NURLeWxKY2RTV2tObGkwSVZaY01EUjhydlNZTUpZUzJNVmpuTFJsSlVKcHM2aGk5cFlLZDhlYXJGUE1jbHhTX1pQUDNQZENHSUUta1BlRzhoenNMd1laTlJnZ1FUc3R0cQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Кораб гори край бреговете на Ирак, заяви Британската организация за морски търговски операции",
+        "description": "Британската организация за морски търговски операции (UKMTO) заяви днес, че кораб гори край бреговете на Ирак, без да уточни причината за пожара или състоянието на екипажа, предаде Франс Прес. „Британската организация за морски търговски операции получи няколко съобщения за горящ кораб на 63 морски мили (близо 117 км) югоизточно от пристанищния град Ал Фау в Ирак. Към момента не са известни състоянието на екипажа, мащабът на щетите и въздействиет",
+        "date": "2026-10-26T19:35:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233313-korab-gori-kray-bregovete-na-irak-zayaviaobshti-britanskata-organizatsiya-za-mo",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13293677/c4e2792c6b7a483a94ce50ca0a8dd7f5--0--281dd561b35c4ddbbdba4561ee49f9a2.jpg"
+      },
+      {
+        "title": "Президентката на Венецуела обвини Мария Корина Мачадо, че прави \"шоу\" с връщането си в страната и изрази надежда диалогът с опозицията да продължи",
+        "description": "Временно изпълняващата длъжността президент на Венецуела Делси Родригес заяви, че се надява преговорите с част от опозицията да предоставят възможност да бъдат чути всички политически позиции, ден след като опозиционната лидерка Мария Корина Мачадо се завърна в страната, предаде Ройтерс. Същевременно Родригес обвини опозиционната лидерка и лауреатка на Нобеловата награда за мир Мачадо, че прави \"шоу\" с връщането си в страната, съобщи Франс прес. ",
+        "date": "2026-10-26T19:17:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233312-prezidentkata-na-venetsuela-obvini-mariya-korina-machado-che-pravi-shou-s-vra",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13890512/fe65fa39d8424f8f9ee9d909370e8ad9--0--2ad167f86cd94cfab3be88a061e783bc.jpg"
       }
     ],
     "Наука": [
+      {
+        "title": "Claude е помогнал за планирането на рискови изследвания на птичия грип - БГНЕС",
+        "description": "",
+        "date": "2026-10-27T01:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0dsS1I3YVNQOUtxek85U3BpaFdROUN4SWFDMENLcGhUU29sb0JpMXhUck9mZEhZVnQ2YUZURlNSbEZiQ29pS283bGQtdlRweUR6WmEzbUplOXFmWjZNMzBsNWJERkwxeUxTSzVoZERHZWRnZ0JQMFhBbEdpaHlrdXVVODJhWWtvOG55TUYwLUNFYURTWEdj?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
       {
         "title": "Националната агенция за оценяване и акредитация връчи годишните си отличия за добри практики във висшето образование и науката - Делник БГ",
         "description": "",
@@ -479,6 +487,14 @@
         "image": null
       },
       {
+        "title": "„Дълголетие в добро здраве. Новата наука и остаряването“, Ерик Топол - Avtora",
+        "description": "",
+        "date": "2026-10-25T17:36:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzk2UmNhUHhjdk5MM2ZLbnBNTkhqUk5pNTZnMjVpWVBUb2E5X3dIR0xYZDBFd3Ric0VtMEZ5aDdsX0ZNaUl4R2V1bGxHM3pOcDVYRjlDYXhGTVc1eHZsSVNDTEN3MHBUc2FoRS1sb1pqUl9Eb3lCNVNmekNpeWo1dFRzaWJEaG15WGc?oc=5",
+        "source": "Avtora",
+        "image": null
+      },
+      {
         "title": "Не е важно какво има в чашата ви, а колко е горещо е то за един конкретен вид рак - Наука и Здраве - manager.bg",
         "description": "",
         "date": "2026-10-25T08:43:50+00:00",
@@ -510,6 +526,14 @@
         "date": "2026-10-26T20:32:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY1UzUzJ3VDdYdUhrVWFyXzFWQUZFaGNINHJsaGR4VFVXQ09VSGNlbXVybmxCTW9iWVFraVJKakt1Y3hRODg1dy12QmdMcXRSRTVybTVOR3h1ZkJMRWVGbmhIYXdkcGtpcHhHRlU1LW5IemZ0bGppWDBaUXZ3TWM4elpJY2QyQWdEdVhQZFF2MjVtWjdrNkRXaFNxUS1DUTVjNVltN0NaWmZJbHV1dUpqaUs1a2RMM09oQVE2UlRNS3FaNTh1VXNhQW5uZ094aHJFZHMw?oc=5",
         "source": "БНТ Новини",
+        "image": null
+      },
+      {
+        "title": "Важно за учебни заведения в България - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T19:05:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1lFRzZ1bXY4Qk9qSkdnTXpleV94UE85Q2tvNzRPNkV3YTh0OGoxTVR4YmFrRmZxNlhFTHpxRTQ0SV9uX1A4Z05McDhkUDcxcXdOckpkcWswVnhrWHNRVmNPQ3dmTTZYUTRXVzJNSmpuSXpUVkswTWEtZDltUlc0dXhoSXFLdmlHbnRuanlhWFFDdTZyUkZiNzVRRkxEN2ZjWXBrc3JR?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       },
       {
@@ -569,6 +593,14 @@
         "image": null
       },
       {
+        "title": "Ученици показаха знания при разпознаване на семена от земеделски култури - 24rodopi.com",
+        "description": "",
+        "date": "2026-10-26T13:34:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Zdk56amJoX3htR0VjZF9PaC1kc2YyN09OVGxVSjdVSWJIUkJKTWJSTzd6M0VkZ1NTSXRaSS1ob3RVYkcteVhtY29NZnBuWU1ZcXdoN3IzdW1ERlNvc2diaTctTEg4Xzg?oc=5",
+        "source": "24rodopi.com",
+        "image": null
+      },
+      {
         "title": "Европейска седмица на професионалното образование в ПГ „ЗлатицаR - RNews.bg",
         "description": "",
         "date": "2026-10-26T13:28:31+00:00",
@@ -617,6 +649,14 @@
         "image": null
       },
       {
+        "title": "Ямбол ще бъде домакин на международната научна конференция „Техника, технологии и образование\" ICTTE 2026 - Утро Русе",
+        "description": "",
+        "date": "2026-10-26T12:46:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wbkt3RjZ5WlpjM0lOMkFCNVRpRWV2MjIyUG1PUU1ESGJ6aVN6ZUZHcHdwbUNKdzVXaFJGcGxPc1pSYzZVWHVlSU9UQjFoQdIBSEFVX3lxTE41bnBVOTEwWEdWOTllRkVaZ3hoSER4VERZSTVKMmF3d21oZC1MMksxcVFFY1pFb0ZfUlhUYnFKdDJ0VF9rNkdWVw?oc=5",
+        "source": "Утро Русе",
+        "image": null
+      },
+      {
         "title": "Театрална премиера събира средства за участие на деца със специални потребности във фестивал - уча в Пловдив",
         "description": "",
         "date": "2026-10-26T12:30:10+00:00",
@@ -657,47 +697,31 @@
         "image": null
       },
       {
+        "title": "Поколенчески избор: Йотова доминира сред възрастните избиратели, Гюров печели младите и София - Епицентър",
+        "description": "",
+        "date": "2026-10-26T10:34:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZzFvSW9TTEhqTEd3RWNsWEdUejBhNjBOYUJiM2lNTlZuUzZVSk9hSHhWbkk5VDBJdnM2VmdWNk9zVDhZOVIyeUZ1MWFuT0JyX3VITlh4QnZuckhVdlFESEhJUVdYVy1wYzR2U3ZjZjVMWXNDUmFFenhlaGtBVFNBQWNtODhqbVRuYjRHV1NfeU9HYXNYZ2tsWEtjTFNmNTdSSFVsak11ck0zOGxsMHV1aXFhMm02aThWcUdjMDlQX2ExakZMUzQwV1V6eVZSUHVJNjNaSw?oc=5",
+        "source": "Епицентър",
+        "image": null
+      },
+      {
         "title": "В Зоопарк – Стара Загора отваря врати първата по рода си оранжерия за неформално образование в България - Divident.eu",
         "description": "",
         "date": "2026-10-26T10:23:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEFHRXlZRXlCZ2l1dzhMZ0J0aVpaRG5kamluNHlyN2ptckFFS05WSE1WQTZEUGlyQ3luNzd0VEZvMi01QzNpS0NZSU51WFVGOTh4aWZjS0I5OVh6Mm1JWUhwdzlpWEFIVlVzX01xRUFRTDdXcUNLUmoxOWdLd3R1VnJXZXFYbUE0anpzZy16dkhwUFJ2bDRrSmw2djBSVl9xVDl1TDlMemVTc2ZhLXI0WV96Z3Z1eXpXZUtTTnljSzl2ZDg0SVNoS2tHR3k?oc=5",
         "source": "Divident.eu",
         "image": null
-      },
-      {
-        "title": "ФИД „ВИСШЕТО СПОРТНОПЕДАГОГИЧЕСКО ОБРАЗОВАНИЕ В ЕВРОПЕЙСКИ КОНТЕКСТ“ – 2 кредита, IV курс, ФС - Национална Спортна Академия (НСА) \"Васил Левски\"",
-        "description": "",
-        "date": "2026-10-26T10:11:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXQXdaWVRlQWR4SVQ4ZmJ5WFlmYzhEaUdDNDJpdGhjRW03cUlqSFdqd0NxeVRxOVkya1VEU2szdVdKMC13SlNyUEkyUm1JZw?oc=5",
-        "source": "Национална Спортна Академия (НСА) \"Васил Левски\"",
-        "image": null
-      },
-      {
-        "title": "Ученици и учители от ПГ по туризъм – Русе се докоснаха до световното кулинарно изкуство на BIORESTCUP 2026 - Rousse.Info",
-        "description": "",
-        "date": "2026-10-26T09:30:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSm1SakVtb1dXS0t4SnJNMHhZaDNyT18xNXF1WEtyMnpBaU1pdDJJM1RkaDdTTG8xX0NfZ1haRlE4S1FPNGc2VGp4MG9mWi04ZjFySWpxTS1rY1ZGZzNRZkdkNllCN2Y4MTFQcXVjVWFtcU5aUHctMURxcXFmTzhkbXZqcmVpbGQ2eWNEU0dBeVd2VFhtdmtxdDJzOWJJTnJhXy1xaUNfZm1mWFQzZlhNMVhldU1nTVRUdFNsdHBvZnh2QVJnQkxn?oc=5",
-        "source": "Rousse.Info",
-        "image": null
-      },
-      {
-        "title": "Как гласува България по възраст, образование и убеждения - Dnes.bg",
-        "description": "",
-        "date": "2026-10-26T08:46:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFNXR0RNTGk5NXRJNnhlYk1VVWx4LVczbmVVWU1lT3E5b0s0WWJrREVaZUJ4ZkRUMkVCX2Z4VERpOWIxbFBOaWs5a2staGpZMlZua0RsOEM0V0lNVkRMY0pCei1MX0FXekFkMF8zWkw3c3l0M3BLUlNFSVJ3enBBQ3BncFQzZC1uUTg2VlE5MXl4LWFPZUs1TDY3LWZsOEU?oc=5",
-        "source": "Dnes.bg",
-        "image": null
-      },
-      {
-        "title": "Свободни работни места в Казанлък към 26.10.2026, обявени от Дирекция „Бюро по труда“ / Новини от Казанлък - Kazanlak.Com",
-        "description": "",
-        "date": "2026-10-26T08:44:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVzFpZ3F4eTZ5Wm9XaVYzcVVtcHRoR3ZoRHY1WmROVmtjSmJxWlJvcnU0eXJBdkJtckJqM29lOC1fYXRzcVRrcDJheGI?oc=5",
-        "source": "Kazanlak.Com",
-        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "Балонът на изкуствения интелект в Китай се спука - Frognews",
+        "description": "",
+        "date": "2026-10-26T20:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqbngtTGpGWEl2Mm9keElkNnlETTBySW5jRVdWajR6eWxLU19yanUzTGRnN0dvbmhZYS1feHJ5eDE4SjFsakxpQzlnR0hxQzByMzc3a1pVbUt5X0hjN2RaYzRrTmUtSUowcU8zSFU1bk9HRVJ6SXJvTVZFNlJudw?oc=5",
+        "source": "Frognews",
+        "image": null
+      },
       {
         "title": "България има потенциал да се превърне в център за зелени технологии - bloombergtv.bg",
         "description": "",
@@ -712,6 +736,30 @@
         "date": "2026-10-26T18:59:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4OUpGWVFuaWJYdDJEbU1YVFNGU0FHSzRTX3dsbU1vMHh2b0hBRVZJRzdaRlVyQkdmMXRhazdtWUFvUEE0NEU5cUxFYjFGa21lMnBHVTJSek5Xd3VNQk9ERDRVMHZBUzg?oc=5",
         "source": "Cross.bg",
+        "image": null
+      },
+      {
+        "title": "Нова уязвимост в банковите карти: Възможни са плащания дори след изтичане на срока им - NewsPoint.bg",
+        "description": "",
+        "date": "2026-10-26T18:43:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbl9tQm1aTUYwS0ZZOGlQRHE5UW1ENWYxeGtLWmVnbldMVTc2YjlQV0Z6U1ZzSTIxNXgyLV9yVGN2ZHoyVGZJQzVDZmhqY2psbWZFTkt5S2QyUjI2TV80RzBIQ1lkRmJialh4TVFCSUZWZUpyaUtGSDFUaVFHMHJ4T0JYWVBVLTQtTk9zU29zMndpcWlGbjFYcm1scTJYQU83SkE?oc=5",
+        "source": "NewsPoint.bg",
+        "image": null
+      },
+      {
+        "title": "Японският производител демонстрира съчетанието между традиционните си технологии за задвижване - https://novini247.com/",
+        "description": "",
+        "date": "2026-10-26T18:15:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ1JlUzZDY1Rtc3Myc2lyVnBVM2dVbzQyM2NIUUplTUpNZkRDZE40MzRRUEYzOW1JZjUzZndlclFXMk9ENVN6dDRDTmc3OTE1TFU3SHB3ejBxOUx3ZXhFR2NsMTBWbWhkMmZIUWtuSk0yakFSNzFsRFVsVnoxVkRSVDdacTJDNjNES19KOVVaUWRlVFRjQkR6ZTJua2lKSjhuV2UwVUpqZHZCby0zT1dHbEN5WGtuTnpibElHaXF0QmZyMWR5MGZnVFd1eXFxblIycjdYeFQ3eVc?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
+        "title": "Технологичен гигант дава милиони за доброволно напускане - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T17:08:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlNoR1B5OGRoWUxtakk0MVNlV3ZUWGtJX0VMajRieHJsMjNtQ2JET2x5YmhBNjZ1SUE2OGNOVjNfRFFQcHVadnBJckhuc09pMTQyRHI1VGRISjhlWnNseDJZb1pUQnJWQjR6MTZVRXBmeWtSZzJWZGlsMXhvTGxXWm03aTlLU3lpVVVUN1pMVFhPUU5qMUhSNDE5RlNfWUZMVDJoS2x2RzFmU1pQNTVr?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       },
       {
@@ -739,6 +787,14 @@
         "image": null
       },
       {
+        "title": "AI бумът създава нов енергиен пазар за 30 млрд. долара: горивните клетки могат да заобиколят ограниченията на мрежите - 3e-news",
+        "description": "",
+        "date": "2026-10-26T13:42:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUkoxckt5TGlnZWMyTGRZMDlaOUJZYlp2eGtqMktuQWw4YmN4UDF2UWc3MzZOaEk3MEpUYzJ2dHRaNHhBWG8xNzZrcVk4dVhrazZFMnNuUG9YNXROS1MzUFVHQllVQWtfWDc3TXdXVEZDN2F4Mk04VkE3cjhhcV9rTm81RHFNLVhPMGZ6SU9qV3FlTXFZNGhSeW0wdV9aTFFWWEpnR1NvYm55b2J2ZHRaQzNpZ21Wc1Y5eEdJOGV1QU13NzBvRzVldUIwRTVZdG82YjVRZTU5THl0QXhqR2tMdEs5NEhrb1Fmd2c?oc=5",
+        "source": "3e-news",
+        "image": null
+      },
+      {
         "title": "Ръководителят на МАЕ Фатих Бирол: Китай ускорява глобалния енергиен преход с постиженията си в чистите технологии - www.24chasa.bg",
         "description": "",
         "date": "2026-10-26T13:37:00+00:00",
@@ -755,6 +811,14 @@
         "image": null
       },
       {
+        "title": "Ямбол ще бъде домакин на международната научна конференция „Техника, технологии - https://novini247.com/",
+        "description": "",
+        "date": "2026-10-26T12:48:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3VWNk9ic2IydGxmOGFXVWt5TnVrMGl3S1drdE1tejd0ZzJZUUxuTW93UWk2bzU5QTF2V0ZZUGJ1SlItVXJ3RUJ2NW9XSmtrRXFKdXhlWk1ybWZHQlUzMFNUR1E2S1F0cnUyMlEzbDNtR0V2ZWRmSzAzOElsSzFkTWp0Y3plT1VfeGFIQmF1Q0t2N1hnSktkYzR5SlY5cE9JS19pLUhBc2FSQTdsMnFTbnRMbl9LcTlXTkR6R292aVVSQnEw?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
         "title": "Полша иска сътрудничество с Германия в космическите технологии - БНР Новини",
         "description": "",
         "date": "2026-10-26T12:48:41+00:00",
@@ -766,7 +830,7 @@
         "title": "Ямбол ще бъде домакин на международната научна конференция „Техника, технологии и образование\" ICTTE 2026 - Утро Русе",
         "description": "",
         "date": "2026-10-26T12:46:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41bnBVOTEwWEdWOTllRkVaZ3hoSER4VERZSTVKMmF3d21oZC1MMksxcVFFY1pFb0ZfUlhUYnFKdDJ0VF9rNkdWV9IBSEFVX3lxTE41bnBVOTEwWEdWOTllRkVaZ3hoSER4VERZSTVKMmF3d21oZC1MMksxcVFFY1pFb0ZfUlhUYnFKdDJ0VF9rNkdWVw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wbkt3RjZ5WlpjM0lOMkFCNVRpRWV2MjIyUG1PUU1ESGJ6aVN6ZUZHcHdwbUNKdzVXaFJGcGxPc1pSYzZVWHVlSU9UQjFoQdIBSEFVX3lxTE41bnBVOTEwWEdWOTllRkVaZ3hoSER4VERZSTVKMmF3d21oZC1MMksxcVFFY1pFb0ZfUlhUYnFKdDJ0VF9rNkdWVw?oc=5",
         "source": "Утро Русе",
         "image": null
       },
@@ -779,11 +843,51 @@
         "image": null
       },
       {
+        "title": "Бъдещето на медицината: Как Албена обедини високите технологии с лечебната сила на природата - NetNews – Новините на Ямбол",
+        "description": "",
+        "date": "2026-10-26T11:25:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxORGk5TWN1elpVQXd0N1c4NU1qQVNNSnFCb3Q5dHo4QXBzSXZkeDN3aHJTS2R4SW9RRGVGa1Q1V19pQVZhbURLb3RhSHJTUWNvRHdjanMtczJKMHNneFMxNEhEbVV2UUd2MWZSUGs2bE5uaHJqS29Mc3Vld2FFRkJoTk50MEVndlVsekJmMHI0bHdINTA1MGF3c3VVbUMwdWpvOHhkVGlMNXdnYTRNV1VRNUhZdFBhc0JZUTBHcXlxblNPSWNGYjZ6X3lzaVdreExrbEg4QXBySGVGMEE5bVVqU0d0V09VcGhvRXNjcDJ6b2NIeTZrczJxOGRsazhaRWN6aDRDeDNwb1lnSzgzbGtsQjItVG5aZ3lmZGJtVWN6anUyMW9KNG5YRXVGXzZ0M2dMVVBRcEZyWUw3OTFiMkE?oc=5",
+        "source": "NetNews – Новините на Ямбол",
+        "image": null
+      },
+      {
+        "title": "Ново проучване на Европейското патентно ведомство очертава предизвикателствата пред трансфера на технологии в Европа - Blitz.bg",
+        "description": "",
+        "date": "2026-10-26T11:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZkxRWWVSM1Z4TGdJQU43dTdhYm5tMjV6QmpXYVVaYWwyb1laLTlTbXJySU1EWmJyQ0lRNk1ZSldOWjlhemU4N3MydlNuNEVqYjZuYVVlTEhoUGJyWXhvTmVkSnBCLWdBemJWaVZlQVRHM1VMME1KWjhuQm5iMXZFSzROYVAtM2p4eDdyYVdyYURXSXlpWGYwQzAxc0RYUGZqaVpMY1BlWlRBUW4tcy1lX0VLd2k0ajd6UmVSUk5tMnlScjItZ0RUZW1DNXZmWVlwM0dVSkhLZVdsMmNUeHBMRWhwMmNuMkt3a2txVHRpV3RZVGdI?oc=5",
+        "source": "Blitz.bg",
+        "image": null
+      },
+      {
+        "title": "Европейска мрежа обединява данни и технологии за сърдечно здраве Европейското - https://novini247.com/",
+        "description": "",
+        "date": "2026-10-26T10:33:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbno2ZE51U3l5bVFFa0RUcEZsdDFZWjlGQmx3Z0lTTHR1X0xlUzV6M1pSbEY2TWlwUFRpSW0tVUtvelJCdlZLeFU0MmNGVjVHYW00TmRKazB3UDNqeThDUFJKazF0aTBELTh5dVFfaG1idWIyT2cwN3Z6ZmJzdW1kS2xGWU1SbFJFRExTdmJqcjB6WnRpb19Zek8ySnBaR1VFbGgxcUNOTHVMWE44NVJ6UXRFbWVkcFVMakFxRHFqTQ?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
         "title": "Висш пилотаж в логистиката - Forbes Bulgaria",
         "description": "",
         "date": "2026-10-26T10:30:35+00:00",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xaWgxdHFCd1E4bUlPa2F2SFEwUDdPV3Rlb2gyUm94U1h3X19qZF9pb2tJcEFxRDdlU3NxYUQzMEdaWk92MXE4STV0dk1Cemd1RXN3b2thbFJkZ1ZqX0dsSnBBV0xxY3FIQXZBMGFFakdIZHhTU1E?oc=5",
         "source": "Forbes Bulgaria",
+        "image": null
+      },
+      {
+        "title": "Азиатски технологии и българска свинщина - това ни предложи уикендът (СНИМКИ) - Lupa BG",
+        "description": "",
+        "date": "2026-10-26T10:19:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmNKdGpXaVJ3Ry1vbWhBZnctZVBjc2NOdHF6bExoVDRiZDdWbFVTT2MyVU1TS2RrWDhsOUZTdUJNa1NwZ2o5cHozSG5nQXg4STJUTDRHYWxjZkVJRGZ5YU1IQlBBaG14TkhIRXhzQmN1YjctSFZhUl9RdUFUWXJ2LWl5NG4wY0VTWWNDMkpMWjh0c3h6X2c3SUg4QzloZGpBY0dqQW9aVU5QZ0YyR21ueUdDMA?oc=5",
+        "source": "Lupa BG",
+        "image": null
+      },
+      {
+        "title": "Албена събра специалисти от България и чужбина на конференция за високите технологии в рехабилитацията - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T09:49:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbzFVNnd3UVpzR3JFNmF2TE15dE1pSjQ4ZDdZNzgyUjVRRVktUE9RbzJBcThwT2pGcW9FZlR1dzd5UzZLTVVkRmZRRE9XWjctRWlaTVpGdUlsdG81SFhXbWduc25sa3lBUm5ZbGNXUnlUMEJZRHl5aUctYlc4TkNmR3lMRjN6TThRWDQwYzlIM1o0VmdZTlBUa3NqcWpDX295YlVQbnBGMEczVFVQRFhNS1hSTlNmOWEzTTBwNEdGWEZodWQzaU1PV01vUmM5QnpQNnQtRUd5R0Z5SnF2ZWFGRENYcnNQVDAyWTNF?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       },
       {
@@ -809,94 +913,6 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzV0Qk9rVjVVREsydGJKdDlZYWUxVTE2WjBsaFE5WUt1VUoyUk05alRReElWS0h1N1ZRZUsyTlBCbHJIc1FZSzNhekJqLXM2U2tqWjI5ZVNNZ2c0UzduR0FndkVQTG9BYm9KVDZFSWNZQ1puSEF3ZWViaW9GUkhEYkZPY2F5NlA3cDNtdjhJVzV2NlJqSjJjaXZmdGdzaXctcUFSQ1hqNUUyMHJaQVg4SFZFWWJLaDQ3OEdEUw?oc=5",
         "source": "Про Нюз Добрич",
         "image": null
-      },
-      {
-        "title": "Как България да превърне иновационния си потенциал в глобален бизнес? - Economy.bg",
-        "description": "",
-        "date": "2026-10-26T07:56:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGNCQnBIX1ZLQUpIa3pPVUdpZEdPNGRzY2ZEU0NISktVY3dTb3ZRVzNqdmdwbE5KTjZpa2U5UnNvTUFrcGRmaXhMSEdHMVNCTmEwWld2VXJ0Q3lfbTNUUURuUjUzbFRMSy1HTkdhRlV3YWxwRzJJS2pOXy1yZy1lbmotMlpWQUZHTnFxcEYtNEpwTWd4NXFOUmctRVBCT2RsZTRrZjlMQ2lvTWdDcTBXWGxlMDJtY00?oc=5",
-        "source": "Economy.bg",
-        "image": null
-      },
-      {
-        "title": "10 мита за Starlink или каква е реалността за телеком бизнеса на Мъск - www.capital.bg",
-        "description": "",
-        "date": "2026-10-26T06:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbGZycW9tdm50czhWNXE4ZER2Vkpyek5fMGRCc2xPZEpEempzTmVxV3NnSi00eERSRGRzcmE0MzNPM1NSSkFMME5QdUdlRVJyREpWckw3UUhDVjhTb2ljT3YyLWs0Mkh3b1RxXzA5d0FQLVZGczlDSVIwaTdvejZiYkNfaG9ZRUxJT0RfMFdPSTlvbmpuYnFMM0lobEMxaEh5ek5UTjFHd2pKdmc5dF9WeFpnYnVhYTNjTktJUHZOUQ?oc=5",
-        "source": "www.capital.bg",
-        "image": null
-      },
-      {
-        "title": "С Vivacom Cloud и SD-WAN - към по-голяма ефективност, по-малко разходи и по-добра киберзащита - www.capital.bg",
-        "description": "",
-        "date": "2026-10-26T06:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzRXcm5od1RUNHhjMHREd2NOWUloNmhvOGVQMkNvZUFGbm5odVl5amdXWEtRNDNZSWg2MFFfUHozTTJNc1ZfQUJyS3Q1TnRMZllhQWJnR3JjajZDN0VEUlA2QnhxaC1sNEpKMGxyb3gzTnFEZk1wYm9jQWczeHFZWll2cjBqaFhwbkZWcDNXNEs2QnVxejNQRlhHV3pmblZFTWhsTlVHeEZ3NnpGblREbWNFXzlSVDdDWFhZY2NJVQ?oc=5",
-        "source": "www.capital.bg",
-        "image": null
-      },
-      {
-        "title": "Meta набира 95 милиарда долара за финансиране на AI инфраструктура и суперинтелект - Profit.bg",
-        "description": "",
-        "date": "2026-10-26T05:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nUnVHNURwb1hpUklOUWpjbUZKMTZuZGZscUpSdnE5YXBUMzllbG9UNUQtNlhteVVQM1pxdlZyWExJd24xZ0ZneTF0dGF4U0w1VExaeVFrcEQ?oc=5",
-        "source": "Profit.bg",
-        "image": null
-      },
-      {
-        "title": "Натриеви срещу литиеви батерии: Как новата технология може да промени пазара? - Profit.bg",
-        "description": "",
-        "date": "2026-10-26T03:42:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MUkQwc2MzVU9OemRQSWo2MTh6MjBNRV9NRzdtZ2VFWllSRV9RSUdMdGt1QTB2bkZSakJPd2RHT3FwMGtDdFVGd3JRSGRjeC1RdlJNQ0htVHg?oc=5",
-        "source": "Profit.bg",
-        "image": null
-      },
-      {
-        "title": "Милиарди се изливат в отбранителните технологии, но инвеститори предупреждават за риск от балон - Profit.bg",
-        "description": "",
-        "date": "2026-10-25T22:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15Y0lCRWhsVjBHeGlacGNWWVJUMG5mbFRuM1AxRUozeC1PcXJLZEFvQ0dMQ0VlZWtOTEN1WEVKb1NwMTZ0YURYNjhtNUhLWEI2clBKSl9WMkU?oc=5",
-        "source": "Profit.bg",
-        "image": null
-      },
-      {
-        "title": "Tech Park Talks събра над 300 професионалисти и любители на технологиите в разговор за бъдещето на човека след AI - Cross.bg",
-        "description": "",
-        "date": "2026-10-25T16:32:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Vb045eGVKQVdRTmlneDg1SlpMczlTUU16bUxJcmRhMGh2bGttZ0pHZGFKRjM2aC1sUXdmV21JYTFVWHllampoa19RekE0MXRJdWJDYnBOeHVtckt2MnBLUzJUTmRyelNOQ3VSLVZydjdJa0U?oc=5",
-        "source": "Cross.bg",
-        "image": null
-      },
-      {
-        "title": "Български компании търсят партньори в отбраната и високите технологии в САЩ - Bglobal.bg",
-        "description": "",
-        "date": "2026-10-25T16:05:20+00:00",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IczlWclB1V2NXY0ZxUVpvNVJWZlMtUVFUd3l2Y3NfeFR2QW1YQlR2cnFPNWRuWThtSGtHM1E3SW14Uk1fY05seVZXbk9zUVJOcnJRTXpIOFIwcXdyaUsxV1R3RjhPdXhRNV9kQm00M2M?oc=5",
-        "source": "Bglobal.bg",
-        "image": null
-      },
-      {
-        "title": "Анализатори предупреждават за рискове от китайските ограничения върху износа на технологии - Epoch Times Bulgaria",
-        "description": "",
-        "date": "2026-10-25T14:03:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlFxVWRQY2dDMU4wWG1VMUZ0bVA5eVY2dlh2TjBCakJXYTlEeHVFWWI0SVd1WmxyanNnbFlFcWJmZHkxSUxGemthbWFzcFpEU25KOHc5OXE5SWtHSy1BM05tM3ViZVJIajJsdDVEeS05TUdDNzJ6X3RMdm01d0EtQzhTVmR1bkZPR0RQbU02M0V0WXo3NEZxbWxCZldzcjVtMkp0UUVuZ3ZyQXhnbEt2MnNMbmdFSkE?oc=5",
-        "source": "Epoch Times Bulgaria",
-        "image": null
-      },
-      {
-        "title": "България и Франция залагат на сътрудничество в Черно море и високите технологии - Epoch Times Bulgaria",
-        "description": "",
-        "date": "2026-10-25T09:28:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE5yNkUybnMwSFFmRUMzY1owSFI1X2Jkd1hLdFlSWnFJa2YwOE9KLW5EWHFQZmk0M1Z0RkZ1NWVIQVpyd2VDeU8yMmxVTVZBcW1SRUE2VlNsQzNqenAxMUNlUm1XdHlhOWpKNmZvZVZCQVZRNGo5cE9MLVllZ0RpbFBORlNqNzVzbFU1aHk5OGZYTmtQY0E0ZmpBTTFqOFdnamIyMkFxRk1sdw?oc=5",
-        "source": "Epoch Times Bulgaria",
-        "image": null
-      },
-      {
-        "title": "Да изстреляш бранда си пред AI агентите, да отвориш нов пазар в Космоса: Ела да изпревариш времето с Digital Trends 2026 - Profit.bg",
-        "description": "",
-        "date": "2026-10-25T04:49:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50OTZkMkt2ekZTdGlyX3lQN0dFYzNURGl1bmYtNVhWZVlsTkpvX2xyc2FvQVdoUUE3d2NCaElSZVV4NnhpVDVWRS15bVFteEptV0JNbl9NVWI?oc=5",
-        "source": "Profit.bg",
-        "image": null
       }
     ]
   },
@@ -913,7 +929,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 11,
+      "count": 13,
       "feeds": 1
     },
     "Образование": {
