@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:45:55.894565+00:00",
+  "generatedAt": "2026-10-27T21:18:45.504965+00:00",
   "categories": {
     "България": [
       {
@@ -17,6 +17,14 @@
         "link": "https://dnes.dir.bg/svyat/frantsiya-izprashta-morski-patrulen-samolet-v-cherno-more-sled-napadeniyata-sreshtu-tovarni-korabi",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/27/3041216/384x216.jpg?_=1793135087"
+      },
+      {
+        "title": "Партията на Нетаняху води на изборите, но блокът срещу него е с повече депутати - Dnevnik.bg",
+        "description": "",
+        "date": "2026-10-27T20:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjc5eDNnRWhqUWR1RHNYYzdHalZVNHpTNFAxa3BlMUpsbnUwdTQ4SzFONnhxVVFsdy1EWmtNUEItNTFLSVVKazRYbDBkeEFBT0Q2Z2c3cHhBeTR1N2VTSUdROXZZNWxCczFDd1pvc1RsaDd5X1FTOXRLYkpxWVlDOWtfc2VFMVoydlBtcS0xV1g1cnNKMlZudzN3ZGhlYk0?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
       },
       {
         "title": "Георги Господинов: Градовете са за четене, не само за ходене",
@@ -193,17 +201,33 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1234056-imam-uverenieto-che-tunelat-topli-dol-shte-bade-otvoren-za-praznitsite-i-do-v",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14040995/%D0%B8%D0%B7%D1%82%D0%B5%D0%B3%D0%BB%D0%B5%D0%BD+%D1%84%D0%B0%D0%B9%D0%BB+-+2026-10-27T193346.194.jpg"
-      },
-      {
-        "title": "В Пловдив беше открита фотографска изложба, която разказва историята на дете бежанец",
-        "description": "В галерия „Лабиринт“ в Пловдив беше открита изложбата „Ничия гора“ на документалния фотограф Михаела Вачева. „За пръв път показваме такъв тип изложба, на границата между журналистиката и визуалното изкуство, а конкретният разказ е изключително вълнуващ и човешки. Надявам се повече хора да станат съпричастни с историята на Алаа“, каза пред БТА галеристката Елена Калпакчиева. „Ничия гора“ разказва историята на Алаа Хадид — млад сириец, който присти",
-        "date": "2026-10-27T17:42:08+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1234052-v-plovdiv-beshe-otkrita-fotografska-izlozhba-koyato-razkazva-istoriyata-na-dete",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14040899/20261027_180125.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "НАН: Нигерия разследва убийството на ислямски проповедник",
+        "description": "Президентът на Нигерия Бола Тинубу нареди на полицията и другите служби за сигурност да ускорят разследването на убийството на ислямския проповедник Яхая Масусука и неговия приятел Адаму Абубакар в щата Кацина, предаде агенция НАН. Двамата бяха убити в понеделник вечерта при стрелба от автомобил, откъдето въоръжени мъже открили огън по тях. Тинубу осъди убийствата, като определи инцидента като отвратителен акт и посегателство срещу ценностите на ",
+        "date": "2026-10-27T21:08:15+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233974-nan-nigeriya-razsledva-ubiystvoto-na-islyamski-propovednik",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11927177/Nigeria-map.jpg"
+      },
+      {
+        "title": "Опозицията повежда, но без достатъчно мнозинство след изборите в Израел, сочат първите прогнозни резултати",
+        "description": "Опозиционният блок “Яшар” излезе начело след парламентарните избори в Израел днес, но не успява да си осигури мнозинството, необходимо за сформиране на правителство, показват първоначалните данни от екзит половете, цитирани от Франс прес. Според прогнозните данни, представени по телевизионните канали 11, 12 и 13, “блокът на промяната”, воден от центриста Гади Айзенкот, печели между 52 и 53 места в 120-местния Кнесет, докато коалицията на Нетаняху",
+        "date": "2026-10-27T20:46:54+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1234127-opozitsiyata-povezhda-no-bez-dostatachno-mnozinstvo-sled-izborite-v-izrael-so",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14040260/0dc86ae5ef2f4fa68a1550a30eb5fd11--0--ad4057541ce0407db6637d3e8c3b2e9e.jpg"
+      },
+      {
+        "title": "Франция разположи ATLANTIQUE 2 в Румъния за наблюдение над Черно море - paragraf.bg",
+        "description": "",
+        "date": "2026-10-27T20:27:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWN1eXpzeGlyRlBOTXM5REstV2FBbUxKRGZnbWVVa2UtV0FXbkpuUFNzM2swNUl0Y2VXa3BjdnZxVlMwaUlWM3BpZG5LSHROUGNTVUJ3Q0pqZHBoa0lmTEpvUXdhZkFudXpUbUNzQjRzQ3AtOGd3LVFBc3d0alVBRTRETWhqbTIweDVMamhEUldHbGxiTkNDdmF2b0I?oc=5",
+        "source": "paragraf.bg",
+        "image": null
+      },
       {
         "title": "САЩ и Куба влязоха в остър спор по време на дебатите в Общото събрание на ООН за американското ембарго срещу Хавана, наложи се прекъсване",
         "description": "Дебатите относно американското ембарго срещу Куба в Общото събрание на ООН бяха временно прекъснати след остър сблъсък между постоянния представител на САЩ в ООН Майк Уолц и кубинския външен министър Бруно Родригес, предаде Франс прес. Както всяка година от 1992 г. насам, Куба внася проект на резолюция с необвързващ характер, призоваваща за прекратяване на американското ембарго. Дебатът по нея започна днес, а гласуването е насрочено за утре. Дока",
@@ -232,7 +256,7 @@
         "title": "Франция временно изпраща морски патрулен самолет в Черно море след нападенията срещу товарни кораби",
         "description": "Франция временно разположи самолет за морско патрулиране в Румъния, за да подпомогне установяването на опасности за корабоплаването и да засили защитата на критичната енергийна инфраструктура в Черно море, съобщи Министерството на националната отбрана на Румъния, цитирано от Ройтерс. През последните три седмици най-малко осем товарни кораба бяха засегнати край бреговете на Румъния и България. Съобщава се за около 34 загинали или изчезнали моряци.",
         "date": "2026-10-27T19:53:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1234113-frantsiya-vremenno-izprashta-morski-patrulen-samolet-v-cherno-more-sled-napadeni",
+        "link": "https://www.bta.bg/bg/news/balkans/1234113-frantsiya-vremenno-izprashta-morski-patrulen-samolet-v-cherno-more-sled-napadeni",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/10959315/6468e4625ea74cd89199fa6948eceb39--0--a325e53ecf5a4b6d9d2ead185de663d4.jpg"
       },
@@ -379,30 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1234026-partiyata-na-osnovniya-sapernik-na-netanyahu-se-protivopostavi-na-iskaneto-mu-za",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14034535/41c1d8f790724f57ad3d2f29511b623d--0--0086e0360c4b469e96df257f0a9c6ce7.jpg"
-      },
-      {
-        "title": "Мъж бе осъден на 13 години затвор в Москва, след като платформата за криптовалута \"Байненс\" разкри дарения за украинската армия",
-        "description": "Руски компютърен специалист беше осъден на 13 години затвор по обвинения във финансиране на терористични организации, след като платформата за търговия с криптовалута \"Байненс\" (Binance) предостави на Москва данни за неговите дарения за украински кампании за набиране на средства, предаде Ройтерс. Вторият западен окръжен военен съд в Москва призна вчера за виновен 49-годишния Юрий Беленки и го осъди на три години затвор, както и на десет години в ",
-        "date": "2026-10-27T16:43:48+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233962-mazh-be-osaden-na-13-godini-zatvor-v-moskva-sled-kato-platformata-za-kriptovalu",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/10672540/f30eaa26d9d24a4eb0c4d1f849e9310d--0--1f2d20dcf5a54b6c99ccbd3d5381e112.jpg"
-      },
-      {
-        "title": "Румъния и Република Молдова обединяват сили в сферите на отбраната и енергетиката",
-        "description": "Румъния и Република Молдова обединяват сили в сферите на отбраната и енергетиката, съобщиха премиерите на двете държави Лука Никулеску и Василе Тофан. Те дадоха съвместна пресконференция в рамките на визитата на Лука Никулеску в Кишинев. Това е първото посещение на румънския премиер в друга държава, след като встъпи в длъжност преди седмица. Лука Никулеску и Василе Тофан информираха, че се водят преговори за засилване на партньорството, включител",
-        "date": "2026-10-27T16:34:04+00:00",
-        "link": "https://www.bta.bg/bg/news/balkans/1234011-rumaniya-i-republika-moldova-obedinyavat-sili-v-sferite-na-otbranata-i-energetik",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14040771/865791618_1407875108223551_9014567737754098062_n.jpg"
-      },
-      {
-        "title": "Джон Соуърс: САЩ не поставят съюзниците си като приоритет - www.bloombergtv.bg",
-        "description": "",
-        "date": "2026-10-27T16:33:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzJta2gzcnVwbnBBT1dFLVNMYlM4b2NyUVh3N0x4dHZGZGhBOWlhZ1VSVVlweEZSanB5anBwTEVpSlFaSWxFbUpJMU9OV1gxSkcyT0V2TXBrR0VQZkJFVG9naE1wYkt6OWF1TFpLWVU4OTNhdUtpQjM1YTJMYXRsYTVnTU5YbFlHT0hoVFlQU2pDV0dPeDdpMEhnU3NPYmZqTUJpZWdjZ0JnOFZSUnYyRW84MVZQclh1?oc=5",
-        "source": "www.bloombergtv.bg",
-        "image": null
       }
     ],
     "Наука": [
@@ -444,14 +444,6 @@
         "date": "2026-10-27T11:04:54+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2hic1dYbmVhQ001b2NxNGtjSHhBQVNVNDZsclNwbXg5MUJEOU9FaGc4ckQ3bHFCTlctU05mTnFuNkVtTmxfcXBiTjJxbHMzQUNGMHEwejEtenZzNFJFUTI3ZnpyZktzM0xnWGxZX18tUjBXOGFVUWxDSE5QR0JjWEJVV0pkN2tRLTRUM3VTOTJMSUU2amZBQnFKQVdfbFlaTXg4aDNWLTkwUQ?oc=5",
         "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Човекът може да е спрял следващия ледников период - Всичко за Асеновград",
-        "description": "",
-        "date": "2026-10-27T10:03:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeVE4c2RXV2NIZENyWFlXTUdfbDdoX0xYcWt2cUpoSUM5RmV6MW9IUmU2Y3JuYmpfRGJuVmtISlVWYTlJcjRyeXRJTWY0d2NRWWNPT3haS0ZZX3p6RDJSU1locGp2X2Uxcm9ralAwenl5NmxweG5FOGRCMDRfRjhjaFBEaEFWV0ZReVE1MXBxWllfLWRHakdiWWplTVA4R3RYdGMtZld3?oc=5",
-        "source": "Всичко за Асеновград",
         "image": null
       },
       {
@@ -635,8 +627,16 @@
       {
         "title": "Книги с мисия - TargovishteBG.com",
         "description": "",
-        "date": "2026-10-27T15:08:20+00:00",
+        "date": "2026-10-27T15:08:45+00:00",
         "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNWEtuZ0xIVThEWTUwQXRUd2VYU1JrTFBfcldKTWlrdXFoUXgxa3NHdWFzRUNoV09Cc3AwQ0xVNlFzZTFHYjc0d1JqVF9MTHoyNDZPdEt3S3plTng2dVBEUzVsOThEcFg3S0FoN2pOYmg2NHBxQUxDeG03NDZ1dTBwNW9Sam1DSUEya3o0ZkZ1ck1ubU5fN0FDWnRqcnBaQUZ6SFh1UkNOTzdZbXk4NTRTLXItSDRkS2dSY3QwU1V1cTFvdXVfZldhczB6d2tPVDI1WVNQd0RrNjZfOV9SUjVCYTBDdVBuNHdtZzdwRWkzTnp2SGdYTzZERGVYWnhnSUxTS2JMZjJ2YWkzUndldzVScWFQcm0wZDY1R1dHN1N1QlFONkhfbW9fWGRKejZ6TFctVzBOZW5qSDZtdC1mTVE?oc=5",
+        "source": "TargovishteBG.com",
+        "image": null
+      },
+      {
+        "title": "Инфлацията изяжда парите за образование: Бюджет 2027 предвижда увеличение от 7,5% на учителските заплати - TargovishteBG.com",
+        "description": "",
+        "date": "2026-10-27T15:08:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOQXZHWFJVVW1zZW5HbUltOHR5blBmQUtHNFN1WEZlT3B0MVRabTQ3a1E1YTVNa3NhdEdtN1NLNDlkRjhXa2dyQzRKcGtsT0Q1SXRMem9Hcm5ySmhwQ1FaWDFkc1VyNjdDVXZSMXFQeFRLZWh3TlV4RU1jS1EzRngyUzBSZlpaMDRzWjh6X1RmdzV5SUZ0cXowS3hRa2FwWWY0S0xYcmxJNHNMSjl0UjROMklscURhUDlCN3VJSDRpZDctVUZEdGtXNDZUZjJrbXozMHFZajRJSFNnYXItVHhGZnF2TzE1OTFLWmtoOVVaSnR5UHNxYWIyZDlXdTJZLTRwSWN0MGFuUVlKZXo1SzRYN3FiVTByNUJ2cVl2N3REdFdSYVJKSkpwNll1TV8xZXVVN3FWYzVNSVJvS2RqMDdOcnpKRkVNM3c4SXVLU1FaTHRXbWkyOHRMclNWaEVVbElpbThtNXdSbVZ6YmFrd080emhOQjFVVnY1bTdkLVdvSEUtYUh4d3NrbWNmNEZmeC1jc0l6QzZ0N0w4V2MzZzFpR3ZUaXNRS19qc3g4YUZOb3dzUjJ2Y0RBSkQyRXZQTW53NFdWMmxVd0h5S1E4VnMzc3Z3Zlk5X3dOSVdvN05qQWhpbXc3VVdmcDBOZUpmU2hkOXJCQWlZVEpVUQ?oc=5",
         "source": "TargovishteBG.com",
         "image": null
       },
@@ -654,14 +654,6 @@
         "date": "2026-10-27T14:50:58+00:00",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmI0RGhXWS1rc0lubjhTV01ockJPTVMzX1psbEZycWNBaGFBM29HbHZNcUd5MkRrdGJOdjNlSGxoOU01QlNfeEsyTlowdXo5WDlzbG96X2JHQm5hbW1JTXBrc21WS3ZWMkl0cG01UmkwenFvdTBGNmM1MTZ1clI0dmNHLWlkdlpLVXlNODNycjlKZnZDOHFEbTFlTHBYYXJMZ0FSWkFEYmVpNlQtSUNwcUs3VTF2ejdJODNfR2NnRQ?oc=5",
         "source": "Pleven info",
-        "image": null
-      },
-      {
-        "title": "Бюджет 2027 предвижда увеличение от 7,5% на учителските заплати - Tribune.bg",
-        "description": "",
-        "date": "2026-10-27T14:19:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56WEp4Uy1Cc0tHR2JIdzRFemVUNDAycjlPLS1CNDhpeE5iTmdGMG9HNDYwM3JISGJrNjAyeGNIWWhuRGNWejRWVUJXMlRYSjA3SHFkQnJFUTZSR0xIeTlFLV83TXduV3U2ZjhiMw?oc=5",
-        "source": "Tribune.bg",
         "image": null
       },
       {
@@ -686,14 +678,6 @@
         "date": "2026-10-27T13:02:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPTWVaOGtpQklKTnNBcEl6T3FCQVY3WmJPYWhMZnd6THd0ZDNxeUJ6YTdrOVMtZTh5b2tmdHI5ZTZ4bnl2YmR6SGNka2hhR1djRERVNXhJZWFjRTRWallweThCZ1hYQ1lEaVNRUG9OTU9lamcwZm9kc2VCUUx2bWF0aWxxaHI4djRLX2h3OHE5eVRWQ1VwbFhROWE2UzF0WUpYeU5ZWEN5ME5TVVJtSTBuMHZZNERXaVVBU1NXNE43akktUHZYcmM3UEFkUHgyRGI3V2ZKeXdSYmpMcDN6WFdtRGVnR2ROZzFHSlFlQWwwSURicGlMVnVxMFUwNk5RREJacXBrelpiSi0yVkoyeUw5NzRGYTZSc05tWU01ZmFtLUlrSlNJYS15LTlXTWI2NWR3VEU1bTZpaEF1eXJwU1hzTjU3Ykh5T21ibE0xR09makhnSEE?oc=5",
         "source": "Делник БГ",
-        "image": null
-      },
-      {
-        "title": "ПГ ,,Свети Патриарх Евтимий“ проведе бинарен урок - Телевизия ТВ САТ КОМ",
-        "description": "",
-        "date": "2026-10-27T12:45:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOXBKa1laczN1RXp3Si1wdzl3T19aSGpWUTNtcS15dkRhWTVnWjNTMFZ6WWpPNVl3VDJMNVhkZVEzWG9wUUxWckVsVVRhX0c0bVdZaTlYek5GWEN5ckE3bXY0OUMyTzZXVHE1RzhaQzV1Y0JOcTI3YThZcG54NGFhWlJTUV9TWk5ZT1E?oc=5",
-        "source": "Телевизия ТВ САТ КОМ",
         "image": null
       },
       {
@@ -775,6 +759,14 @@
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01OTVCbXpDVVhKWVUydzdydDZnSHltLVdnTHJyWi1VWkd4T1VmR0oyS1Y5cjZLXzdpbjFwVU5ONVkxM0w3bGRLVzVNeVI?oc=5",
         "source": "Kazanlak.Com",
         "image": null
+      },
+      {
+        "title": "Франция обеща 15 000 места във вузовете, но протестите продължават - paragraf.bg",
+        "description": "",
+        "date": "2026-10-27T08:49:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0Q0RXFtdjBkTWRVbEs1MWwxLVJyZncta3VrZERKRlpHUFh6TnlIeklOamViS0J5ZWN4OC1mNHcxSGdrSWJ4bGx2NFRQV1dta3FYTWlSVHhxMkNpaFkxcnV5VVlabGtHWjVraG5TcGdUM0ZRcmZ2eDVLSmFjR0tHU0h6RWtvTFM1OU52c1FRTmNoSFhJZ0E?oc=5",
+        "source": "paragraf.bg",
+        "image": null
       }
     ],
     "Технологии": [
@@ -784,6 +776,14 @@
         "date": "2026-10-27T18:00:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQ3FYYXh4T0MxZ2JiWnBsM092TmZxRzhZUk5VZmxxNjRCVHd3bW1JYjlyOTZnSUV3WGw1VkRFSUtnYXp6emdxRWt2elFHa1FOZ25xSzVjR2dmX2FpYjNmMk1WQlhzYXlSQUs0TDlDZjlNSVJwVzNVamhvU201WW55ZXFnQlBZRC0xeERQTTkyeGJNZ1ZFd0JGU2FWSWhjWk5xbUFFamg1WGM0ZXl6RlplZHVxZHdPcExGcWhUQUxRUkExQm9RZW9CaDVGekRiOUM2QlJqVE56b2xNTWN6X0JmQlZDTmNkZkFrNlFqTDdkXzRqdTBBRjMtVS1mbFN1YXh0UzBxMm9lQVFIQ1NmdkRNNnFDQXNtNWdzUUd5OWFEUXhRQQ?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "„Съхрани миналото и бъди бъдещето“ – история, технологии и поглед към утрешния ден - Министерство на образованието и науката",
+        "description": "",
+        "date": "2026-10-27T16:30:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDktdGZYWlpsSG8xSHhsNm1DQS1SaXpheUo5Ynhuc1NWZ3g1dHRncEdsZ0g5cWdDeFlWN3NmT2cwZEJYXzk2QWdFWDVsdmpTVUFhVk1qWk9hYkVnNWFlOU5DS09WUzlvdTVFR1huWGY1YVBfQUNoTURfekNDQm16VGk0NnZfZm9vbHBqUmRLUGNGaEFFeGU2OXlMZkxIdkppRDF1aFlkZnBsVDFDdldLbDRyUUpkQQ?oc=5",
+        "source": "Министерство на образованието и науката",
         "image": null
       },
       {
@@ -803,27 +803,11 @@
         "image": null
       },
       {
-        "title": "Израелска компания за рекламни технологии е насочвала масирано онлайн реклами - https://novini247.com/",
-        "description": "",
-        "date": "2026-10-27T13:06:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1VKTnRnMlVRTFhoV3Uxd0MwRGJ2X2FlZ2Rpc3owbEZIaGY4VG1wMmJjb3BGOUlfRDJKSi1ybU14eUE0RTN1bG8xaFNCRExZZ1EwVkVuMkE1TVB1U0dSTG9jWk9XODB0MkhOSy1nZ1k5SlZ3REdRRDNtX0wyRWZTdnluY2NzT05zZFc2X2tPMU9odlVsREdoRHpvb0Y1ZVdEamdOWmo2YXRtOC11ajBoNVpsQ1FnU0draXpCenN1OA?oc=5",
-        "source": "https://novini247.com/",
-        "image": null
-      },
-      {
         "title": "AI срещу бюрокрацията - Нидерландия съкращава 25 000 чиновници - www.capital.bg",
         "description": "",
         "date": "2026-10-27T12:53:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVNTQ3Myc3phTXhQWVNhay1DNWVfNmgtSjU3dGlCZkozXzRZUUF5bW81MDZSV0hjVkxGSXBQaERUVG54dnNxeEJCRkZXZE03bGZBTzdxbndjOWpOS3BxYUlYVFBvOEw1cUFxV1JZVkhMd0VWTUZOaVphZ0tqbzlDTjZ4a0x5b3FvaXRLVW9VMUw1UzFCbk1vNzA4Uy1zNmxGQWFPSWx2Rmk?oc=5",
         "source": "www.capital.bg",
-        "image": null
-      },
-      {
-        "title": "ВиК -Благоевград внедрява модерна система за контрол на водоснабдяването в реално време - Новини от югозападна България",
-        "description": "",
-        "date": "2026-10-27T12:24:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkZRU2xEV1RRUUtQaFBERy1lTzBzNk50dWVKWWY2TmtaLUdocGdVZzR6Vldxa2NtUWF0SkZObVk5VjlWbmJuVFUwY1RWa25DblRjTzc3OWtfdm5DN2RmbktkMEZ6bmZ0UTNLRjdtZHE0Y1ZLN1l3S3VZNzk2Rkx3a0hzWjRvdUtuekhrc2ttLUVJejEwTHk1Zm1WYjBRYTdBQTV3bXgycURPazJzRzIxLWl0S1JVOWdtRWc?oc=5",
-        "source": "Новини от югозападна България",
         "image": null
       },
       {
@@ -947,35 +931,43 @@
         "image": null
       },
       {
-        "title": "Нова уязвимост в банковите карти: Възможни са плащания дори след изтичане на срока им - NewsPoint.bg",
-        "description": "",
-        "date": "2026-10-26T18:43:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbl9tQm1aTUYwS0ZZOGlQRHE5UW1ENWYxeGtLWmVnbldMVTc2YjlQV0Z6U1ZzSTIxNXgyLV9yVGN2ZHoyVGZJQzVDZmhqY2psbWZFTkt5S2QyUjI2TV80RzBIQ1lkRmJialh4TVFCSUZWZUpyaUtGSDFUaVFHMHJ4T0JYWVBVLTQtTk9zU29zMndpcWlGbjFYcm1scTJYQU83SkE?oc=5",
-        "source": "NewsPoint.bg",
-        "image": null
-      },
-      {
-        "title": "Японският производител демонстрира съчетанието между традиционните си технологии за задвижване - https://novini247.com/",
-        "description": "",
-        "date": "2026-10-26T18:15:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ1JlUzZDY1Rtc3Myc2lyVnBVM2dVbzQyM2NIUUplTUpNZkRDZE40MzRRUEYzOW1JZjUzZndlclFXMk9ENVN6dDRDTmc3OTE1TFU3SHB3ejBxOUx3ZXhFR2NsMTBWbWhkMmZIUWtuSk0yakFSNzFsRFVsVnoxVkRSVDdacTJDNjNES19KOVVaUWRlVFRjQkR6ZTJua2lKSjhuV2UwVUpqZHZCby0zT1dHbEN5WGtuTnpibElHaXF0QmZyMWR5MGZnVFd1eXFxblIycjdYeFQ3eVc?oc=5",
-        "source": "https://novini247.com/",
-        "image": null
-      },
-      {
-        "title": "Технологичен гигант дава милиони за доброволно напускане - Стандарт нюз",
-        "description": "",
-        "date": "2026-10-26T17:08:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlNoR1B5OGRoWUxtakk0MVNlV3ZUWGtJX0VMajRieHJsMjNtQ2JET2x5YmhBNjZ1SUE2OGNOVjNfRFFQcHVadnBJckhuc09pMTQyRHI1VGRISjhlWnNseDJZb1pUQnJWQjR6MTZVRXBmeWtSZzJWZGlsMXhvTGxXWm03aTlLU3lpVVVUN1pMVFhPUU5qMUhSNDE5RlNfWUZMVDJoS2x2RzFmU1pQNTVr?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Румен Радев: Устойчивото развитие и повишаването на доходите изискват по-висока производителност, модерни технологии и условия за разрастване на българския бизнес - Министерски съвет",
         "description": "",
         "date": "2026-10-26T16:07:30+00:00",
         "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdmlHNzdMbmcwbUY0bUxfNF9NMnNrZG42ZmpicVY5akFRYmMxMkxocmFkUUZBNmVwZVo3VUdDcTJsTnBiMW80TEJ4cEtiOHl0eWJVT2xWLVNLMXYwV2VfZDlEN1VRbjdJdEJwS29wR1RFbkNpSUEySlB3R3V0bkJoOHZWY1lBS0Y2SUVZb1VNY1IzMDVjWUZlc05MYXlZbFhPQ0d0WjZ6WEppVnFxaUFHMDd1ajIwNHdnU2dhb2kzeklRRklYU1JpWHA1N0xCcEQxb0JsbmplVUpaczR4dmZYZlR3Q0NacXlTcGc5eUdNang2MnBqeGo0Nlc0TWhkSlRKbVZIOXU4Mi00cU1yR0FYNG5OeDByZy1nR3h6RjF3QlJURW80QUFHTG5YSHFCUQ?oc=5",
         "source": "Министерски съвет",
+        "image": null
+      },
+      {
+        "title": "NATO DIANA идва в София — четири центъра ще валидират технологии - quasa.io",
+        "description": "",
+        "date": "2026-10-26T16:04:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa012X2UxQXVHVkhZR0VkLU9UbUw3bVRpdVl1WXVaaDJabDZrWWlnc2gyT2hXYnZ1eGtpTHVFUWF3SXJ3UFVob2dkVXU5YkhLek53ZnFvczVKLVE2T3Q0SFd3bU5UUzBMcDQ3MTRqdmlIMFhuQXl4NXhUaTNxTHk4N1B1NEZPRXFxMjFMUHBLYmk2aXhyVVNJ?oc=5",
+        "source": "quasa.io",
+        "image": null
+      },
+      {
+        "title": "Европа се готви да изпрати хора в Kосмоса с план за 10 млрд. евро - Investor.bg",
+        "description": "",
+        "date": "2026-10-26T14:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3RVNExkenZLT2YwY2pmb0JhR0lLRWRydVZIX053RTFwNFY5Z0JMSW1PYTd6VnlfeDNoVUVmY0NDNi1aR3VvLUVrS2xWdUVoUjFONU8yQjdJYVFyWnVSOTN5VU5odWpxY2lra2Y4VzhaWFNtN0xLRC1EN0g1OEtqMVFBaWxINmRtSEJpTlhVZ3VKRUtZQ0dqaXJqMUR5UWFuTS1vQnkwNkdxejBHR3YyWF9MeDNBZG9oZ3c?oc=5",
+        "source": "Investor.bg",
+        "image": null
+      },
+      {
+        "title": "Ръководителят на МАЕ Фатих Бирол: Китай ускорява глобалния енергиен преход с постиженията си в чистите технологии - www.24chasa.bg",
+        "description": "",
+        "date": "2026-10-26T13:37:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16VjJPSVdMSHdmSW15VXBjWkw2aVJkQ2ZiRUFhbEN5RWJrQVRpTUtuM2ZweTUwUUVyT1N5Z0dvMFdxU3FaN0ZXUmhuNXBoWmlpVGo5OGRWY1otT1BoeHJQZGN0bw?oc=5",
+        "source": "www.24chasa.bg",
+        "image": null
+      },
+      {
+        "title": "ЕК стартира инвестиционната платформа T-MED за ВЕИ проекти с гаранции на ЕС до 4.5 млрд. евро - 3e-news",
+        "description": "",
+        "date": "2026-10-26T12:50:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3VvbkZJWlNUMzhtQ3BHLW5fbVVsdFI4RGZMYmRXREkwUkJreTBLZEZIcFJlVm5lWmU1d2s4ODloOFhoek9LT3Z5eXNtZHhuWmJrSFVka0N3LVk0Z0FhQlRHNGxTRUZlWGd2Nzg3a3RDT2hEempXX2lZOXBVWEpjNGFNeG1KWXlHZkM1T0dxeEw3VjhFMFc4VTJ2bWJQamw1aVczM1RIOHBQUTE0SEpfcFBucS0xMHdydm9HbXgtTG5GVG1pOUZF?oc=5",
+        "source": "3e-news",
         "image": null
       }
     ]
@@ -993,7 +985,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 21,
+      "count": 20,
       "feeds": 1
     },
     "Образование": {
