@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:09:49.474071+00:00",
+  "generatedAt": "2026-10-27T00:59:28.376769+00:00",
   "categories": {
     "България": [
       {
@@ -16,6 +16,14 @@
         "date": "2026-10-26T23:49:50+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUl9UenFqYnRUVTEzUTBYR29YdVBWanhkZHRHUzZ1bENpNzZLWWdYcDhnVnRCazNrc0Z3T015S2NSMEswd1d1TllqdUdUYWZaT2ZVRXNPd1hVSmxrc1ZrWlpCQ3BBSnlYVk9OMUUzQUJFUE9fNkJCVmpSYnNrN0hUZGo3MGJkVndnRzRZN0RQaERyRFNBZUtJSnAwUHhQeEpoZ1lybGpuRTFUalU?oc=5",
         "source": "Investor.bg",
+        "image": null
+      },
+      {
+        "title": "Хари Кейн покори света с историческа \"Златна топка\" - Gong.bg",
+        "description": "",
+        "date": "2026-10-26T21:22:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlB4d0tTNG1FemhaNlg1VUNaQ0xDZ0liMzlJNDM2YzRCdDVYNDNqd0pKQlp6a1VUMWwxMFlKZnhscm5TUTFpNExyOUtVcF9PUVpoNU0xemh3SEpOXy1XeC1IMDZrV0xCNlpMa1N1YUdRSW4xYUlRa0ZRZTFMNUoxRzJfU24tSldlaElwV0pMQ1RKQQ?oc=5",
+        "source": "Gong.bg",
         "image": null
       },
       {
@@ -51,20 +59,20 @@
         "image": "https://static.dir.bg/uploads/images/2023/07/17/2585547/384x216.jpg?_=1793047566"
       },
       {
+        "title": "ЦСКА победи втори съперник за титлата - Новини СЕГА",
+        "description": "",
+        "date": "2026-10-26T19:45:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzQ4aTZxd1lJR1lGT0xGZWdNeU9PNFphQXRhSzhsc3dVZDB1Wk1nczMwbDctUEVoUWhPNjR6VmVYOG01YjJyLXkwMlRRb21KcXBNbmdJTUtLVUdhclBVQ2xWREN1SEZweW4xMkVkTXhtTHVnSE84UXp3VlZ6TEVjbTIxRXlhZw?oc=5",
+        "source": "Новини СЕГА",
+        "image": null
+      },
+      {
         "title": "Васил Божков осъди прокуратурата заради изказвания на Иван Гешев и Сийка Милева",
         "description": "Според бизнесмена той е бил дискредитиран публично и е била нарушена презумпцията за невиновност",
         "date": "2026-10-26T19:29:26+00:00",
         "link": "https://dnes.dir.bg/temida/vasil-bozhkov-osadi-prokuraturata-zaradi-izkazvaniya-na-ivan-geshev-i-siyka-mileva",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/09/25/3029494/384x216.jpg?_=1790329166"
-      },
-      {
-        "title": "Германия задържа заподозрените за палежа на \"Старлинк\" до София - Dnevnik.bg",
-        "description": "",
-        "date": "2026-10-26T19:14:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJ6SEZOQ0ZtNmhKRlZiWXRNYUpHTTB0b2xvRTZXTF9HRkN4TGJWcEtfQUNMekxWZE1Ed0ZNSVVMUEotcUhpeVE4TkVHelljUGFxRlZFM2xLMDRyWXVPMUE4OXhOR3pTWFRicTBfNXBNVWdfc0xBaDFXT3R3WGxIa1RINlh4WUxULWJ6RnZ6Y3R0UjNwb25tWTVwYTFZM2xsc3hSbG84ME8?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
       },
       {
         "title": "Пиян шофьор удари и обърна по таван кола на пътя край Плевен, където загинаха четирима младежи",
@@ -81,14 +89,6 @@
         "link": "https://www.bta.bg/bg/news/lik/1233306-natsionalnata-agentsiya-za-otsenyavane-i-akreditatsiya-vrachi-godishnite-si-otli",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037729/1000169299.jpeg"
-      },
-      {
-        "title": "Бой между фенове на ЦСКА и Лудогорец на \"Васил Левски\" - Gong.bg",
-        "description": "",
-        "date": "2026-10-26T18:27:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0JxbjJIbjR2Qk85V3plV0I1ZTlZNEZ1OEs3SkFESHZ5a1JSRmFNcGFVZDhSOEc4bEV5SXRNMmd5clNoaWc5bno0RXhLb3RfSm9vRUtPWGp4UFRIQ2xzM2VyMWFVOVczZXVzd3V1MkRub0ZMUHBHWG9WSlhibnVlUXB0REZKdnpjZW44YzgyUF9vaTNWandxOWp0QWc5RWgw?oc=5",
-        "source": "Gong.bg",
-        "image": null
       },
       {
         "title": "Шофьор е задържан след катастрофа на пътя Плевен - село Ясен",
@@ -205,12 +205,44 @@
     ],
     "Свят": [
       {
+        "title": "Силен тътен беше чут в столицата на Хаити Порт о Пренс",
+        "description": "Силен тътен беше чут днес в столицата на Хаити Порт о Пренс, съобщиха очевидци пред Ройтерс. Агенцията не може засега да установи източника или причината. Напрежението в карибската държава силно се покачи в резултат на разполагането на войници от Салвадор. Особено, след като четирима салвадорци от мироопазващите сили на ООН изчезнаха при нападение от засада от страна на престъпни банди.",
+        "date": "2026-10-27T00:57:51+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233343-silen-taten-beshe-chut-v-stolitsata-na-haiti-port-o-prens",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14038224/0172dc67361b455290f7382d1c8331ef--0--fc405da371c54492a51c2909181c5839.jpg"
+      },
+      {
+        "title": "Biden Laptop FBI Officials Charged - БТА",
+        "description": "",
+        "date": "2026-10-27T00:34:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyM25hdTVrVG9HeTEwS0ZZRWRwTVgtSUctelpObnF1SVZNRVQ2Y3JpV2h1VkVubkM2eUV0eHdRT3JIcks5N0RwOWtLekd6bHFxY1o3MzB3Yw?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Либералната партия на Флавио Болсонаро призна резултатите от президентските избори в Бразилия",
+        "description": "Бразилската Либерална партия, която издигна кандидатурата на сенатора Флавио Болсонаро, призна резултатите от балотажа на президентските избори, се посочва в днешно изявление на нейния ръководител Валдемар Коща Нето, цитирано от Ройтерс. Болсонаро беше победен на балотажа в неделя от действащия президент Луиз Инасио Лула да Силва. Сенаторът отказа да приеме резултатите и заяви, че ще оспорва изхода от вота. \"Признаваме резултатите от президентски",
+        "date": "2026-10-27T00:34:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1233342-liberalnata-partiya-na-flavio-bolsonaro-prizna-rezultatite-ot-prezidentskite-izb",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/784885/f3d45095703e402f95fe0496399f5673--1--a21dd67271144ca792ccd7bc9a051bea.jpg"
+      },
+      {
         "title": "Един човек беше убит, а 10 - ранени, при руски въздушни удари по Киев",
         "description": "Един човек беше убит тази вечер в Киев при руска атака, при която бяха ранени още 10 души, съобщи кметът на украинската столица Виталий Кличко, като добави, че са нанесени щети на медицински и образователни учреждения, предаде Франс прес. През последните седмици Русия засили атаките си с дронове и ракети срещу Украйна, което постави Киев – град с около три милиона жители – в състояние на почти постоянна тревога. По време на една от атаките \"е бил",
         "date": "2026-10-27T00:04:36+00:00",
         "link": "https://www.bta.bg/bg/news/world/1233341-edin-chovek-beshe-ubit-a-10-raneni-pri-ruski-vazdushni-udari-po-kiev",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13991616/2b567395d0c04f9e98c35876cd6959d7--2--b493dcbec56a480a89cc08ed0df7b37c.jpg"
+      },
+      {
+        "title": "Най-богатите 0,1 на сто от населението на света създават повече въглеродни емисии от най-бедните 3,5 млрд. души и печелят от климатичните бедствия, според \"Оксфам\" - БТА",
+        "description": "",
+        "date": "2026-10-27T00:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX1RPUFlyQkZxUm52VG5TREo2NlVSX3lrdEZWM2p6TXMwQU9iQm5CYTF4SFVqcnZDb015OFhUdVlpTl9TQlNnMkhpNDdrNG4xeVY4ZzBLZVJsUVVsTDExRVk0YjFHWjhWMnRxQ2NoUG5qUXFUaUZ0anc1aXltcEoyUUMtRE1oTk5wR2FaOTZ4MDJWbFhiRmlBMnQxT1cwZXVRMDZUWEFTNDBpZjI1aFVtWGI5V3hIQ2pmcUM5NmxpSlk?oc=5",
+        "source": "БТА",
+        "image": null
       },
       {
         "title": "Microsoft освобождава 60 000 служители в цял свят - ФОКУС",
@@ -261,12 +293,36 @@
         "image": "https://www.bta.bg/upload/14035841/6e2e343a1f55483c916f480aeb4b7f45--0--9c2963af917c45d5b48ee914763b93f3.jpg"
       },
       {
+        "title": "Хари Кейн срещу останалия свят: Днес връчват \"Златната топка\" - Gol.bg",
+        "description": "",
+        "date": "2026-10-26T21:48:14+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUJlWE81M05vaEFaY00tMUdsX3dMTFJMTDlvTHJNbkdicVg5elFkbTdVSFdidTVpRy00Y3NVMGRBZGl5emhjYVlVQ0lpQm1qM0x6Q2VrcVZNeVpSaUZFeW5aRUE3TFVrOWcwanBrRGRsVFdlMWhrd2hlUEkzeVpTNjZEZ3NsWWtmUGxjZVA2MVliRE01aC1IZWJZUmxVZDJ1aVRxWg?oc=5",
+        "source": "Gol.bg",
+        "image": null
+      },
+      {
         "title": "Тръмп предлага възнаграждение от 1 милион долара на всеки, който докладва за изборни измами на изборите в САЩ",
         "description": "Американският президент Доналд Тръмп предлага възнаграждение от 1 млн. долара на всеки, който докладва за изборни измами на изборите в САЩ и от това произтече арест и осъдителна присъда, предаде Ройтерс. Предложението идва само седмица преди междинните избори в САЩ, които според анкетите могат да поднесат неприятна изненада за Републиканската партия. Правителството на Тръмп възприе агресивен подход към контрола върху произвеждането на изборите, о",
         "date": "2026-10-26T21:37:33+00:00",
         "link": "https://www.bta.bg/bg/news/world/1233332-tramp-predlaga-vaznagrazhdenie-ot-1-milion-dolara-na-vseki-koyto-dokladva-za-iz",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037870/926c5937d145491080191ddc2019417b--0--6849eab233c04f599c0403d450548e93.jpg"
+      },
+      {
+        "title": "Шарън Озбърн разкри последните мигове на Ози - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T21:35:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmxLRVBtdEdUQk81ZUJmeUEwNHd6cVB3T0RQT20xNnlYVUZzRU8tODlJN3NEV19nMkxuSEw3WFVMYjZaNUNDNEdWMEJxNmZHRk9PX2dZby1xTnMtc0JyV0lHSVp5cTIxdzJHUXFmNGVfSWl3OU9Rck1teEt5dW9pOVY1VXB6MDRvZzl2d29qQk1wOFU3SXJz?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "До седмици! Бананите стават лукс в целия свят - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T21:29:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEpvTzdmX3BVeUF6N0VIUEdQWFBVcWxUVmhjblJuVk9PaGtXaVdRQTZfWXUxSlhTM05KOTJobG9qbDZicVBJNWtYb2pIWlpDTW9UbUJaYzgtaEJ1WldBQ2IxVDhjUXVEVjg2Q2pPbURpcUlqemQ0X19XMWxVRkV0N0c3MGRGM0VxYzNfbDJfREVtcS1wNURHRFRB?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Киев е подложен на ракетна атака, а един от ударите е нанесен близо до станция на метрото, съобщи кметът Кличко",
@@ -285,6 +341,14 @@
         "image": null
       },
       {
+        "title": "Трусове в Истанбул! Арестуваха краля на диамантите Aлтънбаш - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T21:06:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOF9RcC15WFN3bVljQ1prZjBXTVFBa1NZcGMyX0xKdERuYkJUMjVsNV9pajdFa1NyUkMxSXBQTE4zUVRGRkdwdUtabVl3ODcyUXByZGNSME1SR0p4ZkREdUR2S0tYUXptVTV6MzJLY2ZIZnFSOUtDVUtlUUdkVlhpMEgxTzFabzBKRnRaUklXOFBvclJ2NVdEYVJnTnIyRDVkNkx6QjZjV2hBVms?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "Зеленски подписа укази за продължаване на военното положение и мобилизацията в Украйна с още 90 дни",
         "description": "Украинският президент Володимир Зеленски подписа укази за продължаване на военното положение и мобилизацията в Украйна с още 90 дни - до 29 януари 2027 г., предаде агенция УНИАН. Двата указа бяха публикувани на сайта на президентската канцелария. Както съобщи по-рано УНИАН украинската Върховна рада гласува за продължаване на военното положение до 29 януари 2027 г. В подкрепа на внесения от украинския президент законопроект \"За продължаване на сро",
         "date": "2026-10-26T21:04:08+00:00",
@@ -299,6 +363,14 @@
         "link": "https://www.bta.bg/bg/news/world/1233326-tramp-zayavi-bez-da-predstavi-dokazatelstva-che-prezidentskite-izbori-v-brazil",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14037871/c1c63c66a3a6473c8a125f68919cd15d--0--4f7d6f3cf05a48b98611cae2a8634152.jpg"
+      },
+      {
+        "title": "Отиде си американски актьор с незабравима роля - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-26T20:23:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0ZUaUhNQVVFQjBmM1VhQU1yQ1hCb2lJUFI1VnJBcmRTN0hNcnNsQmtGWFNDdXJPNGRESHF5aGlMYi1ERjVON0pCWlltM1l3dGlDMVhjNWJkdjdoYUtYTWUxbWpSTi04cGM4bUswOVFQRGdVTGdZYWJWck4tQXk1VWVrYWpfZFdkTkE3VHlQRlJDakdFSE8taQ?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Руският сценограф Александър Кондратов е починал, след като е прекарал месеци в предварителния арест, съобщи неговият адвокат",
@@ -331,78 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1233314-nad-300-amerikanski-voennosluzheshti-shte-uchastvat-v-ucheniya-za-borba-s-narkot",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13845008/255144d81702482d973309627ce15688--0--3ffc27f0503b4e32adf36ff041c169f6.jpg"
-      },
-      {
-        "title": "Либия съобщи, че международните ограничения върху въздушното ѝ пространство, наложени през 2015 година, са отменени",
-        "description": "Министерството на транспорта на Либия съобщи днес, че ограниченията върху въздушното пространство на страната, наложени през 2015 г. от Международната организация за гражданска авиация към ООН (ИКАО) по време на гражданската война, са отменени, предаде Ройтерс. Решението, официално взето на 23 октомври, е било обявено от генералния секретар на ИКАО Хуан Карлос Саласар при откриването на среща на представители на гражданската авиация от Близкия из",
-        "date": "2026-10-26T19:53:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233320-libiya-saobshtiayavi-che-mezhdunarodnite-ogranicheniya-varhu-vazdushnoto-pros",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/2382744/ded81e380fa44ab4a8d6c24cf18374cc--0--ae1688abb57f41c680b736d06c83716d.jpg"
-      },
-      {
-        "title": "Либия съобщи, че международните ограничения върху въздушното ѝ пространство, наложени през 2015 година, са отменени - БТА",
-        "description": "",
-        "date": "2026-10-26T19:53:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGNBQVA1M3ZDaHFGbV80OGk1N0RJQ0ZmWXFuLUVVTTRSZXZXMnpKOHBuME5iVE1kSnhYVjNYU3RISTV6QlhUb293d3BsSWlEQkVoa3VUSHRJSm94NURLeWxKY2RTV2tObGkwSVZaY01EUjhydlNZTUpZUzJNVmpuTFJsSlVKcHM2aGk5cFlLZDhlYXJGUE1jbHhTX1pQUDNQZENHSUUta1BlRzhoenNMd1laTlJnZ1FUc3R0cQ?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Кораб гори край бреговете на Ирак, заяви Британската организация за морски търговски операции",
-        "description": "Британската организация за морски търговски операции (UKMTO) заяви днес, че кораб гори край бреговете на Ирак, без да уточни причината за пожара или състоянието на екипажа, предаде Франс Прес. „Британската организация за морски търговски операции получи няколко съобщения за горящ кораб на 63 морски мили (близо 117 км) югоизточно от пристанищния град Ал Фау в Ирак. Към момента не са известни състоянието на екипажа, мащабът на щетите и въздействиет",
-        "date": "2026-10-26T19:35:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233313-korab-gori-kray-bregovete-na-irak-zayaviaobshti-britanskata-organizatsiya-za-mo",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13293677/c4e2792c6b7a483a94ce50ca0a8dd7f5--0--281dd561b35c4ddbbdba4561ee49f9a2.jpg"
-      },
-      {
-        "title": "Президентката на Венецуела обвини Мария Корина Мачадо, че прави \"шоу\" с връщането си в страната и изрази надежда диалогът с опозицията да продължи",
-        "description": "Временно изпълняващата длъжността президент на Венецуела Делси Родригес заяви, че се надява преговорите с част от опозицията да предоставят възможност да бъдат чути всички политически позиции, ден след като опозиционната лидерка Мария Корина Мачадо се завърна в страната, предаде Ройтерс. Същевременно Родригес обвини опозиционната лидерка и лауреатка на Нобеловата награда за мир Мачадо, че прави \"шоу\" с връщането си в страната, съобщи Франс прес. ",
-        "date": "2026-10-26T19:17:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233312-prezidentkata-na-venetsuela-obvini-mariya-korina-machado-che-pravi-shou-s-vra",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13890512/fe65fa39d8424f8f9ee9d909370e8ad9--0--2ad167f86cd94cfab3be88a061e783bc.jpg"
-      },
-      {
-        "title": "Израел нарече „пропаганда“ новите обвинения в геноцид, отправени срещу него от комисия на ООН",
-        "description": "Израел днес отхвърли като „пропаганда“ заключенията на разследваща комисия на ООН, която го обвини в престъпления срещу човечеството срещу палестинците на окупирания Западен бряг, включително „изтребление“, и отново повтори обвиненията си за извършването на „геноцид“ в ивицата Газа, предаде Франс Прес. Докладът „не е доклад за човешките права, а пропаганден документ, който няма нищо общо с реалността, цели да покопае правото на Израел да се защит",
-        "date": "2026-10-26T18:43:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233309-izrael-nareche-propaganda-novite-obvineniya-v-genotsid-otpraveni-sreshtu-nego",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/304045/Israel-flag.jpg"
-      },
-      {
-        "title": "Швейцарският външен министър ще посети Северна Корея тази седмица за политически разговори",
-        "description": "Швейцарският министър на външните работи Иняцио Касис ще посети Северна Корея тази седмица за политически разговори и официалното повторно откриване на дипломатическо представителство на Швейцария в Пхенян, съобщи днес правителството в Берн, цитирано от Ройтерс. Визитата на Касис ще започне в четвъртък, а на следващия ден той ще се срещне с представители на севернокорейските власти по повод официалното откриване на дипломатическото представителст",
-        "date": "2026-10-26T18:24:37+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233303-shveytsarskiyat-vanshen-ministar-shte-poseti-severna-koreya-tazi-sedmitsa-za-pol",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/12010293/8389a003edef46fbba2254c0d0eda50b--0--0651651df2244df69c8b9d5678608365.jpg"
-      },
-      {
-        "title": "Руските сили нанесоха удари по Харков, при което бяха убити двама души и четирима бяха ранени, съобщи кметът на града",
-        "description": "Руските сили нанесоха тази вечер удари в Новобаварски район на Харков, при което бяха убити двама души и четирима бяха ранени, предаде Укринформ, като се позова на публикация в Телеграм на кмета на града Игор Терехов. Според него при атаката са били повредени жилищни сгради, частни домове и автомобили. В предходна публикация кметът отбеляза, че след удара в един от обектите е избухнал голям пожар. Ръководителят на Военната администрация на Харков",
-        "date": "2026-10-26T18:07:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1233301-ruskite-sili-nanesoha-udari-po-harkov-pri-koeto-byaha-ubiti-dvama-dushi-i-cheti",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/2613770/0396f9ee0ced49448d2af4dafbc9c7a5--0--29f9ff1558964a7f908f65bfc8ac1df1.jpg"
-      },
-      {
-        "title": "Постановката „Гушни ме!“ на Държавен куклен театър – Бургас ще бъде представена в Българския културен институт в Берлин на 30 октомври - БТА",
-        "description": "",
-        "date": "2026-10-26T18:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkJLeVVUSlM0THJ5bGJ5RHlRRnlpTnNBbEdfNlpRQW9KbTdzMms0eC16SGJkMDB4ZkJHLVVtSGtfUElEX2Ffck9VZ0hFWWZPNVluYVVkTTVfcDYzWHp3b3hueTZndUV1WjZvdGk3MHVxdl9TbVRKZjhfa01aeHNKRmhZNy0wYXJDSnQ3WWFmOEdHZk1mRk9mbXVhdUFZUXE3MzctcFhzampWdmZzSFFPbHYwd2M?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Румъния обяви, че е разкрила мрежа за саботажи, координирана от Русия",
-        "description": "Румънската разузнавателна служба съобщи днес, че е разкрила мрежа за саботажи, координирана от Русия. В съобщението, публикувано на страницата на службата в интернет, се казва, че мрежата е разкрита в сътрудничество с местни и чуждестранни партньори. Според разпространената информация групата е отговорна за пожар през септември на индустриална площадка в Централна Румъния в близост до държавно предприятие от отбранителната промишленост - оръжейни",
-        "date": "2026-10-26T17:44:00+00:00",
-        "link": "https://www.bta.bg/bg/news/balkans/1233299-rumaniya-obyavi-che-e-razkrila-mrezha-za-sabotazhi-koordinirana-ot-rusiya",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11815877/301ed32505574c048ba2133b4f590bcf--0--4bf0e8adbfb14daaaa6a12189e99ac59.jpg"
       }
     ],
     "Наука": [
@@ -423,14 +423,6 @@
         "image": null
       },
       {
-        "title": "17-годишна българка покорява Amazon с дебютна книга за наука и човешки права - https://novini247.com/",
-        "description": "",
-        "date": "2026-10-26T16:20:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkoxd2VpdEFOUzlCVktDdmNOQjNwSlp0ZWZjdUxVeW41MkFXTm9Dd19hN1JiZklJQXVWcllOdjNwSjYtbTlWM05hSVNuWm1Eb2V5NXExY1ZqMVg3MTdvNmxEN2plV1FtZExlWlBHZ1pYWG51OGNzS0VsRW1TM19CRXZxOHN6REtDX3RLRzlzZGtnajdWV0VfMWVjLTNwME1vbFdHUGhGUDE0QnRwT1pweG1KN090RXFyTkE?oc=5",
-        "source": "https://novini247.com/",
-        "image": null
-      },
-      {
         "title": "Причина за депресията може да е и нарушение на биологичния часовник - Списание Осем",
         "description": "",
         "date": "2026-10-26T14:17:48+00:00",
@@ -442,7 +434,7 @@
         "title": "Учени предложиха първия метод за откриване на „огледален живот“ - Kaldata.com",
         "description": "",
         "date": "2026-10-26T14:02:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQV01fdUFFMGlWLXVwX3g3dVRYRXpjX1JYRml2SGJ3ZkxOLVgyVmVBOURCZmlLcFBGQUlZU2tuOTNFZ1JsclVoSUJZaERSVzRHVzlBaGRvM1dvVk1XTHc1ZTRJcjRDUlotY0VGTUNwdEt1d0lhNXFqbER3eWFqYlFxcEo4cEwzaFd3ck0xdkZ6TS11ZUprTFJvbWpEcjJxYWYxbi1xc3NNT2dtbHFCTFIybm1qTW9jazlJeWphZWdKWGpaQy1fNmw4VXQ3VG81OHh6X0w0MjNCZzVDTzRsd3lXZHV6MlhNMmJwMi1GRGttOUlxVkZhRXprZVRtck42aGs0c3ptejduckYxcHZjTHVMdnNpMl9TOGhXNGpzZEZkenVKdDYwYmpEY0pMSG9QMllLWmU3eEJUelBXZm9CQmlnMVA2V0E0NnpXXzhCRkVlUFRiUnd6cHVnYnV4NGctcm04b19Kb0dyM3dZZFRpZUZiYkJWdGZCb3ROelVfWHV5R0U5b0Y5QjdLS1d2aVJ5WWVPcjAyVmVEaGFjMko1NzdqZTNnU2M4SEhqMDVJQmh1dE5Xd9IBugNBVV95cUxPMkFDN1BRRk5RVURvclFGbEtrZjFQXzRHZU40VjgxS0NKYXFwenRMV2VEZ2p6a0h4WkNjeXJCTWROTElXVGlBMXJoU05Tbzg4QUpOTzhuY1h5R3N5eWhxLXJ2azNEdVhiTzAzaTI5RmRGV09OTEM0Sjg0WTN5enZ0MjFpZXVsMkdLMWp1cTgyOUNkTTUwWEo5eUx0V284Sk9ZM1h5dHpyNklaWXltUUFGUk5BYW1LWVRwM0w1Y24yeXFzM3NuVG92SE1xVDJ0aTlGaG5KWlZ4dU9YamlGZ1c1eTdRZkdlMFgwcklKVmdxOWQtNFN3TjdFaHdvRnNWSkNvWlhVcTN1aVFZTzBxX1BCRHBKSDNJVDRaYmJXZElTWG9JT09RSGJWSWh2RXZCLVNYWm1xMHd2ZkNFSm5qdlF0UTcxYTBlaktLOEQ2bXphdE9zQnFoMmR3bS1lOTBOUXZoNi1tckpCOUdYRF9GeDVTZ0NDV0lsZnVEVEhMNEJsQWcyX1hPNl81Z09DTER0X2dNaURNV0dROFppbFVabTNrQVVUUlotZFM1N0tZN05ZNVJ0c1N6NmNNcUJ3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPMkFDN1BRRk5RVURvclFGbEtrZjFQXzRHZU40VjgxS0NKYXFwenRMV2VEZ2p6a0h4WkNjeXJCTWROTElXVGlBMXJoU05Tbzg4QUpOTzhuY1h5R3N5eWhxLXJ2azNEdVhiTzAzaTI5RmRGV09OTEM0Sjg0WTN5enZ0MjFpZXVsMkdLMWp1cTgyOUNkTTUwWEo5eUx0V284Sk9ZM1h5dHpyNklaWXltUUFGUk5BYW1LWVRwM0w1Y24yeXFzM3NuVG92SE1xVDJ0aTlGaG5KWlZ4dU9YamlGZ1c1eTdRZkdlMFgwcklKVmdxOWQtNFN3TjdFaHdvRnNWSkNvWlhVcTN1aVFZTzBxX1BCRHBKSDNJVDRaYmJXZElTWG9JT09RSGJWSWh2RXZCLVNYWm1xMHd2ZkNFSm5qdlF0UTcxYTBlaktLOEQ2bXphdE9zQnFoMmR3bS1lOTBOUXZoNi1tckpCOUdYRF9GeDVTZ0NDV0lsZnVEVEhMNEJsQWcyX1hPNl81Z09DTER0X2dNaURNV0dROFppbFVabTNrQVVUUlotZFM1N0tZN05ZNVJ0c1N6NmNNcUJ30gG6A0FVX3lxTE8yQUM3UFFGTlFVRG9yUUZsS2tmMVBfNEdlTjRWODFLQ0phcXB6dExXZURnanprSHhaQ2N5ckJNZE5MSVdUaUExcmhTTlNvODhBSk5POG5jWHlHc3l5aHEtcnZrM0R1WGJPMDNpMjlGZEZXT05MQzRKODRZM3l6dnQyMWlldWwyR0sxanVxODI5Q2RNNTBYSjl5THRXbzhKT1kzWHl0enI2SVpZeW1RQUZSTkFhbUtZVHAzTDVjbjJ5cXMzc25Ub3ZITXFUMnRpOUZobkpaVnh1T1hqaUZnVzV5N1FmR2UwWDBySUpWZ3E5ZC00U3dON0Vod29Gc1ZKQ29aWFVxM3VpUVlPMHFfUEJEcEpIM0lUNFpiYldkSVNYb0lPT1FIYlZJaHZFdkItU1habXEwd3ZmQ0VKbmp2UXRRNzFhMGVqS0s4RDZtemF0T3NCcWgyZHdtLWU5ME5Rdmg2LW1ySkI5R1hEX0Z4NVNnQ0NXSWxmdURUSEw0QmxBZzJfWE82XzVnT0NMRHRfZ01pRE1XR1E4WmlsVVptM2tBVVRSWi1kUzU3S1k3Tlk1UnRzU3o2Y01xQnc?oc=5",
         "source": "Kaldata.com",
         "image": null
       },
@@ -455,19 +447,19 @@
         "image": null
       },
       {
-        "title": "Учени създадоха карта за търсене на следи от живот на Марс - Actualno.com",
-        "description": "",
-        "date": "2026-10-26T11:32:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeEFKLXU5TUdnajlGX192cWRtMld1RXdYRGxmbVZfdEdpLUxiQWFjV3RaUEFJWk1EbVpoN19UcmJpeVBMTXlwcXZfbjI5Z0ZaRjR2S18wYy01ZG9ERnRMZGx4YzVsRkxmSV9kSDJlVlFtWWlFQmZQdHlwblBxU0hpeHRxd1hTTGVvTGFaS1dmQUo5dVJQUDRJMDRFa2dPVDVGald3NDdKbHUtSUJnS3c?oc=5",
-        "source": "Actualno.com",
-        "image": null
-      },
-      {
         "title": "МУ-Варна домакинства форум за иновации - Clinica.bg",
         "description": "",
         "date": "2026-10-26T10:29:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XcFZOVHhMdHAtNnczYXF4ekcycXJEaW5TRVMxSXptT0l0VFZMeUFFcUNONWV3RTNIdjFBWFN6T1AwbWpfQ1Z4TXBnZ1pjdjRJMzFkTzhVSDVjVE9rR2x5YzFQRDExTGdMOXdIck12UTQ?oc=5",
         "source": "Clinica.bg",
+        "image": null
+      },
+      {
+        "title": "Китайски учени може да са разгадали една от най-големите загадки на Слънцето - Kaldata.com",
+        "description": "",
+        "date": "2026-10-26T10:12:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQS1dMdW45d3l2RDJnWmt1RnRhdW1rel9la2FhUHNodGFqYlhfUGFXcnNkWnFONk5IVHZSZUc4dUhTNFFvR1BlY0pzU0FNUHlXRVo2eG5ZVDh6Y0Z6clF1MXc0MTYzRzRMYVNMY2VNcG5PSnhOaHFaVTF5VTlhWjZIMjIybUk2bC1DanRtYmF6M3FmbVk0NW9TUnI3M3daTjBPQmoyQkhFQWdPdVE2cTZYM1ZVZkR2U0g5bWRfSDhoZ3JDdDJMdnEteEl0TFFrQTNfcm1HNWlpc3Nkc3RXRDF3RWlzLVFUbGJyc1N5SFJCVmNzVEtQUmdISmliWEJhdmE4ekdmLVlyNW84VXBlNnU2RTFhb1pjc3k3ZFBjRW9JemVDZDluOWRwRDNHYXFQN2RiZXdwaDI3SXVrS184OXpsTXdINTFCZEx0UEV5ZlJRUzVLVFU5N0dVOHd6TE1UWjh1Z2prWEFuV09HaEJoSXpyM1BOMTIxT1dZaHFfbk4yeHJYX1o3Nl9jZUVybGJjMGJEbjdHSXJTT1cxYkhwVEZ3NWxNQzh3T0I4VVNuU3Z3UVF2RVY1UnZrWXZxb9IBuwNBVV95cUxQS1dMdW45d3l2RDJnWmt1RnRhdW1rel9la2FhUHNodGFqYlhfUGFXcnNkWnFONk5IVHZSZUc4dUhTNFFvR1BlY0pzU0FNUHlXRVo2eG5ZVDh6Y0Z6clF1MXc0MTYzRzRMYVNMY2VNcG5PSnhOaHFaVTF5VTlhWjZIMjIybUk2bC1DanRtYmF6M3FmbVk0NW9TUnI3M3daTjBPQmoyQkhFQWdPdVE2cTZYM1ZVZkR2U0g5bWRfSDhoZ3JDdDJMdnEteEl0TFFrQTNfcm1HNWlpc3Nkc3RXRDF3RWlzLVFUbGJyc1N5SFJCVmNzVEtQUmdISmliWEJhdmE4ekdmLVlyNW84VXBlNnU2RTFhb1pjc3k3ZFBjRW9JemVDZDluOWRwRDNHYXFQN2RiZXdwaDI3SXVrS184OXpsTXdINTFCZEx0UEV5ZlJRUzVLVFU5N0dVOHd6TE1UWjh1Z2prWEFuV09HaEJoSXpyM1BOMTIxT1dZaHFfbk4yeHJYX1o3Nl9jZUVybGJjMGJEbjdHSXJTT1cxYkhwVEZ3NWxNQzh3T0I4VVNuU3Z3UVF2RVY1UnZrWXZxbw?oc=5",
+        "source": "Kaldata.com",
         "image": null
       },
       {
@@ -479,19 +471,11 @@
         "image": null
       },
       {
-        "title": "Невероятните факти от света - Обекти |",
+        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - Утро Русе",
         "description": "",
-        "date": "2026-10-26T09:22:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLVDJTeVY3V1JqeDc3bDFGdWwtQTF5YmJwdDBxcE1rcEQ4Qks1UnpCSVZyTjFoY0tLVHVVSW0zZHd4YktUN1RuQlZtOFotbUdHazFVSU9rTmtpaV8xaEVsSHdLbloyM2ox?oc=5",
-        "source": "Обекти |",
-        "image": null
-      },
-      {
-        "title": "„Дълголетие в добро здраве. Новата наука и остаряването“, Ерик Топол - Avtora",
-        "description": "",
-        "date": "2026-10-25T17:36:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzk2UmNhUHhjdk5MM2ZLbnBNTkhqUk5pNTZnMjVpWVBUb2E5X3dIR0xYZDBFd3Ric0VtMEZ5aDdsX0ZNaUl4R2V1bGxHM3pOcDVYRjlDYXhGTVc1eHZsSVNDTEN3MHBUc2FoRS1sb1pqUl9Eb3lCNVNmekNpeWo1dFRzaWJEaG15WGc?oc=5",
-        "source": "Avtora",
+        "date": "2026-10-26T05:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kb3dvOVVheUVXQmFSQ3F2LThSSTVmTHpobFdMSURUT0p1YXBfV05ZbGN5Ti1TQVMzYkRZWlk3aS1zSmJodGtEddIBSEFVX3lxTE5kb3dvOVVheUVXQmFSQ3F2LThSSTVmTHpobFdMSURUT0p1YXBfV05ZbGN5Ti1TQVMzYkRZWlk3aS1zSmJodGtEdQ?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
@@ -512,6 +496,14 @@
       }
     ],
     "Образование": [
+      {
+        "title": "Стачкуващи учители блокираха центъра на Мадрид - БНР",
+        "description": "",
+        "date": "2026-10-27T00:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXZ2bEk1NV9Ed0Z3WUlxVUgtVmtCTXFGVGY2MEd4eVRHXzhKcnlBc3pBSGo2TEl6djRYZFhlRHE3cWRFZjlEOUtEYl9ES01vSVZkeWs1WTFXbmpMTFlmY3FxUWRnaDZiZl9DOVU2aTg3MHNBQ3IybFF1TTVSVVhHZWFaRmFKMkU1Tlk0?oc=5",
+        "source": "БНР",
+        "image": null
+      },
       {
         "title": "Кибертормозът в Германия: Всеки пети ученик е засегнат – как да защитим децата онлайн? - БНТ Новини",
         "description": "",
@@ -703,14 +695,6 @@
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JVzFpZ3F4eTZ5Wm9XaVYzcVVtcHRoR3ZoRHY1WmROVmtjSmJxWlJvcnU0eXJBdkJtckJqM29lOC1fYXRzcVRrcDJheGI?oc=5",
         "source": "Kazanlak.Com",
         "image": null
-      },
-      {
-        "title": "Представители на прокуратурата, полицията, образователните и социалните институции обсъдиха превенцията на агресията сред учениците в Спортно училище „Майор Атанас Узунов“ - Русе - Rousse.Info - Новини и събития от Русе и Русенск - Rousse.Info",
-        "description": "",
-        "date": "2026-10-26T08:43:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOckg0NzV0dE1QOGlQR3U1TUFvNnJOOHdWWUNHa2Y0MldWXzNjVUp4UEtIOHgwWkVlQjFlTG1qMkxReVlQZWtkbzlrankxREdKc094VFRNdlJzRGxXb1lta1lHeWVBR3otU1hHaFVBYzdmZXY2OG50enpEdUdqSjBTdkV1dTVOd1ZoMlliN1dWc3AyMkp6YVd0Mm54U2xubDNKWFNETVJJU01pZXZuYjB1THVDVVdTRkdQa096aEYzbjN6Q3hLdFB3M0NLVWoyWEVsSk04Wi1UUXlUUkFEM0piRHdqdWVwLU96NXBaTmw1dkhQQTMwQ05uN0dIWkpPS3FYd1lweF9DMnowZDN6NXNaNXVySTNHdmZLZnI0dHBtdzdPUlUyZHNZ?oc=5",
-        "source": "Rousse.Info",
-        "image": null
       }
     ],
     "Технологии": [
@@ -765,7 +749,7 @@
       {
         "title": "ЕК стартира инвестиционната платформа T-MED за ВЕИ проекти с гаранции на ЕС до 4.5 млрд. евро - 3e-news",
         "description": "",
-        "date": "2026-10-26T12:54:20+00:00",
+        "date": "2026-10-26T12:50:56+00:00",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3VvbkZJWlNUMzhtQ3BHLW5fbVVsdFI4RGZMYmRXREkwUkJreTBLZEZIcFJlVm5lWmU1d2s4ODloOFhoek9LT3Z5eXNtZHhuWmJrSFVka0N3LVk0Z0FhQlRHNGxTRUZlWGd2Nzg3a3RDT2hEempXX2lZOXBVWEpjNGFNeG1KWXlHZkM1T0dxeEw3VjhFMFc4VTJ2bWJQamw1aVczM1RIOHBQUTE0SEpfcFBucS0xMHdydm9HbXgtTG5GVG1pOUZF?oc=5",
         "source": "3e-news",
         "image": null
@@ -929,7 +913,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 13,
+      "count": 11,
       "feeds": 1
     },
     "Образование": {
