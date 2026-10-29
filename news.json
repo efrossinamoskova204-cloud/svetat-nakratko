@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:39:02.101454+00:00",
+  "generatedAt": "2026-10-29T02:28:02.474732+00:00",
   "categories": {
     "България": [
       {
@@ -17,14 +17,6 @@
         "link": "https://dnes.dir.bg/svyat/flavio-bolsonaro-se-obyavi-za-zakonno-izbraniya-prezident-na-braziliya",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/28/3041733/384x216.jpg?_=1793225680"
-      },
-      {
-        "title": "Зеленски се намесва в Киев: Кличко не успява сам да подготви града за зимата - Dnes.bg",
-        "description": "",
-        "date": "2026-10-28T21:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVzNrWDFiSkgtdExWQ3hZa094Y3BYZGZlYzM0UFVlV3lTd2N4b1o3dkhodFF4eGVKTDZBMHhTMVFMLVlac241UUFjU2ItZTJ4U3g4dEl6N1ZuV3pVejV0Z00yclZtM2ZlNTB6eFBkX3dGSVFtcFc0UW9TbmFMMnBCUE05VWVBajBwS0p3OGNuRzJweUk0Y1dubk5xVVFkQ2JDY2o2MV9DSF96a21RMnNpVzVCSC1NNzVNZkZGbTJMS3RIS2s1WTNz?oc=5",
-        "source": "Dnes.bg",
-        "image": null
       },
       {
         "title": "\"Хора изхвърчаха във въздуха\": Компютърен блокаж и човешка грешка зад жп ужаса в Испания (снимки)",
@@ -201,14 +193,38 @@
         "link": "https://www.bta.bg/bg/news/lik/1235015-sled-predstavyaneto-si-v-burgas-risunkite-na-detsa-ot-izlozhbata-balgariya-tu",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14044632/IMG_7215-3.jpg"
+      },
+      {
+        "title": "Общинският съвет в Дряново обсъди отдаването на земеделска земя и мерки за безопасността",
+        "description": "Новият кмет на село Царева Ливада Марияна Георгиева положи клетва в началото на редовното заседание на Общинския съвет в Дряново. Съветниците разгледаха промени в капиталовата програма на общината за 2026 г., предоставяне и отдаване под наем на общински земеделски земи, както и въпроси, свързани с обществения ред и инфраструктурата. Началникът на Районното управление на МВР в Дряново Тони Тодоров представи информация за сбиване от 27 септември, п",
+        "date": "2026-10-28T18:22:47+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1235004-obshtinskiyat-savet-v-dryanovo-obsadi-otdavaneto-na-zemedelska-zemya-i-merki-za-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14043624/viber_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2026-10-28_13-46-50-217.jpg"
       }
     ],
     "Свят": [
       {
-        "title": "Саудитска Арабия хуси ракета",
-        "description": "Оглавяваната от Саудитска Арабия коалиция обяви, че днес е прехванала балистична ракета, изстреляна към източната част на саудитската територия от йеменските бунтовници хуси, предаде Ройтерс. Няма изгледи военните действия между кралството и подкрепяното от Иран движения скоро да затихнат, отбелязва агенцията. Гражданската защита на Саудитска Арабия издаде две предупреждения за потенциална опасност от въздушно нападение - за жителите на югоизточн",
+        "title": "Австралия осъди \"климата на напрежение\", създаден от Китай в Югоизточна Азия",
+        "description": "Австралийският министър на отбраната Ричард Марлс заяви днес, че струпването на военни сили от страна на Китай е причина за създалия се \"климат на напрежение“ в Югоизточна Азия и че е време да \"се засилят“ връзките на Канбера със съюзниците ѝ, предаде Франс прес. \"Очевидно сме свидетели на най-значителното струпване на конвенционални военни сили, каквото светът е виждал от Китай от края на Втората световна война насам“, каза Марлс пред репортери ",
+        "date": "2026-10-29T02:17:09+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1235091-avstraliya-osadi-klimata-na-naprezhenie-sazdaden-ot-kitay-v-yugoiztochna-aziy",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14046121/6aff35e05ba74e06834460478035db8f--0--60d64f1291474572b2fd751e6b8a4d3f.jpg"
+      },
+      {
+        "title": "ДПА: Европейският съюз се е отказал от приемането на Канада за асоцииран член",
+        "description": "Европейският съюз се е отказал от идеята да приеме Канада за асоцииран член, предаде ДПА преди срещата на върха ЕС - Канада, насрочена за днес и утре. През септември председателят на Европейската комисия Урсула фон дер Лайен заяви в Страсбург, че страната от Северна Америка трябва да стане първият асоцииран член на ЕС - статут, какъвто в момента няма нито една държава. Въпреки това в обща проектодекларация на Канада и ЕС термините \"асоцииран член",
+        "date": "2026-10-29T01:21:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1235090-dpa-evropeyskiyat-sayuz-se-e-otkazal-ot-priemaneto-na-kanada-za-asotsiiran-chle",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13878105/20260916_083215.jpg"
+      },
+      {
+        "title": "Оглавяваната от Саудитска Арабия коалиция обяви, че силите ѝ са прехванали балистична ракета, изстреляна към кралството от йеменските хуси",
+        "description": "Оглавяваната от Саудитска Арабия коалиция обяви, че днес силите ѝ са прехванали балистична ракета, изстреляна към източната част на саудитската територия от йеменските бунтовници хуси, предаде Ройтерс. Няма изгледи военните действия между кралството и подкрепяното от Иран движение скоро да затихнат, отбелязва агенцията. Гражданската защита на Саудитска Арабия издаде две предупреждения за потенциална опасност от въздушно нападение - за жителите на",
         "date": "2026-10-29T00:54:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1235089-sauditska-arabiya-husi-raketa",
+        "link": "https://www.bta.bg/bg/news/world/1235089-oglavyavanata-ot-sauditska-arabiya-koalitsiya-obyavi-che-silite-sa-prehvanali",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/9120377/63b90bfe1fab485d9b807ebec9c3516b--0--21aa74d84b1a424ab01aba4acf588401.jpg"
       },
@@ -349,22 +365,6 @@
         "image": "https://www.bta.bg/upload/13684900/95f96e92609b491894382b4ad502dad9--1--10c6f5e4dd034ac5848b505a6f53f974.jpg"
       },
       {
-        "title": "Путин се опитва да ухажва африканските лидери на пищна среща на върха, представяйки Русия като по-добър партньор от \"колониалния Запад\"",
-        "description": "Руският президент Владимир Путин заяви пред африкански лидери, че Русия е най-добрият им партньор, като обвини \"колониалния Запад\", че все още се опитва да експлоатира ресурсите на Африка и използва дълговете, за да възпрепятства развитието ѝ, предаде Ройтерс. Путин произнесе реч на третата среща на върха Русия – Африка в Москва – двудневно събитие, на което присъстваха африкански лидери и правителствени делегации от 48 държави, и ще има двустран",
-        "date": "2026-10-28T19:18:45+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1235019-putin-se-opitva-da-uhazhva-afrikanskite-lideri-na-pishtna-sreshta-na-varha-pred",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14044132/6d5cf3b1e8fb4027972572f9dcf8edf0--0--977174dc7bfa419ea60d832269d0cb47.jpg"
-      },
-      {
-        "title": "Етиопия съобщи, че е получила руски изтребители Су-35 и очаква доставка на системи за ПВО С-400",
-        "description": "Етиопският премиер Абий Ахмед съобщи днес, че страната му е получила първата партида руски изтребители Су-35 и че по-късно се очаква Москва да й достави системи за противовъздушна отбрана С-400 като част от разширяването на военните способности на Етиопия, предаде Ройтерс. В социалната мрежа Екс Абий отбеляза, че придобиването на военната техника е важен етап в усилията на Етиопия да укрепи националната си сигурност и да бъде в състояние \"да възп",
-        "date": "2026-10-28T18:47:34+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1235010-etiopiya-saobshti-che-e-poluchila-ruski-iztrebiteli-su-35-i-ochakva-dostavka-na",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14009479/f171715f7dfe4fcea826ceb187060d2f--0--045b7844edff4ef782d62a2ad0cfe564.jpg"
-      },
-      {
         "title": "Зоопарк Стара Загора е домакин на фотографска изложба на Фотоклуб „Боруй“ с поглед към животинския свят - Бизнес поща",
         "description": "",
         "date": "2026-10-28T17:25:30+00:00",
@@ -407,6 +407,14 @@
     ],
     "Наука": [
       {
+        "title": "„Пърсивиърънс“ откри изключително малки частици на повърхността на Марс - БГНЕС",
+        "description": "",
+        "date": "2026-10-29T01:40:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1VVNGRjaVlORzU5LU9lSTlYOHJwc0RMcHFKNm1yYm5PdmdNdFZVemtfU0lHc3lyUzZtbUowSDNKSUZ6azNmQXRaTS04Vk1vUktxMWYtMTJqWW9GQndBXy1zcFlKM3Z3TnV5djdnYkU1c2dNWm5wSTR2TlBWVnJyY0Nac3FRVkxVaVNMbEh4bWdsb0JmYWhsbg?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
+      {
         "title": "XRISM откри слънчево-подобно магнитно изригване около свръхмасивна черна дупка - БГНЕС",
         "description": "",
         "date": "2026-10-28T21:46:00+00:00",
@@ -420,14 +428,6 @@
         "date": "2026-10-28T21:22:30+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbFFpSmJPcDN3MXloczhnT3pUYzVXX29leFIxZUVRMHRpZEFVTzZ1Y2kySlpiaW5aU0hfcDA2Y0RJT1dCWmI0MlROQzRKQmgwV3ltbjR6REtaMHp1dlJKZ0lSaGdPMm5NZzkyeFpTaGhDUlFkSnNZTkUyaWlUSTJoZWZlMC1Tc2hNeHM5MC1lY3lYSUlDUVpkVUF3WEZWUzlfSGp6U2RxUWRfbm5YQWpTd0ZIQldPaEJkR3hqSDgwTnlkWDMzUF9nZUFWY2g0TldmT0E?oc=5",
         "source": "Министерство на образованието и науката",
-        "image": null
-      },
-      {
-        "title": "МОН връчва наградите за наука \"Питагор\" - Lupa BG",
-        "description": "",
-        "date": "2026-10-28T17:32:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2FNSHphamduWmNVaGZFQ0tGeXZoRTlXalhDcUQ2eTBpbFMybEVHVFFhdDFVUVA3TC0ybm92c3lUVm5neFNqbTBydjM4cnM0RGppSHFMRXVyTnRaMHJBR0U1N2JTSkdWTldSSkszT1dpa3l3bXd0X0dvX0d5WjFaZ19ydmNSTThQb1ZZ?oc=5",
-        "source": "Lupa BG",
         "image": null
       },
       {
@@ -471,22 +471,6 @@
         "image": null
       },
       {
-        "title": "Български учени имат принос за разкриването на молекулните механизми в организацията на ДНК в ядрото - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-10-27T20:20:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGxnYjNwemxMMm0xaWJPOEVpSlFmVjBRNUdHYkxEazY0R01pMmZCSGE4SlNOOHNyOTNQQ1RWNHREazlkRGh1dXU0VjBrSGl2eDBzaW84OWNhUHdzVDVheVd6a3ZhdWZ1U0hHcWo5ekZfMUtiZVZMZWoyZkdGSm9zbF9NVUxycFdvR0hhbVpRTFdCbnpoci14aWNQUU02cF8zUGhpNGowQjZienVFZUNScU1lY2JCaVhRX3JKX2VDRDBzSUZ1?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
-      },
-      {
-        "title": "Три отличия за ЮЗУ „Неофит Рилски“ във вторите годишни награди на Националната агенция за оценяване и акредитация - Новини от югозападна България",
-        "description": "",
-        "date": "2026-10-27T18:13:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc3JsY1dDbXZ6WnNhTWJNYmw4OHlkV3Ywc1FEWmVEUGs1Y1FmSFZ5VWJRNlYzTVFDOGRKRDgxN0pyVnNTTlQ2MlhtZVZ6WVA1djUyWEFJYU5od1BTYTBkMVlPVWdoSWpXaG1raXJVUWhJRG5aVkFTaGZ4bE44YVBuelFfVktQNzhEWFIzNUJyREhBNDhSUHJtdFdGVDM2X3NuVHkwUHktNTdKT3lsNk9jaTluaDMtbkl4ajhYQUtCRmNMUmU2NTZFdm02bV9kU3FHMWp3VmJGYk1uTHBUUkE?oc=5",
-        "source": "Новини от югозападна България",
-        "image": null
-      },
-      {
         "title": "10 години наука, едно значимо откритие: BIODERMA представи ново поколение грижа за атопичната кожа - Dnevnik.bg",
         "description": "",
         "date": "2026-10-27T15:56:00+00:00",
@@ -495,19 +479,19 @@
         "image": null
       },
       {
-        "title": "Космическа експлозия озадачи учените: Източникът ѝ останал активен 27 дни - Таралеж: Истината има значение",
+        "title": "Космосът е много повече от изследване на планети - БНР Новини",
         "description": "",
-        "date": "2026-10-27T15:07:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanJTZk4waFZnS2xvT0lSWnpJbVk2c0ZjN3FvODk2U1VYMnN2anpOcDBHRkdnOVVnZHo5VFY2YmRXV00tUFFMN0I5Y3RzRmdhaTgydHJrV0RmZTVJYnpqSmt0YXVmakFmUjhoY0swdmY4NHByN3VDc21zOTVYNXJ1VlB3YnEyR1Zoc1ZfNW5OSXEzS0hVVm5mb3E0NVV4X1JE?oc=5",
-        "source": "Таралеж: Истината има значение",
+        "date": "2026-10-27T13:57:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXdTTENxNnNCcVNsRHZfVERhOEsxOUNlQ2NnYTdQcjdCTEh6Y2c2VE9oUlBwTUNZdXotc1dqanRXSEpyTnc3Q2VaR3dmTnhDYV8xVUdtNjA3OTBvSnVJQ3VRNWpGTGNyYlk2RXBWM2RPdm45OTJ4WFBKMFF6aExqVEVBTkUtOUNzUEJRNzJEM0tralNhZHhn?oc=5",
+        "source": "БНР Новини",
         "image": null
       },
       {
-        "title": "Геният от Трън: Как един българин промени световната наука - NetNews – Новините на Ямбол",
+        "title": "Млада българска лекарка с престижна награда за наука - ФОКУС",
         "description": "",
-        "date": "2026-10-27T11:50:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdEN1QU9NYnhJYzZ6dGlHWEdDcHY0LVFMOFoxOW9KWGVCZzRQSWdmcEItM1lZS0o2OFF1bUNJZXRXVUZtRkVnSTRGWVl4VGIxSDY1NW1XQ1R1OVFpcG9ub19ubk9keEFDQ3k0VXJvSDZlanJpRUZKTkdzUGRINXctcEJ6aThTYlFaVS1Hanc3N0U4NVZiemZaWVNVLWQydVVXWnpsbV82T3RZUjM1eVpIUzBoMkFKdTVvbVQwMF9FOXRMQTJMNHBNS0EyNncwQzFrZ3VlVXRpYUtWM1NZRkp2Wm9WTWFqZnMtRzl3RFE5OGh4cmVnX19rSnpaNW80V1JSbTNiNGlqRGZEVUQ0dnQ0RUhEZXpLQ2hTWHRMbHFlZVFuVi1BaWxEMnNHQ2thcE5sdTY4ZkluMUhXd1Y3Sktv?oc=5",
-        "source": "NetNews – Новините на Ямбол",
+        "date": "2026-10-27T12:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaE02OWxYRXJ3TlplcnBBQUlwT08xTWd0M2Y2MkhpazJIV1NZdnNtdUZvSjRuMVR5aXRzM0tzdFdGMjVzRHpjMDFEM05FbmVRUFd5bXJzRHFrVVBQeWlQVWRnUkN6a2ZwVzFDaXhkUDlaNVdNSkUwR25jdFB0bGEyNi1VTURTQV9hNmZkaUxGek1iVHVSNkVDeHc4aWdqYU1JbjVpWGhPbw?oc=5",
+        "source": "ФОКУС",
         "image": null
       },
       {
@@ -543,6 +527,14 @@
         "image": null
       },
       {
+        "title": "Учени предложиха първия метод за откриване на „огледален живот“ - Kaldata.com",
+        "description": "",
+        "date": "2026-10-26T14:02:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPMkFDN1BRRk5RVURvclFGbEtrZjFQXzRHZU40VjgxS0NKYXFwenRMV2VEZ2p6a0h4WkNjeXJCTWROTElXVGlBMXJoU05Tbzg4QUpOTzhuY1h5R3N5eWhxLXJ2azNEdVhiTzAzaTI5RmRGV09OTEM0Sjg0WTN5enZ0MjFpZXVsMkdLMWp1cTgyOUNkTTUwWEo5eUx0V284Sk9ZM1h5dHpyNklaWXltUUFGUk5BYW1LWVRwM0w1Y24yeXFzM3NuVG92SE1xVDJ0aTlGaG5KWlZ4dU9YamlGZ1c1eTdRZkdlMFgwcklKVmdxOWQtNFN3TjdFaHdvRnNWSkNvWlhVcTN1aVFZTzBxX1BCRHBKSDNJVDRaYmJXZElTWG9JT09RSGJWSWh2RXZCLVNYWm1xMHd2ZkNFSm5qdlF0UTcxYTBlaktLOEQ2bXphdE9zQnFoMmR3bS1lOTBOUXZoNi1tckpCOUdYRF9GeDVTZ0NDV0lsZnVEVEhMNEJsQWcyX1hPNl81Z09DTER0X2dNaURNV0dROFppbFVabTNrQVVUUlotZFM1N0tZN05ZNVJ0c1N6NmNNcUJ30gG6A0FVX3lxTE8yQUM3UFFGTlFVRG9yUUZsS2tmMVBfNEdlTjRWODFLQ0phcXB6dExXZURnanprSHhaQ2N5ckJNZE5MSVdUaUExcmhTTlNvODhBSk5POG5jWHlHc3l5aHEtcnZrM0R1WGJPMDNpMjlGZEZXT05MQzRKODRZM3l6dnQyMWlldWwyR0sxanVxODI5Q2RNNTBYSjl5THRXbzhKT1kzWHl0enI2SVpZeW1RQUZSTkFhbUtZVHAzTDVjbjJ5cXMzc25Ub3ZITXFUMnRpOUZobkpaVnh1T1hqaUZnVzV5N1FmR2UwWDBySUpWZ3E5ZC00U3dON0Vod29Gc1ZKQ29aWFVxM3VpUVlPMHFfUEJEcEpIM0lUNFpiYldkSVNYb0lPT1FIYlZJaHZFdkItU1habXEwd3ZmQ0VKbmp2UXRRNzFhMGVqS0s4RDZtemF0T3NCcWgyZHdtLWU5ME5Rdmg2LW1ySkI5R1hEX0Z4NVNnQ0NXSWxmdURUSEw0QmxBZzJfWE82XzVnT0NMRHRfZ01pRE1XR1E4WmlsVVptM2tBVVRSWi1kUzU3S1k3Tlk1UnRzU3o2Y01xQnc?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
         "title": "МУ-Варна домакинства форум за иновации - Clinica.bg",
         "description": "",
         "date": "2026-10-26T10:29:00+00:00",
@@ -551,11 +543,35 @@
         "image": null
       },
       {
+        "title": "Китайски учени може да са разгадали една от най-големите загадки на Слънцето - Kaldata.com",
+        "description": "",
+        "date": "2026-10-26T10:12:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQS1dMdW45d3l2RDJnWmt1RnRhdW1rel9la2FhUHNodGFqYlhfUGFXcnNkWnFONk5IVHZSZUc4dUhTNFFvR1BlY0pzU0FNUHlXRVo2eG5ZVDh6Y0Z6clF1MXc0MTYzRzRMYVNMY2VNcG5PSnhOaHFaVTF5VTlhWjZIMjIybUk2bC1DanRtYmF6M3FmbVk0NW9TUnI3M3daTjBPQmoyQkhFQWdPdVE2cTZYM1ZVZkR2U0g5bWRfSDhoZ3JDdDJMdnEteEl0TFFrQTNfcm1HNWlpc3Nkc3RXRDF3RWlzLVFUbGJyc1N5SFJCVmNzVEtQUmdISmliWEJhdmE4ekdmLVlyNW84VXBlNnU2RTFhb1pjc3k3ZFBjRW9JemVDZDluOWRwRDNHYXFQN2RiZXdwaDI3SXVrS184OXpsTXdINTFCZEx0UEV5ZlJRUzVLVFU5N0dVOHd6TE1UWjh1Z2prWEFuV09HaEJoSXpyM1BOMTIxT1dZaHFfbk4yeHJYX1o3Nl9jZUVybGJjMGJEbjdHSXJTT1cxYkhwVEZ3NWxNQzh3T0I4VVNuU3Z3UVF2RVY1UnZrWXZxb9IBuwNBVV95cUxQS1dMdW45d3l2RDJnWmt1RnRhdW1rel9la2FhUHNodGFqYlhfUGFXcnNkWnFONk5IVHZSZUc4dUhTNFFvR1BlY0pzU0FNUHlXRVo2eG5ZVDh6Y0Z6clF1MXc0MTYzRzRMYVNMY2VNcG5PSnhOaHFaVTF5VTlhWjZIMjIybUk2bC1DanRtYmF6M3FmbVk0NW9TUnI3M3daTjBPQmoyQkhFQWdPdVE2cTZYM1ZVZkR2U0g5bWRfSDhoZ3JDdDJMdnEteEl0TFFrQTNfcm1HNWlpc3Nkc3RXRDF3RWlzLVFUbGJyc1N5SFJCVmNzVEtQUmdISmliWEJhdmE4ekdmLVlyNW84VXBlNnU2RTFhb1pjc3k3ZFBjRW9JemVDZDluOWRwRDNHYXFQN2RiZXdwaDI3SXVrS184OXpsTXdINTFCZEx0UEV5ZlJRUzVLVFU5N0dVOHd6TE1UWjh1Z2prWEFuV09HaEJoSXpyM1BOMTIxT1dZaHFfbk4yeHJYX1o3Nl9jZUVybGJjMGJEbjdHSXJTT1cxYkhwVEZ3NWxNQzh3T0I4VVNuU3Z3UVF2RVY1UnZrWXZxbw?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
+      {
+        "title": "Националната агенция за оценяване и акредитация ще връчи годишните си отличия за добри практики във висшето образование и науката - Утро Русе",
+        "description": "",
+        "date": "2026-10-26T05:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kb3dvOVVheUVXQmFSQ3F2LThSSTVmTHpobFdMSURUT0p1YXBfV05ZbGN5Ti1TQVMzYkRZWlk3aS1zSmJodGtEddIBSEFVX3lxTE5kb3dvOVVheUVXQmFSQ3F2LThSSTVmTHpobFdMSURUT0p1YXBfV05ZbGN5Ti1TQVMzYkRZWlk3aS1zSmJodGtEdQ?oc=5",
+        "source": "Утро Русе",
+        "image": null
+      },
+      {
         "title": "„Дълголетие в добро здраве. Новата наука и остаряването“, Ерик Топол - Avtora",
         "description": "",
         "date": "2026-10-25T17:36:56+00:00",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzk2UmNhUHhjdk5MM2ZLbnBNTkhqUk5pNTZnMjVpWVBUb2E5X3dIR0xYZDBFd3Ric0VtMEZ5aDdsX0ZNaUl4R2V1bGxHM3pOcDVYRjlDYXhGTVc1eHZsSVNDTEN3MHBUc2FoRS1sb1pqUl9Eb3lCNVNmekNpeWo1dFRzaWJEaG15WGc?oc=5",
         "source": "Avtora",
+        "image": null
+      },
+      {
+        "title": "Микропластмасата не е толкова безобидна, колкото смятахме: във водата тя образува свободни радикали, които увреждат ДНК - Наука и Здраве - manager.bg",
+        "description": "",
+        "date": "2026-10-25T10:16:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRlBOT1NjZlFlU21TZVlTT182V2tiMTlrTi1hQWVvMGV4WEV1Z082WnpFaTJoZ0RINzNidDBaNDNGSUpHSm9zS000Q0pXUzV5RU1lMm9ndkdjdDN3a2Q1VXp4S2dZTTlBQmpkaU5aazhQLW9TSFgxMnRwbUVTNEFudXF6MUVSanBDV1Zfa3I4dlMzUEtoTk51WXVfNjgzblVDRTFkUk0yUUxSRzNoOW5BSlAycFA0WkpZYkZGQXB4RG1rQllYdF8tZWl3SXdPNDRnWUtKWVY0LUxDeUM1WWtkMm1ET1E?oc=5",
+        "source": "manager.bg",
         "image": null
       }
     ],
@@ -729,14 +745,6 @@
         "image": null
       },
       {
-        "title": "Представители на НСА взеха участие в XV треньорска конференция на УЕФА в Рим - Делник БГ",
-        "description": "",
-        "date": "2026-10-28T10:04:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNVmJHTTA2WTRaZTJyMWdsVmtDQnBTOWhmbVBuVWg3aF8tUzdmRTV6Vjl3eUJDS0tlTkxWTEdlT2NJSzBoNEJRMGVsUUlTWWtYTVNWeFZPV180TUx6MTMyaGVPSlIycWUwOXRuZHQ5YXpGSDgzMTR5YTJzMHN4UGdyMy1DMWtLcElwQi0wcjVZYmFmTGk2eTRIVUdWVkxNeHJvY0VTUnkzUjNWUzI2LTUycVBnVjJXY0xJZ1gzZ1RxNEhHd0F5bU54SzJwSExHb1Q4cWthejJmbTM1WFdKaFo3UXJvSGJoT2hVWG5wazg0SkZIMU5uMFR5Zy11NmxxMXYwSmNROUNfemxFUDJSeUdVY00ycng0MWFLT3o5S3ktVGlaQkxFNE5WMG45QnVUOE9UbHhJZ1hINGdHVDFkaXRZa0pqRDNQdmtPaENN?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
         "title": "Варна оборудва 5 училища с четци за ученици с дислексия - paragraf.bg",
         "description": "",
         "date": "2026-10-28T09:31:40+00:00",
@@ -745,19 +753,27 @@
         "image": null
       },
       {
-        "title": "Преподаватели и синдикати: Предложеният от Радев единен учебник крие рискове - Bgonair",
-        "description": "",
-        "date": "2026-10-28T09:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkJKY095WlFzWWpoOHk0eHlKSjRnd20yMkJlUE9VRVJzb21jV2hJRlpxTThzTXVjVGkxQlp4Q0lya2hHci1GQmxkblpMWFQzcjZsdVR3T0JybUFKVVFaa05NaWZXNmRNMGVTWGZfRkFtdXhXRzlUYkRyTnQ4c01wbHBjakZPbFBPa2o4WW5rYV9IZFVIc1MtS2ZJdV8yXzdId1FTN09sX2R4cHd5Z0JYVnMySkNmWGhyQVdQTXo3MEN0S2t2NDln?oc=5",
-        "source": "Bgonair",
-        "image": null
-      },
-      {
         "title": "Ученици създават правила за по-осъзнато използване на технологиите в рамките на училищно предизвикателство - Dir.bg",
         "description": "",
         "date": "2026-10-28T09:06:40+00:00",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUDJuWld0SWlkM0ZjV0c5UWpqUUcxTHFGdmxXeHh4eHVySl9jU1hnTE5uNlFmTU1KZ3ZwNlJKbjJzNWFKOC1lSzJVdmtCX3FFZnJxWWFCN004WVpVMnVRa2xEeTAxWk4zV0d3LVpoT2l2M3RubHJqRkFpMmZLWXpUZkJZY1Y0S3U0N21yWWdpUlF3aUoyMDZST1JGXzFSWFFraTdEN2tkTC1RelMwQnprNnJnLXdMSmZGX0dnZEZDZWVYUFBaeG1mSGpoX2tQVTg2NU1mODdnTXB3SG5CclBYRDl3WlhSZw?oc=5",
         "source": "Dir.bg",
+        "image": null
+      },
+      {
+        "title": "Непредвидимият пазар на труда изисква нов модел на образование - Investor.bg",
+        "description": "",
+        "date": "2026-10-28T09:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTM0bXd6akh0MXJfRVlpc0RRZTN1elpaMGFTRVJ3R3ZSZmpPYUFwMEx0Vll1SDlUV19YeTdvOWhxQ29WTXcyRm5uRGRtLWE0SEZIWF9paW4zdGtQakdyd1BPUlNlNEhROGFreExfVGZTVmVqOTFqcHdWUHpvWkZ0N09nUFRuV2FpYlFiOFpFZ3FHRTdNZVllc2lhYm1uTS1rNzg5VzhDUGFnS2wxdmZMLXpNVQ?oc=5",
+        "source": "Investor.bg",
+        "image": null
+      },
+      {
+        "title": "Пет варненски училища получиха електронни четци за ученици с дислексия - Moreto.net - Варна",
+        "description": "",
+        "date": "2026-10-28T08:25:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BdlFNRkR1aU93RnlpZ3pLTk9XN1RpRUdjdVJPclFPN09LOUU3U1lsVE05MWxQRTNoLWhUZDdMUmNlREExbjMyZW94MUNYZUtURFI2SA?oc=5",
+        "source": "Moreto.net - Варна",
         "image": null
       }
     ],
@@ -792,14 +808,6 @@
         "date": "2026-10-28T18:45:52+00:00",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHVhZ2laMlcwcDlmejgxYTlxcFV2MlRxV3paYUVMbENLWExCNUwxb0dWaUJGLUhPRWxNMDN0cUJib2NhelV1UG9WMmRqZ3ROU3dCZU1jaWNnaHhZZHZzdHNvSE1FNFplYzgyRGFKS3hYazNTODgxMWdDTk5YSHF3MGE5bzktZ3RKQmdueTZjaXRRckoyU0M0bmdkMm5kVDE5dWc?oc=5",
         "source": "paragraf.bg",
-        "image": null
-      },
-      {
-        "title": "Роботи, оборудвани с най-съвременни технологии, се подготвят за състезание по - https://novini247.com/",
-        "description": "",
-        "date": "2026-10-28T18:30:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDJBb0pCZ194Rll2T0RCcnBGcTltamQ0YnFHY3RLTHh1eV85andYSnJtUnBqaXNmaU5NcElyNjJXR184ZFAwNkhQWE53ZE8tRzQtUUVTcjdOTlNkV01FX3Z1OHFCdU9GcHQtY3JUMF9haVJ2b2pmZEJLNWpXcGdqbnp6QlVNTUFfUEc3Z3N1bmRMYl9qRTZUOGFEOEpXR0hqMHZwYmVmQjgxb3VOSkZOamR3cFhLejd1WkFF?oc=5",
-        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -859,6 +867,14 @@
         "image": null
       },
       {
+        "title": "Безплатни обучения по изкуствен интелект и водородни технологии ще се проведат в Стара Загора - Novinata.bg",
+        "description": "",
+        "date": "2026-10-28T15:28:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUdpWFZhbVY1SVlWWDVHLVNRcldCeDNfdGRmVDUwUmVKMG0xQWk0OEpUSU1tS0VkTXNQb0RFR3NOLUJlQnMzdnlld2JGaHJzaTdiLVNhNmZLbXBmY2U5a3ZTQUZLQi1ZNmhPZmJQbWVYbXpoUU9zZ3NuOVI4VVJUNC1rTHdJSVE5c082MTNBQWF5WnpQMktTcXlDeC1xM2hrMFR4WlZPN0hHWGVRQ2ZRejhBVWVPZjUwczFRV3NGdXp1ZXc?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
         "title": "Обучения по изкуствен интелект и зелени технологии за безработни в Стара Загора - БНР Новини",
         "description": "",
         "date": "2026-10-28T15:20:42+00:00",
@@ -891,38 +907,6 @@
         "image": null
       },
       {
-        "title": "Volkswagen започва да изнася китайски технологии по света - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-10-28T14:16:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0VsYmxUUlRldUhqWUVQRzBQWERidW9qQ0JwUmU1SGtjeFFOTi1lVG5jZXFRcmhKQlNhemNyeW8zQVpPdTM5U0xyWGRhU2ZxU3Roa2EzeTF5TFZCU2lONEprX0dhLXpGRFg0YnlWZ3c2U1J6VG96Q0U2NGt1OVdLdEdHS0FBWGtJRm5BTEZR?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
-      },
-      {
-        "title": "Германска иновация на две колела ᐉ Новини от Fakti.bg - Технологии - Fakti.bg",
-        "description": "",
-        "date": "2026-10-28T14:05:34+00:00",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14eHVJX2gtUXI4dmRFRzN2QTlXX0x3OURoM3M3WWRqd3E1NFA2NUFVYmZXeVpESHR1VFVWYldVeVBvTTJZRXpCbVRRR21GNE51Wjg2azl3bHMxWnFtYW1fbl9qak1NbVpwbFpfQmkwZjFCc01IdG1v?oc=5",
-        "source": "Fakti.bg",
-        "image": null
-      },
-      {
-        "title": "Бившата военна база в Доброславци се превръща във високотехнологичен отбранителен център - Investor.bg",
-        "description": "",
-        "date": "2026-10-28T14:03:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVGJycDc3LUpjSzdVajlqbFg3QTBTX3BvS2pNcUZJd2dpNkFfbE9lbFdGVDB1WktWY1JUMHF2T1MwVVMxdzBVT1NaVWprYnhQZXBXSmM1aTg2X3A2YzRnd3ZRZzduMXpTT1R1aDN6bDRaRkJKSlZsZC12cjdwOFhxZy1QWkVWdVd5X0tadUw2TGNKdXZDaHYzUmNrSGVrc2pTWW1zb1kySVFVR1dPSVo2ZjlEck9pVE5rUGpnRnVyczhPbmhHblFOR0Y0V1V3bTM0MDhRR3RTQXNzQ05JaDhWQXFR?oc=5",
-        "source": "Investor.bg",
-        "image": null
-      },
-      {
-        "title": "Путин заяви, че светът завижда на руските технологии и ги предложи на Африка (ВИДЕО) - Actualno.com",
-        "description": "",
-        "date": "2026-10-28T13:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHFEZEYtX243TmdJTTV5Tmo2UjFSZTVpUU1mUTJRUFRLaXNnYXZqdVhhOWRocmdlbVFocUxtTWdnalZaMzhZMG96aHhTUUg2WlRfS0dPUWlCM2ZtbmlNTEMxYVJKMW42bzdqODNla3BhVEN6bzhSVDhkSnFXSkhIWG1BdjBSb3ZydzUyNG5EbjVfdHptSXVxaVluVGhLOWROZXBvMkdJemtPR0htRjQzSTZKcDMzaENLMFlTNU5sOGFNNDBubENQMWdhUkxQZw?oc=5",
-        "source": "Actualno.com",
-        "image": null
-      },
-      {
         "title": "Правителството подкрепи 100-милионния проект на „Ендуросат“ в Доброславци - Economic.bg",
         "description": "",
         "date": "2026-10-28T13:49:56+00:00",
@@ -947,19 +931,51 @@
         "image": null
       },
       {
-        "title": "Бившето летище в Доброславци ще произвежда сателити и отбранителни технологии - Frognews",
-        "description": "",
-        "date": "2026-10-28T12:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMzdvX0IxQ0F0ZzIxOU96WVNUb0trcUttb1U4ZWIyck1Lb2VCQm5meTVZcklxM0pDX3FqUFQ3cWhHbkUycGVJdlRTajVnVnM1ODNjRERZSnE1alFMN2gtVTA3WFBUVnl3VEV1dDluREtzTmMwZE1RYkZkZW9rRVQ5LWYzYjBxWUxlSDFLSFZsa3l0RmxqS1ZoNWZYODJaZWJXOWtwMW9VSHF6TExRdUJLNFBR?oc=5",
-        "source": "Frognews",
-        "image": null
-      },
-      {
         "title": "Космически скок: В Торино откриха една от най-големите фабрики за сателити в Европа - Технологии - manager.bg",
         "description": "",
         "date": "2026-10-28T12:07:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVkttb0ZUM0hmNjJnVWExTjU5VmZyVnRFZEpHNFJla2JnbWtrbk1rMEJkNU1qcE5NSjZGNUlFZHJyMUpTdVB0aHVvSkRnbG5QQ01YVENtWW9SMWVhNzQtZXFhbzlkVTlEZ1ZYV2NhUUN2QmtrRk42VmdwVTlLVk1aUTlUd3Q5ZXRFYjRUbnFab2pCa0M1ckFiY1VlT0xQOE54VjhMcnhWY3RMOTAzVVhkX2RsT1dpZnFIQXRYMGtZaDVLOUtTR3dleWVIYVBxY2VUc3JxSFhyS2YwZjlZTTNjaWIyZkM5Y1ZZWDFfZFR4R3NVajFiWGc?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Най-големият кошмар на Nvidia може да се крие в документите за IPO на Anthropic - Бизнес новините",
+        "description": "",
+        "date": "2026-10-28T11:46:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTlMydlhTTHlEWC1CLTViRkp5MnNjdUh2VzRTOVZhRF9fZXo1enczOTV5dnVXNGxxYUp4Qm9EVWhCZ3d2X2hiNVc3bjQtdWZiYTI4SlpWLVYwZTlOazZLVlhpQ1J1cXp2QWFlVUxxaFNmUUljMW1iM1pybEhueUE1ZS1PM3BpanlhMWxSX0dIdTRmOWEzT1pYRGNNcU5ITEl6bDh2d1YtUWM0cFlkb1ljVGFCMXctdXlEMHlZSWNtNDc5bjRS?oc=5",
+        "source": "Бизнес новините",
+        "image": null
+      },
+      {
+        "title": "Китай затяга контрола върху износа на AI технологии - 3e-news",
+        "description": "",
+        "date": "2026-10-28T10:18:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkswZE5NamEyVFdGVUhqTmZFczdUMTc4TmhDS3B5d01pWWlTbG8zZzg2OUJ2QWdZU3Itd3hhdm5haENtc0UxRDJXOENfZHQwR0VIT0lTV2lYRVlrUUY1dXpPck9TOFFzOUFoaldmUkROVUxzSDdqbFBROXBQOHRjOXdaRE1YTzhNM0EyWTNRTm5jQQ?oc=5",
+        "source": "3e-news",
+        "image": null
+      },
+      {
+        "title": "Ученици превърнаха историята на Габрово в приключение с технологии и загадки - Darik.bg",
+        "description": "",
+        "date": "2026-10-28T04:55:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHUySWZCbUN2VXI5akc3ZG5haTVhV0VSTnc4NzRjM2RIbWhaeVYyZ1E1bF9JLXdSMkswd1AxcDBLZGtJM1FTWE9FNkxmYV9Ba1ZKbXBWSWxnRzVfT1dSU3J4R1NmTUxBUFdNNXBJa1NBc3g4SjBSOUdLY29PcXUtMEcyRkFibDJTcXVQaXM0bmZhTjVCdFQ4RGJIWW9sNTY2VzhqQWN4RmRzWkE?oc=5",
+        "source": "Darik.bg",
+        "image": null
+      },
+      {
+        "title": "Кой плаща, когато пробивът се случи: личната отоворност на ръководството по Закона за киберсигурност - manager.bg",
+        "description": "",
+        "date": "2026-10-27T17:58:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTEMtQ2I1eGlsNUI2WV9LeWpFdUtrbTE0UmQ0TDJyNFB4cXlhVlJ6aURvZldIOWw1Nm5ieWNSRkNjR3B1X1FydXRObl9rQzE3VVlxRWlLWGNqaXJfR2d0ZDVmSjUwVkpPc2dIem5vbVUzVmt0YnFHOTVDQ2ZxenlHODFUbjlRVE1IQzIwNlF6ZHZLd1lUVEp3Y3N0MGtGd09ZLUhCZTV6QTZ6NEp6aWc4TG9JVlgtU2lta1hrWFZvdnozNkdlX3ZadGZ4Ti1vVjdYdy1zS1FJNGZvRU1KN0Q5MjVOUjYtaVF5dFpEdlphODJFbmlZWThqY3AzMTNlWXFVMTRYcVVkU29UaEFXbHc?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "„Съхрани миналото и бъди бъдещето“ – история, технологии и поглед към утрешния ден - Министерство на образованието и науката",
+        "description": "",
+        "date": "2026-10-27T16:30:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDktdGZYWlpsSG8xSHhsNm1DQS1SaXpheUo5Ynhuc1NWZ3g1dHRncEdsZ0g5cWdDeFlWN3NmT2cwZEJYXzk2QWdFWDVsdmpTVUFhVk1qWk9hYkVnNWFlOU5DS09WUzlvdTVFR1huWGY1YVBfQUNoTURfekNDQm16VGk0NnZfZm9vbHBqUmRLUGNGaEFFeGU2OXlMZkxIdkppRDF1aFlkZnBsVDFDdldLbDRyUUpkQQ?oc=5",
+        "source": "Министерство на образованието и науката",
         "image": null
       }
     ]
@@ -977,7 +993,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 19,
+      "count": 21,
       "feeds": 1
     },
     "Образование": {
