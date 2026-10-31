@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-10-31T03:25:31.297395+00:00",
+  "generatedAt": "2026-10-31T04:23:20.703101+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Годишните награди на Съюза на българските журналисти ще бъдат връчени за първи път в Пловдив",
+        "description": "Тържествена церемония за връчването на Годишните награди на Съюза на българските журналисти (СБЖ) за 2026 г. ще се проведе днес в Дома на културата „Борис Христов“ в Пловдив, съобщават от професионалната организация. По думите им за първи път престижните отличия ще бъдат връчени в Пловдив, като знак на признание за града, положил основите на свободната журналистика. Пловдив отбелязва и 100 години от началото на организираното журналистическо движ",
+        "date": "2026-10-31T04:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1236773-godishnite-nagradi-na-sayuza-na-balgarskite-zhurnalisti-shte-badat-vracheni-za-p",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11904912/1000041505.jpg"
+      },
+      {
+        "title": "Ужас в САЩ: Отвлякоха 10-годишно посред нощ, откриха го вързано в гардероб - Dnes.bg",
+        "description": "",
+        "date": "2026-10-30T23:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzNOVm1iMWRmaFNEaGN6VmtHbm1ySDZLWUZtN2Y2RFl1d1llb0JMSEZUYkVwdVM2OUg3QzI5RjhZZEFaRml4TFdNVnNva2ZMQlAxQjJhWS10ajNGaHFxaDg4MzhLUE1tSnczYm9DTjhtMTNTT045Z3pzZngwc3RhbW5rUmo5WTVUekVCNmVsOVNzdzJpOVFRWGJtU2lya1NIdF90WVh2R21UckpteDgzYy1EVWt5WWM?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
       {
         "title": "Велислава Петрова обсъди ситуацията в Близкия изток с израелския посланик",
         "description": "Позицията на българското правителство е за деескалация, е казала външната министърка пред Йосеф Леви Сфари",
@@ -27,14 +43,6 @@
         "image": "https://static.dir.bg/uploads/images/2026/10/30/3042710/384x216.jpg?_=1793400312"
       },
       {
-        "title": "Украинка обърка газта със спирачката и се заби с джипа в къща в Несебър (снимки/видео) - Dir.bg",
-        "description": "",
-        "date": "2026-10-30T21:47:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDdWOWpBZFlqTFVicDYyZTBVRFdNSk1YaWpJQ19PNWVLY1dLZ1VwQmVacVU0RnlMOGRMWTBLV2c3eWFNWVQwcHlyaXNSbW5GYkhNT0VlQktTNDlxaVloazItcm45aU9uLWxFWVN4WG9YbmJZQjRkbXJmd2hudUVQUV9wSWdnTzF3R0U3WVZjM2FUdjZrSTJxbTRCMzcyelNMeUdWcVE4NFpKbnlycTc4?oc=5",
-        "source": "Dir.bg",
-        "image": null
-      },
-      {
         "title": "Тор по улиците: Десетки хиляди на бунт срещу цените и Мелони в цяла Италия (снимки)",
         "description": "Масовите протести обхванаха над 50 града в страната",
         "date": "2026-10-30T21:39:51+00:00",
@@ -49,14 +57,6 @@
         "link": "https://dnes.dir.bg/svyat/znakov-sayuz-es-kanada-karni-ochakva-otava-da-stane-parvata-asotsiirana-chlenka-prez-yuni",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/30/3042637/384x216.jpg?_=1793388460"
-      },
-      {
-        "title": "Знаков съюз ЕС - Канада: Карни очаква Отава да стане първата асоциирана членка през юни - Dir.bg",
-        "description": "",
-        "date": "2026-10-30T21:10:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFlhMThjTmptekY3OXBaTzZsazBqbWNiUl8yemo2SF92YWhQV3BVQVEyT1llTE42OE9nb3hLU0VqZ3dTOThWbzJpclJyQVJMM0RHZmVaZ2RHQUZVcXhvMUEyQ2Y4dFh3XzIzQkdCclY3aDc0ZDc5Y1FoOUV0VVNpa0dHZEVUZS1jd0YzTHRhZnlrMnR0b0lPRE5ReEJna1luU0hxX0dYV2pCeWk3U0RRZnluVTd0UQ?oc=5",
-        "source": "Dir.bg",
-        "image": null
       },
       {
         "title": "Общинският съвет в Трявна одобри нови цени на таксиметровите услуги и 30-месечен договор за управление на общинските гори",
@@ -205,6 +205,14 @@
     ],
     "Свят": [
       {
+        "title": "Ще преобърне ли влаковата катастрофа в Испания предизборната кампания",
+        "description": "Днес приключва тридневният траур в памет на жертвите на тежката железопътна катастрофа в Испания, станала сутринта на 28 октомври, припомнят световните агенции. Разследването на произшествието продължава, а патолозите напредват с извършването на аутопсиите и идентификацията на телата. На този етап са идентифицирани 13 трупа. Броят на загиналите е 69 души според нови коригирани данни, след като в четвъртък беше съобщено за 74 загинали, но после та",
+        "date": "2026-10-31T04:12:47+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1236884-shte-preobarne-li-vlakovata-katastrofa-v-ispaniya-predizbornata-kampaniya",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14044621/e8071af81893454db5512e4546eb2cf2--0--f30ba1ed5a2341b682a364c39cb637a5.jpg"
+      },
+      {
         "title": "Тръмп и Клинтън участваха в предизборни прояви за междинните избори през два щата разстояние",
         "description": "Президентът на САЩ Доналд Тръмп проведе предизборен митинг във Флорида, докато бившият президент Бил Клинтън говори пред демократи в Мисисипи – само на два щата разстояние от мястото, на което беше Тръмп. И двамата призоваха избирателите да отидат до урните за междинните избори този вторник, които ще определят коя партия ще контролира Конгреса, предаде Асошиейтед прес. „Това са най-важните междинни избори в историята“, заяви Тръмп пред събралите ",
         "date": "2026-10-31T03:19:27+00:00",
@@ -259,14 +267,6 @@
         "link": "https://www.bta.bg/bg/news/world/1236877-administratsiyata-na-tramp-razsledva-usileno-predizbornata-kampaniya-na-demokrat",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14052971/0ef2942cf77e49a3b96b93254dd4eaf0--0--d9dca55acc094084bf4a6072ab4eb3ff.jpg"
-      },
-      {
-        "title": "Заупокойна света божествена литургия и обща панихида ще бъдат отслужени на български език в Лайпциг на задушница - BTA.bg",
-        "description": "",
-        "date": "2026-10-31T00:17:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSXpuSHc0c2N4RzFfYmw4M1BWVHh1cmgxWFNhWl9MUjd6cWFZNDNsWWo2X0JteF8yUV9RUUNWMmdjME44X3dzZ2IyMUlxM0JJNU13U244VFc3S1EzN2RKSUhFM0lvSUk3UENGUFZMVW9WVzlZWTFNTmw3VkNDWXI3ZU1yRmp3ZTFnRGNQS3pGTV9pLVhJQlIwR0Iwdm1wNHlrdVBsckt4UjRGQWxoSXl0aldmM1d6UmJzNHhfMk41YUd1RWdWQm9qdG1QVDg3c0x1bzk4ZGExcTVUcmFu?oc=5",
-        "source": "BTA.bg",
-        "image": null
       },
       {
         "title": "Еквадор беше избран да председателства следващата конференция на ООН за биоразнообразието COP18 през 2028 г.",
@@ -365,14 +365,6 @@
         "image": "https://www.bta.bg/upload/14048747/328dea10ec944bd6be964b4b4ac6c13e--0--279ff703fc824cbeaba8879c4a298ef1.jpg"
       },
       {
-        "title": "Държавният департамент на САЩ одобри продажбата на Украйна на 500 ракети за противовъздушните системи „Пейтриът“",
-        "description": "Държавният департамент на САЩ одобри продажбата на Украйна на 500 ракети за противовъздушните системи „Пейтриът“, предадоха световните агенции. Става дума за ракети от модела PAC-3 MSE, пояснява Ройтерс. Стойността на сделката се оценява на 2,1 милиарда долара, като средствата ще бъдат осигурени изцяло от съюзниците на Украйна, съобщи Държавният департамент. „Предложената продажба ще подкрепи външнополитическите цели и целите на националната сигу",
-        "date": "2026-10-30T21:34:51+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1236862-darzhavniyat-departament-na-sasht-odobri-prodazhbata-na-ukrayna-na-500-raketi-za",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13653437/24042cc3a0864e62a07a5de8603c2c01--0--8b3b7ef20e6a4db09c7f914ccfaeae72.jpg"
-      },
-      {
         "title": "Паника от държавен преврат в Полша - Стандарт нюз",
         "description": "",
         "date": "2026-10-30T20:39:18+00:00",
@@ -393,6 +385,14 @@
         "description": "",
         "date": "2026-10-30T20:22:40+00:00",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHcyLU1UZ3ViZTM3Z1FCanBtNEhGODdMX29MczdQU0ZzVi1hOVA1TGtlQ2ZCUFg2Vmk4OEdlMjBFZFVtc2VjVlJOM3ZkWlE5OUFtak9VU3BiNnZYUnZseGJFb1k2c1dNTzR4dWJsWW5Tc3RsTV9KdWJrYWw2T3RHTC1Zd01SOXA0cW1HNi1QejVwelVvUzBTYThVNA?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Скандал на Г-20! Хвърчат искри заради Лавров - Стандарт нюз",
+        "description": "",
+        "date": "2026-10-30T17:48:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWdWMmUxZmlnMmRSbmlPTzVERE9HWHFDTkt0bFI2aWdZaGtWUTNuUWo0RzRNd0o3RGdOY2Y0QkhHMmt1ajZma2E3aTFCLUpGeG40c2xEcjV4TUh2NW1Tcl9oTTJjMG1hc0NjYVNzeGJaVGRpVXY1NFdhVWlIZUQ0SmJ5TnBRQXpFaDdKS0ItUG9ma0Z4WUE?oc=5",
         "source": "Стандарт нюз",
         "image": null
       },
@@ -675,7 +675,7 @@
       {
         "title": "Кметът Неджми Али към учителите ветерани: Вашият труд стои зад успехите на поколения наши деца! - Арда нюз",
         "description": "",
-        "date": "2026-10-30T15:40:39+00:00",
+        "date": "2026-10-30T15:42:22+00:00",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82VXBPSHFfM1JhYWZfOEhydkdUZG5nTnBZb0VmdVh4LUdmOFZCUzRZZ3p1R0Q0SmtKQUdjTWxCZEZZdEpLU2c?oc=5",
         "source": "Арда нюз",
         "image": null
@@ -811,14 +811,6 @@
     ],
     "Технологии": [
       {
-        "title": "5G дронове и изкуствен интелект: НАТО демонстрира нови военни технологии (ВИДЕО) - Actualno.com",
-        "description": "",
-        "date": "2026-10-30T22:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjZlWURQaTdRdlA3MXo4ODNVT2xIRWV0Sm1GdnpaWGpXVzVGaFJGcUpSY011Rks5Q0w1dXc3T1RxTl9xV2p5NEVCMERyQzZUVmVSLWdCYnRURDcxd2xqZHVBbXFOaWowaGVHLURCRFFRczBiU1BwLU1ZdDA5WHNpNWdYNDBwWXRVZEYwWlZvUWZQcVMwa0hUWThzeEZRYnhMeEEyc2JZbEFIeWlLUWF5T09BZzJPcHhuQ0JOM05WRWNXTENLOXc?oc=5",
-        "source": "Actualno.com",
-        "image": null
-      },
-      {
         "title": "Димитър Димитров, Shelly: Когато растеш бързо - има хаос и гъвкавост, управляваш само критичните неща - www.capital.bg",
         "description": "",
         "date": "2026-10-30T22:14:23+00:00",
@@ -827,11 +819,11 @@
         "image": null
       },
       {
-        "title": "Проектът за дигитална свързаност „Кардеса“ се очаква да достигне България през 2027 г. - Novinata.bg",
+        "title": "Nissan разкри ключовите технологии и комфорт в новия Rogue Hybrid (+Видео) - Авто новини, Новини за автомобили | AutoNews.bg",
         "description": "",
-        "date": "2026-10-30T15:52:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlF4bzFad0Jha2ctdWxkU1hOZDdkVWxRVUFUbl91Q1Fud25CS3UxTE1GcnF0VFBUWHRnWFdweGRPSC1qUWJxZW1KMzBmZkdlcmViVFFqV3pHb3RtRm43UVJMeHdMUV80RGhGaEoyS3FPVDl3NldGWVJma3VZLV9PQktyU0lJdHYtcXQ1NGxuY1hsZXF0R01reXR2M0xaRUtFeVBCY1RpZlRjQXpTRGxxVjNaU3E?oc=5",
-        "source": "Novinata.bg",
+        "date": "2026-10-30T18:00:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWpVa3VCX3BBb280aTY5dGJMSmZpY3BnTXBrVkI5cU5vY3BUM2lEa2E5Y19nY2tBZXdER2taSXZSNzVWT1BtelVKYmNJVk9BdzF5MW9udUh0RUs4cm9NYlloZW1QUVdfdXRCS0lEQ3VvT3QySjdZYjVtN2U5SmljZUlqNHFESTVTVTBpQ3BmOFowUkhycm9wU2VhcktzU3pHMC1GQXJBLUc?oc=5",
+        "source": "Авто новини, Новини за автомобили | AutoNews.bg",
         "image": null
       },
       {
@@ -891,6 +883,14 @@
         "image": null
       },
       {
+        "title": "Java уменията са най-скъпо платени в ИТ сектора у нас - TechNews.bg",
+        "description": "",
+        "date": "2026-10-30T12:39:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRNW95RWNFLXNQZnM5UmczSFFSREhrQVVYbGZjcWQ2WG9wSkdvVklSYWVMang5eWl0MTBqbHdacnBsRXIxMlM0WTRaY1VQX2R0?oc=5",
+        "source": "TechNews.bg",
+        "image": null
+      },
+      {
         "title": "Бургас и Черноморският регион залагат на зелени технологии, иновации и дигитална свързаност - 3e-news",
         "description": "",
         "date": "2026-10-30T12:37:36+00:00",
@@ -899,19 +899,11 @@
         "image": null
       },
       {
-        "title": "България има потенциал за развитие на технологии за сигурност в Черно море, заяви Виктор Данчев от „ЕндуроСат“ на форум в Бургас - Делник БГ",
+        "title": "България има потенциал за развитие на технологии за сигурност в Черно море, заяви Виктор Данчев от „ЕндуроСат“ на форум в Бургас - Утро Русе",
         "description": "",
-        "date": "2026-10-30T11:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdzd2bUVLUS0wd2c1OTFrYlRFaDY1alJOQk45NFlwN0xkX0dvOWlGUDhnSDRVMXI2N1c2S2hKTE10NlU4VURhLUlnRHA5anVjVUstYUo4YWxLNHBtMi1VcVgxb3JsNy0wekR2SWpzYktHLTNjcGpGR3l5ZW1DcG9wNEphNHE0UFNmV2JWalZlcHRrbFZiLVpYdGliVXV6Sy14WTJnQnhvbmZYdkZtSTVnY29FM25xRTVWSUN1T2xOcUpZUDMxakM3Sk1PdWFWNkVhMkVqSzFaaVRzRFBrNjJwZ3N4ZndsaWtuOXdRYjdjYkxKWURwQXVlZ0ZpSzRrMVNSMzVGTnMzMHRaaGRXZVFSWlhEbkswam1iaEF4NUk2eGxPdHl5SU1fd2dSR0g1Y0QzaEhpV1dCa0ZoSE8wbUlmSWhORXh3RHdjOXhUYmdXcXA3SnM?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
-        "title": "Високите технологии движат растежа на китайската икономика ᐉ Новини от Fakti.bg - Бизнес - Fakti.bg",
-        "description": "",
-        "date": "2026-10-30T11:43:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXRHa01VZUxOY3k5Ympad0pRUS1lVEo0akw2VzZCUmpuZ21SRXpIWlhfUnpoOUxCUXdOSTN4RUU4c2ZUMHdkRGItXzNVWHhIZmJtYjNtMkNMTlF5RjlXWHRVcVBndFNDS3RNLWgxdDRNWDZGMUdLTE51NXp6UWRfd0dzYTFGNGpwbHlNRXczd0FHN09y?oc=5",
-        "source": "Fakti.bg",
+        "date": "2026-10-30T11:54:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYbHJpYjJ6cjFkc2FqSEI5TUtqUG1zYnlFTlBDWEphNkIwLWNqNHhOVGpCMTFGNUZZNmZ5TUlzd09mclVhVzJCbmRiWkZYZ9IBSEFVX3lxTE1JanVtM1JBSHg4ODVReUFyMHI1MDFNVU00SUE2bUJxMHVhUWdiT0hBWXVRbDFFZVpKdnNQcXZLYmxxQnNYeXdIeQ?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
@@ -971,19 +963,19 @@
         "image": null
       },
       {
-        "title": "Бургас изгражда кампус за развитие на зелени технологии - BurgasInfo.com",
-        "description": "",
-        "date": "2026-10-30T09:02:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jbmM3QTZrZU1nMThpRkNNd1FnZ1N0d2g1OXcxQURUZ1BxX1FSMG12Ujh2ZFZGY1BUcE9QNjJxWUVPd1VjazE1R2c1cTlvZ0gyRmc2TmRROGo?oc=5",
-        "source": "BurgasInfo.com",
-        "image": null
-      },
-      {
         "title": "Бургас ще има голям кампус с център за зелени технологии, обяви кметът - BurgasMedia",
         "description": "",
         "date": "2026-10-30T08:18:33+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTNzVURhSXd5NTU3RTZaUDBHUlRfekxOZ1V4U1I2dmJKUVVhSU5SLVlOR0tPdHVSVzZxSFc5S3VpT3gzRmJydGRrejM1VlRsaE55ZUQ3SzNYbXh3RC1XMFpOR0NWQk80dWwzWUJSQUV1SGNqbnc3UVQ2WG54MkhZU3FpbWZoX3E1OGlraldMVE10UHNZSFdsTFZIZnR1VlczM1h6M9IBqgFBVV95cUxOcklOY0JkTmQzcjB4UWVCejBsdXJyTC1hZVV1MWxUb0V3bGh3OHlUYkNzZlJEOEw5a2pVSDdvVVM1bEZBaXZYcmMwMDM4OFlmcDNfRkltX0puUk93TFl5T09adllwME8wVVpDRDZEUGtKRWVxZEpjZ3BxdXlaTmIwU05XM2wwUjBnaUdaMjBiQjJoaTVxNDZCNVQtR1piajRBSGM0d1pvblVoZw?oc=5",
         "source": "BurgasMedia",
+        "image": null
+      },
+      {
+        "title": "Бургас изгражда център за развитие на зелените технологии, каза кметът Димитър Николов при откриването на форума \"ЧЕРНО МОРЕ 2030\" - Утро Русе",
+        "description": "",
+        "date": "2026-10-30T08:10:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wMC11ZVlqb1dhLWdIenJsRnV0eW5BNDZuVDB3a2I0TzdOUHZkMDd0TkVSQVpqUnljcEEteVFTSE9qTTRDYVB2VNIBSEFVX3lxTE9wMC11ZVlqb1dhLWdIenJsRnV0eW5BNDZuVDB3a2I0TzdOUHZkMDd0TkVSQVpqUnljcEEteVFTSE9qTTRDYVB2VA?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
@@ -1008,6 +1000,14 @@
         "date": "2026-10-30T07:39:19+00:00",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaThHZ1M4cnd5cjFQSGpyNVllOWRPa0hTNzJMcDduZkZaOC04NUtTbWFiN0hpSUJfc1J5aS1UT2w2cktxTEVXbDFKUlFhcVlmbU8xLVJEOXhtaUdxNnN3d2dFN2xvYV9GLWdwajBlUkpoUUs2MWR4V01rOXlqQXZMVURRS0dOVXl2UmZRRVpJclo1MnNaUDRzS3kxQWUtbEZfWlRlQmJCUjUwQS1BbmItTklCYXZpMUJ1c1M0a3ZQM3NjVmJaOHN0elNPM1djdnpYWG5KSXNxRm1TcU9vVDlxVFdGLWVweE0?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Deutsche Bank и ЕИБ осигуряват 560 млн. евро за космическия сектор - Бизнес новините",
+        "description": "",
+        "date": "2026-10-30T07:33:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObk9IQVVtenQ0Sl85bk9qWUtBNG0xMVNKZ2JfVWxWQzRia2F1a0RDS1hrNEIydmpSZWs1eVZ5aS03X29vMnZVSE03VmZmNjlIa3ptQVoxTmx0cU9wZ0xBbHpXWVhnVTVHWkZvWC1rSGV0bjJoZU1pRm5aeUpBa0ZDcjFySlduT3V0eFExelhRMGtLZkpuQndXWllaVGtja1BGaDl0LWRkY3pLUHBmbE9yR2xn?oc=5",
+        "source": "Бизнес новините",
         "image": null
       }
     ]
