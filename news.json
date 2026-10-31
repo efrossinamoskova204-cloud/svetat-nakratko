@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T00:17:46.832597+00:00",
+  "generatedAt": "2026-10-31T01:40:27.130091+00:00",
   "categories": {
     "България": [
       {
@@ -49,6 +49,14 @@
         "link": "https://dnes.dir.bg/svyat/znakov-sayuz-es-kanada-karni-ochakva-otava-da-stane-parvata-asotsiirana-chlenka-prez-yuni",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/10/30/3042637/384x216.jpg?_=1793388460"
+      },
+      {
+        "title": "Историческа мания: Путин е обсебен от средновековните князе и битки, през които пренаписва миналото на Русия - Dnes.bg",
+        "description": "",
+        "date": "2026-10-30T21:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM01CQ0swTFlHWm10enNoQy1lWUhoSE9SeU9TQU53X2ZYRURjUWhVYXVkeGRwZHpTOWJSWDlteFB5Y0hxNTd0c291XzI2NkVwbXlwWWRKdThMdjNXLTlHU0lXUXNLaWxUTEJGZlJZZTh2elJEajR3X1BtaHB1S2QydWF5Nm1yNERNcjctSnFhSEwtNXRDeVdQOW81QngwTnhjYkF4OUQzR01WcDVQNnpmLXlTZVpOa3JlMGZ5cGFlVkEwbmpsWkdqNkdzVENqSWxQeTg0aGx5UUNwTTloUTgzTg?oc=5",
+        "source": "Dnes.bg",
+        "image": null
       },
       {
         "title": "Общинският съвет в Трявна одобри нови цени на таксиметровите услуги и 30-месечен договор за управление на общинските гори",
@@ -193,17 +201,41 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1236812-informatsiya-za-dupki-v-asfaltovata-nastilka-na-avtomagistrala-hemus-mezhdu-sh",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/11660713/20251003_133726.jpg"
-      },
-      {
-        "title": "България придоби първия си миночистач от Белгия - News.bg",
-        "description": "",
-        "date": "2026-10-30T18:25:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemt3WWZncndydmg0MWVIajNFTTBJaHYxS3o2NmQ2ZE5MNlFuUUotbDl6bkJHYjlZT2NFaHRDdGtkZE9KQWZhV1FrQUFHa1ZKNWZlaDRNNUJsS3JMT2RsYkJ3eVZ6ZDkzNUlLUU5mSGRILVlpSmNFSGZaMktnSXhUVkZxVXlzNUM0eXc?oc=5",
-        "source": "News.bg",
-        "image": null
       }
     ],
     "Свят": [
+      {
+        "title": "Извънредни мерки за сигурност в Париж и цяла Франция заради нови планирани протести",
+        "description": "Извънредни мерки за сигурност има днес в Париж и в цяла Франция заради нови планирани протести срещу поскъпването на разходите за живот, предаде Франс прес. Две седмици след събитията от 17 октомври властите мобилизират около 70 000 полицаи и жандармеристи и засилват ограничителните мерки. Предвид „многобройните призиви за извършване на грабежи, които се разпространяват в социалните мрежи“, мерките за защита на търговските обекти, въведени на 24 ",
+        "date": "2026-10-31T01:19:50+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1236879-izvanredni-merki-za-sigurnost-v-parizh-i-tsyala-frantsiya-zaradi-novi-planirani-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14029565/4f643c0ff63146488dc9d3dbb06d27a5--2--e0bc627016e94d2c8fe87693479aa504.jpg"
+      },
+      {
+        "title": "Германски градове се готвят за младежки протести по примера на Франция и Италия",
+        "description": "Над 160 000 души, основно младежи, се очаква да се включат в демонстрации днес в цяла Германия, вдъхновени от протестите в други европейски държави. Исканията на протестиращите ще са за по-добро образование и по-ниски разходи за живот, предаде Ройтерс. Протестите са част от вълна от демонстрации, организирани от поколението Z в цяла Европа през тази година. В Сърбия активността на студентите помогна за свалянето на дългогодишния лидер на страната",
+        "date": "2026-10-31T00:38:24+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1236878-germanski-gradove-se-gotvyat-za-mladezhki-protesti-po-primera-na-frantsiya-i-ita",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13983598/eb5c469b2da14de884aaa49bc3e8896f--0--1c8dcedd811244c2a358b4fa103d7da2.jpg"
+      },
+      {
+        "title": "Администрацията на Тръмп разследва усилено предизборната кампания на демократите в Аляска",
+        "description": "Администрацията на Доналд Тръмп изпрати допълнителни служители в щата Аляска, за да разследват кампанията на демократката Мери Пелтола, обвинена в опит за манипулиране на междинните избори чрез насърчаване на кандидат със същото име като това на действащия републикански сенатор да се включи в надпреварата, за да отклони част от гласовете му, предадоха световните агенции. Кандидатурата на Пелтола за Сената беше разклатена от разкрития на вестник „",
+        "date": "2026-10-31T00:24:31+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1236877-administratsiyata-na-tramp-razsledva-usileno-predizbornata-kampaniya-na-demokrat",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14052971/0ef2942cf77e49a3b96b93254dd4eaf0--0--d9dca55acc094084bf4a6072ab4eb3ff.jpg"
+      },
+      {
+        "title": "Заупокойна света божествена литургия и обща панихида ще бъдат отслужени на български език в Лайпциг на задушница - BTA.bg",
+        "description": "",
+        "date": "2026-10-31T00:17:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSXpuSHc0c2N4RzFfYmw4M1BWVHh1cmgxWFNhWl9MUjd6cWFZNDNsWWo2X0JteF8yUV9RUUNWMmdjME44X3dzZ2IyMUlxM0JJNU13U244VFc3S1EzN2RKSUhFM0lvSUk3UENGUFZMVW9WVzlZWTFNTmw3VkNDWXI3ZU1yRmp3ZTFnRGNQS3pGTV9pLVhJQlIwR0Iwdm1wNHlrdVBsckt4UjRGQWxoSXl0aldmM1d6UmJzNHhfMk41YUd1RWdWQm9qdG1QVDg3c0x1bzk4ZGExcTVUcmFu?oc=5",
+        "source": "BTA.bg",
+        "image": null
+      },
       {
         "title": "Еквадор беше избран да председателства следващата конференция на ООН за биоразнообразието COP18 през 2028 г.",
         "description": "Еквадор беше избран да председателства следващата конференция на ООН за биоразнообразието COP18 през 2028 г. Решението беше взето след гласуване на пленарно заседание на COP17 в Армения, която е домакин тази година на международния форум, предаде Франс прес. „След като получи необходимото мнозинство, Еквадор беше избран за домакин на 18-ата сесия на Конференцията на страните по Конвенцията за биологичното разнообразие. Поздравления!“, заяви предс",
@@ -253,10 +285,10 @@
         "image": "https://www.bta.bg/upload/13897249/20260921_104441.jpg"
       },
       {
-        "title": "Аржентина отрече медийни информации, че бразилското правителство да е поискало „обяснения“ от нея заради Флавио Болсонаро",
+        "title": "Аржентина отрече медийни информации, че бразилското правителство е поискало „обяснения“ от нея заради Флавио Болсонаро",
         "description": "Аржентина отрече медийни информации, че бразилското правителство да е поискало „обяснения“ от временно управляващия посолството ѝ в Бразилия във връзка с казуса с Флавио Болсонаро, предаде Франс прес. „Не е вярно. Не е имало никакво искане за обяснения“, написа по повод появили се информации аржентинският външен министър Пабло Кирно в кратко съобщение в Екс. Той обаче не отрече, че временно управляващият посолството е бил извикан на среща. Според",
-        "date": "2026-10-30T22:29:45+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1236870-arzhentina-otreche-mediyni-informatsii-che-brazilskoto-pravitelstvo-da-e-poiska",
+        "date": "2026-10-30T22:29:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1236870-arzhentina-otreche-mediyni-informatsii-che-brazilskoto-pravitelstvo-e-poiskalo-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14035841/6e2e343a1f55483c916f480aeb4b7f45--0--9c2963af917c45d5b48ee914763b93f3.jpg"
       },
@@ -357,68 +389,36 @@
         "image": null
       },
       {
-        "title": "Йеменското правителство каза, че хусите са атакували летището и президентството в Аден; Рияд обяви унищожаването на дрон над Медина",
-        "description": "Пресслужбата на въоръжените правителствени сили на Йемен обяви днес, че йеменските бунтовници хуси са атакували с балистични ракети летището и президентския дворец \"Машик\" в южния пристанищен град Аден, предаде Ройтерс. В информацията не се говори за жертви и щети, както и дали има поразени от ракетитеобекти . Франс прес съобщи на свой ред, че в Аден, където от 2015 година се установи международно признатото правителство на Йемен, са чути експлоз",
-        "date": "2026-10-30T19:58:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1236847-yemenskoto-pravitelstvo-kaza-che-husite-sa-atakuvali-letishteto-i-prezidentstvo",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13979921/69a769622a0841858043e9906939bbf5--0--b789cc40b9704be98ff95977d4c5f38c.jpg"
-      },
-      {
-        "title": "Държавният департамент на САЩ одобри възможната продажба на ракети „Пейтриът“ на Украйна за 2,1 млрд. долара",
-        "description": "Държавният департамент на САЩ съобщи, че е одобрил потенциалната продажба на ракети за противовъздушни системи „Пейтриът“ на Украйна за приблизително 2,1 млрд. долара, предаде Ройтерс. По-специално става дума за модела PAC-3 MSE. Основният изпълнител ще бъде оръжейната корпорация „Локхийд Мартин“, съобщи Държавният департамент.",
-        "date": "2026-10-30T19:41:16+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1236836-darzhavniyat-departament-na-sasht-odobri-vazmozhnata-prodazhba-na-raketi-peytri",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/8682689/c0aaaa14ec244b33b17a76d100f4acb4--0--211dad872e9f4921849d0a2a6bcb259a.jpg"
-      },
-      {
-        "title": "Ройтерс: Ребека Гринспан увеличи преднината си в надпреварата за генерален секретар на ООН в Съвета за сигурност; днес получи 11 гласа \"за\"",
-        "description": "Бившата вицепрезидентка на Коста Рика - Ребека Гринспан, увеличи преднината си в надпреварата за поста генерален секретар на ООН след седмото неофициално гласуване в 15-членния Съвет за сигурност на Организацията на обединените нации, предаде Ройтерс, като се позова на свои източници. Гринспан е получила 11 гласа \"за\" и 4 \"против\" в 15-членния съвет, което е най-силното ѝ представяне в досегашните седем гласувания при закрити врата. Мандатът на н",
-        "date": "2026-10-30T18:55:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1236839-royters-rebeka-grinspan-uvelichi-predninata-si-v-nadprevarata-za-generalen-sekr",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13519263/51263a2210d243b9b43949f35ae22174--0--c5c49b015b0740a18bce5fb1dd0157dd.jpg"
-      },
-      {
-        "title": "Николай Шушков: Конфликтите в Ормуз влияят върху доставките на суровини по целия свят » Инфомрежа - Infomreja.bg",
+        "title": "Ромското село, в което всяка къща е за милиони - Стандарт нюз",
         "description": "",
-        "date": "2026-10-30T16:06:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMS1RLWlYSThQY0JOZ1dBM0xBOTZvNTZXSGUtNE02SVkwVDNOMlY4RFRhRl9tNnVicERRSWVyWUZocjhoNEluVE51RTBZNkxQSFpLY0I5NUFSR3Z2WGlIVlZuV2pkZnRaTmJkLUs5RzFjQlJNVzMxSXNFTzVMVnpSRVJjWXg2NUZya1FxOXNlUnFJcXMtT0ZoRmRTV2NrUkN6YWYyaldmb3h6dWU5Y0w4bWFXSklJVnNJ?oc=5",
-        "source": "Infomreja.bg",
+        "date": "2026-10-30T20:22:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHcyLU1UZ3ViZTM3Z1FCanBtNEhGODdMX29MczdQU0ZzVi1hOVA1TGtlQ2ZCUFg2Vmk4OEdlMjBFZFVtc2VjVlJOM3ZkWlE5OUFtak9VU3BiNnZYUnZseGJFb1k2c1dNTzR4dWJsWW5Tc3RsTV9KdWJrYWw2T3RHTC1Zd01SOXA0cW1HNi1QejVwelVvUzBTYThVNA?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       },
       {
-        "title": "Над 5000 предприемачи и иноватори от цял свят се събраха на Crossroads 2026 в София - bTV Новините",
+        "title": "Гигантски канал! 220 камиона стават една баржа - Стандарт нюз",
         "description": "",
-        "date": "2026-10-30T15:25:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmYtWTFvN25FclRiQ3JDZFJFSFhEUDV1LUZDcTliSzg5VUpVSi1maEZnVmZHNDAtM0s4QkwzVF9pUWQza2NRM0JBRFhiaWl0VXhpMTlSUm42S0RqOFB2T2NRSEVPdm5CSVdDcTZmQjdQWUdZMlRiM3ItaXdMMTZDcXFmclgtaVFVbGstOGZCOVJLSEwzSWJlVzc3SURJVjc0VzJJM1Y2dVNqc0d4eXA4WUJmd2lJWXNnM1JiWkQ4Y3lVdw?oc=5",
-        "source": "bTV Новините",
-        "image": null
-      },
-      {
-        "title": "„Джуманджи: Добре дошли в нашия свят“ разкрива нов трейлър - Sortir à Paris",
-        "description": "",
-        "date": "2026-10-30T14:32:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZnBXZndWa1RZMjJUZlgyeEJ6dEVoUkpoR19SMjJxU2V2YjRaUVcwSlU1LTBobjZXQXREN2RPYVZhN2hiUFZ2NjM4U3Z4c2tQRDZ2NmJQWTM4bWtuVWRDRTk4dmZUVFpoa2xoTWFWUjN2bWZ3dXJ5dG5BYnBqR0NFMFU0U3BOMzFQX00xQjZvN1BpX2g4dHBmTElhVmtVTkFiaDF6QnBmSzlLS1pxaWxybmlCaUFrN3BET1gyX2JNaUdXVXNiSzYyT0ZkdU8?oc=5",
-        "source": "Sortir à Paris",
+        "date": "2026-10-30T17:02:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEpmYzUyUklRS1NEX3BHV0tCdFN1MDFMMVhKRTVHVGVCZ2VqTnJtb1FfVUtvaHJMbHZlcjVmX1BqSVpHd3Q1UkFUeFhXUVlzVU9hdEgteVFOSlZ3aVBiVjlQRk4tcDdUMklPb2IyVzZwajlSNFQyeWt0YXM1SDF4bXViVjFTZ3JVS3ZfVFU4S2toRllmc1RfSg?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       }
     ],
     "Наука": [
       {
+        "title": "„Топология на панталон“: теорията, която предсказва фрагментацията на черни дупки - БГНЕС",
+        "description": "",
+        "date": "2026-10-31T01:32:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjFwSjhCWTk3UExsaVE0YWFoOHcycTdiSE9OUTVzNkphS2hkUXZGUm0xTXJCajIxekZWa01NUk11c0g2SnVhQ2NndEluOFctaUJHcTVNblVnSWZSTGhwU01KdEVSeU1jVU9jdTdlam1tVVVtY2lLeTJNejVhZ3ZET013REZhVl9YNmhxOGZYU21Yemo5clFtOU5LRDBjSlB2?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
+      {
         "title": "Google изпраща AI чипове в Космоса с планове за изграждане на центрове за данни - Таралеж: Истината има значение",
         "description": "",
         "date": "2026-10-30T20:12:31+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHdQYUVIMS0zdVJacTZ1amo1SUllWmdIcEpDV2pLZ3BOSGtTSl8wbFVObnlNR3FrLTJDNndmaVNJTXdyby0ycG9ZWXo5am1ZY2g5NC1sVllweG50OVFFMERYc3ZXVldyQktNNDdzb3o2ZmtEcjlNVFRaM1VLallNVFo4OGFiYzRwR2dzdl9JSDJpdy1DU2ZlNlVXbG5MOTRmM1BuNXBQZzc0TDA?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
-      },
-      {
-        "title": "Мъск обещава нова ера за незрящите с технология за изкуствено зрение - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-10-30T19:12:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTFfSlVjcGlrcmZQWjcxTUVYVDRTX2szZDB6cHYzdTBrSlhCaGM5VkFLTHVGRkNjTXo1dnpXM3FHNjI4SkcyTlcxS0Nsa2laaURuZXYxSVJlNWQzR3BuTXo3LVZfREFKOWpZWVM3S3lYdkREQzF5STZtTmN6OXgwWG51NU91WDVHSEFrMFJkcUNCUVhJdWRBclhCZjdQQQ?oc=5",
         "source": "Таралеж: Истината има значение",
         "image": null
       },
@@ -657,6 +657,14 @@
         "image": null
       },
       {
+        "title": "Форум за приобщаващото образование се проведе в Стара Загора - Загора БГ",
+        "description": "",
+        "date": "2026-10-30T16:34:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNcWRfN3dFTmp1WVlPSnpxLVRWaHp1bDhOY1VJeERCQUdSNEJzVWRtOW5jQnBab0pjT0g0bFpoRjRKZURwYXpfeF8xRFg1UWctN0lpZV9pXzVmVnhGcEFoWERaUTlVV2ptZ2ozbnBPVTB0MTI3VTJZTm9wNVRiNzZHSEpxU3hNX0xWLUVmWVlCbjlpQ3Z5M25DQ0lsNElzSVRxNDJXLU9JTndMOW10Y21FUDJkSThtaVhKNzduOGx3M0w3OEJBWFNoWS13Rl90Q0t0dTRnV2EwcENSNG1QelUyQ1JwWUtuaGhqa2xaNTRGMGtRSHBhNzJVY3VDS1dWYjhqTDFaRnNYU0I3TXNRaEl1a29ONjNjd3FNemJ0R3E4QzRNSVpCQ0VXSms0RDBpVnlsMFRKOXNicUsxWVRsbVV3T1pLQi1STU9PSTNKUTYycHlQblZYNk85Z3RaeGZhWThyc1ZzRlBTdTlqY2xjazNPVVd3TlctZm5fWjFIRlhYRUpRdGRwX2JjTE05MlNObTRncnlRMjh6b1M0TlZkVkdUTERscUh3bFA4NktYVWpQdVl3OVc0bUFpS1BmbWdEd0t1b0FtcFI2WHEwamdSc3hFMGk1YUtyMzlBUklzUXBYY3JKaUJKdFMycnNfbWkyNDZsbFlrMExB?oc=5",
+        "source": "Загора БГ",
+        "image": null
+      },
+      {
         "title": "Софийският университет e домакин на 11-ия международен конгрес по психология - Дебати БГ",
         "description": "",
         "date": "2026-10-30T16:21:05+00:00",
@@ -713,14 +721,6 @@
         "image": null
       },
       {
-        "title": "В Стара Загора се проведе форум за приобщаващото образование, последван от работна среща за предизвикателствата пред училищата / Стара Загора Новини - StaroZagorci.com",
-        "description": "",
-        "date": "2026-10-30T14:53:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sUHZ3M19tMVJjWEZlNFpHendSWlpmV3dxdklTTU9TVHB4M1hUd3VYTl9ZVlVlSktHeEVnN3UyZXdjQ0c1NldnX0lWcEZHSDU5MDJ5NTdKRQ?oc=5",
-        "source": "StaroZagorci.com",
-        "image": null
-      },
-      {
         "title": "Образователна викторина за празника - TargovishteBG.com",
         "description": "",
         "date": "2026-10-30T14:46:50+00:00",
@@ -769,14 +769,6 @@
         "image": null
       },
       {
-        "title": "Бургаски ученици с интерактивно занятие в музея - Chernomorie-bg.com",
-        "description": "",
-        "date": "2026-10-30T12:57:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUpYRUpkQWFOV0dwRVI1SlZTdVZNaXNXVVdNVmVqb1JEdzlxcF9oMUxWOUU0TlhWWTRGc2NEaHJ4cW9RR3RrZUZyRGhoOWRoSlJJTEVBbVRIOGdsS2dOTlYzcHlYbDE2MWpfUWFhLWtZTy1XMncxanp3SlVoZzJwMlEtVDdNRjAyTFpabzY2NnQ?oc=5",
-        "source": "Chernomorie-bg.com",
-        "image": null
-      },
-      {
         "title": "Божидар Попов: Образование с поглед към бъдещето - БНР Новини",
         "description": "",
         "date": "2026-10-30T12:32:08+00:00",
@@ -793,11 +785,19 @@
         "image": null
       },
       {
-        "title": "Четири свободни работни места за специалисти с висше образование са обявени в Бюрото по труда в Лом - Утро Русе",
+        "title": "Медицинският университет в Плевен отбеляза 52 години с отличия за 72 преподаватели и статут на изследователско висше училище - Pleven info",
         "description": "",
-        "date": "2026-10-30T11:06:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43Tnl0LWFqQ1FhTUY0Z1lfQkFZRmZQcldkbnJIZGFPS0hHaDBnTTF2X1R5UUd5R3VoRVh6NmxFMTQwWUlmVExKZFN1cXVBZ9IBSEFVX3lxTE1PNzZXdGZKWjJhXzVuS0RCVUpScG95ZkJoYk82MkpvWHpwbUdkY0lJNGN2Z3FFS1ZJNFFvUjNtNVR0RXZXWEpZaA?oc=5",
-        "source": "Утро Русе",
+        "date": "2026-10-30T11:23:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRHEyaS1aLWRVcU42a1dJR3RNS2dRZHE0UGhZdXFKNF9NSF8xUS1OekRpamRPMmxPMmZ0b1NRdFNyWlpKMmlXRmtqYk0wbHRjOUVTOFNnOXcxcXVfTkswblZ4eGUwTFFXX2xRb0hLNG1xZFJveWVzRkZkdDZrdFBHaGxmd1dqaGpSdVNPbHYzZFBPMndCaGswWHNKS3VSTERzRmFXZVhtOFB2TDAzTmtuSXlNTVdYTzg5OUtZcHRicjhpLTE4eHA3ZVUtZ29rQUtWdTgwbW1aVmNrdWNRdHZSR1RJVXJGT015aHc?oc=5",
+        "source": "Pleven info",
+        "image": null
+      },
+      {
+        "title": "Четири свободни работни места за специалисти с висше образование са обявени в Бюрото по труда в Лом - Делник БГ",
+        "description": "",
+        "date": "2026-10-30T11:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNNWp5MktLUkRVSVhfbUtsRWVBWmppUXJ4SDQ3ZUxHV3FpcmJGVXVYMUc0RHd4SGZVbGtITV85c0lnZlI3N3RVMjhEMk92cG1mYXNPd3pLay1nMEhyOFFmZ2NOTWNkUWIwZTZCLVVtNHFBMklrQ19MajQwSXNDeGNNTTlZejF3dWdsTGVfSW45aDJJbkYzVTlrcndqbE5TazljVzZrcVUxd05acWxrTE44LWE2V1RmOHVObm9QbDdmSGM4OHQyVzF6dlhxR1R0cXJudVoxZ3lPelRBVm5hTDZWOWJPelR0TU95LVBjVFExTVl6bEpvdmVRU2RyUXB5RlBlcWV3VXIzSk5lanp4ZVZUQUxGTHMycUVUaTFWaGV6eHRGZlZYS2JHWWNIUWhHWDl6QVpjSGNjbzR5TnY5NTR5X1Uya09ndjlic0EyV1g1R0dfcEE?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -819,11 +819,11 @@
         "image": null
       },
       {
-        "title": "Проектът за дигитална свързаност „Кардеса“ се очаква да достигне България през 2027 г. - Novinata.bg",
+        "title": "Nissan разкри ключовите технологии и комфорт в новия Rogue Hybrid (+Видео) - Авто новини, Новини за автомобили | AutoNews.bg",
         "description": "",
-        "date": "2026-10-30T15:52:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlF4bzFad0Jha2ctdWxkU1hOZDdkVWxRVUFUbl91Q1Fud25CS3UxTE1GcnF0VFBUWHRnWFdweGRPSC1qUWJxZW1KMzBmZkdlcmViVFFqV3pHb3RtRm43UVJMeHdMUV80RGhGaEoyS3FPVDl3NldGWVJma3VZLV9PQktyU0lJdHYtcXQ1NGxuY1hsZXF0R01reXR2M0xaRUtFeVBCY1RpZlRjQXpTRGxxVjNaU3E?oc=5",
-        "source": "Novinata.bg",
+        "date": "2026-10-30T18:00:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWpVa3VCX3BBb280aTY5dGJMSmZpY3BnTXBrVkI5cU5vY3BUM2lEa2E5Y19nY2tBZXdER2taSXZSNzVWT1BtelVKYmNJVk9BdzF5MW9udUh0RUs4cm9NYlloZW1QUVdfdXRCS0lEQ3VvT3QySjdZYjVtN2U5SmljZUlqNHFESTVTVTBpQ3BmOFowUkhycm9wU2VhcktzU3pHMC1GQXJBLUc?oc=5",
+        "source": "Авто новини, Новини за автомобили | AutoNews.bg",
         "image": null
       },
       {
@@ -899,19 +899,11 @@
         "image": null
       },
       {
-        "title": "България има потенциал за развитие на технологии за сигурност в Черно море, заяви Виктор Данчев от „ЕндуроСат“ на форум в Бургас - Делник БГ",
+        "title": "България има потенциал за развитие на технологии за сигурност в Черно море, заяви Виктор Данчев от „ЕндуроСат“ на форум в Бургас - Утро Русе",
         "description": "",
-        "date": "2026-10-30T11:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdzd2bUVLUS0wd2c1OTFrYlRFaDY1alJOQk45NFlwN0xkX0dvOWlGUDhnSDRVMXI2N1c2S2hKTE10NlU4VURhLUlnRHA5anVjVUstYUo4YWxLNHBtMi1VcVgxb3JsNy0wekR2SWpzYktHLTNjcGpGR3l5ZW1DcG9wNEphNHE0UFNmV2JWalZlcHRrbFZiLVpYdGliVXV6Sy14WTJnQnhvbmZYdkZtSTVnY29FM25xRTVWSUN1T2xOcUpZUDMxakM3Sk1PdWFWNkVhMkVqSzFaaVRzRFBrNjJwZ3N4ZndsaWtuOXdRYjdjYkxKWURwQXVlZ0ZpSzRrMVNSMzVGTnMzMHRaaGRXZVFSWlhEbkswam1iaEF4NUk2eGxPdHl5SU1fd2dSR0g1Y0QzaEhpV1dCa0ZoSE8wbUlmSWhORXh3RHdjOXhUYmdXcXA3SnM?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
-        "title": "Високите технологии движат растежа на китайската икономика ᐉ Новини от Fakti.bg - Бизнес - Fakti.bg",
-        "description": "",
-        "date": "2026-10-30T11:43:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXRHa01VZUxOY3k5Ympad0pRUS1lVEo0akw2VzZCUmpuZ21SRXpIWlhfUnpoOUxCUXdOSTN4RUU4c2ZUMHdkRGItXzNVWHhIZmJtYjNtMkNMTlF5RjlXWHRVcVBndFNDS3RNLWgxdDRNWDZGMUdLTE51NXp6UWRfd0dzYTFGNGpwbHlNRXczd0FHN09y?oc=5",
-        "source": "Fakti.bg",
+        "date": "2026-10-30T11:54:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYbHJpYjJ6cjFkc2FqSEI5TUtqUG1zYnlFTlBDWEphNkIwLWNqNHhOVGpCMTFGNUZZNmZ5TUlzd09mclVhVzJCbmRiWkZYZ9IBSEFVX3lxTE1JanVtM1JBSHg4ODVReUFyMHI1MDFNVU00SUE2bUJxMHVhUWdiT0hBWXVRbDFFZVpKdnNQcXZLYmxxQnNYeXdIeQ?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
@@ -976,6 +968,14 @@
         "date": "2026-10-30T08:18:33+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTNzVURhSXd5NTU3RTZaUDBHUlRfekxOZ1V4U1I2dmJKUVVhSU5SLVlOR0tPdHVSVzZxSFc5S3VpT3gzRmJydGRrejM1VlRsaE55ZUQ3SzNYbXh3RC1XMFpOR0NWQk80dWwzWUJSQUV1SGNqbnc3UVQ2WG54MkhZU3FpbWZoX3E1OGlraldMVE10UHNZSFdsTFZIZnR1VlczM1h6M9IBqgFBVV95cUxOcklOY0JkTmQzcjB4UWVCejBsdXJyTC1hZVV1MWxUb0V3bGh3OHlUYkNzZlJEOEw5a2pVSDdvVVM1bEZBaXZYcmMwMDM4OFlmcDNfRkltX0puUk93TFl5T09adllwME8wVVpDRDZEUGtKRWVxZEpjZ3BxdXlaTmIwU05XM2wwUjBnaUdaMjBiQjJoaTVxNDZCNVQtR1piajRBSGM0d1pvblVoZw?oc=5",
         "source": "BurgasMedia",
+        "image": null
+      },
+      {
+        "title": "Бургас изгражда център за развитие на зелените технологии, каза кметът Димитър Николов при откриването на форума \"ЧЕРНО МОРЕ 2030\" - Утро Русе",
+        "description": "",
+        "date": "2026-10-30T08:10:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wMC11ZVlqb1dhLWdIenJsRnV0eW5BNDZuVDB3a2I0TzdOUHZkMDd0TkVSQVpqUnljcEEteVFTSE9qTTRDYVB2VNIBSEFVX3lxTE9wMC11ZVlqb1dhLWdIenJsRnV0eW5BNDZuVDB3a2I0TzdOUHZkMDd0TkVSQVpqUnljcEEteVFTSE9qTTRDYVB2VA?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
