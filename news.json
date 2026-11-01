@@ -1,9 +1,65 @@
 {
-  "generatedAt": "2026-11-01T15:44:55.271381+00:00",
+  "generatedAt": "2026-11-01T16:18:07.609371+00:00",
   "categories": {
     "България": [
       {
-        "title": "ЦИК: Към 16 часа избирателната активност в страна е 19,33%",
+        "title": "Към 16:00 ч. избирателната активност на балотажа на президентските избори е 19,33% – с над три пункта повече спрямо същия час на първия тур",
+        "description": "Към 16:00 ч. избирателната активност в страната и чужбина е 19,33%, съобщи по време на брифинг говорителят на Централната избирателна комисия (ЦИК) Стоянка Балова във връзка с втория тур на изборите за президент и вицепрезидент. В сравнение с първи тур има близо 3,5 пункта нагоре, коментира тя. Според обобщените данни, публикувани на сайта на ЦИК, активността към 16:00 часа е била към 15,95% Избирателната активност в страната по информация на кор",
+        "date": "2026-11-01T16:16:03+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237624-kam-16-00-ch-izbiratelnata-aktivnost-na-balotazha-na-prezidentskite-izbori-e-19",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14059713/20261101_132853%280%29.jpg"
+      },
+      {
+        "title": "Следете на живо в Dir.bg: Всичко най-интересно от балотажа",
+        "description": "Новините в реално време",
+        "date": "2026-11-01T16:15:15+00:00",
+        "link": "https://dnes.dir.bg/na-fokus/sledete-na-zhivo-v-dir-bg-vsichko-nay-interesno-ot-balotazha",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/01/3042969/384x216.jpg?_=1793513032"
+      },
+      {
+        "title": "Обявиха последни резултати преди официалните",
+        "description": "Канал в YouTube продължава да изнася данни за гласуването",
+        "date": "2026-11-01T16:10:00+00:00",
+        "link": "https://dnes.dir.bg/politika/obyaviha-posledni-rezultati-predi-ofitsialnite-4",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/31/3042792/384x216.jpg?_=1793456544"
+      },
+      {
+        "title": "Електромобил или ДВГ? Разликата се вижда след 150 000 км - Investor.bg",
+        "description": "",
+        "date": "2026-11-01T16:06:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTdhd3gtVzRvUW80Y3Y0MzJYdTJ2dVg1d3FBQnh4Mll6X3E0b193eV9iWlFuN3RKdU1SNDFTbzBHNkJQR2JfT0dGS2I5YmRqWXhQQWVndFRoUE1VZ3FXQzl3MVRPd015dU5Jcmg1NGY5OG4tNldaa19zOFkxV042VXNoXzhmYnhBYzYzRA?oc=5",
+        "source": "Investor.bg",
+        "image": null
+      },
+      {
+        "title": "Зарков: Гласувах за президента, който ще смекчава напреженията",
+        "description": "Предстоят тежки изпитания пред България и Европа, а цената на конфликтите не се плаща от елитите, изтъкна лидерът на БСП",
+        "date": "2026-11-01T16:03:21+00:00",
+        "link": "https://dnes.dir.bg/politika/zarkov-glasuvah-za-prezidenta-koyto-shte-smekchava-naprezheniyata",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/01/3043193/384x216.jpg?_=1793550672"
+      },
+      {
+        "title": "Проблем с машината при гласуването на Борисов, той отрече да е водил разговори с Гюров",
+        "description": "Аз съм десен човек, лидер съм на най-голямата дясна партия. Има моменти, когато, дори да е трудно и дори да имаш много забележки, трябва да гледаш напред, заяви бившият премиер",
+        "date": "2026-11-01T16:00:54+00:00",
+        "link": "https://dnes.dir.bg/politika/problem-s-mashinata-pri-glasuvaneto-na-borisov-toy-otreche-da-e-vodil-razgovori-s-gyurov",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/01/3043197/384x216.jpg?_=1793551941"
+      },
+      {
+        "title": "Паднали камъни затрудняват движението на две места по пътя Михалково – Девин",
+        "description": "Паднали камъни затрудняват движението на две места по пътя Михалково – Девин, съобщи за БТА дежурният в Областното пътно управление (ОПУ) – Смолян. Скална и земна маса е паднала преди и след тунела, като по данни на ОПУ количеството е около четири-пет кубически метра. Временно движението се осъществява двупосочно в едната лента при регулиране на преминаването на автомобилите. Пътноподдържащата фирма разчиства засегнатите участъци, уточниха от път",
+        "date": "2026-11-01T15:59:32+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237627-padnali-kamani-zatrudnyavat-dvizhenieto-na-dve-mesta-po-patya-mihalkovo-devin",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11674213/20251007_131128%280%29.jpg"
+      },
+      {
+        "title": "Към 16 часа избирателната активност в страна е 19,33% - с близо 3,3% повече от първия тур",
         "description": "Най-висока е в 23-ти МИР-София - 29,21%, а най-ниска е в Кърджали - 9,84%",
         "date": "2026-11-01T15:43:08+00:00",
         "link": "https://dnes.dir.bg/politika/tsik-kam-16-chasa-izbiratelnata-aktivnost-v-strana-e-19-33",
@@ -13,7 +69,7 @@
       {
         "title": "Не са водени никакви разговори за подкрепа, коментира лидерът на ГЕРБ Бойко Борисов, след като упражни правото си на глас",
         "description": "Не са водени никакви разговори за подкрепа, коментира лидерът на ГЕРБ Бойко Борисов, след като упражни правото си на глас в 78-мо СУ „Христо Смирненски“ в Банкя. Ниската избирателна активност Борисов коментира с думи на президента Румен Радев назад през годините, според когото причината за нея е, защото хората не вярват на управляващите, корупцията, неспазването на законите. Както и, че отливът на инвестиции също е заради управляващите и корупция",
-        "date": "2026-11-01T15:38:10+00:00",
+        "date": "2026-11-01T15:38:00+00:00",
         "link": "https://www.bta.bg/bg/news/bulgaria/1237620-ne-sa-vodeni-nikakvi-razgovori-za-podkrepa-komentira-liderat-na-gerb-boyko-bori",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14059746/KASA7675.jpeg"
@@ -51,6 +107,14 @@
         "image": "https://www.bta.bg/upload/14059769/20261101_163930.jpg"
       },
       {
+        "title": "Избирателната активност към 16:00 часа е 23,02% в 25-и район в София",
+        "description": "Избирателната активност към 16:00 часа е 23,02% в 25-и район в София, съобщиха за БТА от Районната избирателна комисия (РИК). За сравнение избирателната активност на първия тур на 25-и октомври към 16:00 часа в 25-и район в София беше 19,7% по данни на РИК, припомня БТА. Правото си на глас са упражнили 82 038 от общо 356 417 избиратели. Изборният ден протича нормално, без нарушения. Прекъсната е работата на две машини като в едната секция вотът п",
+        "date": "2026-11-01T15:12:00+00:00",
+        "link": "https://www.bta.bg/bg/news/1237498-izbiratelnata-aktivnost-kam-16-00-chasa-e-23-02-v-25-i-rayon-v-sofiya",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14058918/MIN_2630.jpeg"
+      },
+      {
         "title": "ФСС задържа непълнолетен руснак след сигнала от САЩ за заплаха за атентат в Москва (видео)",
         "description": "Руската Федерална служба за сигурност благодари на американските си колеги",
         "date": "2026-11-01T15:08:59+00:00",
@@ -67,10 +131,10 @@
         "image": "https://www.bta.bg/upload/14058703/MIL_1140.JPG"
       },
       {
-        "title": "Към 16:00 ч. избирателната активност в страната е 19,33%, съобщи говорителят на ЦИК Стоянка Балова",
-        "description": "Към 16:00 ч. избирателната активност в страната е 19,33%, съобщи по време на брифинг говорителят на Централната избирателна комисия (ЦИК) Стоянка Балова във връзка с втория тур на изборите за президент и вицепрезидент. Най-висока е в 23-ти МИР-София - 29,21%, а най-ниска е в Кърджали - 9,84%. На първи тур избирателната активност към 16:00 ч. в страната беше 16,04%.",
+        "title": "Към 16:00 ч. избирателната активност е 19,33%, съобщи говорителят на ЦИК Стоянка Балова",
+        "description": "Към 16:00 ч. избирателната активност е 19,33%, съобщи по време на брифинг говорителят на Централната избирателна комисия (ЦИК) Стоянка Балова във връзка с втория тур на изборите за президент и вицепрезидент. Най-висока е в 23-ти МИР-София - 29,21%, а най-ниска е в Кърджали - 9,84%. На първи тур избирателната активност към 16:00 ч. в страната беше 16,04%.",
         "date": "2026-11-01T15:06:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1237557-kam-16-00-ch-izbiratelnata-aktivnost-v-stranata-e-19-33-saobshti-govoritelyat",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237557-kam-16-00-ch-izbiratelnata-aktivnost-e-19-33-saobshti-govoritelyat-na-tsik-st",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14059013/1000043755.jpeg"
       },
@@ -81,14 +145,6 @@
         "link": "https://www.bta.bg/bg/news/1237606-v-edna-ot-sektsiite-v-grad-yambol-se-preminava-kam-hartien-vot-zaradi-povreda-n",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14059738/20261101_140157.jpg"
-      },
-      {
-        "title": "Следете на живо в Dir.bg: Всичко най-интересно от балотажа",
-        "description": "Новините в реално време",
-        "date": "2026-11-01T15:03:21+00:00",
-        "link": "https://dnes.dir.bg/na-fokus/sledete-na-zhivo-v-dir-bg-vsichko-nay-interesno-ot-balotazha",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/01/3042969/384x216.jpg?_=1793513032"
       },
       {
         "title": "Излязоха нови резултати от изборите",
@@ -145,65 +201,33 @@
         "link": "https://www.bta.bg/bg/news/1237599-izbiratelnata-aktivnost-v-burgaska-oblast-e-19-01-kam-16-00-chasa",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14058449/IMG_8112.jpeg"
-      },
-      {
-        "title": "Избирателната активност в област Кърджали към 16:00 часа е 9,82 процента",
-        "description": "Към 16:00 часа избирателната активност на втория тур на изборите за президент и вицепрезидент в област Кърджали е 9,82%, обяви председателят на Районната избирателна комисия Венелина Милушева. Гласувалите са общо 27 041 от над 274 хиляди имащи това право. На първия тур на изборите активността към 16:00 часа е била 6,76 процента или 18 605 гласували. Най-висока е активността в община Черноочене – 9,22 процента. Общините Кърджали и Ардино са с една",
-        "date": "2026-11-01T14:55:00+00:00",
-        "link": "https://www.bta.bg/bg/news/1237597-izbiratelnata-aktivnost-v-oblast-kardzhali-kam-16-00-chasa-e-9-82-protsenta",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14059713/20261101_132853%280%29.jpg"
-      },
-      {
-        "title": "Близо 19,5 процента е избирателната активност в Ямболско към 16:00 часа",
-        "description": "Към 16:00 часа 19,47 на сто от избирателите в област Ямбол са гласували на днешния втори тур на президентските избори, съобщиха от Районната избирателна комисия (РИК). Активността е с над три пункта по-висока спрямо тази към същия час преди седмица (16.07%). Гласували до момента са 20 169 души от общо над 103 хиляди, включени в избирателните списъци. По общини данните на РИК сочат най-висока активност в община Болярово – 44,24%. По активност след",
-        "date": "2026-11-01T14:54:38+00:00",
-        "link": "https://www.bta.bg/bg/news/1237596-blizo-19-5-protsenta-e-izbiratelnata-aktivnost-v-yambolsko-kam-16-00-chasa",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14059710/20261101_140138.jpg"
-      },
-      {
-        "title": "Избирателната активност в 23-ти район в София е 24,62% 16:00 часа",
-        "description": "Избирателната активност в 23-ти избирателен район в София е 24,62% към 16:00 часа, съобщиха за БТА от Районната избирателна комисия. За сравнение с първия тур към същия час избирателната активност в 23-ти район беше 25,7% по данни на РИК, припомня БТА. Изборният ден протича нормално, без нарушения, машините работят, информираха от РИК. Правото си на глас са упражнили 83 694 от общо 437 944 избиратели. В 23-ти изборен район, който обхваща районите",
-        "date": "2026-11-01T14:52:57+00:00",
-        "link": "https://www.bta.bg/bg/news/1237487-izbiratelnata-aktivnost-v-23-ti-rayon-v-sofiya-e-24-62-16-00-chasa",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14058701/MIL_1136.jpg"
-      },
-      {
-        "title": "Към 16:00 часа избирателната активност в област Стара Загора е 20,46 процента, съобщиха от Районната избирателна комисия",
-        "description": "Избирателната активност в област Стара Загора е 20,46 процента към 16:00 часа, съобщиха от местната Районна избирателна комисия. Правото си на глас във втория тур на президентските избори са упражнили 57 527 избиратели от общо 281 152 души, включени в избирателните списъци. Най-висока остава избирателната активност в община Опан - 30,77 процента. Там са гласували 575 от общо 1869 избиратели. На второ място е община Гълъбово с активност от 28,07 п",
-        "date": "2026-11-01T14:51:39+00:00",
-        "link": "https://www.bta.bg/bg/news/1237591-kam-16-00-chasa-izbiratelnata-aktivnost-v-oblast-stara-zagora-e-20-46-protsenta-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14058428/20261101_091953.jpg"
-      },
-      {
-        "title": "Избирателната активност на балотажа на президентския вот в област Русе към 16:00 часа е 19,94%",
-        "description": "В област Русе избирателната активност на днешния втори тур от вота за президент и вицепрезидент към 16:00 часа е 19,94%. Това каза заместник-председателят и говорител на Районната избирателна комисия (РИК) в града Стела Стоилова. Тя добави, че до този час правото си на глас са упражнили 39 002 души от общо 195 645 избиратели в областта. Най-висока е активността в община Русе – 21,67%, следвана от Ценово – 20,77%, и Иваново – 20,75%. В община Бяла",
-        "date": "2026-11-01T14:51:34+00:00",
-        "link": "https://www.bta.bg/bg/news/1237573-izbiratelnata-aktivnost-na-balotazha-na-prezidentskiya-vot-v-oblast-ruse-kam-16-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14059644/%D0%A1%D1%82%D0%B5%D0%BB%D0%B0+%D0%A1%D1%82%D0%BE%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0.jpg"
-      },
-      {
-        "title": "Избирателната активност в Пловдив-град към 16:00 часа е 20%",
-        "description": "Избирателната активност в Пловдив-град към 16:00 часа е 20%, съобщиха от 16-а Районна избирателна комисия. Правото си на глас са упражнили 61 143 души. Към 16:00 ч. най-висока е избирателната активност в район \"Централен\" - 23,4 на сто, а най-ниска - в \"Източен\" - 11,08%. Няма подадени съществени сигнали и жалби. Всички машини работят, каза председателят на 16-а РИК Ивайло Василев. В Пловдив-град са образувани общо 488 избирателни секции, от коит",
-        "date": "2026-11-01T14:51:18+00:00",
-        "link": "https://www.bta.bg/bg/news/1237593-izbiratelnata-aktivnost-v-plovdiv-grad-kam-16-00-chasa-e-20-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14059121/BIB_6323.JPG"
-      },
-      {
-        "title": "Избирателната активност към 16:00 часа в област Търговище е 15,96%",
-        "description": "Избирателната активност в област Търговище към 16:00 часа е 16, 92 %. Правото си на глас за упражнили 18 658 души, съобщи за БТА председателят на Районната избирателна комисия (РИК) в Търговище Диана Игнатова. За сравнение, преди седмица, на първия тур на изборите за президент и вицепрезидент избирателната активност към същия час бе 11,75%. На балотажа на изборите за президент и вицепрезидент по активността по общини е: община Търговище 16, 92% -",
-        "date": "2026-11-01T14:48:19+00:00",
-        "link": "https://www.bta.bg/bg/news/1237588-izbiratelnata-aktivnost-kam-16-00-chasa-v-oblast-targovishte-e-15-96-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14058786/20261101_110856.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Германската министърка на образованието обеща да се вслуша в младежите след протестите в страната",
+        "description": "Германската министърка на образованието Карин Прин осъди безредиците след младежките протести в няколко германски града, като същевременно настоя, че важните въпроси, повдигнати от младите демонстранти, трябва да намерят своя отговор, предаде ДПА. \"Фактът, че на някои места склонните към насилие лица отклониха целта на демонстрациите, отмества вниманието от истинските искания на младото поколение. Лично аз съжалявам за това\", посочи Прин, която е",
+        "date": "2026-11-01T16:13:52+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1237613-germanskata-ministarka-na-obrazovanieto-obeshta-da-se-vslusha-v-mladezhite-sled-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11093420/a57e00ca2b934093a64581d3401cc831--0--37380b083df74175a045419ebc7b26e1.jpg"
+      },
+      {
+        "title": "Зад кулисите на Президентството: Невидимият свят на протокола, в който всеки детайл има значение - nova.bg",
+        "description": "",
+        "date": "2026-11-01T16:07:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8gVBVV95cUxPdlVOOVVnbkRuS2hjdXlsbm9zTHJESmdWVHE4NDNaeTFza3loRE9maXFVcUNpYnBZcUxRUEljUGZtNVlod2l4NjllcWNBd1NLSDM4OVhlR3QybFU3SWtrbC1CYzVQUmpReTBtZk9rVVNrd1o0T0phdHpNS2c3ZHBzU1hlSkFIRnphbkZhckNnX1gwQ3hhWUlvWlZFTThJVHJkOGhfc3VwdHJUcWpfNmlfRUk2a3puSC1OVVdKMEF5Z2JzWFVxYm96cUxDaFJyaGJ4a0dHSTdYLW5qdXdUb25fVktKYVA3X2NUaE5aWF9vOXlMVlFPWEtXTEVjeThUWG1mTDdtb09hS3lsTVRJeTJZeHJ4UWNpLTV1MTFKTXMycHJrQk5SdEF6UlpGMy1RamJuMUg5ZTk1VWZaUVgxN2lLRlZDUDBZV0RLRzk0aUtQX2hmZ3k3Y0NGY2t0aVdpdFZseDBKUlJhaXJTekN3NS1FRjdfSkNzdVNWaFZ5NE5zcmZGOGlIamZOaGNneFM3cWFqV1h6b1MtazhYbW5tblU4Qy1GLXdhTTFGUUFvQ3p3ZS15c1o0RXIwclk3NGZ6UU9Hc3A5OWtNR2ZoR2otbzFITVVub3lJSWNmZjZWNnJxeFhsdHBiUm5UbWVfNVg4VGVETW95eWtVZ05yb3lxMXplc0J2enhUS0FCaURBVVZ0V0lTaE5TNzgyaGVqWmpuZGhuZjVFSldHUHdJRHptOG1LM0t5Y25WUmpmbDlWNkhpQTJrRlRzM1QxTXZlTzhHbVFvMHNVdlNteHdqcWdEN3dSbEMybktESW80M21QZk1DMm9CTG91T2JRNU5TUTBVbnBuU3ZGNnNTS3piYUZiMzRrYjhNeEpELWlGazZlV0F3NjhWQ1QxUHVuSjFIb2J3anJwdlpadEFIRk80WTdXZ0lsM1RvQ1JlU1BHdzdad3lxemR1N2duTFJ5UVBabW5tQXoxenhCa2h5WE5tLXhKdUVQanZR?oc=5",
+        "source": "nova.bg",
+        "image": null
+      },
+      {
+        "title": "Поддръжници на левицата и мигранти са отговорни за насилието по време на вчерашните протести в Германия, заяви германският вътрешен министър",
+        "description": "Германският министър на вътрешните работи Александер Добринт днес осъди вчерашните безредици, последвали младежките демонстрации в няколко големи града в страната, включително Берлин, Кьолн и Франкфурт, като обвини „смутители на реда“ за насилието, предаде ДПА. „Склонни към насилие леви групи и смутители на реда от мигрантските общности снощи се възползваха от мирните демонстрации, които се проведоха през деня“, заяви Добринт пред таблоида „Билд“",
+        "date": "2026-11-01T15:48:01+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1237538-poddrazhnitsi-na-levitsata-i-migranti-sa-otgovorni-za-nasilieto-po-vreme-na-vche",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13819689/0b921678f52e4f1693ef98c3c65345d7--0--27d9a16996704620845bb54ef7d95b1b.jpg"
+      },
       {
         "title": "След сигнала от САЩ! Москва задържа непълнолетен за готвен атентат - Стандарт нюз",
         "description": "",
@@ -245,20 +269,20 @@
         "image": "https://www.bta.bg/upload/11027518/24bdf1a1e5ca48bda16e7319e0e42f7e--0--96f256fe469848b5972c6d13a5a6dbe5.jpg"
       },
       {
-        "title": "Отиде си един от гласовете на „Любе“ - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-01T13:39:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnNCOUxnWmk0V0NieGVrT0diQ1YwOEVncFhLaUl1U0tySEw4bTVOUE5MZ3B5dEpKbmRPWXQwa1ZYQjZHMVJyeEx1V1c0ZmJxZDNlUng0NmlEZkFlZE5oVzIzZE1jMG55TWVobkxKYVhLMVJUT3BhWmhiS1I0cXVWLVllN2NmanM1LUE?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Китай не проявява интерес към провеждането на тристранна среща с Русия и САЩ за Украйна, заяви германският президент",
         "description": "Китай не проявява интерес към провеждането на тристранна среща с Русия и САЩ за обсъждане на примирие в Украйна, заяви германският президент Франк-Валтер Щайнмайер в интервю пред германската телевизия, което ще бъде излъчено тази вечер, предаде ДПА. Щайнмайер посочи, че е повдигнал въпроса за срещата пред китайския си колега Си Цзинпин по време на посещението си в Пекин в петък. По думите на германския президент Си е заявил, че е възможно тримата",
         "date": "2026-11-01T13:10:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1237483-kitay-ne-proyavyava-interes-kam-provezhdaneto-na-tristranna-sreshta-s-rusiya-i-s",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13987301/2953ec450c414683a867da22d7a2dd87--0--0542f5fc412e48b89d9dc779fdf46814.jpg"
+      },
+      {
+        "title": "Меган и Хари отбелязват 10 години от публичното разкриване на връзката си - www.24chasa.bg",
+        "description": "",
+        "date": "2026-11-01T13:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sd29CSWZkRWtZWXJqUndZYXdqcGdubGFXU3BRSDdPRk44ZDNFLUNQYk5vS1NmTW9JMUJUblpQV29Rc1d3MnhvNklMb09hajN1UkEzY05WWmdPOGpvNE1N?oc=5",
+        "source": "www.24chasa.bg",
+        "image": null
       },
       {
         "title": "Изтриха Мона Лиза и забулиха жените: Скандал с учебниците в Сирия - Стандарт нюз",
@@ -275,6 +299,14 @@
         "link": "https://www.bta.bg/bg/news/world/1237520-po-visoka-aktivnost-na-balgarite-v-niderlandiya-na-balotazha-za-prezident-i-vits",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14059318/20261101_121414.jpg"
+      },
+      {
+        "title": "Отиде си един от гласовете на „Любе“ - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-01T12:39:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnNCOUxnWmk0V0NieGVrT0diQ1YwOEVncFhLaUl1U0tySEw4bTVOUE5MZ3B5dEpKbmRPWXQwa1ZYQjZHMVJyeEx1V1c0ZmJxZDNlUng0NmlEZkFlZE5oVzIzZE1jMG55TWVobkxKYVhLMVJUT3BhWmhiS1I0cXVWLVllN2NmanM1LUE?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Унгария отваря досиетата на тайната комунистическа полиция - Свят - manager.bg",
@@ -349,14 +381,6 @@
         "image": null
       },
       {
-        "title": "Меган и Хари отбелязват 10 години от публичното разкриване на връзката си - www.24chasa.bg",
-        "description": "",
-        "date": "2026-11-01T10:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sd29CSWZkRWtZWXJqUndZYXdqcGdubGFXU3BRSDdPRk44ZDNFLUNQYk5vS1NmTW9JMUJUblpQV29Rc1d3MnhvNklMb09hajN1UkEzY05WWmdPOGpvNE1N?oc=5",
-        "source": "www.24chasa.bg",
-        "image": null
-      },
-      {
         "title": "Гласуването на изборите за президент и вицепрезидент в Брюксел преминава спокойно и при по-слаб интерес в сравнение с първия тур",
         "description": "Гласуването на балотажа в изборите за президент и вицепрезидент в Брюксел преминава спокойно и при по-слаб интерес, в сравнение с дообедните часове на първия тур, видя кореспондентът на БТА. В Белгия бяха открити общо 16 изборни секции. В първия тур в страната бяха подадени 2553 действителни гласа. За изборите тази и миналата седмица бяха осигурени двойно повече машини, в сравнение с парламентарните избори от април. Днес отново повечето гласуващи",
         "date": "2026-11-01T10:31:27+00:00",
@@ -379,30 +403,6 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnFZa01RalAyR3BWcEcwa2x4a2JZckpGb1FrR3ByWVBMamtCU09QR1MtQkxaalNScURQY1lub3RHdkpKbWcwYXdhSEVRNlNyN0k2akIwSUd3MHNvVkxrZThkSDc5VkJtZG5HaTRFRTRPWDUybDlGY0cwdDU5QjdvOXdTa3Z0WXM3elNBeWJoeDFPYnVGcGRDanhuWWt1bzB2YzFnOTI4emYzWkQxMnprMVpnTHJiSkhXcHpHX2JNdkdscmpZ?oc=5",
         "source": "manager.bg",
         "image": null
-      },
-      {
-        "title": "Комунистическата партия на Китай обяви, че засилва контрола върху длъжностните лица",
-        "description": "Китайската комунистическа партия прие мерки, насочени към засилване на вътрешнопартийната дисциплина, включително за по-интензивно възпитание в лоялност към управляващата партия и по-строг контрол върху длъжностните лица, предаде официалната китайска информационна агенция Синхуа. Мерките предвиждат разширяване на изучаването на партийната и националната история, засилен мониторинг на кадрите през цялата им кариера и по-строг контрол върху деклара",
-        "date": "2026-11-01T09:53:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1237402-komunisticheskata-partiya-na-kitay-obyavi-che-zasilva-kontrola-varhu-dlazhnostn",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14048221/fd5a9e76856b4e3292b57b3faec78f71--0--9219b8b9e5aa481584a6e3a78fd3e2ee.jpg"
-      },
-      {
-        "title": "Българската общност в Лондон гласува активно още от сутринта - Novinite.bg",
-        "description": "",
-        "date": "2026-11-01T09:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjlzQnhTb2tJRVZCSnRkdHU5Z2FqME82M3FyUm5KdjAyWWFnalJSWktZMmd5cU1CWVV6RmhOOXNqZFZKNmQ5VFdVQWF3V1VmMW9WQnBMRnFTSEs0ZE9aVE1yRzcwbnVjS2Q2aU44LTM2WnAtcXRfN2lPS3drQ2VoWVNkQzBjdldGRXJETUdjQUN4VTF5Vlhpd090S01UWFBhZkloV3BDQQ?oc=5",
-        "source": "Novinite.bg",
-        "image": null
-      },
-      {
-        "title": "Руските власти казаха, че предприемат мерки за осигуряване на гориво в Нижегородска област след украинската атака с дронове",
-        "description": "Властите в руската Нижегородска област предприемат всички необходими мерки, за да осигурят наличието на гориво по бензиностанциите след масираната украинска атака с дронове, при която беше повредено промишлено предприятие, предаде Ройтерс, позовавайки се на ТАСС. Областната управа призова шофьорите да зареждат гориво само според нуждите си, за да не предизвикват паническо изкупуване и недостиг. Доброволци са възобновили работата си по бензиностан",
-        "date": "2026-11-01T09:25:16+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1237392-ruskite-vlasti-kazaha-che-predpriemat-merki-za-osiguryavane-na-gorivo-v-nizhego",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13611354/fe2a318ec55941e58e021808c7a7fc94--0--7d7d9a31bc1b42b19762eb3010fe2c6d.jpg"
       }
     ],
     "Наука": [
@@ -431,6 +431,38 @@
         "image": null
       },
       {
+        "title": "NYT: Политиките на Тръмп отслабват американската наука - Fakti.bg",
+        "description": "",
+        "date": "2026-11-01T07:06:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzNQa0xaemN4RlZoVTNPWHJWT2dfNXpfa1o1QXhYdUVZMnFfVWRuZmFfZUhZdHRxR1VvQWV5VG9ETjd5Z3AzUl9JZm5OakhONFV1SktkUDBHRkZIbUdSQ3l6Y3hYbjdDMFVUYl8wN0s2cW9QN1l3bkJPN2tMdVRZQktmOFVSaV9Lc01OMQ?oc=5",
+        "source": "Fakti.bg",
+        "image": null
+      },
+      {
+        "title": "1 ноември е и празник на българската журналистика и българската наука - PlovdivNow",
+        "description": "",
+        "date": "2026-11-01T07:00:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ01EX0ZpQlZndFI2MThjUy1nVzh6ZXJzQ2R2T0c3SFp3amlaUlBoa2Mxc04xdDZEeTd3anBQQkYtMHVVclRiVTJyMHgwWEh4eFV2Vm0wYnVPWTE3d2JqSjFYYjRuRkVqNk5oeWNQb2tLa05qTEpzRmxnM0twSEkyUEd5MGVoVXZKTnRsWVNMMk4?oc=5",
+        "source": "PlovdivNow",
+        "image": null
+      },
+      {
+        "title": "Румен Радев оцени българските научни изследвания на 800 метра асфалт - Frognews",
+        "description": "",
+        "date": "2026-10-31T08:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDgzT3NjQnZkN1IwUjMwZERIcGRIMXFzc1A4SHRmaXR1VEF1RmNEb3I5T2xRWWRHa2RUb0lvbHNvdlh1SjVEbTF1RWliZHhxVHJKVnphR1NXbmREVnZ0VlBDMFUzSUpuN0ZzS0Y2S1JVdmNjZm5HZnlrOUtkOGo4cHVqX2NiMV95c0I2UlF0SEpLS2lzTG9zem9iUTJaR3RiRUF1UHdZT3dPeHNNbDlHUW1jelhDWkRi?oc=5",
+        "source": "Frognews",
+        "image": null
+      },
+      {
+        "title": "Огромни звезди може да са извършвали \"кражба\" на маса от съседни звездни тела - Днес плюс",
+        "description": "",
+        "date": "2026-10-30T17:25:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjBVZGNMM1ZlOGJVV1NNUmtJeFd1bzFIdUFKbVJwMkVpdExCYTJRZXpXMlB0WnM5VlpfbEZ2MmdPRWdhMkw4MXlMd0VyT3NDaTVzQktaS2lkZmUzWXpZeGM2SGhXMGdWa3lpcFdyN19HWXVNX3VNMVVWSERZTlNMY1BUeWV1MHVwQm95QkJrVVdQT3FQY0pPNTIydUg1Mk5HYzFWVmxlUXRmVS1saHVRdWtR?oc=5",
+        "source": "Днес плюс",
+        "image": null
+      },
+      {
         "title": "Двама учени на МУ - Плевен са носители на престижните награди „Питагор“ 2026 за наука - Посоки Плевен",
         "description": "",
         "date": "2026-10-30T16:14:00+00:00",
@@ -455,27 +487,11 @@
         "image": null
       },
       {
-        "title": "Индустриите за продължаване на живота: от стремеж към дълголетие до икономика на бъдещето - manager.bg",
+        "title": "Българската академия на науките и Съюзът на учените в България връчиха годишните си награди - MediaBricks",
         "description": "",
-        "date": "2026-10-30T11:21:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2RGSUlQNm1lWFlQMFJXNTNON0QxczhmQXcwUDdOZVlhRmZ2cjdyUGJzaDBWSWNLRlVPZFRUVmJicjM4QlcyZUZQSmg5M1FIWXNnRXVPWDdpNVhGMjAwWnFPcnpaLTFmY1NScWlqMTA3RklLQkptZUd4bkNELS15bjZGejNqYTBydnk5VXBJcnhTVXhua29SbWVaMnlZLTRTNWREalFoNmF6N0hXRGU5UHJyZllFaU9MMzNZT1Vqa1k?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "867.8 млн. евро за наука и изследвания през 2025 г. - Clinica.bg",
-        "description": "",
-        "date": "2026-10-30T11:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGtpX2pCTDdVaTUxWklNcUNSRHRQY1VOQ3NZSTZ5aUNCWmlwemFUeHdpeUZILUtxVFg1SGd0U0plalhFU1ItV2xQTHlRblhtbTd0bGtEZlFTWUI4VVpKc2VickRrdkhJeXBSdFVQXy0tc1Z3UFZFQjJXTHF1SEVWbw?oc=5",
-        "source": "Clinica.bg",
-        "image": null
-      },
-      {
-        "title": "МОН връчи наградите за наука „Питагор“ - Министерство на образованието и науката",
-        "description": "",
-        "date": "2026-10-30T10:37:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSXNIS080bHNmSUx1VUh6aG95aEhmYl82bGNDcnowaENtUmRZNG1mT1FDZU9YcS13ZGVRUEFNbmVzOS1xV2N0UTlQc3E4M0J6ck1HTk5DNklmZTZGQU5wLWRUNUtrMHp5RVRseXdRNmc?oc=5",
-        "source": "Министерство на образованието и науката",
+        "date": "2026-10-30T10:54:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU25xT0FJVkRYbm5CT2FhYy1mQmpCOVFJOFpVYUhPMDRZemJTWHBaTmJxTHRuSGNaYUFfa2dSUWU4MkdQM21PNFc5NEV3eGJDLWhPTW8taU4xa056VElMZ2NjeW90dHFyRnlUWVFKczNmQ1JQUC1idUhZRjlqZTk1d3pmdkFKVXlsU19Lc3hKNEEta0plREU4S2c4dUJLUzNaTTV0OFNqU1I4N0RXSkdNU3dIZDRGTU5hdm94NTF3?oc=5",
+        "source": "MediaBricks",
         "image": null
       },
       {
@@ -484,14 +500,6 @@
         "date": "2026-10-30T10:34:13+00:00",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSS1RQkdTMjhlMUdCUlhLcUUxel8wQ3JNMHY2emZHMTcwcUt6ejNRQUoxQmlMUkRjYlNFVVlOS2JyekI3WV8zNXF1REN2RG03eG9LdGgzR2dvaHU4bHhKRkRmdGNCNks2cXdFSGFBdkRWZ2FRMWlRWTBKTndmSmtVbzF1QnBRUFYycEN1ejlRSWJTVmNHX2hScjBuWlJRUzlLRWtkc2RuYUpOUFFwT1Q5dUlHMGJTWGMtSUE?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Екатерина Захариева: Европа трябва да удвои инвестициите в наука и иновации - 3e-news",
-        "description": "",
-        "date": "2026-10-30T10:29:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2NWeW9ZRTBnenpCX1l2SDh0bUh4a0dYOXJpOEw2VXFtNGlYRTZTcUxiOU9obDh6aW9iR3dVbTNMdlFRMzJNVXdvalZSQXE3RnRwNnMxanY1bVhtM3VkeFRKb29IRDVWVzB5aU1tblF1My1IUzhIZHFJMnlpVlpPbDNnUkNNeUdfa2FYY2N5NHZXYTZDLURSb0J1WXVaTW9wWW16SHBrcWhfcExyTVVxUA?oc=5",
-        "source": "3e-news",
         "image": null
       },
       {
@@ -535,11 +543,27 @@
         "image": null
       },
       {
+        "title": "Радев: Ще увеличим средствата за наука от 35 на 62 милиона евро през 2027 г. - Mediamall",
+        "description": "",
+        "date": "2026-10-29T17:01:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGJOTUhfc2x5SmJKX3BNaUFyX192dGh0SmlNQ2FYN0MzdVJLb3BUVmpDYjNHUEp3andpa19OZHNWQTk1TG1zWGMtV1BHaU5LeHV5SFlPZExRcUsyOVVjc0ZrQTZUeFJLUHFZa0RLbWprazQzSXMxUUZ1T1BjaGZ5Ukc4YW90ZDVmNndHT3BIaDRYeUlMX2JuQzl1S0lKYm1UMUYxUjhKMFR2Nk9Rd2U1ZVR6RS1lVUFueUI5Uw?oc=5",
+        "source": "Mediamall",
+        "image": null
+      },
+      {
         "title": "ВРЪЧВАНЕ НА НАГРАДИТЕ ЗА НАУКА „ПИТАГОР“ (на живо) - Министерство на образованието и науката",
         "description": "",
         "date": "2026-10-29T16:18:15+00:00",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZX05lVmR5aHpyell6b3BaSWFmTFh3V1lENUFBeHRYLUd1NE5sRGxiNVNSQXo2dS1tdWFXdXMtRTBDTG9QR3U3R0ZmT1ZlelZiY09pX21iQkd2aHBMbkNiT3NNV21lS1lBWGRIaHBhRGFFU0lRMi1LM3dyWWZTUQ?oc=5",
         "source": "Министерство на образованието и науката",
+        "image": null
+      },
+      {
+        "title": "Премиерът: Държавата е в дълг към българските учени, увеличаваме средствата за наука през 2027 г. - Petel.bg",
+        "description": "",
+        "date": "2026-10-29T16:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTdoZHlIZy1ia0sxSVgwZ0xSaVJXakJOQXpZQ2RPajFweUVLb08ydFFxeFNMMmtraG1nTGxvaFJQbVdMLURwanctQzQyamJ0enFFV2FMVFhvMVRjazRqVkpIaUpnR3NsREFjZkxVMjVtdDdfZjI2bW13UW1xUkx1bExueGxIZGFFbUFtNUdQZFU0LW40V1dLMnVzWEY3VVgwVlVrQ3hkZG1peExCeTV6QUswcE14S1Z4R1UyY1RselJkQjQ?oc=5",
+        "source": "Petel.bg",
         "image": null
       },
       {
@@ -567,23 +591,39 @@
         "image": null
       },
       {
+        "title": "Българската наука ликува: Кои са новите Питагори? - NetNews – Новините на Ямбол",
+        "description": "",
+        "date": "2026-10-29T08:57:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mc09vb05WTVZzaDlxQkM1T3BSenF0eDBnd2FYMGpDTXZnOU5SZkxJN3gweUtwOXkxY29lQUVwTWFlc2lWclpwRE4yT09tQktHd3ZuYVB4anFBOUFadURCQW1lUXAyV2twaXFaMF9abC1YX0V2eHc?oc=5",
+        "source": "NetNews – Новините на Ямбол",
+        "image": null
+      },
+      {
         "title": "ЗАМ.-МИНИСТЪР СЕНЯ ТЕРЗИЕВА ОТКРИ ЕВРОПЕЙСКАТА КОНФЕРЕНЦИЯ ЗА РАЗВИТИЕ НА НАУЧНИТЕ КАРИЕРИ EURAXESS В СОФИЯ - Министерство на образованието и науката",
         "description": "",
         "date": "2026-10-28T21:47:20+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbFFpSmJPcDN3MXloczhnT3pUYzVXX29leFIxZUVRMHRpZEFVTzZ1Y2kySlpiaW5aU0hfcDA2Y0RJT1dCWmI0MlROQzRKQmgwV3ltbjR6REtaMHp1dlJKZ0lSaGdPMm5NZzkyeFpTaGhDUlFkSnNZTkUyaWlUSTJoZWZlMC1Tc2hNeHM5MC1lY3lYSUlDUVpkVUF3WEZWUzlfSGp6U2RxUWRfbm5YQWpTd0ZIQldPaEJkR3hqSDgwTnlkWDMzUF9nZUFWY2g0TldmT0E?oc=5",
         "source": "Министерство на образованието и науката",
         "image": null
-      },
-      {
-        "title": "МОН връчва Националните награди за наука „Питагор“ на 29 октомври - Novinata.bg",
-        "description": "",
-        "date": "2026-10-28T16:43:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1publRCYjNlR0lZQWhvUEJLNmlvNms4RmhwcmloV2V0OFQ4Q2QwWm5jMUwwUVRKRUxuTHg3aW9GX0VHemI3cWE2OGJCbERIV1RUa1FtcjhCbkdicW0wQ0c5bWZHbVUtYTItT3FIZ0xDZTZuTG1sYjZ6bGhidlNtX2pzUGdJVnEtVnByandhYlRkTVJrTXJyR2Z3?oc=5",
-        "source": "Novinata.bg",
-        "image": null
       }
     ],
     "Образование": [
+      {
+        "title": "Димитър Димов от Кърджали е сред осемте отличени учители на МОН - БНР Новини",
+        "description": "",
+        "date": "2026-11-01T16:14:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObG1jRENMalV6NzY4cWFrcjY4dHRFRlRSbTZzbjkzd3MtRFJ1eWw3Qk56YzYxbFRvLXZ4Y1hmOElsVWZyYmpUZjVGT3p5c2Rsc19ENVlGQU1pUUsyUmpQaWkzbkpDU3dFWUdBeGdNUnl2TDktREJxbjFSSmwyVk01MnBjQUxxYnBoZy1tbEdqMzBWT2NIYmo0VUU2ZDluNzVvYXNHT25aODFMak0?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "В Зоопарк – Стара Загора откриха първата образователна оранжерия Plantia в България - Novinata.bg",
+        "description": "",
+        "date": "2026-11-01T16:07:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXVMYzR4TG1UckpQOGhMWDFIeTNYWnp4ZktsdVVXZ21XQVJyNF9raU5QdGV1OUY1dExMUllwRHdrdVdLeWJ3QTBpYmc5QVZBU3dvcXNZN2tWQnE1djZfRHlrQ3hTRl9wVGxZd3FOTTVBc283dTIwbWFnMVJxVnJTQWhUeWFSVnZzeFpkcWVfbDZiY3FvZTJFT0I1MVZGTnZqOUJTQW5LS2tVT3VWNkNV?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
       {
         "title": "В гимназията в Средец с образователно състезание за будителите - Chernomorie-bg.com",
         "description": "",
@@ -606,6 +646,14 @@
         "date": "2026-11-01T14:17:49+00:00",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelJTU0QwLU9lQW5xMXpfM0h0aEV3blp0alBUd1FrWHhDSzlSQWg1Mmswc2dlWnZIZkRPTTdvbG9iU1lSLVFkQ0VhTHJwem5KTG9hYnZKS3E0N01YMkwwLTVwMlB0NDVMYXVhNnVoNmphNHFRLXhfQkRESVB3V294SGJSQTdoekhvN0VueURvOE1Cc0VxYmRMV2xHUjF1d3RzelYtbExWUjBVa0ZfSXhELU5FMA?oc=5",
         "source": "https://vburgas.bg/",
+        "image": null
+      },
+      {
+        "title": "Отново блокират френски училища (СНИМКИ) - bTV Новините",
+        "description": "",
+        "date": "2026-11-01T14:12:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByOFEtZU44R1lyMHFack9lVnlabHVkemxOVVBYNjZ6WkllTlRUeTJaYnplMzJaaU85V2swX2Z3UzJhcjNabDBqc3UyQ24xYWFVMmFTd0c2cThtZEVTS2poRzhvT1lDMWN6NEdBYXZTWl9qeUg5M1Q5UQ?oc=5",
+        "source": "bTV Новините",
         "image": null
       },
       {
@@ -759,35 +807,19 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96dkgyMnRGUHpCYmUyUWJVTmh1cnVIYjU5YjNSM0pKaWRlSVQwVERUSUo3QnB5SmFoR0p2OGtYblNQejVLakZZUGdleEJIRmlhbmlzRTFSb196VXI2YnJpTFpVaExCcHUtOXoxR2Q3MDFoUQ?oc=5",
         "source": "Darik.bg",
         "image": null
-      },
-      {
-        "title": "Промяната започва с подкрепа за всяко семейство, всяка махала и всяко училище - Bglobal.bg",
-        "description": "",
-        "date": "2026-11-01T03:10:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xRGR4N01uTUhucjF2V2h2SzZLbUs0c3ZHaHB3MzBvWmJ3U1BGUVZDYlhOUlFRVVVBd250LTJ5WDdUYzc4cDFRellIWm81eTBMMWFCNWRzMGxoUWRHSjBSa2dzTkxVelBMbFE?oc=5",
-        "source": "Bglobal.bg",
-        "image": null
-      },
-      {
-        "title": "„Всеки истински учител е будител“: МОН отличи осем педагози с наградите „Константин Величков“ - DarikNews.bg",
-        "description": "",
-        "date": "2026-11-01T03:08:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN090aXhhTl9oTzBZeGcyRlZDMm1heXhrUDQtMjZNZmc1YXdsejVsYng4dUR0N09USDhoZWRTa2RLcWRDcjdlRjRvRVpaQmY0SU03aEVaZEg5bzV6SWR2VHVZMmRJME5naFZKb01jeUk4TzQ5TzJkRElmS2lHRXJpajhlSE9VX28yZjU1Ym01TFhScWNpTkdqa2tUbDRQSW4wbXVDUTU1T1lnZV9BX0kyWVp5T21ocU5fbENZYWt3YnQwYnpjbVR1b2hzaTlnR3EwQ3VR?oc=5",
-        "source": "DarikNews.bg",
-        "image": null
-      },
-      {
-        "title": "Хиляди млади германци протестираха за по-добро образование и срещу задължителната военна служба - Клуб 'Z'",
-        "description": "",
-        "date": "2026-10-31T17:50:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAteEtTVjMxb19yN2VYSkZPRUdTb1doZjFVdF9RYnFqekZZeVJmd0JlcUNhWkNKNmhKUV9Z?oc=5",
-        "source": "Клуб 'Z'",
-        "image": null
       }
     ],
     "Технологии": [
       {
-        "title": "Охраната на създателя на ChatGPT е четири пъти по-скъпа от заплатата му - manager.bg",
+        "title": "Китайският стелт изтребител J-20 преминава към ново поколение технологии - Novinata.bg",
+        "description": "",
+        "date": "2026-11-01T16:07:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNME1wc0FtMHdBY3psTXBzNHljdDRiazRxemxMdGFMYk4yLUJRd29aQlJYaEJtTEpESFZCWXBsNGQ1dm1hRWhjdXB6Y0tkWEhxbW11eG5Gcmgtalo2R01GbF9ocDZuXzFRTHB6cFA2dEJGYW1OY2NVWkdjYmVhVi1IRjhWZzJKN0dqV2tMQ05iVHVfcmJRcFM2Z1ppLURCWWJV?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
+        "title": "Охраната на създателя на ChatGPT е четири пъти по-скъпа от заплатата му - Технологии - manager.bg",
         "description": "",
         "date": "2026-11-01T15:00:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbDVQNmhCYmVUY05Edk5zVDRqVTVLU3otdVVxY19SN3FvYzd0alE4NEp0TENkd2NkSnpxTVBvSVY4X1IyVWxVUjBnY3h2MWswYUhYVVZmb1FKTmxUbUtaQ1lSMVdiS0xJTjA5T2xncGNzcEwwMk5TbGtpNEw1ZEVkYUtTeml4ZzFGYkF5bHVGUVhzZDhiV2E3RlhDLXVJN2xXendfdGpFMHNJb0lIUjVRX2VVdm5VNWtGbjYzZ3JpSTZRMXRLWDVJaHdUSTdSQnZxc0dPQ2ZnT1M2UDRTTmI2RkEycXFxZXc?oc=5",
@@ -827,14 +859,6 @@
         "image": null
       },
       {
-        "title": "NYT: Политиките на Тръмп отслабват американската наука - Fakti.bg",
-        "description": "",
-        "date": "2026-11-01T07:06:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzNQa0xaemN4RlZoVTNPWHJWT2dfNXpfa1o1QXhYdUVZMnFfVWRuZmFfZUhZdHRxR1VvQWV5VG9ETjd5Z3AzUl9JZm5OakhONFV1SktkUDBHRkZIbUdSQ3l6Y3hYbjdDMFVUYl8wN0s2cW9QN1l3bkJPN2tMdVRZQktmOFVSaV9Lc01OMQ?oc=5",
-        "source": "Fakti.bg",
-        "image": null
-      },
-      {
         "title": "25 години Sensata в България: от първата прототипна линия до глобален технологичен център - www.capital.bg",
         "description": "",
         "date": "2026-11-01T06:00:00+00:00",
@@ -867,14 +891,6 @@
         "image": null
       },
       {
-        "title": "От прахосмукачки до електромобили: Как Китай измести Запада от технологичния връх? - Бизнес новините",
-        "description": "",
-        "date": "2026-10-31T13:24:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1RqS2pZWXhkOWg5ZlV3ZEt3VXU3QzJkRWU3cEVfVGNDSm9ZdHB1dVV4WFJTdjBZYWs1cjlCWUVoY29Hc0pjdjI3X3lMbHRrNEprQ041eUROZWJZLXBQekVpTUFDN01zTjRha3U0VnV0dG9jZktZTTFjcW90VURnNUZIcFFKQTNmYi03UVJLNnlOOWlvd1BmWEFJVnJnOVQySEdVXzF1M2dMejhEaGI3c0Nsa0tqZGoyeG1xcllVSm91eEc4MXc?oc=5",
-        "source": "Бизнес новините",
-        "image": null
-      },
-      {
         "title": "Кои са най-добрите изобретения за 2026 г.? - Webcafe",
         "description": "",
         "date": "2026-10-31T13:00:00+00:00",
@@ -888,6 +904,14 @@
         "date": "2026-10-31T09:30:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQm9XaElmZWlSTW93YmNwZUxqc0ppc0hfeUhGZHhCSzNqb3c5OXZ1ZnJPX052MWYtNlVhcWd5YWx4S0xyVDViRnk0b1hqRi1VaEVDa1hSMHR3ZExXSDVuTmN2bVBUTExrNnlRZ3NqejEyb3BadmNYYW1jOW4yMlc4N0lZRHhjaGRlaHBBcU9TT1ppZUZvblRyOHYwRXUydXM4VFhSU1VYbTFOY1lFSkFybmRKUGNYWklwTUNZRG4zTQ?oc=5",
         "source": "Epoch Times Bulgaria",
+        "image": null
+      },
+      {
+        "title": "Безплатни практически обучения по водородни технологии и изкуствен интелект организират в Стара Загора през - Kmeta.bg",
+        "description": "",
+        "date": "2026-10-31T09:02:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOM0V2cFE1dE5URmw0OXlqSzFMYmlMOVc4ZGxUd0pEWk1uTGFaLTRlSVR2UjV6bm4zOVg2Z21YbllMZEtzZk5MR0hPcHdsVUw2MkVtb2ZhOHRHWVBJR0xZWU9OdE8ySkl4QTFQaU9lQXUwbUVILUpvWGlOR3VVVHJJc0FUblE2XzVsdl9DaEE4TXdZMDhIMzhwYUV4dlhTTlJZdG8wd2dCdEdZVl9fU0dzM3ZOal9hZ3E1SFladnV4MXZBUlVka3U3ZEgwZjhpSkl4RkJ2dW1qaDdIWndCTDB1MVRvMm5ZMm0xUWhKUUtHNThLNGg4NHhLVEhiS05tMkt2dVh0RTZadWF4eV9iU0dldGNyWEtjRlhWaEdQdEZuWXp1cnFuWGdNTnV3czVVRGJpdXVuVjlIUjRfQdIBvwJBVV95cUxOWTZPaDYteGR1OHlUTFlGNVlhMWN5c1N0QnJoejdiaFFIMmtORHlwVDMwSDBLQUNKaGV2WHVpVUZ2QWN4NWRlRjJoLVZ1SVZNZHdLczU1SHQ3T3dzczA0bWhLS3BvWUx2WkJkYkZPemd4N2U1UDNFWndPMlJRaGJldU03bTZvdGhkNTRMMXR0c3hLWDJyQkliS1ROb2Nrb2RsT1ROcU1scXRHR1ZaNS1qWlZZYlFxUG5UeHFUY3M4eTNFYnRMSzNHcDl2Q29GeHVBR0N6czJxMW82WUFhTXVPMXlCdWhFTHRhamZ0cEhoQ3Y3UzJ0cHFfb3l6cTJGTEFNbXFHVGVOM1JTaGNITWtiWTRRbVRXaVhOcDJDX2VvOTlpX3lzRUtJaDc1ZWdKakhIelBLY3ZOb2FoeXJmY2ZZ?oc=5",
+        "source": "Kmeta.bg",
         "image": null
       },
       {
@@ -915,18 +939,10 @@
         "image": null
       },
       {
-        "title": "5G дронове и изкуствен интелект: НАТО демонстрира нови военни технологии (ВИДЕО) - Actualno.com",
-        "description": "",
-        "date": "2026-10-30T22:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjZlWURQaTdRdlA3MXo4ODNVT2xIRWV0Sm1GdnpaWGpXVzVGaFJGcUpSY011Rks5Q0w1dXc3T1RxTl9xV2p5NEVCMERyQzZUVmVSLWdCYnRURDcxd2xqZHVBbXFOaWowaGVHLURCRFFRczBiU1BwLU1ZdDA5WHNpNWdYNDBwWXRVZEYwWlZvUWZQcVMwa0hUWThzeEZRYnhMeEEyc2JZbEFIeWlLUWF5T09BZzJPcHhuQ0JOM05WRWNXTENLOXc?oc=5",
-        "source": "Actualno.com",
-        "image": null
-      },
-      {
         "title": "Nissan разкри ключовите технологии и комфорт в новия Rogue Hybrid (+Видео) - Авто новини, Новини за автомобили | AutoNews.bg",
         "description": "",
         "date": "2026-10-30T17:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWpVa3VCX3BBb280aTY5dGJMSmZpY3BnTXBrVkI5cU5vY3BUM2lEa2E5Y19nY2tBZXdER2taSXZSNzVWT1BtelVKYmNJVk9BdzF5MW9udUh0RUs4cm9NYlloZW1QUVdfdXRCS0lEQ3VvT3QySjdZYjVtN2U5SmljZUlqNHFESTVTVTBpQ3BmOFowUkhycm9wU2VhcktzU3pHMC1GQXJBLUc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZEQ4azlZelYyb2JFVWlPVV96V0NmYnYzeGZEUGFaMXNjUHFmbmNlNHJFRFp2bDdQOVVjajcwNGI3V2l3aV9WaG1lbE5Ra3NBMXQ4VzV1UV83aFQzMVliS3BJNEFGLW9PWlR4VUYwa1N0TFRFVUVwTmxuNjdWaHBCX2tReVpNVHlSWW1qd1h0ejZMLWFwQ1hFU1NJWlBvejZxckdJdXVBbw?oc=5",
         "source": "Авто новини, Новини за автомобили | AutoNews.bg",
         "image": null
       },
@@ -955,19 +971,19 @@
         "image": null
       },
       {
+        "title": "Автономните автомобили чакат не технологии, а регулации - bloombergtv.bg",
+        "description": "",
+        "date": "2026-10-30T13:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1BLRkxqTGZEQUFjaUYyS0ZUQm9wcE5XRm1WX1BPVFlPaWpGR21LcHN5SXYwNnFqSVRmMFJUQk53clh2Q2pKRHUzM1Fpa1VrYTU4ZGlablpvSEVCRm9yN2d4TzdQT2lOOVpfWHhHcktoLTZUdEI5MUFBVzltODJrdF9TYk10UE1Oc0s0Um5XcmRFamxFNUJfY1RkUjFmWVExR1RsbjI4RDFWQQ?oc=5",
+        "source": "bloombergtv.bg",
+        "image": null
+      },
+      {
         "title": "София е крайната точка на дигитална връзка Европа–Азия през 2027 г. - paragraf.bg",
         "description": "",
         "date": "2026-10-30T13:28:48+00:00",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa09NZXJ2OW5tQWJXdmZfSDc0b0tsV0ZxaXp2bmpiblIyXzRKVzlqUUJBSERGaG1mSGtNcjdHV1NGYnJJeFhmdGxLeFNDbnluYWgxMkJiV3Ryb3VUUUgzdW81RE5LSTEtcGE5MUZFWlRJbVVBZy1wWHBqRmhtLUtEUjhINFNkalZHWHd6bXlVUV9DSjFO?oc=5",
         "source": "paragraf.bg",
-        "image": null
-      },
-      {
-        "title": "Възстановяването на морските екосистеми, развитието на високите технологии и изграждането - https://novini247.com/",
-        "description": "",
-        "date": "2026-10-30T12:48:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWR4S1dkVm9CUjdZOTR6bXRyakMzWkc4M1dDbE5oLXVDM09qMXVyQWtRN0RieDhQVzl6SkFNakpkUTlwcXhzZFdQVTlhdkRUckdZOE9rNWRyN1lpbnloaGRnYTZQQTFqdG9BQXJVb2F4VjFQdU1vME83TVBaQTE3QzJPX1RESXN6bXdnOUowZHpOejRFbm5uanNFTW1QMXlqZU91b2hGTWhxbXRxd3p3S2JLa1RyVmRJR25QbzRNdlNrbjNlbDVoZ3NvbFk?oc=5",
-        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -979,11 +995,19 @@
         "image": null
       },
       {
-        "title": "България има потенциал да развива собствени технологии за наблюдение и - https://novini247.com/",
+        "title": "България има потенциал за развитие на технологии за сигурност в Черно море, заяви Виктор Данчев от „ЕндуроСат“ на форум в Бургас - Утро Русе",
         "description": "",
-        "date": "2026-10-30T11:57:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNVU2THZTZHdFNmlUVXRsd0FuMFk5U1J4Uy1rS00yRkxlclF2dWlvWlJKMWRLLWh5dGFwQkEtMWJxSDg3Nm5yOUdVUVF6VS10YTlCNllmS3ZEOTFfUmk0YllSemFWOF85dUxQek5FMjZlOENxemZGNUxPd0tJVTA4M0VPZHdKTnRDSloyeEUzVFVQQXJRYWJweXNpZHdwV0x3ZDlQZkdFTHdxSDRVclpQVFdWcVFneWs?oc=5",
-        "source": "https://novini247.com/",
+        "date": "2026-10-30T11:54:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYbHJpYjJ6cjFkc2FqSEI5TUtqUG1zYnlFTlBDWEphNkIwLWNqNHhOVGpCMTFGNUZZNmZ5TUlzd09mclVhVzJCbmRiWkZYZ9IBSEFVX3lxTE1JanVtM1JBSHg4ODVReUFyMHI1MDFNVU00SUE2bUJxMHVhUWdiT0hBWXVRbDFFZVpKdnNQcXZLYmxxQnNYeXdIeQ?oc=5",
+        "source": "Утро Русе",
+        "image": null
+      },
+      {
+        "title": "България има потенциал за развитие на технологии за сигурност в Черно море, заяви Виктор Данчев от „ЕндуроСат“ на форум в Бургас - Делник БГ",
+        "description": "",
+        "date": "2026-10-30T11:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdzd2bUVLUS0wd2c1OTFrYlRFaDY1alJOQk45NFlwN0xkX0dvOWlGUDhnSDRVMXI2N1c2S2hKTE10NlU4VURhLUlnRHA5anVjVUstYUo4YWxLNHBtMi1VcVgxb3JsNy0wekR2SWpzYktHLTNjcGpGR3l5ZW1DcG9wNEphNHE0UFNmV2JWalZlcHRrbFZiLVpYdGliVXV6Sy14WTJnQnhvbmZYdkZtSTVnY29FM25xRTVWSUN1T2xOcUpZUDMxakM3Sk1PdWFWNkVhMkVqSzFaaVRzRFBrNjJwZ3N4ZndsaWtuOXdRYjdjYkxKWURwQXVlZ0ZpSzRrMVNSMzVGTnMzMHRaaGRXZVFSWlhEbkswam1iaEF4NUk2eGxPdHl5SU1fd2dSR0g1Y0QzaEhpV1dCa0ZoSE8wbUlmSWhORXh3RHdjOXhUYmdXcXA3SnM?oc=5",
+        "source": "Делник БГ",
         "image": null
       }
     ]
@@ -1001,7 +1025,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 22,
+      "count": 25,
       "feeds": 1
     },
     "Образование": {
