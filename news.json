@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:53:26.446523+00:00",
+  "generatedAt": "2026-11-02T21:51:52.305141+00:00",
   "categories": {
     "България": [
       {
@@ -12,7 +12,7 @@
       },
       {
         "title": "Зеленски съобщи за руски удар, унищожаващ всяка надежда за напредък към мир (снимки/видео)",
-        "description": "Украинският президент призова САЩ да окажат върху Русия такъв натиск, че да няма алтернатива освен да сложи край на войната",
+        "description": "Украйна има разузнавателна информация за подготовка на атака към нейния енергийния и логистичния сектор, докато светът ще следи американските междинни избори",
         "date": "2026-11-02T20:31:27+00:00",
         "link": "https://dnes.dir.bg/svyat/zelenski-saobshti-za-ruski-udar-unishtozhavasht-vsyaka-nadezhda-za-napredak-kam-mir",
         "source": "Dir.bg",
@@ -88,7 +88,7 @@
         "date": "2026-11-02T19:16:30+00:00",
         "link": "https://dnes.dir.bg/obshtestvo/stolichniyat-kvartal-krastova-vada-na-protest-za-ubito-s-ritnik-kuchentse-video",
         "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043604/384x216.jpg?_=1793649694"
+        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043607/384x216.jpg?_=1793657107"
       },
       {
         "title": "За 12-а поредна година бяха връчени литературните награди „Перото“ на НДК",
@@ -139,6 +139,14 @@
         "image": "https://www.bta.bg/upload/14064751/2.jpg"
       },
       {
+        "title": "24 загинали и петима ранени след руски удари в Запорожка област - News.bg",
+        "description": "",
+        "date": "2026-11-02T18:14:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa19kOE1Zcy1WRlczRmdybkVnNDFzanVjVlY1RE83RVJPdExweU96TnBLMGQ0LVdnTEJ4WHN3WUFzaG9DdXo0WnVNQ0l4WEFoRXIzZ3VNcHFZaUtkY05qa204dnhFX0dOV2JEYzVIeGdMWjJTanlWOTJweVVRd2MxS3hKcG5LWmNvZGxKYTN2WktUc1hqSDFFZ3o2MA?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
         "title": "Демерджиев: Сметната палата пази Пеевски - Mediapool.bg",
         "description": "",
         "date": "2026-11-02T18:06:08+00:00",
@@ -179,14 +187,6 @@
         "image": "https://www.bta.bg/upload/14064115/1000043894.jpeg"
       },
       {
-        "title": "Путин задължи частните центрове за данни в Русия да резервират 10% от капацитета си - Vesti.bg",
-        "description": "",
-        "date": "2026-11-02T17:49:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVY5QThtOWp0UG9Ja19nanBNMVE5NEZWdTNsa2FteXZPb3pvUXJmSHVZUXJhN092alltcV9tSEdua2NkUHMtYXNCVk9GQlNhQW5lM29vSkZiR2I0bEVoZi1FRExSNEdZaFdxa1B5TlU3UkZKS2d6cW1OTmlqX29ESlg4SkVsR3IwZ0FHXzd1dWx5WmVCbGowVEJqbDRweS1Yb29WcXh1RzNwWFFFWVRaeWRiem9PY3RsMnZZTQ?oc=5",
-        "source": "Vesti.bg",
-        "image": null
-      },
-      {
         "title": "Бюджетният дефицит достигна 3,669 млрд. евро към края на септември",
         "description": "МФ очаква да нарасне до 5,2 млрд. евро или 4% от прогнозния БВП до края на октомври",
         "date": "2026-11-02T17:46:44+00:00",
@@ -204,6 +204,54 @@
       }
     ],
     "Свят": [
+      {
+        "title": "Election 2026 Caifornia Noncitizen Voting - БТА",
+        "description": "",
+        "date": "2026-11-02T21:50:14+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IczlxU05ZN0lRZW5rSWhrWkRxSzIzaVFFZHpyVVdaRmFQbmNGeDNwTlpnbTdmY0FTUkRyOWZRdmRyX3BpM2tneVFJeG5tVnRjV2RlbEV2QQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Bolivia Day of the Dead - БТА",
+        "description": "",
+        "date": "2026-11-02T21:50:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hbndhSS1JM28tbUQ4Q0RCU3R5NnluNlRZN2FzdFVVRU1nc0lKUHJWSS1GTko1Tk9adW5HcVlhMDJ4a0xnWTRWWFpJaDBZQi10aUphZEdmVQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "APTOPIX Bolivia Day of the Dead - БТА",
+        "description": "",
+        "date": "2026-11-02T21:50:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WdzRpWU43VWRoNDJqd3UwSDR5UEVYem9CMzJoRW9PWEJkMm5SWkVMaHctSG9xdFhzWlNXU3Z4LWZZallvUy1QLWVIem9QXy01VFF4Z1lPTQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "APTOPIX Israel Daily Life - БТА",
+        "description": "",
+        "date": "2026-11-02T21:50:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12Y3BMTlNqazFZaklrNUR5VExUOFdmdHBOTENYaGRFcjBUR2pNZ1lBSTFkTmtQQUFGUHktMDh2NnJGZVZjN1hNMUQydXZWSmViQnJUZWZvaw?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Вицепрезидентът на САЩ Джей Ди Ванс увери, че той и Тръмп са „доста оптимистични“ относно шансовете за постигане на споразумение с Иран",
+        "description": "Вицепрезидентът на САЩ Джей Ди Ванс увери днес, че той и президентът Доналд Тръмп се чувстват „доста оптимистични“ относно постигането на споразумение, което да сложи край на войната с Иран, предаде Франс прес. „Проведохме няколко конструктивни разговора с иранците“, каза Ванс пред журналисти, като подчерта, че по-рано е разговарял и с Тръмп. „И президентът, и аз сме доста оптимистични относно перспективите за евентуално постигане на договорено с",
+        "date": "2026-11-02T21:17:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238537-vitseprezidentat-na-sasht-dzhey-di-vans-uverikaza-che-toy-i-tramp-sa-dosta-opt",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13575595/23e42b902aa842ef8bdca17efa61d67c--1--8a93cec3edec42fc880a627b207df04c.jpg"
+      },
+      {
+        "title": "КАБАР: Киргизстан ще преразгледа регулациите за бизнеса",
+        "description": "Специалният представител на президента на Киргизстан Бакът Торобаев проведе заседание в рамките на настоящите инициативи за преразглеждане на разрешенията и изискванията за предприятията, предаде националната новинарска агенция КАБАР, позовавайки се на днешно изявление на правителството. По време на обсъжданията бяха изследвани предизвикателствата пред бизнеса, оправдаността на съществуващите разрешения и начините за улесняване на процедурите и п",
+        "date": "2026-11-02T20:51:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238115-kabar-kirgizstan-shte-prerazgleda-regulatsiite-za-biznesa",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14063762/a5dd.2e16d0ba.format-webp.fill-1668x1014.jpg"
+      },
       {
         "title": "АЗЕРТАДЖ: Казахстан и Азербайджан подписаха документи за сътрудничество за създаване на фериботна система и товарен терминал",
         "description": "Казахстански и азербайджански компании подписаха два документа, предвиждащи сътрудничество за създаването на нова транскаспийска фериботна система „Каспийски мост“, интермодален товарен терминал и съвместно предприятие, предаде азербайджанската новинарска агенция АЗЕРТАДЖ. Фондът „Самрук-Казъна“ съобщи, че документите са подписани по време на среща между председателя на управителния съвет на фонда Нурлан Жакупов и ръководството на азербайджанския",
@@ -229,14 +277,6 @@
         "image": "https://www.bta.bg/upload/14022455/fd29ed7dfa74442f92f5d7741d8f59ce--0--8dfbb8e20a1b41d2a0f3cfdb3c721124.jpg"
       },
       {
-        "title": "Зеленски с неочаквано решение за Путин - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-02T20:05:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1hOdFdibW9jSzU5MnZpU2dabUJqeDN2UTNkSXQ5bnNEa05nTVNaZG9WQkhXc0lKczFHMHBkRlZqN0J6Nnh6U0s2MzFkaDZfM1hBMzZVMkNDNnVTeGt3cUtidUlIUW5RcjBOWVhPd09kV2hZZjNxY1hwdUI0T1RiOHJsbGotM3d0NEZibmhvblc?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Тръмп обяви, че мирно споразумение с Иран \"е възможно\"",
         "description": "Президентът на САЩ Доналд Тръмп заяви днес, че Иран иска да сключи споразумение за край на войната, започнала с американско-израелските удари срещу Техеран на 28 февруари, и че това споразумение \"е възможно\", предаде Ройтерс, уточнявайки, че държавният глава не е навлязъл в подробности по темата. Малко по-рано агенцията съобщи, че катарска посредническа делегация е заминала за иранската столица Техеран за преговори с външния министър на Ислямскат",
         "date": "2026-11-02T19:57:00+00:00",
@@ -251,14 +291,6 @@
         "link": "https://www.bta.bg/bg/news/world/1238514-yemenskite-buntovnitsi-husi-opovestiha-che-sa-atakuvali-s-dronove-letishteto-na",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13901160/68ec213306a64c489d09d6742b47552e--0--7aec4c77835b4377b2d80073c0920da8.jpg"
-      },
-      {
-        "title": "Меркел с ключов ход за бъдещето на Германия - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-02T19:29:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0dDZVllZGhhbHAyMS10TGJDX1Q0cVZRWUF0bktOck1INVllTkdFbXVUaDd1THFILV9oV0pVU3ppZlhKcGJhdVhlYW9kbXhtUTVjejNxRkRuTURuZEY2YzlCaG9VVkk2RTlTN3BGUmRnUXV3TWc1LVVNbFJMd1hLRUpQQThIYlZ2cnY4WW9wSEpJODczeEdadktUMA?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
       },
       {
         "title": "Американският държавен секретар Рубио се срещна с венецуелския външен министър във Вашингтон",
@@ -317,14 +349,6 @@
         "image": "https://www.bta.bg/upload/14062461/c8c106d682d34024b88800f4ca195c3f--0--a60a2abae23943558309732b8f3c8d14.jpg"
       },
       {
-        "title": "Турция отваря тайните подземия на една от емблемите на Истанбул - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-02T17:56:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMW5vZE9oZGlTeXJnaXdQWk05V0JqSTFjaXVONXVJcnRNLVljcXJucVgzS1VfZnpBdE82YmZfTW5XVGhmWk1LcGlpcGtpcExVbC1OZGVlNF84c2I0RVVhcU9PLUFmSVJFMHJkSmFqMlhsZ25sajRQdmNWUFQ2aFRIM3VqU21uaUZGaE55ZTVrM3lnRjM5ZWVCVlhtVXNPNVZ1MUVKYlZmU2drSjFzRUFDdzNFWQ?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Украинският президент Зеленски обяви, че руска бомбардировка е отнела живота на 18 души в село в Запорожка област",
         "description": "Президентът на Украйна Володимир Зеленски обяви днес в публикация в приложението Телеграм и социалната платформа Фейсбук, че руските сили са бомбардирали село Комишуваха в украинската Запорожка област, отнемайки живота на 18 души, предадоха Ройтерс и Укринформ. Ранените са най-малко петима, уточни държавният глава. Той съобщи, че руските войски първо са пуснали бомби над училище в селото, в което се разпределя хуманитарна помощ. Последвал е втори",
         "date": "2026-11-02T17:35:34+00:00",
@@ -379,30 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1238355-teheran-vodi-intenzivni-razgovori-s-posrednitsite-kaza-iranskiyat-vanshen-minis",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14009864/dc4544a557b44f9dbbb9ba1d892874eb--0--61ccd6f4d46e4a99ad130f8c04c84cbf.jpg"
-      },
-      {
-        "title": "Ройтерс: Йеменските бунтовници хуси вече са на 80 километра от бастиона на правителството Аден",
-        "description": "Подкрепяните от Иран йеменски бунтовници хуси са се доближили на 80 километра до пристанищния град Аден в Йемен - главния бастион на правителствените сили и временна столица за международно признатата власт в азиатската страна, предаде Ройтерс, като се позова на информация от днес от четири военни източника. Хусите държат контрола върху столицата Сана. Хусите не са били по-близо до Аден от първите месеци на гражданската война през 2015 г., когато",
-        "date": "2026-11-02T16:45:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1238421-royters-yemenskite-buntovnitsi-husi-veche-sa-na-80-kilometra-ot-bastiona-na-pra",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14039139/359ad555a34248a0b6c31b605292731a--1--e4296f41285849d9a2823bd4c67f39b6.jpg"
-      },
-      {
-        "title": "СПА: Морската сигурност е споделена международна отговорност, заяви висш саудитски военен на срещата на върха „Диалог от Манама“",
-        "description": "Заместник-ръководителят на Генералния щаб на Саудитските въоръжени сили, генерал-лейтенант Фахд Ал Гуфаили, оглави делегацията на саудитското министерство на отбраната при откриването на 22-рата регионална среща на върха по сигурността, известна като „Диалог от Манама“ (IISS Manama Dialogue 2026, годишна конференция по сигурността, провеждана в столицата на Бахрейн – Манама). Срещата на върха събра високопоставени международни делегации, състоящи",
-        "date": "2026-11-02T16:38:09+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1238429-spa-morskata-sigurnost-e-spodelena-mezhdunarodna-otgovornost-zayavi-vissh-saud",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/313032/Saudi-Arabia-map.jpg"
-      },
-      {
-        "title": "Привържениците на ЦСКА впечатлиха футболния свят с представянето си на трибуните при откриването на новия стадион „Българска армия“ в мача срещу Славия 👀 Betvam - Facebook",
-        "description": "",
-        "date": "2026-11-02T16:11:24+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAVBVV95cUxQcjQtaE9rTTh3QTVlNVpkbDByUVc4eml4Y3hLUHVfYjQ4eGREZVc4Vkx4RWNjZXFzVlA4YXI4clI0VkNiaWNhZW9RNDNTNnAyU2Q2eTA1TGhaWGs5aE84Z1dEWTRFQ05ZN0l0TnRPZlA3ck82dlhGM05OeXNsaGdsalRPcGpXNFF4QVFJVU80MkxCc3daS2xIdWZXd19DQTFxakZobTlET3FzRHVRdlZPdVNRa2tNdGNScWJxMmZqYlc3T19EOWwzckZMUmF2enVjNGlDU2V1VUp1NmpNM0tidTQ1UHVCTEVCOHU0eDF4VTh3alhDWW5WYVZ6M2REei1zcmMwdkhfZ1NCV093UGxYNWIyMXk0X09NVVVJTmdTb25nVEo4cURJN0dXTXJuN0JfX0hDRHhvU2U2dHJPdTRxRURhNW1QSDJhcjVuLTN1amhvZVl5QlJuU05XM0xjeU56MWduWjBEWS1wZ0FVSW5QcUVRLUNBbmxnVlljOXdHOGZnVThQOS0xUlgyN1NwSnpqbUgzUy1MdWs4Y19nd1hNSGM2bkhCbEE2UlNzS3FUdVBweXVqWnhLZlF0OUVGcXZVWHkwcnluOUUxaDYwYkFyZEItM2lNWU5uVWplSks0bW1ubXhvMG9IbXhtWEhpcmtjY3NyMXJHN3VVdVRQUW95VlVDNkxWd2s5SS05eXk1RV9mc2UxSklNNnBLZktvMXVzNTUwMDFuQjl2dnFfU3hXRzB0eGZKeXZvM2ttQ2RUcFJOOVZDVElBUlpGVmI2cS1ZOEFHbmx5ekpGckVpRkswNUlqMGNTRk0zdTRFalYtWWREUnBoZTJPV1AzY0pOTUxCWm12cWFSQWVQX3ZTTGNOeEF3Z0pZSVZ6YnFaUTlzV0p0QUpaaXBtQg?oc=5",
-        "source": "Facebook",
-        "image": null
       }
     ],
     "Наука": [
@@ -447,19 +447,11 @@
         "image": null
       },
       {
-        "title": "NYT: Политиките на Тръмп отслабват американската наука - Fakti.bg",
+        "title": "\"Дълголетие в добро здраве. Новата наука и остаряването\" на Ерик Топол (откъс) - Dnevnik.bg",
         "description": "",
-        "date": "2026-11-01T07:06:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzNQa0xaemN4RlZoVTNPWHJWT2dfNXpfa1o1QXhYdUVZMnFfVWRuZmFfZUhZdHRxR1VvQWV5VG9ETjd5Z3AzUl9JZm5OakhONFV1SktkUDBHRkZIbUdSQ3l6Y3hYbjdDMFVUYl8wN0s2cW9QN1l3bkJPN2tMdVRZQktmOFVSaV9Lc01OMQ?oc=5",
-        "source": "Fakti.bg",
-        "image": null
-      },
-      {
-        "title": "1 ноември е и празник на българската журналистика и българската наука - PlovdivNow",
-        "description": "",
-        "date": "2026-11-01T07:00:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ01EX0ZpQlZndFI2MThjUy1nVzh6ZXJzQ2R2T0c3SFp3amlaUlBoa2Mxc04xdDZEeTd3anBQQkYtMHVVclRiVTJyMHgwWEh4eFV2Vm0wYnVPWTE3d2JqSjFYYjRuRkVqNk5oeWNQb2tLa05qTEpzRmxnM0twSEkyUEd5MGVoVXZKTnRsWVNMMk4?oc=5",
-        "source": "PlovdivNow",
+        "date": "2026-11-01T10:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR09scmVfMl8yS0hod0RHc2JmMW5iVWx3bk00MFlaRHk2d1lBYmhIbjNtUlMyQzVrbXhlMXZZRC1vUTAzZExzNlVWM05XSFdzcE5NczgwS2tEOEJZYWtwOVV0dTlTTWgyRkFmbGVfeWhiajdEcHViU0tZTzF0Wm5KNWZnZER4d0ZkTEIwdE5fUlZ0bUlpa1FCVzROZGY4cUFJdGtxT21R?oc=5",
+        "source": "Dnevnik.bg",
         "image": null
       },
       {
@@ -471,11 +463,11 @@
         "image": null
       },
       {
-        "title": "Румен Радев оцени българските научни изследвания на 800 метра асфалт - Frognews",
+        "title": "Русия инвестира допълнителни средства във ветеринарната наука и ваксините - АГРО.БГ",
         "description": "",
-        "date": "2026-10-31T08:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDgzT3NjQnZkN1IwUjMwZERIcGRIMXFzc1A4SHRmaXR1VEF1RmNEb3I5T2xRWWRHa2RUb0lvbHNvdlh1SjVEbTF1RWliZHhxVHJKVnphR1NXbmREVnZ0VlBDMFUzSUpuN0ZzS0Y2S1JVdmNjZm5HZnlrOUtkOGo4cHVqX2NiMV95c0I2UlF0SEpLS2lzTG9zem9iUTJaR3RiRUF1UHdZT3dPeHNNbDlHUW1jelhDWkRi?oc=5",
-        "source": "Frognews",
+        "date": "2026-10-31T07:29:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3o5MVFvVVRLWHd4RDk5Yzk0bkcyZVA1eUcxdmcwTUQ1WGFCeHAzQUZxam1scklkY3doczJ5S29KcEhBV00wR21OWWQ1bmExWUxCM1lLaFVBd3Y3cXNUTTBDMDFIVUtCc2NPbUV3RmlsT1gyRzRDTmZRbmNocmJ6WEFQV1ZDeDBHV2VlaDJjMUo0Si1SVUJ1cHB5N0NRQzc5ckxXVlpoeWpKQ2U0TUkzS3g3aTA3MkE?oc=5",
+        "source": "АГРО.БГ",
         "image": null
       },
       {
@@ -484,6 +476,14 @@
         "date": "2026-10-30T16:14:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEdHRDlaNVNTbi1vZjB0RHAycU1UQU16Yy1JUExaMFQtc0t3Q2pHNDlORElpQmJsMTRLQlVfb2dQZ2VKR2ZtbHZmQktiTFJNd2lsMnp5NHJGLWdFMnhXX0tSRUJsbXV4Zl85VWk5a2xUUDZZbzVFQXY5MWZvd3pINEt5SkNiNm9Kb01PV1lNRlpCaXdNNVFYUEVpT2hXam5MVVVNbDF5X04?oc=5",
         "source": "Посоки Плевен",
+        "image": null
+      },
+      {
+        "title": "10 години наука, едно значимо откритие: Bioderma представи ново поколение грижа за атопичната кожа - nova.bg",
+        "description": "",
+        "date": "2026-10-30T13:38:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwVBVV95cUxPWVhlUjBLdlVaWlRJd1I4Yjh5ZVFHNTRERm0wTW44ckZFWV9VaWJWQ3lSd3plXzNxSTQ3SFhtUWt0UnNXV252S1UweFFPaC1kYVg0TURnZWduUkdPSEgyVkdmSktZMHlpSFBZRnVxY3lzbEtSNTNUY2pJc1FiQS1vWFh1RlhuY1dWaFVCMU9KX3gwTTNsb3MyaUZlR2lPUl90RVBvSEdpMERRYmVPRnFhbF8zSmxNWlNad1NNTEgtRERTX1l3TmF4V1lOdXM4dEFhT1VUQy1KMU41TXUwVW1aZU93SGNNeGJjeUlWazdRb3Zuai1RX1BYV24tX2YzY250anpWb01pMVNfRWptSEEwaVNHbnE2RW13VEx6X2JOS1hQS0ptSXFTMXZPR3phNW1vWUMxMThPOHBzcDhWMWhSUFZsVktiemVwNVE3dnFhUTlSQXhyVC0wWVJvU2RQYk4wQXdaNWlnUHVzYTZ6ZHJnbi1wbzJBTTRsM3BjZGFlZmNkdmlnemwwVDBhNDZ2TkRlSjhkOEo0VlRScGpsd3hoVmpTMDJBX2Z5ekFpd0dvSmVrOXB1Qmx0bm0tbllfNEpsczJ2NGs1bDE1WDdmWWc1bHk3N0NSZmRsVnhSR1RhalprN19mTV9FSHdVaWw5MFI4RUxhNHliSnFPemk3ZjQ5aXRRWHVpVjJGRlh3NzhsRDFwVllvSkRodWFKNVRaWU9YdElnTXpkSEpKdzZiUTB4UGZ2S2lDNXZfczZvQkRKWFRVQzdzdFczZ3B6TUNvdFBwY2FiR1RyQnFqNmZnYmg5WlB3bkwtWFIwSnVHclRaek5IZE41RHB6aEdQZ082azNSQ0F6T0VBXzFrWnpoUElmRy1FR1BIcVVqOXFZUWwtaFE2MkJrellJODlYeHE2OF9vYUxsS0pUbHBjQUVtUUFZ?oc=5",
+        "source": "nova.bg",
         "image": null
       },
       {
@@ -511,11 +511,27 @@
         "image": null
       },
       {
-        "title": "Българската академия на науките и Съюзът на учените в България връчиха годишните си награди - MediaBricks",
+        "title": "867.8 млн. евро за наука и изследвания през 2025 г. - Clinica.bg",
         "description": "",
-        "date": "2026-10-30T10:54:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU25xT0FJVkRYbm5CT2FhYy1mQmpCOVFJOFpVYUhPMDRZemJTWHBaTmJxTHRuSGNaYUFfa2dSUWU4MkdQM21PNFc5NEV3eGJDLWhPTW8taU4xa056VElMZ2NjeW90dHFyRnlUWVFKczNmQ1JQUC1idUhZRjlqZTk1d3pmdkFKVXlsU19Lc3hKNEEta0plREU4S2c4dUJLUzNaTTV0OFNqU1I4N0RXSkdNU3dIZDRGTU5hdm94NTF3?oc=5",
-        "source": "MediaBricks",
+        "date": "2026-10-30T11:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGtpX2pCTDdVaTUxWklNcUNSRHRQY1VOQ3NZSTZ5aUNCWmlwemFUeHdpeUZILUtxVFg1SGd0U0plalhFU1ItV2xQTHlRblhtbTd0bGtEZlFTWUI4VVpKc2VickRrdkhJeXBSdFVQXy0tc1Z3UFZFQjJXTHF1SEVWbw?oc=5",
+        "source": "Clinica.bg",
+        "image": null
+      },
+      {
+        "title": "МОН връчи наградите за наука „Питагор“ - Министерство на образованието и науката",
+        "description": "",
+        "date": "2026-10-30T10:37:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSXNIS080bHNmSUx1VUh6aG95aEhmYl82bGNDcnowaENtUmRZNG1mT1FDZU9YcS13ZGVRUEFNbmVzOS1xV2N0UTlQc3E4M0J6ck1HTk5DNklmZTZGQU5wLWRUNUtrMHp5RVRseXdRNmc?oc=5",
+        "source": "Министерство на образованието и науката",
+        "image": null
+      },
+      {
+        "title": "Екатерина Захариева: Европа трябва да удвои инвестициите в наука и иновации - 3e-news",
+        "description": "",
+        "date": "2026-10-30T10:29:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2NWeW9ZRTBnenpCX1l2SDh0bUh4a0dYOXJpOEw2VXFtNGlYRTZTcUxiOU9obDh6aW9iR3dVbTNMdlFRMzJNVXdvalZSQXE3RnRwNnMxanY1bVhtM3VkeFRKb29IRDVWVzB5aU1tblF1My1IUzhIZHFJMnlpVlpPbDNnUkNNeUdfa2FYY2N5NHZXYTZDLURSb0J1WXVaTW9wWW16SHBrcWhfcExyTVVxUA?oc=5",
+        "source": "3e-news",
         "image": null
       },
       {
@@ -536,6 +552,14 @@
       }
     ],
     "Образование": [
+      {
+        "title": "Коцев съобщи, че във Варна няма да има и онлайн уроци - paragraf.bg",
+        "description": "",
+        "date": "2026-11-02T21:11:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLTBqZkhaX0VXdXFJb1ZhWnp0Zm1yNUs5b05xTWRDNnByajJ6OHk4dXg3eVM4TGhyVUR3V2pveXFhYWxtR0ltenVaa2x6V1FxclBkV1hjT3lmckU3QzVRb19sbjhvYVNOZ3BPRmE4eWczY2NlQVlNRU40QTJ4X3I1RGY3bm1ldw?oc=5",
+        "source": "paragraf.bg",
+        "image": null
+      },
       {
         "title": "Учебен ли е 3 ноември във Варна: кметът го обяви за неучебен, инспекторатът върна децата на училище - Dnevnik.bg",
         "description": "",
@@ -569,6 +593,14 @@
         "image": null
       },
       {
+        "title": "Ученическото състезание „ПРИЗМА ’26: ГРАНИЦИ“ ще се проведе в Пловдив - Под Тепето",
+        "description": "",
+        "date": "2026-11-02T15:46:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzc4UXktMnBtN1UzZnNBRG1tMlEwTGlWamF4OWItWmRNa2U1cWFoVGpLUjFzNVltN3MtNmN4elR5UksxRUdyQlFnRUthaFBROEJLSUVnVDhlUThoWDJIeV9zUGMwMVo0REpKYjVnT0NpVE16T3Z3bmh3aGlfcFhBS19LT1F0b2ZNY04wUE1GWXFVSy1SWGFiS2R4WlZueGtxQkk0SDRQR3MzRmI4ekV0V1ZhVVNWdVk5aC1Genp3WQ?oc=5",
+        "source": "Под Тепето",
+        "image": null
+      },
+      {
         "title": "Електрохолд откри учебен кабинет за бъдещи енергетици в Самоков - www.24chasa.bg",
         "description": "",
         "date": "2026-11-02T13:13:00+00:00",
@@ -598,14 +630,6 @@
         "date": "2026-11-02T10:39:42+00:00",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHJuRDJSQTlEdlc2d2Y4VTNvQ0U2SW9nRWdoMGJ2TW9iWHJudjNYcGNnVG5ZeG5SdmtkenJyYk9RU254RzdzRE5GZTNheEVTTmtTcUhIbGVwaUN3dTVCQXNEb29LXzdrc0hyM1dlZU5oYzFQTm04SHpmSFpBTEJudVlSNjdBajk3cUw5Nmp1QXJTTmlWeVk2cGh5d2V3bWVpYXJHY1RpZ1NqcUc4N3c?oc=5",
         "source": "Stolica.BG",
-        "image": null
-      },
-      {
-        "title": "Представители на университети от страната ще запознаят зрелостниците в Разград с възможностите за обучение във висшите училища - Утро Русе",
-        "description": "",
-        "date": "2026-11-02T10:08:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tQ0pHMVpFQWlCbHo2enc5REJLazFRT0J4bUdfSU5zdjRaMzNpNVFmRnZlQXVkUXZacUlXV3FvdjB5QTl5TmZjUUlhYWNNQdIBSEFVX3lxTE53Y2hudVlYUnJsUENMWTM2QXRWck94dUdJSU5reGl4X3JOWXNqbVZHMkhTZ2dfbVVnWW5nNVhsYVVTQ3BEOGY2RA?oc=5",
-        "source": "Утро Русе",
         "image": null
       },
       {
@@ -727,17 +751,25 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXdSQnNiOVdBc1ZRazBPUjlMLU5TMjJzSXQ3QkgxeTZCV2w0VF9EdW1kV1Y4bHhqRXdjcGM4Yk9yRV9MVGhQeWRTWFhUTzNsTEpENTVSZlE0eUg2YVp3b3hwb25TbFZqSDh5ckJBam1IdW50aHBsZ1J4SDd6U0Rwd0NFV3hrNG9WVlNmQWc5RnRkbnlscXRqV0ZEYUYwOXZJUXUxTjFLTVJkaTNiMVVlTjJRQ3kwRGtJeHRwdDkwd2Z2aTQ?oc=5",
         "source": "Община Русе",
         "image": null
-      },
-      {
-        "title": "Осем учители получиха наградите на МОН „Константин Величков“ за Деня на будителите - www.24chasa.bg",
-        "description": "",
-        "date": "2026-11-01T11:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MS2dickpEY2dMUzJLcmVTLVBZNmVIaHZvSUdFTmVxY1hkdUxWVHFPdmF4QnVMXzloVDJ0NDZTSUo4bm9wUFo5bEIwZ0ZOaGFRS04tenpSUHRLdmMz?oc=5",
-        "source": "www.24chasa.bg",
-        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "Шерод Браун срещу големите технологии – тест с последствия до 2028 г - БГНЕС",
+        "description": "",
+        "date": "2026-11-02T21:08:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVktsWE5DTXVlaHlMVEtRMXdPd3oxeGFzQUpyWHpQZnRxb3l1dFUwbDVPRnVDVFFoZHRabXJkM09OWDdXc1RCR1g1TUJrMENLa1pLaGtKY0lkSXBCTHdqb3RiSmlXbGFRM1UxY2xvS2lwQTk3MVdxODlUS0ZCVW5ncUcwbVRGdV9HVTh3eFItVVU1bG1y?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
+      {
+        "title": "Канада - ЕС: нефт, оръжия, технологии… Какво търси Марк Карни в Европа? - БНТ Новини",
+        "description": "",
+        "date": "2026-11-02T20:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcm84NWRwUTV6UGNfaWNOQ1VvazRHeVNLVEYybWZFdDVSVElDWlh4WDB6czNmOC1IYWtqb1hhcFBXMjhtanhXa3A1NERHeTVGZmxneDNWbDA0QV9nVHRCYXRER3ZjcHgzMlBEY0RKcGpMNXdIVGItOUtZRmdMRjJLMWtBelU1NDZkYUdqZUlFN1V1anc1akdTbFFib0lXZlVxcmtBelpKM2dRNDFTZEZSc05rcFFaQ2s?oc=5",
+        "source": "БНТ Новини",
+        "image": null
+      },
       {
         "title": "Босът на Ford твърди, че новите им технологии за елмобили са с 30% по-ефективни от тези на BYD - auto-press.net",
         "description": "",
@@ -763,19 +795,19 @@
         "image": null
       },
       {
+        "title": "На срещата бяха обсъдени икономиката, инвестициите, високите технологии, енергетиката и - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-02T16:15:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORjNaQWtFbTlHbzRxSFVlR3pDUzQyNkszb3B4SlJGWXJlWXNkSWl2YkFPc1pqWTBUS1J3T2VvQjZTTTdtTGp0Qm1hVFQ4WjExeWk2TFpzbEtmbFI2OS0zNUR3cE1MVlpDRkFGY0xyS0Zab0RpYjVicGo4Zk9TRzlfRXZYZzR6aHRldFpxV21qYUhJMmllX256dUc3NEFKQUFWZU8zR0NYekFhUFFTajZrVDBtY3lTRVBVc3JmZWR5WExtVGhFRHpwd205SQ?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
         "title": "България и САЩ обсъдиха сътрудничеството в отбраната, енергетиката и високите технологии - DarikNews.bg",
         "description": "",
         "date": "2026-11-02T15:47:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUk9MVU1nSXp3VFZaTnZaOGtGc3ZHanVDNjNZb09UREhoSXpVTDFDR1NqM095V19vdDlDZk5XODNpeHRGNUs4aFVyeGZoT2JDM0w2YXNneXM2aDdhcG9rRXVzRnFYX3FSNVNHV1dVTll6Q1I0OTgxUUFLdFNLMHdmX1N2cWRYRk96TzIzU1d6NXFvR1NzeWF5bXlxQjdQU0xxbGxOR2VoUVpobzdkUUJLQWQ2YmFTZWJJVXAycFlyWXZ4UkU5RE9ta01wd3VKMUFvSGxn?oc=5",
         "source": "DarikNews.bg",
-        "image": null
-      },
-      {
-        "title": "УАМ: Съдилищата на Международния финансов център в Дубай представиха услуги за разрешаване на спорове на конференция за финансови технологии - Делник БГ",
-        "description": "",
-        "date": "2026-11-02T15:33:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZndPV09mUEdrZ2thWXZOcEZQNkRwN1h6b2pEYWhtcmNBX3MwU3FKTklxckx3R1lEdGpfblVFVkZhbjlxZng5TERmVlZ1Z2FwVGRsaEVEdC1BdWQ4NnVOS09aMV9reHVFd2FqOHRHNlh2ekR4c3MycWV5Wjd3V3ZLSEhTMVpteEw2bU5hZjJjTXJKdE9UdlMtTzh0MzljaGsydU1HM3N5eS1XNWhSVlBLTHloeVBYbU9MNExYbEkybWdSV25weFNLbWM5cDV3WXpoNUpXeWkwWU1ValdDUVNNdjFIemM1eHBPcDJtLXRYdkhFd1pRVWVxc0FFVHdwUWotTHRUSHpCZ3FpbWxMQk0tUHNTWGZHU1d4UHJZVGZtR1gtYVVobnF2V3diTWw1VFo1bExsNGl0QW5GRlB5LUtiZHFfZ1djOS1lWVVyem5B?oc=5",
-        "source": "Делник БГ",
         "image": null
       },
       {
@@ -787,6 +819,30 @@
         "image": null
       },
       {
+        "title": "Вицепремиерът Пулев: България търси корейски инвестиции в отбраната, индустрията и високите технологии - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-02T15:08:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEFjOG1ac1BCS1hvQ3JGT3hORm9xdDZOd0I1c3ZZRmJDS0o0dHEyVHBUNTRnNzFfX3BDQVZQQkVKUm5NUXhkWEVIRVFDUmpqZzdHb0c5b2dBRHRuRFJhblFkYTg5SWlMUEc2VDM2R3hDR0I4QXRpZTN2RnRnZlNtOEhFWEc2LS05UnVZQmljSWdkalg4SU9wMG1uQWhtVkQtbWlMWlVla1NtZHczVVJBbjV6UXA1LVhZNmxwUmQ5RTJuVlNmMmc?oc=5",
+        "source": "Таралеж: Истината има значение",
+        "image": null
+      },
+      {
+        "title": "Европа се готви да спечели следващата технологична революция - Frognews",
+        "description": "",
+        "date": "2026-11-02T14:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTllbU1TbFNzQVZaX0w4T1VxMGRzYWs0VWstUG15ak9YRmxmaW5EeHB0YUtnWEc4aEozUHA3MmdKRzRQZE5STmd3R0tlbkdyTXhKSHZ2aHRMcHRHTHFNWW1BcnN0MjNYQTNFRVhPbmtENjZwMmFTMUJmTDRpdjF3Rng5XzZKV19SUGQxbkhSYjFZTHV1RzRQbQ?oc=5",
+        "source": "Frognews",
+        "image": null
+      },
+      {
+        "title": "УАМ: Съдилищата на Международния финансов център в Дубай представиха услуги за разрешаване на спорове на конференция за финансови технологии - Делник БГ",
+        "description": "",
+        "date": "2026-11-02T14:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQZndPV09mUEdrZ2thWXZOcEZQNkRwN1h6b2pEYWhtcmNBX3MwU3FKTklxckx3R1lEdGpfblVFVkZhbjlxZng5TERmVlZ1Z2FwVGRsaEVEdC1BdWQ4NnVOS09aMV9reHVFd2FqOHRHNlh2ekR4c3MycWV5Wjd3V3ZLSEhTMVpteEw2bU5hZjJjTXJKdE9UdlMtTzh0MzljaGsydU1HM3N5eS1XNWhSVlBLTHloeVBYbU9MNExYbEkybWdSV25weFNLbWM5cDV3WXpoNUpXeWkwWU1ValdDUVNNdjFIemM1eHBPcDJtLXRYdkhFd1pRVWVxc0FFVHdwUWotTHRUSHpCZ3FpbWxMQk0tUHNTWGZHU1d4UHJZVGZtR1gtYVVobnF2V3diTWw1VFo1bExsNGl0QW5GRlB5LUtiZHFfZ1djOS1lWVVyem5B?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
         "title": "Marvell Technology купува производител на оптични компоненти в мегасделка за 115 млрд. долара - Investor.bg",
         "description": "",
         "date": "2026-11-02T14:05:00+00:00",
@@ -795,11 +851,35 @@
         "image": null
       },
       {
+        "title": "Германия и Великобритания ще разработват съвместно военни технологии с изкуствен интелект - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-02T12:44:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcWJjQ1BXcnJteTMxZWk0azVuTUxhbG1pRzVmS055bzFnOFNJV2FfcmVlZ0d3NlFUWDJ5eFNLTk5IdVdLUVZlcnc4Vm1YMnNHV0ROTmJHUmZ4NVpDVlAwNW85eUw0YzRGUl9ORHplVTk1aGFIWTZDa3Y3eUllVXZYeWFXUnpSQVpsWkNkS1ViWUdYNjY2TnptMFBZV2llTFlUbmc2NmFhbXNXZHBscEN5VmsxelBmdw?oc=5",
+        "source": "Таралеж: Истината има значение",
+        "image": null
+      },
+      {
+        "title": "Керхер Представи Нови Почистващи Технологии на Специално Събитие - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-02T12:35:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVW40eEZwM1JIZ25XTk9Vb0xSQ3VfUnE2dkdxT0lYT3ItM3NrckRDYXBZUXFrd2t5ZGFyQ3hkUFFwRTMyTE1VVldZMzM2QmNzNWhjTGJ6VUFIQ1RxRTJHeUU4SHhzREh2ZGhIV2ZiTXAzTkJ5anZIX3gzWUZmR25RY2VONmpNT3MwSDU5TjRsOVZ0cHI0QVpmSnpaQUdNY0V1OWRwbUt1MkVUbnBvN09vUg?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
         "title": "Ето защо не трябва да се карате на Claude. Не става въпрос за чувства - Бизнес новините",
         "description": "",
         "date": "2026-11-02T12:31:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFdEbWxIWGdrTVBOWG9fb3FsS2hlY1RIb1QxOXRqY0lNUUsya1owZDdDbUxva2Rub1pIc2ZvRFQxVVloTGk4TC1MSFNoeWJiZGtCWXJPclhHdDR5by1CX1A4ZGZuSUttQXg1a0p4Ql9xMmFnNHVCeGdEOFBzbkpUX0ZpVUh3NWEzLXp0dWZ0c3NOMV9aVC1HYndKUFZtaU5LMjJJbzFGbnV0MDRYYzBZbkpsdExncGc?oc=5",
         "source": "Бизнес новините",
+        "image": null
+      },
+      {
+        "title": "С над 20 апарата и повече от 30 технологии в - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-02T12:19:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmtLaWMtWFhKWWw5WllGWVpJMW5scTFmRkF6OWx1ZzktM3EtNm42dXk0NzdaMFNHWU13V2J3LU1ZMmNiVk41bW5DZnRtR3FZYnpiOVVqaFNrMnNLcWF2NF9rUFVpOExsT1FsSDdNT0ZUMGQ4WUdwZ09YenV0UWhyVUczRVF4d3FnQ3dRZ3FWc05LUQ?oc=5",
+        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -843,11 +923,11 @@
         "image": null
       },
       {
-        "title": "Предадоха данни по оптично влакно с куха сърцевина на разстояние над 1000 км - TechNews.bg",
+        "title": "Институтът по оптически материали и технологии към БАН има нов директор - DarikNews.bg",
         "description": "",
-        "date": "2026-11-02T10:01:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyUDBXei1lOU50b2FSdEV6OXFrUThzOWd4OThTVzJBam5Id2JTLURrWHdaS0JJZ3Z3MUlpSUY3T1dXNzZObnoyajBFMmRJUmdE?oc=5",
-        "source": "TechNews.bg",
+        "date": "2026-11-02T10:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1A4cG5Xa3RtSnRNVExBcWhaYy0xYUVzOThkd1dhZGxEQ01iOU11Q0Z3NzVPVlBHS2VCQkJiYk9vSDVVUVdKNVVWMmFGUnZPWFYxV1VDM2xuZDA4aE1ITWhuanQtbEVKdWo0UGZIZTV2aWhlS3FxaU1SbEh2aGU4QlVZTnVsTG8tekVRb1V1ZjcyQXA5MmhVc3NISEFNTnJ4eEh2LTQtcDhteWw1aV9TU2VoSFYtY2pzMEE?oc=5",
+        "source": "DarikNews.bg",
         "image": null
       },
       {
@@ -859,83 +939,19 @@
         "image": null
       },
       {
+        "title": "Вижте как роботът KAIST борави с тежки предмети (ВИДЕО) ᐉ Новини от Fakti.bg - Технологии - Fakti.bg",
+        "description": "",
+        "date": "2026-11-02T08:55:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGFhMnhwZGx4SklFOHk1UjFiVUxXeE5zOVpQU3VPcTJpd3JXVEVYZVJ6VUdrWk9pV2lJRXNPTVpncVZwcDVuMDJXY2d4c1F3RVhINjJubTdrVHk3QnhLUGN6YUh3NjJzVVFSQk10WVJMWFBUSUwwVVFSVU5SSnNlZEJYRG82TUtCNnlQTC0tcGZxRWc?oc=5",
+        "source": "Fakti.bg",
+        "image": null
+      },
+      {
         "title": "Германски милиардер строи „фитнес зали“ за хуманоидни роботи - Бизнес новините",
         "description": "",
         "date": "2026-11-02T07:42:47+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2NjY0hQSWl1SVRzdTNqaUMxaFp6cE5zczN0U0J2S1FQT0Q0b2w3TU5xaTJMODZOTGY3djRZeFVnUUJlRlRCUjZnRmMyZEhmWHJnaDJTSkxkX0JuMWJSMUdnaEhOS244N2l1akFJZW5aS18xT2I5dllWVkhKTmhCOGhhNXlueDUycEgyMTdVaDhINnRsS0dGeFNuVVNlaWVzajFCbg?oc=5",
         "source": "Бизнес новините",
-        "image": null
-      },
-      {
-        "title": "Южна Корея ускорява AI амбициите си с рекордни инвестиции и партньорства с американски технологични гиганти - Profit.bg",
-        "description": "",
-        "date": "2026-11-01T22:19:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51Um15UFFmSWduNkVpUHFTRWtEcVRpMmtENGpUT0I2OVk0UkxCS1FTOE5iREZvREVaNnZ1Wi1LN01nVG13Nklya2M1elY5MkVSSmFXVXp2Vlc?oc=5",
-        "source": "Profit.bg",
-        "image": null
-      },
-      {
-        "title": "Китайският стелт изтребител J-20 преминава към ново поколение технологии - Novinata.bg",
-        "description": "",
-        "date": "2026-11-01T16:07:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNME1wc0FtMHdBY3psTXBzNHljdDRiazRxemxMdGFMYk4yLUJRd29aQlJYaEJtTEpESFZCWXBsNGQ1dm1hRWhjdXB6Y0tkWEhxbW11eG5Gcmgtalo2R01GbF9ocDZuXzFRTHB6cFA2dEJGYW1OY2NVWkdjYmVhVi1IRjhWZzJKN0dqV2tMQ05iVHVfcmJRcFM2Z1ppLURCWWJV?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "От книги до 3D технологии: Как Пиринският край отбеляза Деня на будителите » Инфомрежа - Infomreja.bg",
-        "description": "",
-        "date": "2026-11-01T12:49:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdkRIZE9RWkFLTFJ0SnNXRTVWTjRHX2U2enQ5dlhKTW01OUJNSF9VTi10aEEzQUdjUXhTaHN5NGxwbHY4NVJTNURXNWFCVDByWTZlQlItY1Q1eW8teEp5VHpPVjVyQjhuN0NxekUwdDd2OWdlcnVjUV9XWDlKOGRRUlBBYTNJdTI1d0VMOHRyQk82d1hHTFg5a0NnTU5DU2NwSnNHQg?oc=5",
-        "source": "Infomreja.bg",
-        "image": null
-      },
-      {
-        "title": "Охраната на създателя на ChatGPT е четири пъти по-скъпа от заплатата му - Технологии - manager.bg",
-        "description": "",
-        "date": "2026-11-01T12:47:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbDVQNmhCYmVUY05Edk5zVDRqVTVLU3otdVVxY19SN3FvYzd0alE4NEp0TENkd2NkSnpxTVBvSVY4X1IyVWxVUjBnY3h2MWswYUhYVVZmb1FKTmxUbUtaQ1lSMVdiS0xJTjA5T2xncGNzcEwwMk5TbGtpNEw1ZEVkYUtTeml4ZzFGYkF5bHVGUVhzZDhiV2E3RlhDLXVJN2xXendfdGpFMHNJb0lIUjVRX2VVdm5VNWtGbjYzZ3JpSTZRMXRLWDVJaHdUSTdSQnZxc0dPQ2ZnT1M2UDRTTmI2RkEycXFxZXc?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Откриване на изложението „Светлината на интернет“ 2026 г. в Уджън - 国际在线",
-        "description": "",
-        "date": "2026-11-01T09:55:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KajdXemUzYlY4VnptOUFlbm5sX19lQUhTRmlxRFZlaHF1NjdvUy1uSXJFRzU3U3pLU0ppaFFBcU5mb183N3ZKUFZKMHJ2bE1BODJBMUwyYUFMamNuQjJYT0NiX0FrLVE?oc=5",
-        "source": "国际在线",
-        "image": null
-      },
-      {
-        "title": "Военните технологии са следващият голям балон - Money.bg",
-        "description": "",
-        "date": "2026-11-01T09:25:19+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2NZNGRELXMzclBUQThBZUtZRXNjSmFGUTA2NzUtckIyQmp3UzFQVjhGRHZQRWxfMnZoWXN5NjNhM2VPWE5XMFg4VjY5NTM3ZkdhSUVaTmw3NWRxZHlZaGZhblZMQWRjMzhrbFB1bkVTVUVZdWxMbFpzdGNSbVA0SDljeEVjVmc?oc=5",
-        "source": "Money.bg",
-        "image": null
-      },
-      {
-        "title": "OpenAI ще ограничи достъпа на тийнейджъри до информацията за оръжия - Технологии - manager.bg",
-        "description": "",
-        "date": "2026-10-31T14:15:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVkxU0FNdXU3TWwzVjdsdC1wek1BR1F0Z1NJcjg0eGkwRkVlcXdYMXU2djZRbzBaUDE4SUwxR1RWcHByUmpQcnp3dzRWZ1FhLUNhQUFINGltS2RnSGNpRV9EQW5GVVBhOGJYdWdhQ3gwMzA4eldUNkVJS21qNzJUNk04M21rdjhQU282NWFNUDFKcmZJLXcwYXp4c2Q5VGUtcG82cUd6R2RXQjdBSE13V01jY25haGVRSVZsSTR1b3FMc3dSZy1Rbk43R3VudHFRODF6Zll1LUpmcldLS1pZU21fWQ?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Чрез съвременни технологии оживяват \"акта за раждане\" на Пловдив - ФОКУС",
-        "description": "",
-        "date": "2026-10-31T13:30:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemxxaHBEVFZVaVVFTEJHS3NZemR6SGFXWnZCeHVNZkctX2lxWlRRSVdrQ293MUk1bXVzTWxqamtRWnlRak9NOXA0RlVfWjRvTEl6cFFDSTVhY29seUVQbnFFQmRtSGlEZnhyZnp6VnFienpqeFVRUHpQRVB0VWE1Yzg0V1JYcVR3RmtHVmk2ZmVVRFFTcGpEZ0l6S2htdEdhd2N4UjJoazJqelVDSWt1NTlMbzVFaDA?oc=5",
-        "source": "ФОКУС",
-        "image": null
-      },
-      {
-        "title": "Кои са най-добрите изобретения за 2026 г.? - Webcafe",
-        "description": "",
-        "date": "2026-10-31T13:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HRVFsdnIyUXlJcmNNT2dfT2JjeG42MVRpSHJGRTZfdVoydUZoWlI4RVhQRzFfaHpkM3lrMlBaUkppWkJIN2pma2FvLU1nSURhXzYwN09DeGV3LTB0T2t6eUdTcXlUMlZmM0ZMMG1SYjVwM3ZGc2kzZE1oZTVoV2M?oc=5",
-        "source": "Webcafe",
         "image": null
       }
     ]
@@ -953,7 +969,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 16,
+      "count": 18,
       "feeds": 1
     },
     "Образование": {
