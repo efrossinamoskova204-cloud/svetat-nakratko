@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-01T23:47:56.309888+00:00",
+  "generatedAt": "2026-11-02T01:18:28.143381+00:00",
   "categories": {
     "България": [
+      {
+        "title": "При 92,39% обработени протоколи Илияна Йотова и Кирил Вълчев печелят изборите с 57,36%, втори са Андрей Гюров и Георги Кандев с 39,68%",
+        "description": "Кандидатпрезидентската двойка Илияна Йотова и Кирил Вълчев печели изборите с 57,36% от гласовете, а тази на Андрей Гюров и Георги Кандев събира 39,68%. Това показват данните на Централната избирателна комисия (ЦИК) при обработени 92,39% протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК). Данните са към 02:00 ч. Илияна Йотова и Кирил Вълчев получават 1 022 503 гласа, а Андрей Гюров и Георги Кандев - 707 310. О",
+        "date": "2026-11-02T00:36:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237812-pri-92-39-obraboteni-protokoli-iliyana-yotova-i-kiril-valchev-pechelyat-izborit",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14062657/cik+-+rezultati+-+02.jpg"
+      },
       {
         "title": "Кандидатпрезидентската двойка Илияна Йотова – Кирил Вълчев получава 65,24 процента от гласовете в област Видин при 100% обработени протоколи",
         "description": "Кандидатпрезидентската двойка Илияна Йотова и Кирил Вълчев получава 65,24 процента от гласовете на избирателите в област Видин, а двойката Андрей Гюров и Георги Кандев – 31,64 процента. Това показват данните на Районната избирателна комисия (РИК) – Видин при обработени 100 процента от протоколите на секционните избирателни комисии (СИК). За Илияна Йотова и Кирил Вълчев са гласували 13 629 души, а за Андрей Гюров и Георги Кандев – 6610 избиратели.",
@@ -16,7 +24,7 @@
         "date": "2026-11-01T23:33:16+00:00",
         "link": "https://dnes.dir.bg/politika/blizo-20-prednina-za-jotova-pred-gyurov-pri-72-65-obraboteni-protokoli-v-tsik",
         "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043263/384x216.jpg?_=1793577297"
+        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043267/384x216.jpg?_=1793580297"
       },
       {
         "title": "РИК в София счупиха рекорди по бързина на предаването на протоколите",
@@ -48,7 +56,7 @@
         "date": "2026-11-01T22:31:10+00:00",
         "link": "https://dnes.dir.bg/politika/pri-52-42-obraboteni-protokoli-v-tsik-jotova-pecheli-52-42-gyurov-39-01",
         "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043260/384x216.jpg?_=1793576445"
+        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043263/384x216.jpg?_=1793577297"
       },
       {
         "title": "При над 50% обработени протоколи Илияна Йотова и Кирил Вълчев получават 57,95% от гласовете, Андрей Гюров и Георги Кандев - 39,01%",
@@ -57,30 +65,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1237803-pri-nad-50-obraboteni-protokoli-iliyana-yotova-i-kiril-valchev-poluchavat-57-95",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14062075/cik+-+rezultati+-+00.jpg"
-      },
-      {
-        "title": "Електромобил или ДВГ? Разликата се вижда след 150 000 км - Investor.bg",
-        "description": "",
-        "date": "2026-11-01T22:26:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTdhd3gtVzRvUW80Y3Y0MzJYdTJ2dVg1d3FBQnh4Mll6X3E0b193eV9iWlFuN3RKdU1SNDFTbzBHNkJQR2JfT0dGS2I5YmRqWXhQQWVndFRoUE1VZ3FXQzl3MVRPd015dU5Jcmg1NGY5OG4tNldaa19zOFkxV042VXNoXzhmYnhBYzYzRA?oc=5",
-        "source": "Investor.bg",
-        "image": null
-      },
-      {
-        "title": "Немското издание BILD за победата на Йотова: Путин ще е доволен - Dnes.bg",
-        "description": "",
-        "date": "2026-11-01T22:04:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU3JTZVNpNkNSVmI4OTFMU19QdEV4NklxVDNYMHVQdEJjbU9qR1plNk1LOTRJRVFqSWRCaHJ0OW9PZUFIVkp6Qmp2c3NQcFJSZTNXSEJXVFhodlI2S1NJeTFoNV9SVjAxTzQySVFBaDJuSmhxalRyNmxxV2k5SU1PdktMSlZhd28yNmFHVU9IT2swMkhJS290RWprdm5hcFZlUERKT200dGlad2lpV1E?oc=5",
-        "source": "Dnes.bg",
-        "image": null
-      },
-      {
-        "title": "Андреа Кими Антонели е световен шампион във Формула 1 - Gong.bg",
-        "description": "",
-        "date": "2026-11-01T21:52:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFuVzZqMTE5MjVCTHQ0YWZSQlF2MkhnWThqWS1xby1FUm1GS0dJZWRBZG51b0pRcjR4WmxpaDg4YmxhLXpVOTItNW1JeVJVVkZZbU1GQTl2WFpub0U0YjNTWkh2TUE0dXpqa0FJTVY1MWF3WTBkTFBQdU9ZbXNJWUw0cnNJMWVEUmZFcTBVMjJ4ZzE2anM1em9ZUQ?oc=5",
-        "source": "Gong.bg",
-        "image": null
       },
       {
         "title": "Станишев: Изборът на жена за президент на България показва зрелостта на демокрацията ни",
@@ -179,14 +163,6 @@
         "image": "https://www.bta.bg/upload/14058802/650bdf67-74ea-48bd-ac39-eba0e3066db2.jpeg"
       },
       {
-        "title": "Гюров и Кандев поздравиха победителите, но \"с тези избори борбата не свършва\" - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-01T20:35:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMU5Zb1F2cUxHVldVNlJHUm1Hc0YyTl9tQ3ZJbExNZzlGVkVyLW1IU1FHX3JNeDRqX05JRVJNUWUwNG9SNWNJY0ZjVzh2VWMyV1pNSXVGcWpieHM5cEhfMm9SMjJkdVRNdG42M1l1OXZiV0lJSVVaejNYaDBZX2FXU1J5QjljYi1vcXpCMGp2bkZYUjVzNTVieDhxM0hwMmJ4SFhuQ1owVWYxTDlNeDVPZk9VQmE4NjFaXzZHb1VuVlZQdk1EVXc?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
         "title": "Йотова благодари на Радев в съвместен брифинг на победата: Без Вас нямаше да се справим",
         "description": "\"Кой подведе господин Гюров за тази изключително нападателна кампания, която се проведе лично към мен, към нашата кандидат-президентска двойка?\", попита тя",
         "date": "2026-11-01T20:23:46+00:00",
@@ -201,9 +177,41 @@
         "link": "https://dnes.dir.bg/politika/rumen-radev-tova-che-asen-vasilev-shte-protestira-ne-znachi-da-pravim-izbri-na-vseki-4-5-mesetsa",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/01/3043244/384x216.jpg?_=1793566604"
+      },
+      {
+        "title": "С тези избори борбата не свършва, заяви кандидатът за вицепрезидент Георги Кандев",
+        "description": "С тези избори борбата не свършва. Това заяви кандидатът за вицепрезидент Георги Кандев в изявление пред медиите в предизборния щаб след края на втория тур на президентските избори. „Благодаря на стотиците хиляди граждани, които участваха в днешния избор, и на тези, които ни подкрепиха, на всички, които видяха надеждата в нас“, каза Кандев. Той посочи, че през последния месец и половина от предизборната кампания са обиколили България и са провели ",
+        "date": "2026-11-01T20:22:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237775-s-tezi-izbori-borbata-ne-svarshva-zayavi-kandidatat-za-vitseprezident-georgi-ka",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14034545/KASA1423.jpeg"
+      },
+      {
+        "title": "Андрей Райчев за победата на Йотова: Българският народ не смята да сваля властта си",
+        "description": "Според социолога появата на премиера Румен Радев е била решаваща за мобилизацията на поддръжниците на действащия президент",
+        "date": "2026-11-01T20:15:13+00:00",
+        "link": "https://dnes.dir.bg/politika/andrey-raychev-za-pobedata-na-jotova-balgarskiyat-narod-ne-smyata-za-svalya-vlastta-si",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2023/11/15/2621313/384x216.jpg?_=1700813503"
+      },
+      {
+        "title": "Приемаме резултатите, колкото и изненадващи да са те, каза Андрей Гюров след втория тур на президентските избори",
+        "description": "Приемаме резултатите, такива каквито ги видяхме, колкото и изненадващи да са те, каза кандидатът за президент Андрей Гюров след втория тур на президентските избори. Ние сме готови да покажем, че кампанията свършва, но отговорността не свършва. Трябва да търсим отговорност от държавата, защото тя трябва да работи за българските граждани, не за себе си, каза още Гюров. Огромна благодарност към всички български граждани, които използваха своето прав",
+        "date": "2026-11-01T20:15:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237790-priemame-rezultatite-kolkoto-i-iznenadvashti-da-sa-te-kaza-andrey-gyurov-sled-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14061222/BKK_0132+%282%29.JPG"
       }
     ],
     "Свят": [
+      {
+        "title": "Приложението, предупреждаващо украинците за въздушни атаки, е било хакнато, заяви Киев",
+        "description": "Официално приложение, използвано от украинците за получаване на информация за заплахи от руски въздушни удари, е било хакнато, заяви говорителят на украинските военновъздушни сили (ВВС), цитиран от Франс прес и Ройтерс. ВВС първоначално бяха заявили, че официалното приложение „Въздушна тревога“ „вероятно е станало жертва на враждебна намеса“.По-късно говорителят им Юри Игнат потвърди тази информация. Това съобщение идва само няколко минути след к",
+        "date": "2026-11-02T00:05:12+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1237811-prilozhenieto-preduprezhdavashto-ukraintsite-za-vazdushni-ataki-e-bilo-haknato",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/1262185/923d881f7909476aa873b33d7a00441f--0--f753c1cef28d4e4db4fa914b1ed2d766.jpg"
+      },
       {
         "title": "Германска служба за сигурност предупреди депутати за възможна шпионска атака",
         "description": "Германската Федерална служба за информационна сигурност (ФСИС, на немски BSI) е предупредила депутати и държавни служители за възможна атака чрез шпионски софтуер, насочена срещу мобилни телефони, съобщава обществената телевизия А Ер Де, цитирана от ДПА. Предупреждението следва сигнал за сигурността, изпратен от \"Епъл\" до потребители на Айфон, чиито устройства може да са били компрометирани. Министърът по цифровизацията Карстен Вилдбергер заяви п",
@@ -227,14 +235,6 @@
         "link": "https://www.bta.bg/bg/news/world/1237761-federalen-sadiya-othvarli-isk-na-administratsiyata-na-tramp-za-izborite-v-alyask",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14057870/3a47bc96d51445289e48d3485f71d7ea--0--0a851532312b4a1ebf7c8930282334bf.jpg"
-      },
-      {
-        "title": "Кирил Вълчев – журналистът, обиколил целия свят и сключил брак на Антарктида - БРЯГ",
-        "description": "",
-        "date": "2026-11-01T21:59:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHZoVWZubmpSQU42ZUZLeUZqUkU0blZzNHpXZG1sZ1l3MklZWWYxWjl5M1h1S2tfdUNDOWdjOC1fNnVqTHIzdnFaeGpnemNaVjF6MmF3Q3JOa1hjOVIzWmcxTEtMOEc1Y2YwOGRhTGhDQTgtZmVzcGItdWJBTG1pemU4THo5Vkw0dWtqUDk5R0JuX1R6a3FDbnRQcnNHQQ?oc=5",
-        "source": "БРЯГ",
-        "image": null
       },
       {
         "title": "В Сирия са задържани двама предполагаеми членове на \"Ислямска държава\", заподозрени в поредица от убийства",
@@ -285,14 +285,6 @@
         "image": "https://www.bta.bg/upload/11103686/eeee13b3a8ec4fa28191c07aecf5501f--0--d6f88236512546f387f62ffd18f950ee.jpg"
       },
       {
-        "title": "Тръмп хвърли бомба. Иска трети мандат! - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-01T20:26:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMF9vc2lHZzZrRTIwVmMxQWh3VWxnVDhvWGlPZzZuVS1yQk5HcWI0TnNTUEkxQ2V5VkdOYVFTZk40czdCMzRzSzJvMC1BRE5sOU81NXpZT0ZLUzdNMHk1OXExNzdPS1JHSUtDMXFiUzZCQm9ZTDBLdk00dmVEaTI2a1lPdHluTkFGTkk0?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Иран съобщи за експлозии на два петролни танкера, попаднали на мини в Ормузкия проток",
         "description": "Военноморските сили на иранския Корпус на гвардейците на Ислямската революция съобщиха, че два петролни танкера са се взривили, след като са попаднали на мини при преминаване по \"неразрешен маршрут\" през Ормузкия проток, предаде Ройтерс, като се позова на ирански държавни медии. Иран наложи ограничения върху преминаването на кораби през стратегически важния проток и атакува плавателни съдове, за които твърди, че нарушават тези правила. По този на",
         "date": "2026-11-01T20:19:29+00:00",
@@ -307,14 +299,6 @@
         "link": "https://www.bta.bg/bg/news/world/1237715-kanadskiyat-premier-mark-karni-zayavi-che-e-provel-dobar-razgovor-s-tramp-za-ta",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14060165/6ccac0434ed244a18040176d81a1df23--0--0b1a579e85e945588de36757569bf925.jpg"
-      },
-      {
-        "title": "Руската ФСС задържа непълнолетен след сигнал от САЩ за готвен атентат - Novinite.bg",
-        "description": "",
-        "date": "2026-11-01T19:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGlpaE1hS3ZEV0hIc1o4QmQ5eWlmd3h4S0JJY1ZCUkNHd0tKcmRGaTI4NHNRa19CNzRraGFqWXJTVDh6OW5GbTZocXcydnY1dl8yMEhQdHNNcnlScjNObXdwZlVTU3JuNjZ1MGUzY0xYeXc1U2VKNjZObjBpNlNTQW10N3BTQWpXTWVkdkJBSUlWMlpGN05GdmhURjdZZm9rQktmeWxtV0NlaTBIWUs3aQ?oc=5",
-        "source": "Novinite.bg",
-        "image": null
       },
       {
         "title": "Йеменските хуси обвиниха Саудитска Арабия, че е нанесла въздушни удари по пристанище в Йемен",
@@ -349,14 +333,6 @@
         "image": "https://www.bta.bg/upload/14041889/b351b09eb172419b8f520657d902d402--0--7c90554197ea4a58885798521964ce46.jpg"
       },
       {
-        "title": "Небесен път за милиони свързва Северна и Южна Европа - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-01T18:20:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWRqZDZJcVRYT01yRDU1M1p1S0U4Z2NLSGlmTGI3REFoVnVlcnJIWFlwQ3lpVWRDZTVoV2lhUFZSMTNyWFIzVW4tSWxMcmVJQWVPa3N5c1VkblFrQWFtZGJLTjBWS01tZGJjR3E0NnI0Z3UyWDgtLUJqVWpEM1Nkejc0aU1oOEwybUZRa1FJTTNnT09OalNIbjR2TzFfdHBmYVA4?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Латвия съобщи за краткотрайно нарушение на въздушното ѝ пространство близо до границите с Русия и Беларус",
         "description": "Латвийските въоръжени сили съобщиха за краткотрайно навлизане на неидентифициран обект във въздушното пространство на страната близо до границите с Русия и Беларус, съобщи Ройтерс. Военните призоваха жителите на района да останат по домовете си от съображения за сигурност. \"Уведомяваме ви, че има заплаха във въздушното пространство. Ако забележите нисколетящ или подозрителен обект, не се приближавайте до него\", предупредиха въоръжените сили в пуб",
         "date": "2026-11-01T18:18:00+00:00",
@@ -373,28 +349,12 @@
         "image": "https://www.bta.bg/upload/14049998/08f764f586ef4c6e9174cfb2d2c54ee8--3--c9e53520dbd2401e8c3025fb64c2a450.jpg"
       },
       {
-        "title": "Зловеща развръзка в Кипър: Откриха тялото на изчезналата българка в кладенец - Novinite.bg",
-        "description": "",
-        "date": "2026-11-01T17:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHZDQzhWUzVGaFd0eENxeE16T1JTeEMtOEp3VGx5akNDNlN4TEgwN1dVcFpSM0NBRFpDYzBrd1BBOEJISWV1WkREcmtJNHFkZmRRZDVfcllETV8zcEVVejM3MjN3SE42dER4WjNEcVdTVG40dkJ0Y1hxZElaWDdFT0xWd3dadmtnVUxqWDdONkI2QmNGZlpYTVdIX3p1Zkg0dmxMdE1nSDVsbTczaFI0X3lrSWZFQ3pYanRF?oc=5",
-        "source": "Novinite.bg",
-        "image": null
-      },
-      {
         "title": "Франция търси кой да плаща за щетите, причинени от размириците и оценявани на 1 млрд. евро",
         "description": "Разноските за покриване на щетите от размириците във Франция скоро може да бъдат удържани от жилищните помощи, но на някои участници в протестите може да се наложи да плащат за прозорци, които никога не са чупили, пише Асошиейтед прес. Френският Сенат одобри тази седмица съответния законопроект с 229 гласа \"за\" при 105 \"против\", след като през последните седмици протестите срещу високите разходи за живот прераснаха в най-тежките безредици в стран",
         "date": "2026-11-01T17:20:00+00:00",
         "link": "https://www.bta.bg/bg/news/economy/1237617-frantsiya-tarsi-koy-da-plashta-za-shtetite-prichineni-ot-razmiritsite-i-otsenya",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/11564060/c4758194786b4757a8b4d1d67daac240--0--cabcbe78fef04869917c17776fd0efef.jpg"
-      },
-      {
-        "title": "Европа кипи: Младите излязоха срещу скъпия живот и бъдещето без надежда - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-01T17:05:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSGFsYTNmbFR3dDZ1a29iUm9PQU53VVRpNkFvZmQzSk9URHdFaXFzQ2hjWlg2UFN4Ymd6OEcyNlJJNXJNWHdwOV9YMVZ5OVRfX2hmMGY2ME9yNDdZNWdseTB6OUYycE1GTThaYzdocm82YmlwWTMtTnlfTk1vVVlyM2xHd2YyQTU2YmVqNFpVMXZucUM2d09LQktVTUdyeld1WFBfSnpab1pYRFRydU5RTlNuZnVtbGRkS0d4Nmk4bGhwLWs?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
       },
       {
         "title": "Марин Льо Пен осъди \"насилственото превземане\" на полския Конституционен съд",
@@ -1016,27 +976,27 @@
     "България": {
       "fresh": true,
       "count": 25,
-      "feeds": 3
+      "feeds": 2
     },
     "Свят": {
       "fresh": true,
-      "count": 25,
-      "feeds": 2
+      "count": 20,
+      "feeds": 1
     },
     "Наука": {
-      "fresh": true,
+      "fresh": false,
       "count": 25,
-      "feeds": 1
+      "feeds": 0
     },
     "Образование": {
-      "fresh": true,
+      "fresh": false,
       "count": 25,
-      "feeds": 1
+      "feeds": 0
     },
     "Технологии": {
-      "fresh": true,
+      "fresh": false,
       "count": 25,
-      "feeds": 1
+      "feeds": 0
     }
   }
 }
