@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-11-02T01:18:28.143381+00:00",
+  "generatedAt": "2026-11-02T02:31:29.169839+00:00",
   "categories": {
     "България": [
+      {
+        "title": "При 98,43% от протоколите: За Йотова са гласували 340 758 българи повече от избралите Гюров",
+        "description": "Победителите водят с 57,64% пред вторите, които получават 39,40%",
+        "date": "2026-11-02T02:20:13+00:00",
+        "link": "https://dnes.dir.bg/politika/pri-98-43-ot-protokolite-za-jotova-sa-glasuvali-340-758-balgari-poveche-ot-izbiratelite-na-gyurov",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043270/384x216.jpg?_=1793588780"
+      },
+      {
+        "title": "БСП ще има своя трети президент с Йотова - след Радев и Първанов",
+        "description": "Социалистите изпаднаха от НС, но вече спечелиха 5 президентски мандата",
+        "date": "2026-11-02T01:55:30+00:00",
+        "link": "https://dnes.dir.bg/politika/bsp-shte-ima-svoya-treti-prezident-s-jotova-sled-radev-i-parvanov",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043269/384x216.jpg?_=1793587519"
+      },
+      {
+        "title": "При 98,43% обработени протоколи Йотова и Вълчев печелят изборите с 57,64% от гласовете, Гюров и Кандев получават 39,68%",
+        "description": "Кандидатпрезидентската двойка Илияна Йотова и Кирил Вълчев печели изборите с 57,64% от гласовете, а тази на Андрей Гюров и Георги Кандев получава 39,40%. Това показват данните на Централната избирателна комисия (ЦИК) при обработени 98,43% протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК). Данните са към 03:00 ч. Илияна Йотова и Кирил Вълчев получават 1 077 092 гласа, а Андрей Гюров и Георги Кандев - 736 334.",
+        "date": "2026-11-02T01:51:14+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237814-pri-98-43-obraboteni-protokoli-yotova-i-valchev-pechelyat-izborite-s-57-64-ot-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14062819/cik+-+rezultati+-+03.jpg"
+      },
+      {
+        "title": "Йотова печели 1 022 503 гласа според 92,39% от протоколите, с аванс от 17,68% пред Гюров",
+        "description": "За втората кандидатпрезидентска двойка са гласували 707 310 сънародници",
+        "date": "2026-11-02T01:04:17+00:00",
+        "link": "https://dnes.dir.bg/politika/jotova-pecheli-1-022-503-glasa-spored-92-39-ot-protokolite-s-avans-ot-17-68-pred-gyurov",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/02/3043268/384x216.jpg?_=1793585680"
+      },
       {
         "title": "При 92,39% обработени протоколи Илияна Йотова и Кирил Вълчев печелят изборите с 57,36%, втори са Андрей Гюров и Георги Кандев с 39,68%",
         "description": "Кандидатпрезидентската двойка Илияна Йотова и Кирил Вълчев печели изборите с 57,36% от гласовете, а тази на Андрей Гюров и Георги Кандев събира 39,68%. Това показват данните на Централната избирателна комисия (ЦИК) при обработени 92,39% протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК). Данните са към 02:00 ч. Илияна Йотова и Кирил Вълчев получават 1 022 503 гласа, а Андрей Гюров и Георги Кандев - 707 310. О",
@@ -67,12 +99,28 @@
         "image": "https://www.bta.bg/upload/14062075/cik+-+rezultati+-+00.jpg"
       },
       {
+        "title": "Андреа Кими Антонели е световен шампион във Формула 1 - Gong.bg",
+        "description": "",
+        "date": "2026-11-01T21:52:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmFuVzZqMTE5MjVCTHQ0YWZSQlF2MkhnWThqWS1xby1FUm1GS0dJZWRBZG51b0pRcjR4WmxpaDg4YmxhLXpVOTItNW1JeVJVVkZZbU1GQTl2WFpub0U0YjNTWkh2TUE0dXpqa0FJTVY1MWF3WTBkTFBQdU9ZbXNJWUw0cnNJMWVEUmZFcTBVMjJ4ZzE2anM1em9ZUQ?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
         "title": "Станишев: Изборът на жена за президент на България показва зрелостта на демокрацията ни",
         "description": "Според бившия премиер мнозинството е гласувало за държавен глава, който да търси роля на страната ни \"за политическо уреждане на войната в Украйна\"",
         "date": "2026-11-01T21:48:03+00:00",
         "link": "https://dnes.dir.bg/politika/stanishev-izborat-na-zhena-za-prezident-na-balgariya-pokazva-zrelostta-na-demokratsiyata-ni",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/09/05/3023273/384x216.jpg?_=1788627299"
+      },
+      {
+        "title": "674 самолета срещу 122 потвърдени загуби: огромната разлика в руските данни за войната - Dnes.bg",
+        "description": "",
+        "date": "2026-11-01T21:48:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSndQc2tLMVMzUjF5amVTVFloMC1hcFM1dTdEQ0ZpOVpYRzNNYkUxVjNIU2FsVGsxazRCR3Fmbk4xeWQ3VzFYQVdwd3k2b0MzalB1UV95RUVINV9aeWhEd2NpSTUzOWkwZl9VRzE3TzJWQ2wyQ1dKbkpubWJ3d25aY3J2Rl94djFRMVR3emxnMTB2LUFyeV9sMHdhNnNuT2dhRGhUc0RnQl9BVmZTSXMwc2pFb2RQd0lPLWhIV3hpM21IQ0VfVEhWMUFYUmd0VnRNYjk4TA?oc=5",
+        "source": "Dnes.bg",
+        "image": null
       },
       {
         "title": "Десислава Радева поздрави Гюров и Кандев с парчето \"За кого бие камбаната\" на \"Металика\"",
@@ -153,57 +201,33 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1237783-shest-udostovereniya-za-izdavane-na-dokumenti-za-samolichnost-sa-izdadeni-v-izbo",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14061031/3.jpg"
-      },
-      {
-        "title": "Според 100% извадка от паралелното преброяване на „Галъп Интернешънъл Болкан” за втория тур на президентските избори: Йотова - Вълчев са с 56,9 %, Гюров - Кандев с 39,2%",
-        "description": "Според 100% извадка от паралелното преброяване на Изследователски център \"Галъп Интернешънъл Болкан\", публикувани на сайта на центъра , разпределението на гласовете за кандидатите за президент и вицепрезидент на втория тур на вота за президентските избори е: Илияна Йотова – Кирил Вълчев -56,9% Андрей Гюров – Георги Кандев - 39,2%",
-        "date": "2026-11-01T20:37:40+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1237785-spored-100-izvadka-ot-paralelnoto-prebroyavane-na-galap-interneshanal-bolkan-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14058802/650bdf67-74ea-48bd-ac39-eba0e3066db2.jpeg"
-      },
-      {
-        "title": "Йотова благодари на Радев в съвместен брифинг на победата: Без Вас нямаше да се справим",
-        "description": "\"Кой подведе господин Гюров за тази изключително нападателна кампания, която се проведе лично към мен, към нашата кандидат-президентска двойка?\", попита тя",
-        "date": "2026-11-01T20:23:46+00:00",
-        "link": "https://dnes.dir.bg/politika/jotova-blagodari-na-radev-v-savmesten-brifing-na-pobedata-bez-vas-nyamashe-da-se-spravim",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/01/3043243/384x216.jpg?_=1793567569"
-      },
-      {
-        "title": "Румен Радев: Това, че Асен Василев ще протестира, не значи да правим избори на всеки 4-5 месеца",
-        "description": "\"Няма връщане назад към сглобките и към сенките на миналото от прехода\", обяви премиерът, рамо до рамо с Илияна Йотова",
-        "date": "2026-11-01T20:22:52+00:00",
-        "link": "https://dnes.dir.bg/politika/rumen-radev-tova-che-asen-vasilev-shte-protestira-ne-znachi-da-pravim-izbri-na-vseki-4-5-mesetsa",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/01/3043244/384x216.jpg?_=1793566604"
-      },
-      {
-        "title": "С тези избори борбата не свършва, заяви кандидатът за вицепрезидент Георги Кандев",
-        "description": "С тези избори борбата не свършва. Това заяви кандидатът за вицепрезидент Георги Кандев в изявление пред медиите в предизборния щаб след края на втория тур на президентските избори. „Благодаря на стотиците хиляди граждани, които участваха в днешния избор, и на тези, които ни подкрепиха, на всички, които видяха надеждата в нас“, каза Кандев. Той посочи, че през последния месец и половина от предизборната кампания са обиколили България и са провели ",
-        "date": "2026-11-01T20:22:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1237775-s-tezi-izbori-borbata-ne-svarshva-zayavi-kandidatat-za-vitseprezident-georgi-ka",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14034545/KASA1423.jpeg"
-      },
-      {
-        "title": "Андрей Райчев за победата на Йотова: Българският народ не смята да сваля властта си",
-        "description": "Според социолога появата на премиера Румен Радев е била решаваща за мобилизацията на поддръжниците на действащия президент",
-        "date": "2026-11-01T20:15:13+00:00",
-        "link": "https://dnes.dir.bg/politika/andrey-raychev-za-pobedata-na-jotova-balgarskiyat-narod-ne-smyata-za-svalya-vlastta-si",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2023/11/15/2621313/384x216.jpg?_=1700813503"
-      },
-      {
-        "title": "Приемаме резултатите, колкото и изненадващи да са те, каза Андрей Гюров след втория тур на президентските избори",
-        "description": "Приемаме резултатите, такива каквито ги видяхме, колкото и изненадващи да са те, каза кандидатът за президент Андрей Гюров след втория тур на президентските избори. Ние сме готови да покажем, че кампанията свършва, но отговорността не свършва. Трябва да търсим отговорност от държавата, защото тя трябва да работи за българските граждани, не за себе си, каза още Гюров. Огромна благодарност към всички български граждани, които използваха своето прав",
-        "date": "2026-11-01T20:15:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1237790-priemame-rezultatite-kolkoto-i-iznenadvashti-da-sa-te-kaza-andrey-gyurov-sled-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14061222/BKK_0132+%282%29.JPG"
       }
     ],
     "Свят": [
+      {
+        "title": "Северна Корея осъди съвместно южнокорейско-американско военно учение и заяви, че укрепването на ядрените ѝ способности \"не подлежи на промяна\"",
+        "description": "Северна Корея осъди проведеното неотдавна съвместно военно учение на Южна Корея и САЩ, което съчетава конвенционалните военни способности на Южна Корея с американските ядрени способности, като заяви, че на този фон укрепването на севернокорейския ядрен потенциал \"не подлежи на промяна\", предаде Йонхап. В изявление, разпространено от официалната Корейска централна телеграфна агенция (КЦТА), Ким Чон-сик, първи заместник-директор на отдел в Централн",
+        "date": "2026-11-02T01:59:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1237815-severna-koreya-osadi-savmestno-yuzhnokoreysko-amerikansko-voenno-uchenie-i-zayav",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13779685/5be02191c0c4456b842618cca4643e84--0--4f949772c2024bf48f561f1ddaef3753.jpg"
+      },
+      {
+        "title": "При 98,43% обработени протоколи Йотова и Вълчев печелят изборите с 57,64% от гласовете, Гюров и Кандев получават 39,68%",
+        "description": "Кандидатпрезидентската двойка Илияна Йотова и Кирил Вълчев печели изборите с 57,64% от гласовете, а тази на Андрей Гюров и Георги Кандев получава 39,40%. Това показват данните на Централната избирателна комисия (ЦИК) при обработени 98,43% протоколи на секционните избирателни комисии (СИК) в районните избирателни комисии (РИК). Данните са към 03:00 ч. Илияна Йотова и Кирил Вълчев получават 1 077 092 гласа, а Андрей Гюров и Георги Кандев - 736 334.",
+        "date": "2026-11-02T01:51:14+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1237814-pri-98-43-obraboteni-protokoli-yotova-i-valchev-pechelyat-izborite-s-57-64-ot-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14062819/cik+-+rezultati+-+03.jpg"
+      },
+      {
+        "title": "Кандидатпрезидентската двойка Илияна Йотова и Кирил Вълчев печели убедително на втория тур на изборите, коментират световните агенции",
+        "description": "Кандидатпрезидентската двойка Илияна Йотова и Кирил Вълчев постигна убедителна победа на втория тур на президентските избори, коментират световните агенции. Следват техни коментари по страни. Германия: ДПА се позовава на прогнозите на социологическите агенции \"Мяра\" и \"Алфа рисърч\". Според тях Йотова, бивша евродепутатка от групата на социалистите, подкрепена от управляващата лявоцентристка партия \"Прогресивна България\" (ПБ), получава около 58% о",
+        "date": "2026-11-02T00:58:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1237813-kandidatprezidentskata-dvoyka-iliyana-yotova-i-kiril-valchev-pecheli-ubeditelno-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14062350/cik+-+rezultati+-+01.jpg"
+      },
       {
         "title": "Приложението, предупреждаващо украинците за въздушни атаки, е било хакнато, заяви Киев",
         "description": "Официално приложение, използвано от украинците за получаване на информация за заплахи от руски въздушни удари, е било хакнато, заяви говорителят на украинските военновъздушни сили (ВВС), цитиран от Франс прес и Ройтерс. ВВС първоначално бяха заявили, че официалното приложение „Въздушна тревога“ „вероятно е станало жертва на враждебна намеса“.По-късно говорителят им Юри Игнат потвърди тази информация. Това съобщение идва само няколко минути след к",
@@ -235,6 +259,14 @@
         "link": "https://www.bta.bg/bg/news/world/1237761-federalen-sadiya-othvarli-isk-na-administratsiyata-na-tramp-za-izborite-v-alyask",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14057870/3a47bc96d51445289e48d3485f71d7ea--0--0a851532312b4a1ebf7c8930282334bf.jpg"
+      },
+      {
+        "title": "Кирил Вълчев – журналистът, обиколил целия свят и сключил брак на Антарктида - БРЯГ",
+        "description": "",
+        "date": "2026-11-01T21:59:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHZoVWZubmpSQU42ZUZLeUZqUkU0blZzNHpXZG1sZ1l3MklZWWYxWjl5M1h1S2tfdUNDOWdjOC1fNnVqTHIzdnFaeGpnemNaVjF6MmF3Q3JOa1hjOVIzWmcxTEtMOEc1Y2YwOGRhTGhDQTgtZmVzcGItdWJBTG1pemU4THo5Vkw0dWtqUDk5R0JuX1R6a3FDbnRQcnNHQQ?oc=5",
+        "source": "БРЯГ",
+        "image": null
       },
       {
         "title": "В Сирия са задържани двама предполагаеми членове на \"Ислямска държава\", заподозрени в поредица от убийства",
@@ -341,31 +373,55 @@
         "image": "https://www.bta.bg/upload/13874414/7b1d90a7244e48938e7938bf7ba13523--0--c70891faefc64351a765f7f5929f582f.jpg"
       },
       {
-        "title": "Трима загинали и няколко ранени при руски атаки с дронове в Украйна",
-        "description": "Най-малко трима души са загинали, а четирима, сред които три деца, са били ранени при руска атака с дронове срещу град Козятин в Централна Украйна, съобщиха днес местните власти, цитирани от ДПА. Областният военен управител на Виницка област Наталия Заболотна съобщи във Фейсбук, че пострадалите са били ранени при експлозия на дрон между жилищна сграда и училище. За руски атаки с дронове беше съобщено и в западната Черновицка област, където един ч",
-        "date": "2026-11-01T18:00:38+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1237645-trima-zaginali-i-nyakolko-raneni-pri-ruski-ataki-s-dronove-v-ukrayna",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14049998/08f764f586ef4c6e9174cfb2d2c54ee8--3--c9e53520dbd2401e8c3025fb64c2a450.jpg"
+        "title": "Гърция купува три военни самолета за около 600 милиона евро - Свят - manager.bg",
+        "description": "",
+        "date": "2026-11-01T16:38:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1Z3MmRpRXJxbVhXbkM4WVdnVElLdGE3YmpnTzRSemVxbjVfVm5mRTlUTS00VXUyRXVwTWVLak5wTHVLTXlkWHBhNDIyenA0MU5JMmFfMll2Und5NEhlY2lHUWJLTGdud242anlwV2VPZ3VlbG5ad2ZYOUxwUnlrdktCaWs3RktsUmpQUVRfbTdMY0FKS19PTmVSd2wzbkJ3cFdQVGR3?oc=5",
+        "source": "manager.bg",
+        "image": null
       },
       {
-        "title": "Франция търси кой да плаща за щетите, причинени от размириците и оценявани на 1 млрд. евро",
-        "description": "Разноските за покриване на щетите от размириците във Франция скоро може да бъдат удържани от жилищните помощи, но на някои участници в протестите може да се наложи да плащат за прозорци, които никога не са чупили, пише Асошиейтед прес. Френският Сенат одобри тази седмица съответния законопроект с 229 гласа \"за\" при 105 \"против\", след като през последните седмици протестите срещу високите разходи за живот прераснаха в най-тежките безредици в стран",
-        "date": "2026-11-01T17:20:00+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1237617-frantsiya-tarsi-koy-da-plashta-za-shtetite-prichineni-ot-razmiritsite-i-otsenya",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11564060/c4758194786b4757a8b4d1d67daac240--0--cabcbe78fef04869917c17776fd0efef.jpg"
+        "title": "Зад кулисите на Президентството: Невидимият свят на протокола, в който всеки детайл има значение - nova.bg",
+        "description": "",
+        "date": "2026-11-01T16:07:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8gVBVV95cUxPdlVOOVVnbkRuS2hjdXlsbm9zTHJESmdWVHE4NDNaeTFza3loRE9maXFVcUNpYnBZcUxRUEljUGZtNVlod2l4NjllcWNBd1NLSDM4OVhlR3QybFU3SWtrbC1CYzVQUmpReTBtZk9rVVNrd1o0T0phdHpNS2c3ZHBzU1hlSkFIRnphbkZhckNnX1gwQ3hhWUlvWlZFTThJVHJkOGhfc3VwdHJUcWpfNmlfRUk2a3puSC1OVVdKMEF5Z2JzWFVxYm96cUxDaFJyaGJ4a0dHSTdYLW5qdXdUb25fVktKYVA3X2NUaE5aWF9vOXlMVlFPWEtXTEVjeThUWG1mTDdtb09hS3lsTVRJeTJZeHJ4UWNpLTV1MTFKTXMycHJrQk5SdEF6UlpGMy1RamJuMUg5ZTk1VWZaUVgxN2lLRlZDUDBZV0RLRzk0aUtQX2hmZ3k3Y0NGY2t0aVdpdFZseDBKUlJhaXJTekN3NS1FRjdfSkNzdVNWaFZ5NE5zcmZGOGlIamZOaGNneFM3cWFqV1h6b1MtazhYbW5tblU4Qy1GLXdhTTFGUUFvQ3p3ZS15c1o0RXIwclk3NGZ6UU9Hc3A5OWtNR2ZoR2otbzFITVVub3lJSWNmZjZWNnJxeFhsdHBiUm5UbWVfNVg4VGVETW95eWtVZ05yb3lxMXplc0J2enhUS0FCaURBVVZ0V0lTaE5TNzgyaGVqWmpuZGhuZjVFSldHUHdJRHptOG1LM0t5Y25WUmpmbDlWNkhpQTJrRlRzM1QxTXZlTzhHbVFvMHNVdlNteHdqcWdEN3dSbEMybktESW80M21QZk1DMm9CTG91T2JRNU5TUTBVbnBuU3ZGNnNTS3piYUZiMzRrYjhNeEpELWlGazZlV0F3NjhWQ1QxUHVuSjFIb2J3anJwdlpadEFIRk80WTdXZ0lsM1RvQ1JlU1BHdzdad3lxemR1N2duTFJ5UVBabW5tQXoxenhCa2h5WE5tLXhKdUVQanZR?oc=5",
+        "source": "nova.bg",
+        "image": null
       },
       {
-        "title": "Марин Льо Пен осъди \"насилственото превземане\" на полския Конституционен съд",
-        "description": "Марин Льо Пен, кандидатка на президентските избори във Франция следващата година и бивша лидерка на популистката партия \"Национален сбор\", изрази дълбокото си безпокойство от политическата криза в Полша и осъди \"намесата на силите за сигурност\" при протестите пред Конституционния съд във Варшава, предаде Франс прес. \"Върховенството на закона не може да бъде възстановено, като се създава впечатлението, че правилата, върху които то се основава, пов",
-        "date": "2026-11-01T17:02:08+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1237623-marin-lyo-pen-osadi-nasilstvenoto-prevzemane-na-polskiya-konstitutsionen-sad",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14033118/cfe867c05bb8443cb2be5a04ef0f0f62--0--2655a6c4fcc14bed9edfb38a54aa3bb4.jpg"
+        "title": "Меган и Хари отбелязват 10 години от публичното разкриване на връзката си - www.24chasa.bg",
+        "description": "",
+        "date": "2026-11-01T13:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sd29CSWZkRWtZWXJqUndZYXdqcGdubGFXU3BRSDdPRk44ZDNFLUNQYk5vS1NmTW9JMUJUblpQV29Rc1d3MnhvNklMb09hajN1UkEzY05WWmdPOGpvNE1N?oc=5",
+        "source": "www.24chasa.bg",
+        "image": null
+      },
+      {
+        "title": "Масови протести в Делхи след заличаването на 130 милиона избиратели - Свят - manager.bg",
+        "description": "",
+        "date": "2026-11-01T12:44:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjh5SnpPYm5DTC1ISGNQZjlkbDhaR05XVjU2c0xaeklZVDVySmpmWkZRMHUwWXJWTzhCcl9tWVhVRkFVN0dieG44cS16U0ktZlhOd1pJN2dxa0ZSRmlka3ZQRzQ4RjRIdGQzMFVFVTY2OWtSLXp1WXI1SUlaMUZGaHlyamhrN0o0TWVqLVB5UjZrYTZ3T3puelpnVGJTZDBGVVRPbUVnT1h1VU9XbWhHQVV3?oc=5",
+        "source": "manager.bg",
+        "image": null
       }
     ],
     "Наука": [
+      {
+        "title": "Космическият телескоп „Суифт“ на НАСА ще падне на Земята до дни, мястото остава неизвестно - БГНЕС",
+        "description": "",
+        "date": "2026-11-02T02:08:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHdvcU04TTV5MjRQYTJ2QjV3a0NuLURMMkFxaC1vanBIZnZvX29CMVFYN0JwY1g3UUU4Mk5obUVGRklyQWROTHUzNW1Ha3BNQm5ZWlJaNEpranN3eXFBYkZ3aWx0OHA5MmZEb25NMktKcllIWnZmRy1FNjU0U1d3cVVuTFhlYzRmQlJpSmphcl90Z1lhMnhkX0VUVTE0Y3oxN1MwYzJkZGRlWmllaERGaw?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
+      {
+        "title": "Звездна активност, а не планета: Какво стои зад загадъчен сигнал от 16 светлинни години от Земята? - БНТ Новини",
+        "description": "",
+        "date": "2026-11-02T01:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdHoyejBZY2NDOGltVlp2b0x3UThDa3FFX3ZNUC1wTEJJZUhNaUp5R3dZdkFwWWhoY0N3X1Y4V2VxUW1FZkhiRDJ5SWkzWlZjanlISkkxYlljUTJzT3RtRmQyblBNX3hYWlVyY3ZtMzZCeGVxTVA3N1FOSFdrV0ZxSGY0U2NkTVRSc2lINUtFRjZmU3A4eW91c2R2ZXFBLTBsaUF3aWY1Nm1CbXJTRTB3ak1Mb2FjM2psVEFzcUw5cGJlX2J1TUlibm96dzE5Y1ZTYmd1Zg?oc=5",
+        "source": "БНТ Новини",
+        "image": null
+      },
       {
         "title": "31 дни без алкохол: какво се случва с тялото и кои промени учените вече са измерили - Kaldata.com",
         "description": "",
@@ -399,27 +455,19 @@
         "image": null
       },
       {
-        "title": "NYT: Политиките на Тръмп отслабват американската наука - Fakti.bg",
+        "title": "\"Дълголетие в добро здраве. Новата наука и остаряването\" на Ерик Топол (откъс) - Dnevnik.bg",
         "description": "",
-        "date": "2026-11-01T07:06:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzNQa0xaemN4RlZoVTNPWHJWT2dfNXpfa1o1QXhYdUVZMnFfVWRuZmFfZUhZdHRxR1VvQWV5VG9ETjd5Z3AzUl9JZm5OakhONFV1SktkUDBHRkZIbUdSQ3l6Y3hYbjdDMFVUYl8wN0s2cW9QN1l3bkJPN2tMdVRZQktmOFVSaV9Lc01OMQ?oc=5",
-        "source": "Fakti.bg",
+        "date": "2026-11-01T10:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR09scmVfMl8yS0hod0RHc2JmMW5iVWx3bk00MFlaRHk2d1lBYmhIbjNtUlMyQzVrbXhlMXZZRC1vUTAzZExzNlVWM05XSFdzcE5NczgwS2tEOEJZYWtwOVV0dTlTTWgyRkFmbGVfeWhiajdEcHViU0tZTzF0Wm5KNWZnZER4d0ZkTEIwdE5fUlZ0bUlpa1FCVzROZGY4cUFJdGtxT21R?oc=5",
+        "source": "Dnevnik.bg",
         "image": null
       },
       {
-        "title": "1 ноември е и празник на българската журналистика и българската наука - PlovdivNow",
+        "title": "Източна Европа преживяла малък ледников период преди 400 години - БГНЕС",
         "description": "",
-        "date": "2026-11-01T07:00:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ01EX0ZpQlZndFI2MThjUy1nVzh6ZXJzQ2R2T0c3SFp3amlaUlBoa2Mxc04xdDZEeTd3anBQQkYtMHVVclRiVTJyMHgwWEh4eFV2Vm0wYnVPWTE3d2JqSjFYYjRuRkVqNk5oeWNQb2tLa05qTEpzRmxnM0twSEkyUEd5MGVoVXZKTnRsWVNMMk4?oc=5",
-        "source": "PlovdivNow",
-        "image": null
-      },
-      {
-        "title": "Румен Радев оцени българските научни изследвания на 800 метра асфалт - Frognews",
-        "description": "",
-        "date": "2026-10-31T08:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDgzT3NjQnZkN1IwUjMwZERIcGRIMXFzc1A4SHRmaXR1VEF1RmNEb3I5T2xRWWRHa2RUb0lvbHNvdlh1SjVEbTF1RWliZHhxVHJKVnphR1NXbmREVnZ0VlBDMFUzSUpuN0ZzS0Y2S1JVdmNjZm5HZnlrOUtkOGo4cHVqX2NiMV95c0I2UlF0SEpLS2lzTG9zem9iUTJaR3RiRUF1UHdZT3dPeHNNbDlHUW1jelhDWkRi?oc=5",
-        "source": "Frognews",
+        "date": "2026-11-01T08:18:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUQ1alJCeHcxYW5PV1ZhRl9zeTg4aHZiN1pFQ2tpd2ZncXRSUUhjVnNMMlVjTF9ZOHY5SF9BRWJFTVJPYmxUMFRkOXBLU0p6Zll4ZFZQY2J2MEd3SDVfUUNlZlJ1dlZqNnZwcktLdlVfRVI3TzZma01YWFhpcURrc3pqMlZYLUNDdndsamFR?oc=5",
+        "source": "БГНЕС",
         "image": null
       },
       {
@@ -463,6 +511,22 @@
         "image": null
       },
       {
+        "title": "Индустриите за продължаване на живота: от стремеж към дълголетие до икономика на бъдещето - manager.bg",
+        "description": "",
+        "date": "2026-10-30T11:21:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2RGSUlQNm1lWFlQMFJXNTNON0QxczhmQXcwUDdOZVlhRmZ2cjdyUGJzaDBWSWNLRlVPZFRUVmJicjM4QlcyZUZQSmg5M1FIWXNnRXVPWDdpNVhGMjAwWnFPcnpaLTFmY1NScWlqMTA3RklLQkptZUd4bkNELS15bjZGejNqYTBydnk5VXBJcnhTVXhua29SbWVaMnlZLTRTNWREalFoNmF6N0hXRGU5UHJyZllFaU9MMzNZT1Vqa1k?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "867.8 млн. евро за наука и изследвания през 2025 г. - Clinica.bg",
+        "description": "",
+        "date": "2026-10-30T11:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGtpX2pCTDdVaTUxWklNcUNSRHRQY1VOQ3NZSTZ5aUNCWmlwemFUeHdpeUZILUtxVFg1SGd0U0plalhFU1ItV2xQTHlRblhtbTd0bGtEZlFTWUI4VVpKc2VickRrdkhJeXBSdFVQXy0tc1Z3UFZFQjJXTHF1SEVWbw?oc=5",
+        "source": "Clinica.bg",
+        "image": null
+      },
+      {
         "title": "Българската академия на науките и Съюзът на учените в България връчиха годишните си награди - MediaBricks",
         "description": "",
         "date": "2026-10-30T10:54:41+00:00",
@@ -471,11 +535,27 @@
         "image": null
       },
       {
+        "title": "МОН връчи наградите за наука „Питагор“ - Министерство на образованието и науката",
+        "description": "",
+        "date": "2026-10-30T10:37:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSXNIS080bHNmSUx1VUh6aG95aEhmYl82bGNDcnowaENtUmRZNG1mT1FDZU9YcS13ZGVRUEFNbmVzOS1xV2N0UTlQc3E4M0J6ck1HTk5DNklmZTZGQU5wLWRUNUtrMHp5RVRseXdRNmc?oc=5",
+        "source": "Министерство на образованието и науката",
+        "image": null
+      },
+      {
         "title": "Новите възможности за лечение на рака на гърдата – на фокус във видеокаста на „Обекти“ - Наука и Здраве - manager.bg",
         "description": "",
         "date": "2026-10-30T10:34:13+00:00",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSS1RQkdTMjhlMUdCUlhLcUUxel8wQ3JNMHY2emZHMTcwcUt6ejNRQUoxQmlMUkRjYlNFVVlOS2JyekI3WV8zNXF1REN2RG03eG9LdGgzR2dvaHU4bHhKRkRmdGNCNks2cXdFSGFBdkRWZ2FRMWlRWTBKTndmSmtVbzF1QnBRUFYycEN1ejlRSWJTVmNHX2hScjBuWlJRUzlLRWtkc2RuYUpOUFFwT1Q5dUlHMGJTWGMtSUE?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Екатерина Захариева: Европа трябва да удвои инвестициите в наука и иновации - 3e-news",
+        "description": "",
+        "date": "2026-10-30T10:29:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2NWeW9ZRTBnenpCX1l2SDh0bUh4a0dYOXJpOEw2VXFtNGlYRTZTcUxiOU9obDh6aW9iR3dVbTNMdlFRMzJNVXdvalZSQXE3RnRwNnMxanY1bVhtM3VkeFRKb29IRDVWVzB5aU1tblF1My1IUzhIZHFJMnlpVlpPbDNnUkNNeUdfa2FYY2N5NHZXYTZDLURSb0J1WXVaTW9wWW16SHBrcWhfcExyTVVxUA?oc=5",
+        "source": "3e-news",
         "image": null
       },
       {
@@ -519,51 +599,11 @@
         "image": null
       },
       {
-        "title": "Радев: Ще увеличим средствата за наука от 35 на 62 милиона евро през 2027 г. - Mediamall",
-        "description": "",
-        "date": "2026-10-29T17:01:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGJOTUhfc2x5SmJKX3BNaUFyX192dGh0SmlNQ2FYN0MzdVJLb3BUVmpDYjNHUEp3andpa19OZHNWQTk1TG1zWGMtV1BHaU5LeHV5SFlPZExRcUsyOVVjc0ZrQTZUeFJLUHFZa0RLbWprazQzSXMxUUZ1T1BjaGZ5Ukc4YW90ZDVmNndHT3BIaDRYeUlMX2JuQzl1S0lKYm1UMUYxUjhKMFR2Nk9Rd2U1ZVR6RS1lVUFueUI5Uw?oc=5",
-        "source": "Mediamall",
-        "image": null
-      },
-      {
         "title": "ВРЪЧВАНЕ НА НАГРАДИТЕ ЗА НАУКА „ПИТАГОР“ (на живо) - Министерство на образованието и науката",
         "description": "",
         "date": "2026-10-29T16:18:15+00:00",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZX05lVmR5aHpyell6b3BaSWFmTFh3V1lENUFBeHRYLUd1NE5sRGxiNVNSQXo2dS1tdWFXdXMtRTBDTG9QR3U3R0ZmT1ZlelZiY09pX21iQkd2aHBMbkNiT3NNV21lS1lBWGRIaHBhRGFFU0lRMi1LM3dyWWZTUQ?oc=5",
         "source": "Министерство на образованието и науката",
-        "image": null
-      },
-      {
-        "title": "Премиерът: Държавата е в дълг към българските учени, увеличаваме средствата за наука през 2027 г. - Petel.bg",
-        "description": "",
-        "date": "2026-10-29T16:07:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTdoZHlIZy1ia0sxSVgwZ0xSaVJXakJOQXpZQ2RPajFweUVLb08ydFFxeFNMMmtraG1nTGxvaFJQbVdMLURwanctQzQyamJ0enFFV2FMVFhvMVRjazRqVkpIaUpnR3NsREFjZkxVMjVtdDdfZjI2bW13UW1xUkx1bExueGxIZGFFbUFtNUdQZFU0LW40V1dLMnVzWEY3VVgwVlVrQ3hkZG1peExCeTV6QUswcE14S1Z4R1UyY1RselJkQjQ?oc=5",
-        "source": "Petel.bg",
-        "image": null
-      },
-      {
-        "title": "Румен Радев към учените: За наука догодина ще има 65 милиона - www.24chasa.bg",
-        "description": "",
-        "date": "2026-10-29T16:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yMnpLOXNCcGQxSV9GNWNjZUM5U3MxSWNLbm16MXIwZlFqZWwtc1g0cFgzekh5NjZ6cGM4Y2Zwc3FWQTJ3VHJ4Y2xzUEpJbUU5RjlwR3ZScmxuTm9o?oc=5",
-        "source": "www.24chasa.bg",
-        "image": null
-      },
-      {
-        "title": "Осем учени са отличени с награда за наука „Питагор“ за 2026 г. - MediaBricks",
-        "description": "",
-        "date": "2026-10-29T15:56:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOamtER18xOEMyYWpKY2dPd3dGZVB2RWU1cmZsaEpLUDg2RXluQnI0WWZvYlFVdTFGcHZlZXpZb3AxTXhJa19LVXN6MG5TQ1dIREgyX003ZTNua3pFdlhESExqRTVvcHA3ak9TZFZQSTExWmp0YTVUOEdod1VfLVlkVW5JdjhqTUlXRjdUM1JR?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Любов Костова е номинирана за „Будител на годината 2026“ - MediaBricks",
-        "description": "",
-        "date": "2026-10-29T09:01:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUo3bS1iMmkzOU1uWjhTOFFqX1dTOWl2QXB4WW1wX0RSVzR4ZjluRU5HcEYyS0tFMGNHWE85QjVjZUFaM1hlWU41WWc4b2lqNmxFRjlMN3c0bkNUcHdPRHZiS0k0alFBd1A1cl9OUVZUdnlsMTB0RGdhLXJlcmpqbEFVa2RKQQ?oc=5",
-        "source": "MediaBricks",
         "image": null
       }
     ],
@@ -651,7 +691,7 @@
       {
         "title": "Отличиха осем учители с наградите на МОН „Константин Величков“ - Moreto.net - Варна",
         "description": "",
-        "date": "2026-11-01T13:46:35+00:00",
+        "date": "2026-11-01T13:43:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jaVBlaEVsMzkzUXR4U3dQMm1hTjRMTTVUcnAxM2tKWlVBTlpmRnN5MUxHRkJ6aUI1TTR3Wi1laUktczh0MDYxZmJGeGVlRmNfenFWaw?oc=5",
         "source": "Moreto.net - Варна",
         "image": null
@@ -713,14 +753,6 @@
         "image": null
       },
       {
-        "title": "Отличиха учители с наградите „Константин Величков“ - bTV Новините",
-        "description": "",
-        "date": "2026-11-01T11:35:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYjNVWVBURFBkQmpsb0RWU0xwZkhpQjVScWc0NDN0LXRmZGFyWEFNNmxxdU9rSXRKSHFudmFWTWE1Z3E1UF8zN2hNRWVyYmpzQnVlRHMwWUItTjI1clBzVTdQd0dveVB0OHpoLVc0T3A3YVJtc0lHT294YW9abEFQWXFVMHQ5V1ZHT1U2TzFaU0hzUQ?oc=5",
-        "source": "bTV Новините",
-        "image": null
-      },
-      {
         "title": "С тематични текстове и табла ПГ „Стефан Караджа“ отбеляза Деня на будителите - Elhovo.news",
         "description": "",
         "date": "2026-11-01T10:55:00+00:00",
@@ -767,17 +799,17 @@
         "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOS0N0bUtXb2wxdlVnU0FtcmVwalRDSVJUVFpLTlA0Mkg5Sm4wQ1BLSndjOEI1ZTNxeXpqdm5IdU5oS1otaFBFY0tvSktDYWFNd01fUDNQNW1qdWx4WjJEeHRQVF96V1N6UTNvNzd6dFhjRzJlZFdPeUhyd2FLMVEzSDdndG1kUWM5S3g0VWRhb0pMaDduSktFemFTOUttRjBXR3dVeU10Wm1JWXVuSmZ4QWtWU0lLUnFUMVlaWHJlZS03TEN4dURTUlZfYlNlQnBuTGlWczlwWVNhY3FaYldlaHRIWUotdHM2T3ZvN1hyRjFQWDU4RnFaV25kMU9JMnljZm5BSVlFenJhQUdVekVDMG4yNnl5bHFKOS1nbE41VWFLV283ZXdZcDl1RnlGYlVIVVR6WkZUZC0yUVMxREE?oc=5",
         "source": "NetNews – Новините на Ямбол",
         "image": null
+      },
+      {
+        "title": "Честваме Деня на народните будители! - plevenutre.bg",
+        "description": "",
+        "date": "2026-11-01T08:35:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHctdlk5ZXBIbTNtUm9YT2ZHUlgyTUpYMFRya0ZQX3QzZEh4TTNJQWREUkoyOWZNZ0NrR05WUzhvU0JlZlJqd0NfMm1xRW5WdVJCempLdHhmUnBLbHFFZW9acW50aERDN2NBejFQQ3NwUnZQOUF2cWZZMzRsZmEtQ3I4Zw?oc=5",
+        "source": "plevenutre.bg",
+        "image": null
       }
     ],
     "Технологии": [
-      {
-        "title": "Китай развива бързо веригата за доставки на интелигентни свързани автомобили - Novinata.bg",
-        "description": "",
-        "date": "2026-11-01T21:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGRMOUZlUWE4SklySWFHVDFodUw0aEFvWDZfa1BCNVA4MFJEX2VPaVUySk5ndmpCeG5kekpSMy15T2pvMVNSU1hyS1F2a0RfaENJSWVGMXgtaWViMm03UkRQOVpKOXlTanZEOHVLeTVBS2ZIUktpU09neEtrQ0JCYUhLYXFtWmJUYmRQaUMzWkNTRnVadFd4Vm4zVHRjWHNXX0h2UXFB?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
       {
         "title": "Китайският стелт изтребител J-20 преминава към ново поколение технологии - Novinata.bg",
         "description": "",
@@ -800,6 +832,14 @@
         "date": "2026-11-01T12:47:06+00:00",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbDVQNmhCYmVUY05Edk5zVDRqVTVLU3otdVVxY19SN3FvYzd0alE4NEp0TENkd2NkSnpxTVBvSVY4X1IyVWxVUjBnY3h2MWswYUhYVVZmb1FKTmxUbUtaQ1lSMVdiS0xJTjA5T2xncGNzcEwwMk5TbGtpNEw1ZEVkYUtTeml4ZzFGYkF5bHVGUVhzZDhiV2E3RlhDLXVJN2xXendfdGpFMHNJb0lIUjVRX2VVdm5VNWtGbjYzZ3JpSTZRMXRLWDVJaHdUSTdSQnZxc0dPQ2ZnT1M2UDRTTmI2RkEycXFxZXc?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Откриване на изложението „Светлината на интернет“ 2026 г. в Уджън - 国际在线",
+        "description": "",
+        "date": "2026-11-01T09:55:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KajdXemUzYlY4VnptOUFlbm5sX19lQUhTRmlxRFZlaHF1NjdvUy1uSXJFRzU3U3pLU0ppaFFBcU5mb183N3ZKUFZKMHJ2bE1BODJBMUwyYUFMamNuQjJYT0NiX0FrLVE?oc=5",
+        "source": "国际在线",
         "image": null
       },
       {
@@ -856,6 +896,14 @@
         "date": "2026-10-31T13:30:27+00:00",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemxxaHBEVFZVaVVFTEJHS3NZemR6SGFXWnZCeHVNZkctX2lxWlRRSVdrQ293MUk1bXVzTWxqamtRWnlRak9NOXA0RlVfWjRvTEl6cFFDSTVhY29seUVQbnFFQmRtSGlEZnhyZnp6VnFienpqeFVRUHpQRVB0VWE1Yzg0V1JYcVR3RmtHVmk2ZmVVRFFTcGpEZ0l6S2htdEdhd2N4UjJoazJqelVDSWt1NTlMbzVFaDA?oc=5",
         "source": "ФОКУС",
+        "image": null
+      },
+      {
+        "title": "От прахосмукачки до електромобили: Как Китай измести Запада от технологичния връх? - Бизнес новините",
+        "description": "",
+        "date": "2026-10-31T13:24:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1RqS2pZWXhkOWg5ZlV3ZEt3VXU3QzJkRWU3cEVfVGNDSm9ZdHB1dVV4WFJTdjBZYWs1cjlCWUVoY29Hc0pjdjI3X3lMbHRrNEprQ041eUROZWJZLXBQekVpTUFDN01zTjRha3U0VnV0dG9jZktZTTFjcW90VURnNUZIcFFKQTNmYi03UVJLNnlOOWlvd1BmWEFJVnJnOVQySEdVXzF1M2dMejhEaGI3c0Nsa0tqZGoyeG1xcllVSm91eEc4MXc?oc=5",
+        "source": "Бизнес новините",
         "image": null
       },
       {
@@ -955,19 +1003,11 @@
         "image": null
       },
       {
-        "title": "Захариева в Бургас: ЕК предлага пари и за технологии с двойна употреба - BurgasMedia",
+        "title": "Високите технологии движат растежа на китайската икономика ᐉ Новини от Fakti.bg - Бизнес - Fakti.bg",
         "description": "",
-        "date": "2026-10-30T11:32:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemVycEI2SDdmLW1aMGJDdnFzaUxaN1djUXBBbUxMR0hNV3FoaGFKMzlPR01FQksyWS1jNk1iYmRvVEhDdzI1aVcweDZpTXVTSEZqWDhVZW1SdDRydjJuUWNocFlsR1FWQXNia1hOUGJyTFRHMkFlVFJmaVBPNmF0cHBWZHNFYnotMzQwbG13WUNndXlPak54ZU5NQjlIVUXSAaQBQVVfeXFMTkF1UElNX29WdkNEMzFCZzVZenZQcEg5TXlFQ2RDT25oOE1zQlRYLU5velJtWUhScnF3ajA2Rnd5XzhPcUljLWhIUllEN29fSVdwZERSQS1CZFZGd2RhbzEyWlFZR2VSSGlwZUozd1J2Wm9faXI3VG9MUnZkaTZDY21OSkViaF9CNzdya293VDQ4ZHhnZXpxdVNXTTZFRVJYZEotTFg?oc=5",
-        "source": "BurgasMedia",
-        "image": null
-      },
-      {
-        "title": "Захариева свърза технологичната независимост на Европа със сигурността - paragraf.bg",
-        "description": "",
-        "date": "2026-10-30T11:26:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnByWmpwcGNXbW1nbFV4bWVNaHItbnFMbEl0Q2dBcmtYenlRVVR2RUgteklUZFVUeFlvcWptc202ajhTV0QtUy11VVpuSkdFRmJkbENQS3NzSllkT1kxQ1JLSXFSaEh0WEdKNXZ3cHR1RlZFblFCQ2JGUmJtbHZSWmFIVEkxVVF3cUFhQW9WalhCaUNYSVdr?oc=5",
-        "source": "paragraf.bg",
+        "date": "2026-10-30T11:43:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXRHa01VZUxOY3k5Ympad0pRUS1lVEo0akw2VzZCUmpuZ21SRXpIWlhfUnpoOUxCUXdOSTN4RUU4c2ZUMHdkRGItXzNVWHhIZmJtYjNtMkNMTlF5RjlXWHRVcVBndFNDS3RNLWgxdDRNWDZGMUdLTE51NXp6UWRfd0dzYTFGNGpwbHlNRXczd0FHN09y?oc=5",
+        "source": "Fakti.bg",
         "image": null
       }
     ]
@@ -976,27 +1016,27 @@
     "България": {
       "fresh": true,
       "count": 25,
-      "feeds": 2
+      "feeds": 3
     },
     "Свят": {
       "fresh": true,
-      "count": 20,
-      "feeds": 1
+      "count": 25,
+      "feeds": 2
     },
     "Наука": {
-      "fresh": false,
+      "fresh": true,
       "count": 25,
-      "feeds": 0
+      "feeds": 1
     },
     "Образование": {
-      "fresh": false,
+      "fresh": true,
       "count": 25,
-      "feeds": 0
+      "feeds": 1
     },
     "Технологии": {
-      "fresh": false,
+      "fresh": true,
       "count": 25,
-      "feeds": 0
+      "feeds": 1
     }
   }
 }
