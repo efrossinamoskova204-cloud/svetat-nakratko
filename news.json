@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:51:52.305141+00:00",
+  "generatedAt": "2026-11-02T22:51:28.803051+00:00",
   "categories": {
     "България": [
       {
@@ -49,6 +49,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1238518-treti-noemvri-shte-bade-neucheben-den-za-uchenitsite-vav-varna-nyama-da-se-prov",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14063764/20261102_120037.jpg"
+      },
+      {
+        "title": "ГЕРБ-СДС, ДБ и „Възраждане“ с различни подходи към избора на ВСС - Vesti.bg",
+        "description": "",
+        "date": "2026-11-02T19:35:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnhJODZMa2poRE5nSUhTeDkyQ21ucTRuQUlUZk12bjBOTzBnSWFEYjgydmFUbW1lWFYxWnJxendFTEJfX0VVREk3RWZMUElKdUktWV94X0VyRzdKR0d1b0V1aFQtaUlzMnVpWU5EVXBrV0xGUG1zNzNIZlZYLTRyTDVMRWlNWnVydERjZDNKSW5GMWEz?oc=5",
+        "source": "Vesti.bg",
+        "image": null
       },
       {
         "title": "Изложбата „Музикални пътеки“ представя реставрирани афиши от архива на Панчо Владигеров",
@@ -147,18 +155,10 @@
         "image": null
       },
       {
-        "title": "Демерджиев: Сметната палата пази Пеевски - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-02T18:06:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXQyYlBfQk1SZFB2b0ZxMEF1LVRiOU00eXFHU2xjNU1RRi1RVTZkY1BPY3FUUkFNT3ZwUWRuQU1MQU5GRlVKTGJaRXdTY2FqdmpLS2d3TmlnS3lYcU9vMURqSldpMjRUN1dPeFl0bnltc01yeUthZWZkM1FtSjRFUg?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
-        "title": "Тежка катастрофа с жертва на участъка, където загина Сияна - nova.bg",
+        "title": "Тежка катастрофа с жертва на участъка, където загина Сияна (СНИМКИ) - nova.bg",
         "description": "",
         "date": "2026-11-02T18:00:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNNXdtaGxtVVMyeXhDZUNpQkJ1YndnV1doazVqRzUxUGFxdm5iS0ZPTkpiUVg1ZHlNN0RJWnhIUGtMVlp6OWFsQzJ4SDM2R2xsX0RlYnU2RURyWU9STjFNUnVXTGpWZkdqeWVMai1jTVBMdjVaMGV6MjdSc0p3d0o3amNRaUt3T25ielU2YWpUb1EzNkdiODBBMW9mUFVNS2FOTy0xQ2FFNGd2TDc4TDdSNkJJTGtyajRWZkVDT0p1enI4amlPZTcwV2FmN20tN1p2N05nX2l4NDZBY3EwV1RWdm95SU5iOFNrakZZMTJCdlVSTFI3bE1BdTJWcWtZREhySjFLN1Z0dTJ3M2dEZWpUemUweDJ6Y2Y2NWhxOW1HRlRNbGkwVFd4eFdWOENjQW90OEl3bzZJU21oSkdPSDJMQTE4T0tudEtISjk5Y0lHMENvejEwWlVCY0Zxb1ZSLWdHeGU5ejE4OTZRSnFHeXFpbXBkc0Z1QUpvRnNhWURzbmpWN0dGWjRLVkZiV0h0elRlREQyeUNYazN0ZTc4SW5Eb2lsVVkzelctbjlOMS1HcFdic2w0bEQwVGdmMERma3dfdFZqTmcxU05JVVd5LUJWWExxWThLakoyTGhnNEMwV2tINGx0Z2ZKRnJqNA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxPOWVVOHJvOFBmSmJvWUZYa0lJeGJfRE50dmZ5TzdVVFNUV3diQnBHRzRnZmU4MG5XV1ByRlhRZmdONm43Y1lOV1Y5NmFzZFRrbEM4VDlmVzZUX192Z0Vlc2RVUVRDdW14S0dEXzNsbDZIX0pWR3dZaVlmemFUbjROemU4SW5pbk1MYVRzajVESWsxWnlVTGo0ZHZFNlRDY1NuM3NoQlR4VTZPbkdWeHNqOUpSSFBfM1dGRHhkZXZQTDBXSWRwUFltNE16VG12TGVZTlVhaEFlOVR0bFJsUnV4Y29MNTU1TjkxckF1VlZhQVNwYUJaTFh0X2dwVDZyVk1QRFZfYzBldVBlNF9mdzZpd1VFbzZPZXJhdmU0TzVxSC0zZ29NX1VONFVFcUZBOWZuQWJhb3ZTMHlTNklpTVpiZ3duTlp0WkFDRlpIN2ZoQU1uaXNWeVpQSlhWcWFGTWZPZmVrd0dQVHNXY2VjeFNFb3IzRkk4ZjFXT0VBaTlzS3pWWmVSWk5pbGw0a3lBb3dHeHhJNlh4bVFveDFOSnJNMVJ5ejREeGg5TWhaVzBuZDBVRVRsZU0wbXhHVEt5Z2tHZDBjZDBSS0lVUGNUMm5iUEpORmZwS1hDT1Zvc2toREJvdnJDQkl1a1Y3dFVaR0ZlaGl1aXJMQl9aNGdnV1QwYUtLNVlqaVJKaEJDQS1KT0VwNU44Ym91Tmhsc2I?oc=5",
         "source": "nova.bg",
         "image": null
       },
@@ -205,6 +205,22 @@
     ],
     "Свят": [
       {
+        "title": "Саудитска Арабия и САЩ обсъдиха усилията за деескалация в региона на фона на атаките на хусите, заяви саудитският министър на отбраната",
+        "description": "Саудитска Арабия обсъди стратегическото сътрудничество в областта на отбраната и усилията за деескалация на регионалното напрежение по време на телефонен разговор с министъра на отбраната на САЩ Пийт Хегсет, заяви снощи саудитският министър на отбраната принц Халид бин Салман Ал Сауд, цитиран от Ройтерс. Според саудитския министър двамата са разговаряли за ситуацията в региона, както и за международните събития. По думите му в разговора са били о",
+        "date": "2026-11-02T22:23:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238539-sauditska-arabiya-i-sasht-obsadiha-usiliyata-za-deeskalatsiya-v-regiona-na-fona-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/3757379/15ab5799852c48418c75c2bc27c2f709--0--fa139c4172ae4c16b6680fb99d3a051e.jpg"
+      },
+      {
+        "title": "Американските избиратели в Айдахо ще гласуват на междинните избори и какъв вид оръжие може да стане емблема на щата",
+        "description": "След като в САЩ вече има официални емблеми на щати като вид цвете, зеленчук и дори динозавър, американският щат Айдахо скоро може да си избере за емблема и вид огнестрелно оръжие. Избирателите в щата, разположен в северозападната част на страната, са поканени да се произнесат и по този въпрос на изборите утре, съобщи Франс прес. Те ще могат да изберат, макар и с консултативен характер, любимото си огнестрелно оръжие от списък с шест модела, един ",
+        "date": "2026-11-02T21:51:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238538-amerikanskite-izbirateli-v-aydaho-shte-glasuvat-na-mezhdinnite-izbori-i-kakav-vi",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/83981/95ec86ad2fac4e0ba285ce066aadbaca-54834c45b3dc40a6a9ecbf5be5cd617f-e4635a53de7a4b0e8a55ef423deded4a-c848b.jpg"
+      },
+      {
         "title": "Election 2026 Caifornia Noncitizen Voting - БТА",
         "description": "",
         "date": "2026-11-02T21:50:14+00:00",
@@ -217,6 +233,14 @@
         "description": "",
         "date": "2026-11-02T21:50:12+00:00",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hbndhSS1JM28tbUQ4Q0RCU3R5NnluNlRZN2FzdFVVRU1nc0lKUHJWSS1GTko1Tk9adW5HcVlhMDJ4a0xnWTRWWFpJaDBZQi10aUphZEdmVQ?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Election 2026 Michigan - БТА",
+        "description": "",
+        "date": "2026-11-02T21:50:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ON3hnOUNXLWNCZVhETk8tZ1hjXzBwMGxoSUtGM2FtOVk1MFgxTnpHVVBZaXV6MnhfZXRkdWlzLUg1ejJFd2g0SGI3Qnhfd0lpZ0U4Nm16VQ?oc=5",
         "source": "БТА",
         "image": null
       },
@@ -379,30 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1238453-opozitsionniyat-blok-v-izrael-utre-shte-se-sabere-za-parvi-pat-sled-parlamentarn",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14041985/6a5c9c8a52bf438283310844f2aab2d8--0--f4ffae0bf6e340eaa22de1337dc5d6a9.jpg"
-      },
-      {
-        "title": "САЩ отнемат безмитния достъп до американския пазар на Южна Африка и Руанда",
-        "description": "Вашингтон възнамерява да прекрати безмитния достъп до американския пазар на Южна Африка и Руанда, съобщи днес търговският представител на САЩ Джеймисън Гриър, цитиран от Ройтерс. „Президентът Тръмп установи, че правителствата на Руанда и Южна Африка се ангажират с практики, които са несъвместими с критериите за допустимост на Закона за растеж и възможности в Африка (AGOA)“, заяви Гриър в изявление.",
-        "date": "2026-11-02T17:19:42+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1238463-sasht-otnemat-bezmitniya-dostap-do-amerikanskiya-pazar-na-yuzhna-afrika-i-ruanda",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11388674/c140558d462348e1adc8cbb0d67d1d6a--0--97cf9b5851a24738a0415af432d113d8.jpg"
-      },
-      {
-        "title": "Путин нареди на частните центрове за данни да заделят 10% от капацитета си за поддръжка на руската АйТи инфраструктура",
-        "description": "Руските собственици на частни центрове за данни ще бъдат задължени да заделят 10% от своя капацитет, за да поддържат функционирането на руската АйТи инфраструктура, според указ, подписан от президента Владимир Путин, предаде Ройтерс. Този механизъм би позволил на руските власти бързо да получат достъп до наличния капацитет на центровете за данни, ако е необходимо. Руски центрове за данни станаха цели на атаки с украински дронове през последните с",
-        "date": "2026-11-02T17:04:42+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1238445-putin-naredi-na-chastnite-tsentrove-za-danni-da-zadelyat-10-ot-kapatsiteta-si-z",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13979512/9938f02d53ff49f8836c69f7e9fc75f7--0--0371b4c3f51e4a6088e84fded3505111.jpg"
-      },
-      {
-        "title": "Техеран води интензивни разговори с посредниците, каза иранският външен министър",
-        "description": "Иран води интензивни консултации чрез посредници, включително Катар и Пакистан, за постигането на потенциално споразумение за отваряне на Ормузкия проток и възобновяване на преговорите със САЩ, заяви днес иранският външен министър Абас Арагчи, цитиран от Ройтерс. \"Ако САЩ приемат условията ни, Ормузкият проток отново ще бъде отворен и преговорите ще бъдат подновени\", каза Арагчи в интервю за държавната осведомителна агенция ИРНА. Пред агенцията м",
-        "date": "2026-11-02T16:59:13+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1238355-teheran-vodi-intenzivni-razgovori-s-posrednitsite-kaza-iranskiyat-vanshen-minis",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14009864/dc4544a557b44f9dbbb9ba1d892874eb--0--61ccd6f4d46e4a99ad130f8c04c84cbf.jpg"
       }
     ],
     "Наука": [
@@ -561,7 +561,7 @@
         "image": null
       },
       {
-        "title": "Учебен ли е 3 ноември във Варна: кметът го обяви за неучебен, инспекторатът върна децата на училище - Dnevnik.bg",
+        "title": "Учебен ли е 3 ноември във Варна: Кметът го обяви за неучебен, инспекторатът върна децата на училище - Dnevnik.bg",
         "description": "",
         "date": "2026-11-02T19:49:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUtwUE5aNXRweWhIQUEwMW9SSDVvZnhQSElHMi1ob256Sm5uWVJIN0lnejM3c3M5bWZaZXRMZlF4QlFMRkY2aWh0d1Jka0NST19JbFRrdXYtZzdXb0w2SHAydjdobE54d21ITElocjd2UVR5bUVVYnhaMk82ZzhlRmxUQVJEbHRpaTFVVjBhREFQMFZBMi1YVzlQN0JkZ2FtV21uNWdVV2MxZnc?oc=5",
@@ -577,6 +577,14 @@
         "image": null
       },
       {
+        "title": "Електрохолд откри учебен кабинет за бъдещи енергетици в Самоков - Cross.bg",
+        "description": "",
+        "date": "2026-11-02T19:04:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RaDIySGpMNnVQczBISGU0U2VJaEtBSEEzNFlkRkF0ZnlCeEFBSFJqcWJ5TjZIR3U0YU1SQ2NaUmV4dVdJT3ZNRWNSQjJYLWVUVVdvV002amF2SnNJM1VBQnhLanhTYm9Mdno0NnppVXhiUkU?oc=5",
+        "source": "Cross.bg",
+        "image": null
+      },
+      {
         "title": "Варна обяви вторник за неучебен ден заради червен код - paragraf.bg",
         "description": "",
         "date": "2026-11-02T17:28:05+00:00",
@@ -587,7 +595,7 @@
       {
         "title": "В София предлагат паралелки само с по четирима ученици - Stolica.BG",
         "description": "",
-        "date": "2026-11-02T17:14:40+00:00",
+        "date": "2026-11-02T17:14:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkIzc0dxVl9veGh1aExvdXJ6SG9qdFc2dm5mNVRNTVF1ekxIWjRzODhfNDFyYUtlYmNKdDRCTHVuaGhYQ3BfYWhBRW0zRlVzU1lLRFItc0NtNzh2N0I1TWo2MjY2SkNpMlZVaFgwV0hsMW9jNFZzdFQtN0daeXI2N2pWUFdQbXlTaHlVTVlEeFJnNUU?oc=5",
         "source": "Stolica.BG",
         "image": null
@@ -598,14 +606,6 @@
         "date": "2026-11-02T15:46:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzc4UXktMnBtN1UzZnNBRG1tMlEwTGlWamF4OWItWmRNa2U1cWFoVGpLUjFzNVltN3MtNmN4elR5UksxRUdyQlFnRUthaFBROEJLSUVnVDhlUThoWDJIeV9zUGMwMVo0REpKYjVnT0NpVE16T3Z3bmh3aGlfcFhBS19LT1F0b2ZNY04wUE1GWXFVSy1SWGFiS2R4WlZueGtxQkk0SDRQR3MzRmI4ekV0V1ZhVVNWdVk5aC1Genp3WQ?oc=5",
         "source": "Под Тепето",
-        "image": null
-      },
-      {
-        "title": "Електрохолд откри учебен кабинет за бъдещи енергетици в Самоков - www.24chasa.bg",
-        "description": "",
-        "date": "2026-11-02T13:13:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBURjY4VVk2SmdLZDRCZGFxOG5HdnZFZ000TFR2U1FZSmdkb2ZfUEVDaXJNMHdwTW9vY21wcGRQb21Pc3JvMUl4LU5KcEQxTkNSUnNXbUFOMUpRRlRQ?oc=5",
-        "source": "www.24chasa.bg",
         "image": null
       },
       {
@@ -803,6 +803,14 @@
         "image": null
       },
       {
+        "title": "София и Сеул обсъдиха общи производства и технологични проекти - paragraf.bg",
+        "description": "",
+        "date": "2026-11-02T16:08:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSm9vTExPb2I4a0NwMnR1TTlJNm9mbWNZb1lHWWREQzhsY09BcjFhZHdGaDZYc2l2OTNyMG1nRWQtRTRQSTVmOTBLaUdHUTJ2VW9OSEFYcUc1Z0RfWWJETHBvWVZyejlTLWZ2azNic0FQX3B4MUdIUDJHcHEwWmhFcG9NV01lYXM1bWd1M2hoUGs?oc=5",
+        "source": "paragraf.bg",
+        "image": null
+      },
+      {
         "title": "България и САЩ обсъдиха сътрудничеството в отбраната, енергетиката и високите технологии - DarikNews.bg",
         "description": "",
         "date": "2026-11-02T15:47:00+00:00",
@@ -944,14 +952,6 @@
         "date": "2026-11-02T08:55:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGFhMnhwZGx4SklFOHk1UjFiVUxXeE5zOVpQU3VPcTJpd3JXVEVYZVJ6VUdrWk9pV2lJRXNPTVpncVZwcDVuMDJXY2d4c1F3RVhINjJubTdrVHk3QnhLUGN6YUh3NjJzVVFSQk10WVJMWFBUSUwwVVFSVU5SSnNlZEJYRG82TUtCNnlQTC0tcGZxRWc?oc=5",
         "source": "Fakti.bg",
-        "image": null
-      },
-      {
-        "title": "Германски милиардер строи „фитнес зали“ за хуманоидни роботи - Бизнес новините",
-        "description": "",
-        "date": "2026-11-02T07:42:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2NjY0hQSWl1SVRzdTNqaUMxaFp6cE5zczN0U0J2S1FQT0Q0b2w3TU5xaTJMODZOTGY3djRZeFVnUUJlRlRCUjZnRmMyZEhmWHJnaDJTSkxkX0JuMWJSMUdnaEhOS244N2l1akFJZW5aS18xT2I5dllWVkhKTmhCOGhhNXlueDUycEgyMTdVaDhINnRsS0dGeFNuVVNlaWVzajFCbg?oc=5",
-        "source": "Бизнес новините",
         "image": null
       }
     ]
