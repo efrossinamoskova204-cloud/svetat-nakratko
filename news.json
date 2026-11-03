@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:45:19.283443+00:00",
+  "generatedAt": "2026-11-03T02:31:44.096784+00:00",
   "categories": {
     "България": [
       {
@@ -205,6 +205,22 @@
     ],
     "Свят": [
       {
+        "title": "Северна Корея съобщи, че е извършила тест с касетъчна бойна глава за крилати ракети",
+        "description": "Северна Корея е извършила тест с касетъчна бойна глава за стратегически крилати ракети, съобщи агенция КЦТА. Тестът е бил проведен в понеделник, уточни севернокорейската агенция. Бойната глава е „способна да превърне в пепел взетата на прицел зона от 5 до 6 хектара (50 до 60 декара) с максималната си мощност“, информира още КЦТА. ДПА отбелязва, че тези твърдения не могат да бъдат потвърдени чрез независими източници. Северна Корея извърши в събот",
+        "date": "2026-11-03T01:59:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238548-severna-koreya-saobshti-che-e-izvarshila-test-s-kasetachna-boyna-glava-za-krila",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/7649600/102366566efa4715af8e2c2ef209c1ba--2--e410cff7c7994e2a896b16f6eb78430f.jpg"
+      },
+      {
+        "title": "Президентът на Южна Корея Ли призова за създаването на силен междуведомствен орган за киберсигурност",
+        "description": "Президентът на Южна Корея И Дже-мьон призова тази сутрин за създаването на силен междуведомствен орган за киберсигурност в страната, координиращ функциите, които понастоящем са разпръснати между различни ведомства, предаде Ройтерс. Агенцията се позовава на изказване на И Дже-мьон по време на заседание на кабинета в Сеул. Южнокорейският президент отправи призив за преминаване от реакции „след настъпване на събитието“ към всеобхватна превантивна си",
+        "date": "2026-11-03T01:28:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238547-prezidentat-na-yuzhna-koreya-li-prizova-za-sazdavaneto-na-silen-mezhduvedomstven",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14062869/8f1c5a4b96fa4c9ebd1fcfa1c7978b55--0--0607167407fc45258d4e5a1c155f9d2b.jpg"
+      },
+      {
         "title": "В Полша от 9 до 22 ноември ще се проведе първото учение на многонационалните сили за Украйна с военнослужещи от десет държави",
         "description": "Обединени в рамките на многонационалните сили за Украйна, съюзниците на Киев, ръководени от Франция и Великобритания, за първи път ще проведат в Полша учение в реални условия, целящо да провери способността им да се разгърнат и да действат съвместно на терен, предаде Франс прес, като се позова на официално изявление от Лондон и Париж. Около 2800 военнослужещи от десет държави - Германия, Белгия, Испания, Естония, Франция, Литва, Нидерландия, Полш",
         "date": "2026-11-03T00:58:00+00:00",
@@ -267,14 +283,6 @@
         "link": "https://www.bta.bg/bg/news/world/1238538-amerikanskite-izbirateli-v-aydaho-shte-glasuvat-na-mezhdinnite-izbori-i-kakav-vi",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/83981/95ec86ad2fac4e0ba285ce066aadbaca-54834c45b3dc40a6a9ecbf5be5cd617f-e4635a53de7a4b0e8a55ef423deded4a-c848b.jpg"
-      },
-      {
-        "title": "Election 2026 Caifornia Noncitizen Voting - БТА",
-        "description": "",
-        "date": "2026-11-02T21:50:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IczlxU05ZN0lRZW5rSWhrWkRxSzIzaVFFZHpyVVdaRmFQbmNGeDNwTlpnbTdmY0FTUkRyOWZRdmRyX3BpM2tneVFJeG5tVnRjV2RlbEV2QQ?oc=5",
-        "source": "БТА",
-        "image": null
       },
       {
         "title": "Bolivia Day of the Dead - БТА",
@@ -395,14 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1238494-sad-postanovi-che-dovedeniyat-sin-na-norvezhkiya-kral-hokon-osmi-mozhe-da-bade-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13847194/775f3cdbd4fd478f8f411133c93a13a3--0--bb2a82a57b8e49a2977f280989128d5e.jpg"
-      },
-      {
-        "title": "Администрацията на Тръмп поиска и от Върховния съд на САЩ да не се броят 20 000 гласа, предполагаемо на хора без американско гражданство",
-        "description": "Администрацията на президентът на САЩ Доналд Тръмп подаде иск до Върховния съд на САЩ в рамките на усилията си да изключи хиляди оспорвани бюлетини, пуснати по пощата в щата Калифорния, в навечерието на решаващите междинни избори, предаде Асошиейтед прес. Молбата за преразглеждане дойде, след като съд на по-долна инстанция отхвърли искането да бъдат изключени от преброяването на гласовете от вота около 20 000 бюлетини на хора, за които федералнот",
-        "date": "2026-11-02T18:08:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1238471-administratsiyata-na-tramp-poiska-i-ot-varhovniya-sad-na-sasht-da-ne-se-broyat-2",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13606337/461ba3c16bf14ffbb21c801d03c19695--0--9e24ffd36dee4cbeb200827e03362007.jpg"
       }
     ],
     "Наука": [
@@ -455,11 +455,11 @@
         "image": null
       },
       {
-        "title": "NYT: Политиките на Тръмп отслабват американската наука - Fakti.bg",
+        "title": "\"Дълголетие в добро здраве. Новата наука и остаряването\" на Ерик Топол (откъс) - Dnevnik.bg",
         "description": "",
-        "date": "2026-11-01T07:06:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzNQa0xaemN4RlZoVTNPWHJWT2dfNXpfa1o1QXhYdUVZMnFfVWRuZmFfZUhZdHRxR1VvQWV5VG9ETjd5Z3AzUl9JZm5OakhONFV1SktkUDBHRkZIbUdSQ3l6Y3hYbjdDMFVUYl8wN0s2cW9QN1l3bkJPN2tMdVRZQktmOFVSaV9Lc01OMQ?oc=5",
-        "source": "Fakti.bg",
+        "date": "2026-11-01T10:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0I5cWowLS1OT3RwMUJhZ1hvVnhUVTVaWkQyMVByYWJHMWkxOWdLWG92WkNOMDJhTkU2Q1FZYU14WUxTUkFCdUxHR21ndnpoVFhZeXJfUDNEMjZudWxOOVpnZkw4ajR1NkF0a1o1ZzFZMXR2a1NraDNhTzlQdHdxSmotaWY2STlBMkFvaGtYNUMtVG0zWXVzTlZSWjNUaGp3ZWQ2SDFYcnJ6cU1sUVVKMg?oc=5",
+        "source": "Dnevnik.bg",
         "image": null
       },
       {
@@ -471,11 +471,11 @@
         "image": null
       },
       {
-        "title": "Румен Радев оцени българските научни изследвания на 800 метра асфалт - Frognews",
+        "title": "Русия инвестира допълнителни средства във ветеринарната наука и ваксините - АГРО.БГ",
         "description": "",
-        "date": "2026-10-31T08:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDgzT3NjQnZkN1IwUjMwZERIcGRIMXFzc1A4SHRmaXR1VEF1RmNEb3I5T2xRWWRHa2RUb0lvbHNvdlh1SjVEbTF1RWliZHhxVHJKVnphR1NXbmREVnZ0VlBDMFUzSUpuN0ZzS0Y2S1JVdmNjZm5HZnlrOUtkOGo4cHVqX2NiMV95c0I2UlF0SEpLS2lzTG9zem9iUTJaR3RiRUF1UHdZT3dPeHNNbDlHUW1jelhDWkRi?oc=5",
-        "source": "Frognews",
+        "date": "2026-10-31T07:29:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3o5MVFvVVRLWHd4RDk5Yzk0bkcyZVA1eUcxdmcwTUQ1WGFCeHAzQUZxam1scklkY3doczJ5S29KcEhBV00wR21OWWQ1bmExWUxCM1lLaFVBd3Y3cXNUTTBDMDFIVUtCc2NPbUV3RmlsT1gyRzRDTmZRbmNocmJ6WEFQV1ZDeDBHV2VlaDJjMUo0Si1SVUJ1cHB5N0NRQzc5ckxXVlpoeWpKQ2U0TUkzS3g3aTA3MkE?oc=5",
+        "source": "АГРО.БГ",
         "image": null
       },
       {
@@ -516,6 +516,30 @@
         "date": "2026-10-30T11:21:59+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2RGSUlQNm1lWFlQMFJXNTNON0QxczhmQXcwUDdOZVlhRmZ2cjdyUGJzaDBWSWNLRlVPZFRUVmJicjM4QlcyZUZQSmg5M1FIWXNnRXVPWDdpNVhGMjAwWnFPcnpaLTFmY1NScWlqMTA3RklLQkptZUd4bkNELS15bjZGejNqYTBydnk5VXBJcnhTVXhua29SbWVaMnlZLTRTNWREalFoNmF6N0hXRGU5UHJyZllFaU9MMzNZT1Vqa1k?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "867.8 млн. евро за наука и изследвания през 2025 г. - Clinica.bg",
+        "description": "",
+        "date": "2026-10-30T11:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGtpX2pCTDdVaTUxWklNcUNSRHRQY1VOQ3NZSTZ5aUNCWmlwemFUeHdpeUZILUtxVFg1SGd0U0plalhFU1ItV2xQTHlRblhtbTd0bGtEZlFTWUI4VVpKc2VickRrdkhJeXBSdFVQXy0tc1Z3UFZFQjJXTHF1SEVWbw?oc=5",
+        "source": "Clinica.bg",
+        "image": null
+      },
+      {
+        "title": "МОН връчи наградите за наука „Питагор“ - Министерство на образованието и науката",
+        "description": "",
+        "date": "2026-10-30T10:37:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSXNIS080bHNmSUx1VUh6aG95aEhmYl82bGNDcnowaENtUmRZNG1mT1FDZU9YcS13ZGVRUEFNbmVzOS1xV2N0UTlQc3E4M0J6ck1HTk5DNklmZTZGQU5wLWRUNUtrMHp5RVRseXdRNmc?oc=5",
+        "source": "Министерство на образованието и науката",
+        "image": null
+      },
+      {
+        "title": "Екатерина Захариева: Европа трябва да удвои инвестициите в наука и иновации - 3e-news",
+        "description": "",
+        "date": "2026-10-30T10:29:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc2NWeW9ZRTBnenpCX1l2SDh0bUh4a0dYOXJpOEw2VXFtNGlYRTZTcUxiOU9obDh6aW9iR3dVbTNMdlFRMzJNVXdvalZSQXE3RnRwNnMxanY1bVhtM3VkeFRKb29IRDVWVzB5aU1tblF1My1IUzhIZHFJMnlpVlpPbDNnUkNNeUdfa2FYY2N5NHZXYTZDLURSb0J1WXVaTW9wWW16SHBrcWhfcExyTVVxUA?oc=5",
+        "source": "3e-news",
         "image": null
       },
       {
@@ -689,14 +713,6 @@
         "image": null
       },
       {
-        "title": "Безплатни обучения по водородни технологии и изкуствен интелект ще се проведат в Стара Загора - StaroZagorci.com",
-        "description": "",
-        "date": "2026-11-02T03:26:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0weGVkUGxaSXpYOE9iUktJWDBScDFZUU1PTnJIWjhsamlfc0dIcVRkc1FLaVA4VGZZeDlvSTUxSW5Ma3BYWTREaFhGdmtFZExuc0xHYVdn?oc=5",
-        "source": "StaroZagorci.com",
-        "image": null
-      },
-      {
         "title": "София и селата, висшистите и избирателите с основно образование гласуват - https://novini247.com/",
         "description": "",
         "date": "2026-11-01T21:45:36+00:00",
@@ -735,6 +751,14 @@
         "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxPN0sxMWQ3dVN1OC1CU1JpeUZPem1kVkpuRExuT0tXS1lKZXJuNk1rZzdwZk91ZDNRcWhQSERZbVFmcGczWWhxcDJ4WGN1ZktVMWdQVnhUemVEYmxUQnJmdnEzcGhwN3dncXhHQmFiTVNMeW8tNi1BOTFDT0JRRXlObHNjTko4ZnhfeGZMUV9wOEdUVU4xcE1LbXlCNFgxOHlrRUFabUhGdXBBOUc5ZG14RWc5SS1kVXFWc3hJMlB5c21rWjUtSUJSVlNWXzAxMnVTWEIwUWw0M2tMTzQ0NjlVczJfM3J2THBpbThsREJiQUZqdzd5djMzWnZOWEFkenF6cTZfUmFZQXkyWVpJZEkyQ0pTSURKaC14TFduLXhLZlM2RUpxb05EMExsMVVfSTdWQnkwZ0lERXlmbW9OS2NmZllVSUt6V2ZHNzVIQ05YLWdfSU1Ud3NzaTZDZ2tTVEpBbHIyVzFFeGF0Vy0tYy1ZQUh0YjlwNm5pZnBhQldreG9wRE9ERnV3cF8zalBzYU1Xa2tNb3QzTEZzdnpLNDB1VXN2OUQwV2dLV3IxRGtENFFjNTFIYWxPcjRMWkpNbV83QkFqeHR1Zzk1WnBzcXlfbnBMekN3RUFoWlZobnFkVVpoU3UyaWR3RXNCWXZ6YTRtQk9DT0pHQkQ1Y2pWYkw5RFFieklSU2RBTVRURUZsMTRkRTAwcXgwaVZvQXhvM3B1UTV3MloyZ1FVV2lfd2R0RDhYcEt6OThLY09kWXhWblJqbkVDdy1YaDZXYkIzS29hQ0Nvbm5pWDFic096dEpraEpmLUxaNXN4VXdPZmZkM0dNQ0Z5UUtiVm0ySzlaWjhfeGxGNGFrY1E3SUdQaUFhN19nc0ZFS0tCOTF1em82NERhM3FILXJlVUJWMWdodDY3?oc=5",
         "source": "nova.bg",
         "image": null
+      },
+      {
+        "title": "Първата в България образователна оранжерия за деца отвори врати в Стара Загора - БНР Новини",
+        "description": "",
+        "date": "2026-11-01T16:18:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFUzM0hXZFhoNV9wUElIbmlmWnFzSU1lcnNVQk1jckFWOHJtM2JFcXcwVHhWY2FrczNQQzJsRjlRVXFfQ1VxUi1WUHBTRTRma1F5U3JTNUhET2Z3SWR5RVZvcUNrRUREWU9OTmtXMXJUdjhiQllQN0czNVN2NFZsQlU3eFdxd2l1Z2s0cXRVVk92bG43S29rUlI1UlJEY3ZSS0tRdm9Fa0EyX2k4UnpIUlJDSmRfVnJDZE83Y3J5ZGJiX1k?oc=5",
+        "source": "БНР Новини",
+        "image": null
       }
     ],
     "Технологии": [
@@ -763,14 +787,6 @@
         "image": null
       },
       {
-        "title": "Четвърто издание на Фестивала за експериментална музика и звукови технологии Sofia Experimental 2026 - ArtSofia",
-        "description": "",
-        "date": "2026-11-02T20:47:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSE5DcEhYSXBiQXF0QTMwal9ubFZTejRfeHpERi0waEpfbEkyS2Q0ekZvT0xsQ3FGbW45ODlobGlPWnlIR3IybmkwVjczbmhPbzBUNjZCRjJ1c1ZJcF8yTzZza0ZmWmI3bjRjLVBlWnRjdHR5ZklOc3pRYnpLQVl6SXVhMUhKN3h4S0ZLNmhYVnhaV0hSSTZjOU9ycEg0OHNfTG1TLU5OVXBGa3pCZ3p4WmJONTk2TlFBU2Rab1ZSZmwtWDVqMF9RcjFzVkRCTVR2RWFHMXBsSzB3QQ?oc=5",
-        "source": "ArtSofia",
-        "image": null
-      },
-      {
         "title": "Босът на Ford твърди, че новите им технологии за елмобили са с 30% по-ефективни от тези на BYD - auto-press.net",
         "description": "",
         "date": "2026-11-02T19:30:00+00:00",
@@ -792,6 +808,14 @@
         "date": "2026-11-02T17:17:25+00:00",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQi1rMmdKazRVU0pjVElTN2h1bFpZU2c0RzhJZ1FyRDRpdVpVMGFCSzk3dm9CTzhjS1lQTms4V0hXVWVoa3MzdmtuVUxWMWg3UUZOQ25kZG1ZMl83dEEtc0NaZFoxU1A0cC12amRDVnZCMUNIOUhINWZIUUcwZHdZNEhMS25KWVRpTWZBVV9jOUpxME5TVHVIZ0d3VWljT0lXaXY3NTNja3dGTDhI?oc=5",
         "source": "Topgear.bg",
+        "image": null
+      },
+      {
+        "title": "На срещата бяха обсъдени икономиката, инвестициите, високите технологии, енергетиката и - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-02T16:15:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORjNaQWtFbTlHbzRxSFVlR3pDUzQyNkszb3B4SlJGWXJlWXNkSWl2YkFPc1pqWTBUS1J3T2VvQjZTTTdtTGp0Qm1hVFQ4WjExeWk2TFpzbEtmbFI2OS0zNUR3cE1MVlpDRkFGY0xyS0Zab0RpYjVicGo4Zk9TRzlfRXZYZzR6aHRldFpxV21qYUhJMmllX256dUc3NEFKQUFWZU8zR0NYekFhUFFTajZrVDBtY3lTRVBVc3JmZWR5WExtVGhFRHpwd205SQ?oc=5",
+        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -819,6 +843,22 @@
         "image": null
       },
       {
+        "title": "Вицепремиерът Пулев: България търси корейски инвестиции в отбраната, индустрията и високите технологии - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-02T15:08:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEFjOG1ac1BCS1hvQ3JGT3hORm9xdDZOd0I1c3ZZRmJDS0o0dHEyVHBUNTRnNzFfX3BDQVZQQkVKUm5NUXhkWEVIRVFDUmpqZzdHb0c5b2dBRHRuRFJhblFkYTg5SWlMUEc2VDM2R3hDR0I4QXRpZTN2RnRnZlNtOEhFWEc2LS05UnVZQmljSWdkalg4SU9wMG1uQWhtVkQtbWlMWlVla1NtZHczVVJBbjV6UXA1LVhZNmxwUmQ5RTJuVlNmMmc?oc=5",
+        "source": "Таралеж: Истината има значение",
+        "image": null
+      },
+      {
+        "title": "Европа се готви да спечели следващата технологична революция - Frognews",
+        "description": "",
+        "date": "2026-11-02T14:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTllbU1TbFNzQVZaX0w4T1VxMGRzYWs0VWstUG15ak9YRmxmaW5EeHB0YUtnWEc4aEozUHA3MmdKRzRQZE5STmd3R0tlbkdyTXhKSHZ2aHRMcHRHTHFNWW1BcnN0MjNYQTNFRVhPbmtENjZwMmFTMUJmTDRpdjF3Rng5XzZKV19SUGQxbkhSYjFZTHV1RzRQbQ?oc=5",
+        "source": "Frognews",
+        "image": null
+      },
+      {
         "title": "УАМ: Съдилищата на Международния финансов център в Дубай представиха услуги за разрешаване на спорове на конференция за финансови технологии - Делник БГ",
         "description": "",
         "date": "2026-11-02T14:17:00+00:00",
@@ -835,11 +875,35 @@
         "image": null
       },
       {
+        "title": "Германия и Великобритания ще разработват съвместно военни технологии с изкуствен интелект - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-02T12:44:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcWJjQ1BXcnJteTMxZWk0azVuTUxhbG1pRzVmS055bzFnOFNJV2FfcmVlZ0d3NlFUWDJ5eFNLTk5IdVdLUVZlcnc4Vm1YMnNHV0ROTmJHUmZ4NVpDVlAwNW85eUw0YzRGUl9ORHplVTk1aGFIWTZDa3Y3eUllVXZYeWFXUnpSQVpsWkNkS1ViWUdYNjY2TnptMFBZV2llTFlUbmc2NmFhbXNXZHBscEN5VmsxelBmdw?oc=5",
+        "source": "Таралеж: Истината има значение",
+        "image": null
+      },
+      {
+        "title": "Керхер Представи Нови Почистващи Технологии на Специално Събитие - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-02T12:35:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVW40eEZwM1JIZ25XTk9Vb0xSQ3VfUnE2dkdxT0lYT3ItM3NrckRDYXBZUXFrd2t5ZGFyQ3hkUFFwRTMyTE1VVldZMzM2QmNzNWhjTGJ6VUFIQ1RxRTJHeUU4SHhzREh2ZGhIV2ZiTXAzTkJ5anZIX3gzWUZmR25RY2VONmpNT3MwSDU5TjRsOVZ0cHI0QVpmSnpaQUdNY0V1OWRwbUt1MkVUbnBvN09vUg?oc=5",
+        "source": "https://novini247.com/",
+        "image": null
+      },
+      {
         "title": "Ето защо не трябва да се карате на Claude. Не става въпрос за чувства - Бизнес новините",
         "description": "",
         "date": "2026-11-02T12:31:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFdEbWxIWGdrTVBOWG9fb3FsS2hlY1RIb1QxOXRqY0lNUUsya1owZDdDbUxva2Rub1pIc2ZvRFQxVVloTGk4TC1MSFNoeWJiZGtCWXJPclhHdDR5by1CX1A4ZGZuSUttQXg1a0p4Ql9xMmFnNHVCeGdEOFBzbkpUX0ZpVUh3NWEzLXp0dWZ0c3NOMV9aVC1HYndKUFZtaU5LMjJJbzFGbnV0MDRYYzBZbkpsdExncGc?oc=5",
         "source": "Бизнес новините",
+        "image": null
+      },
+      {
+        "title": "С над 20 апарата и повече от 30 технологии в - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-02T12:19:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmtLaWMtWFhKWWw5WllGWVpJMW5scTFmRkF6OWx1ZzktM3EtNm42dXk0NzdaMFNHWU13V2J3LU1ZMmNiVk41bW5DZnRtR3FZYnpiOVVqaFNrMnNLcWF2NF9rUFVpOExsT1FsSDdNT0ZUMGQ4WUdwZ09YenV0UWhyVUczRVF4d3FnQ3dRZ3FWc05LUQ?oc=5",
+        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -883,59 +947,19 @@
         "image": null
       },
       {
+        "title": "Институтът по оптически материали и технологии към БАН има нов директор - DarikNews.bg",
+        "description": "",
+        "date": "2026-11-02T10:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1A4cG5Xa3RtSnRNVExBcWhaYy0xYUVzOThkd1dhZGxEQ01iOU11Q0Z3NzVPVlBHS2VCQkJiYk9vSDVVUVdKNVVWMmFGUnZPWFYxV1VDM2xuZDA4aE1ITWhuanQtbEVKdWo0UGZIZTV2aWhlS3FxaU1SbEh2aGU4QlVZTnVsTG8tekVRb1V1ZjcyQXA5MmhVc3NISEFNTnJ4eEh2LTQtcDhteWw1aV9TU2VoSFYtY2pzMEE?oc=5",
+        "source": "DarikNews.bg",
+        "image": null
+      },
+      {
         "title": "Проф. Даниела Карашанова е новият директор на Института по оптически материали и технологии към БАН - Делник БГ",
         "description": "",
         "date": "2026-11-02T09:33:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOM0EyZWx0REdHaWptQ0dLblVELWI4MVhsZFQwaUg4SzlScG93c0IwMGFZSzVJa2pvQlFxNUFUWnJ4bGZyUTNjeC1CLWlvV2otc0hZYkVMMG0zQTd3d1VLZW1tOENVUzFPX01kd3ZLczZNSl9vYkhiUm90LXpQczNuazgzWXhzVXVna21oMVlBakZvXzQyZ1ZjUGQyazIxUVM0X3d6S01CVXl0TlMtR1NWYVJKQzVUaUw3cmE4TC1GNFNoeWpwRm85c0FieTRSTngwM1AyTWFTc0dBM3NsRWEzNUxXYW1yQXMzQ295TTQyMHJlRFhrcTFQNTVBV2pUZk4ycGxsX1lVN2lBTWsxbS0wVU9UWHVnWEFwNy1XN3A3QTFZSW9JWFJwTTdqS3lMaV9ZUnA4WTlFTVhYV3ZkS2MtTU9jbzBLNUxhb1dxLWtlbkowdw?oc=5",
         "source": "Делник БГ",
-        "image": null
-      },
-      {
-        "title": "Германски милиардер строи „фитнес зали“ за хуманоидни роботи - Бизнес новините",
-        "description": "",
-        "date": "2026-11-02T07:42:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2NjY0hQSWl1SVRzdTNqaUMxaFp6cE5zczN0U0J2S1FQT0Q0b2w3TU5xaTJMODZOTGY3djRZeFVnUUJlRlRCUjZnRmMyZEhmWHJnaDJTSkxkX0JuMWJSMUdnaEhOS244N2l1akFJZW5aS18xT2I5dllWVkhKTmhCOGhhNXlueDUycEgyMTdVaDhINnRsS0dGeFNuVVNlaWVzajFCbg?oc=5",
-        "source": "Бизнес новините",
-        "image": null
-      },
-      {
-        "title": "Южна Корея ускорява AI амбициите си с рекордни инвестиции и партньорства с американски технологични гиганти - Profit.bg",
-        "description": "",
-        "date": "2026-11-01T22:19:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51Um15UFFmSWduNkVpUHFTRWtEcVRpMmtENGpUT0I2OVk0UkxCS1FTOE5iREZvREVaNnZ1Wi1LN01nVG13Nklya2M1elY5MkVSSmFXVXp2Vlc?oc=5",
-        "source": "Profit.bg",
-        "image": null
-      },
-      {
-        "title": "Китайският стелт изтребител J-20 преминава към ново поколение технологии - Novinata.bg",
-        "description": "",
-        "date": "2026-11-01T16:07:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNME1wc0FtMHdBY3psTXBzNHljdDRiazRxemxMdGFMYk4yLUJRd29aQlJYaEJtTEpESFZCWXBsNGQ1dm1hRWhjdXB6Y0tkWEhxbW11eG5Gcmgtalo2R01GbF9ocDZuXzFRTHB6cFA2dEJGYW1OY2NVWkdjYmVhVi1IRjhWZzJKN0dqV2tMQ05iVHVfcmJRcFM2Z1ppLURCWWJV?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "От книги до 3D технологии: Как Пиринският край отбеляза Деня на будителите » Инфомрежа - Infomreja.bg",
-        "description": "",
-        "date": "2026-11-01T12:49:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdkRIZE9RWkFLTFJ0SnNXRTVWTjRHX2U2enQ5dlhKTW01OUJNSF9VTi10aEEzQUdjUXhTaHN5NGxwbHY4NVJTNURXNWFCVDByWTZlQlItY1Q1eW8teEp5VHpPVjVyQjhuN0NxekUwdDd2OWdlcnVjUV9XWDlKOGRRUlBBYTNJdTI1d0VMOHRyQk82d1hHTFg5a0NnTU5DU2NwSnNHQg?oc=5",
-        "source": "Infomreja.bg",
-        "image": null
-      },
-      {
-        "title": "Охраната на създателя на ChatGPT е четири пъти по-скъпа от заплатата му - Технологии - manager.bg",
-        "description": "",
-        "date": "2026-11-01T12:47:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbDVQNmhCYmVUY05Edk5zVDRqVTVLU3otdVVxY19SN3FvYzd0alE4NEp0TENkd2NkSnpxTVBvSVY4X1IyVWxVUjBnY3h2MWswYUhYVVZmb1FKTmxUbUtaQ1lSMVdiS0xJTjA5T2xncGNzcEwwMk5TbGtpNEw1ZEVkYUtTeml4ZzFGYkF5bHVGUVhzZDhiV2E3RlhDLXVJN2xXendfdGpFMHNJb0lIUjVRX2VVdm5VNWtGbjYzZ3JpSTZRMXRLWDVJaHdUSTdSQnZxc0dPQ2ZnT1M2UDRTTmI2RkEycXFxZXc?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Откриване на изложението „Светлината на интернет“ 2026 г. в Уджън - 国际在线",
-        "description": "",
-        "date": "2026-11-01T09:55:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KajdXemUzYlY4VnptOUFlbm5sX19lQUhTRmlxRFZlaHF1NjdvUy1uSXJFRzU3U3pLU0ppaFFBcU5mb183N3ZKUFZKMHJ2bE1BODJBMUwyYUFMamNuQjJYT0NiX0FrLVE?oc=5",
-        "source": "国际在线",
         "image": null
       }
     ]
@@ -953,7 +977,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 16,
+      "count": 19,
       "feeds": 1
     },
     "Образование": {
