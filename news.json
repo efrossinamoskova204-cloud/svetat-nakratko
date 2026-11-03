@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T23:46:15.822599+00:00",
+  "generatedAt": "2026-11-03T00:19:37.053078+00:00",
   "categories": {
     "България": [
       {
@@ -115,14 +115,6 @@
         "image": "https://www.bta.bg/upload/14064914/nov02-bibl1.jpg"
       },
       {
-        "title": "Зеленски: Русия изпраща послание за нови убийства с ударите по Комишуваха - Vesti.bg",
-        "description": "",
-        "date": "2026-11-02T18:49:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXdjSlJnLVcwVGZzc2NiUWxoa2x1eTA2dk9DNUc2czVoTE5sZk02TW9hcFcwSjZiVW4wWGY5cTZpODM2V2tMTGlITk91Zko2WUoxSWVMLURQU0JndGw3T3ptdHJkTDd3RW1PSFdxY25MY0JMenBtTWdQdF9pZ29KUC1UOG56QzlLX0oxaHJIdTE2alhTbUJGWklWdG5FWlFmV09xMjl4YXVsc0V2c2VMeA?oc=5",
-        "source": "Vesti.bg",
-        "image": null
-      },
-      {
         "title": "70-годишен шофьор загина при удар в камион след навлизане в насрещното движение",
         "description": "Катастрофата е на същия път, на който на 31 март 2025 г. беше убита 12-годишната Сияна Попова",
         "date": "2026-11-02T18:36:58+00:00",
@@ -145,6 +137,14 @@
         "link": "https://www.bta.bg/bg/news/sport/1238493-cherno-more-se-nalozhi-nad-botev-vratsa-s-duzpa-zapisa-treta-pobeda-v-parvenstv",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14064751/2.jpg"
+      },
+      {
+        "title": "24 загинали и петима ранени след руски удари в Запорожка област - News.bg",
+        "description": "",
+        "date": "2026-11-02T18:14:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa19kOE1Zcy1WRlczRmdybkVnNDFzanVjVlY1RE83RVJPdExweU96TnBLMGQ0LVdnTEJ4WHN3WUFzaG9DdXo0WnVNQ0l4WEFoRXIzZ3VNcHFZaUtkY05qa204dnhFX0dOV2JEYzVIeGdMWjJTanlWOTJweVVRd2MxS3hKcG5LWmNvZGxKYTN2WktUc1hqSDFFZ3o2MA?oc=5",
+        "source": "News.bg",
+        "image": null
       },
       {
         "title": "Втори контейнер - цистерна, е забелязан край Ахтопол",
@@ -171,6 +171,14 @@
         "image": "https://www.bta.bg/upload/14064115/1000043894.jpeg"
       },
       {
+        "title": "Силно земетресение край гръцкия остров Крит - nova.bg",
+        "description": "",
+        "date": "2026-11-02T17:54:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOSGlHTTVsQ2Uxd3dSbDJubzJ6T1ZZc1VKdFVDQy1PVUFkZjJhYzM3c2VZamkza205WXBFX1drQ2RYQXoyeWdXZUE5aW94QTE5VDFmYVVKN19aY29UVXhaOEVXZmV6NnVLSEVwWGZGdWZNUVl3cmY0WGFzUDFKeDdyLUlDRF9iMUpvWXlTbHpjOXFpdm01Q0FfOTNmSURWQU1VcGJDa0hNTzhBMUtfN0xmTHRPTTZZQTZPYzZFRjNreS1zZXR1cjZZc3hOWWdHREdtVkR6bWM4YlhSZXpzNGtrSFBzV2wtS3RqVV9hSXA3Y3FWcFYtMjVpSVRIWW5NY0hyT1M3OWR4cVlJX052T3dYb3V0VFU5SWRKS1p1Q3FwMC04VHZPVGVrRDJxbm9yeDZFZG0wN19jdFIzTGxBSlNCUkY1Mm1GZHZaR21zcGtKSzR3YjEtQ0NhZ0h0WkJIa05HdTM5d2VJN0dCVDAtdl9KYmpMM2tMUlFsZlF2Y0hpbmh2SWVZNm5MV3ctbzV0ZmM?oc=5",
+        "source": "nova.bg",
+        "image": null
+      },
+      {
         "title": "Тежка катастрофа с жертва на пътя, където загина 12-годишната Сияна - bTV Новините",
         "description": "",
         "date": "2026-11-02T17:54:30+00:00",
@@ -193,32 +201,24 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1238476-shofyor-e-zaginal-pri-katastrofa-na-patya-v-rayona-na-selo-telish",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14043736/20261028_112019.jpg"
-      },
-      {
-        "title": "Институтът за литература към БАН ще обсъди Априлското въстание в литературата на научна конференция",
-        "description": "Научна конференция на тема „Априлското въстание в литературата: пространства на паметта“ ще се проведе на 4 и 5 ноември в Института за литература към Българската академия на науките (БАН) по повод Деня на института, съобщиха от БАН. Форумът ще бъде в Големия салон на института на бул. „Шипченски проход“ № 52, бл. 17. По думите на организаторите конференцията е замислена като обобщение на честванията на 150-годишнината от Априлското въстание и ще ",
-        "date": "2026-11-02T17:38:54+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1238470-institutat-za-literatura-kam-ban-shte-obsadi-aprilskoto-vastanie-v-literaturata-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/3351762/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82+%D0%B7%D0%B0+%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%2C+%D0%91%D0%90%D0%9D.jpg"
       }
     ],
     "Свят": [
       {
+        "title": "Тръмп каза, че междинните избори в САЩ са най-важните „в нашия живот“",
+        "description": "Президентът на САЩ Доналд Тръмп каза снощи в последната си предизборна реч пред американските гласоподаватели преди вота днес, че междинните избори, които ще определят контрола над Конгреса до края на мандата му в Белия дом, са най-важните „в нашия живот“, предадоха Пи Ей Мидия и ДПА. Тръмп предупреди обаче, че действащият президент „не печели междинните избори“, в явен опит да успокои очакванията, макар и да добави, че „ние се постарахме много с",
+        "date": "2026-11-02T23:31:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238542-tramp-kaza-che-mezhdinnite-izbori-v-sasht-sa-nay-vazhnite-v-nashiya-zhivot-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14065133/d00bb895422b45c69827d3faf1a0528d--1--2af1481a5da44767877664e13dc20f49.jpg"
+      },
+      {
         "title": "Северна Корея определи обвиненията на ФБР, че Пхенян стои зад хакерската атака срещу криптоборсата \"Байненс\" като \"сериозна политическа провокация\"",
         "description": "Северна Корея осъди тази сутрин обвиненията на американското Федерално бюро за разследване (ФБР), според които Пхенян стои зад рекордната хакерска атака за 6,3 милиарда долара срещу криптоборсата \"Байненс\" (Binance), а сестрата на севернокорейския лидер Ким Чен-ун ги определи като \"сериозна политическа провокация\", предаде Франс прес. В официално изявление, разпространено от държавната севернокорейска агенция КЦТА, Ким Йо-чен заяви, че твърденият",
-        "date": "2026-11-02T22:57:00+00:00",
+        "date": "2026-11-02T22:59:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1238541-severna-koreya-opredeli-obvineniyata-na-fbr-che-phenyan-stoi-zad-hakerskata-ata",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/1016605/361f00233c944b3cb8c13be8f0b108a7--0--c1e817641454401b91d7e8830a6659da.jpg"
-      },
-      {
-        "title": "Зеленски обяви съдбата на войната ОБНОВЕНА - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-02T22:50:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS1hOdFdibW9jSzU5MnZpU2dabUJqeDN2UTNkSXQ5bnNEa05nTVNaZG9WQkhXc0lKczFHMHBkRlZqN0J6Nnh6U0s2MzFkaDZfM1hBMzZVMkNDNnVTeGt3cUtidUlIUW5RcjBOWVhPd09kV2hZZjNxY1hwdUI0T1RiOHJsbGotM3d0NEZibmhvblc?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
       },
       {
         "title": "Саудитска Арабия и САЩ обсъдиха усилията за деескалация в региона на фона на атаките на хусите, заяви саудитският министър на отбраната",
@@ -277,14 +277,6 @@
         "image": null
       },
       {
-        "title": "Тръмп взе решението. 20 000 бюлетини съмнителни - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-02T21:18:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1pSdjdleWVQTmpHNnBtNV81M1ItMUUwYVUwQWFWbm5UMlF1dTBNWmxtd080anE3RjdidXRmWW1BbGh6QkdlakpSeEpTd01kZVNFXzgtM2pHOVZkTWxHQ0RNOWp2TmRhLTlsOEhsa3NJcXJvX3ItRFNTS0tHMW1aSklzcFhMelhXYTZGNHctMmVvSHNhSV9HaDB3aw?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Вицепрезидентът на САЩ Джей Ди Ванс увери, че той и Тръмп са „доста оптимистични“ относно шансовете за постигане на споразумение с Иран",
         "description": "Вицепрезидентът на САЩ Джей Ди Ванс увери днес, че той и президентът Доналд Тръмп се чувстват „доста оптимистични“ относно постигането на споразумение, което да сложи край на войната с Иран, предаде Франс прес. „Проведохме няколко конструктивни разговора с иранците“, каза Ванс пред журналисти, като подчерта, че по-рано е разговарял и с Тръмп. „И президентът, и аз сме доста оптимистични относно перспективите за евентуално постигане на договорено с",
         "date": "2026-11-02T21:17:00+00:00",
@@ -323,14 +315,6 @@
         "link": "https://www.bta.bg/bg/news/world/1238530-yaponiya-otkri-nova-natsionalna-sluzhba-koyato-shte-se-sasredotochi-varhu-borba",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14063805/f7df2e43968d47ac96aebfe2b622f82b--2--d335533ecb1846fdbb36ca7c3ff2ebb8.jpg"
-      },
-      {
-        "title": "Човешкото съзнание идва от по-висше измерение, твърди учен - което означава, че може да надхвърли физическия свят - FlashNews",
-        "description": "",
-        "date": "2026-11-02T20:25:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNk80Sk1JS3U4UkhTRVAzc3ZXR01WYjdSdWV5SW4xQU05ZXFRelVRU0xjUnoxbTd3bFBYekE5d2Jyd0p5Z2RaVEhNeUtIVTZVeUdBallPbXk2d1Vfb3k2TUZjNkNrSDRVR25rdUJicFhPN3U4RVRySHM5S3VNVlJYRjZwZmQ5c1hURVQyTVpvakwwTDVaVzdzT1NyajlJQUtNYWozUVJhTG9sYmdBbTJZWTZIMW5ENGRjZ09IQUtMNUhPa0VnRFI3dlM1Z3U2WGJYTktNVjluYXRDU0JTTlE?oc=5",
-        "source": "FlashNews",
-        "image": null
       },
       {
         "title": "Броят на жертвите на руската бомбардировка в украинското село Комишуваха достигна 26, обяви Зеленски във вечерното си видеообръщение",
@@ -403,6 +387,22 @@
         "link": "https://www.bta.bg/bg/news/world/1238461-liderat-na-nay-golyamata-izraelska-partiya-s-arabsko-mnozinstvo-kaza-che-opozit",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13998096/ee4312b760a24ce4bf4e610cac5de465--1--84404e479cf1459294443215cb9b583e.jpg"
+      },
+      {
+        "title": "Лидери на страните от Общността на нациите се готвят за речта на крал Чарлз Трети, която той ще произнесе утре",
+        "description": "Лидери, представляващи близо една трета от населението на света, се събраха на малкия карибски остров Антигуа, в държавата Антигуа и Барбуда, за да укрепят връзките помежду си в период на глобални политически сътресения, отбелязва Асошиейтед прес. Очаква се от срещата на върха на държавните и правителствените ръководители на Общността на нациите да произтекат нови споразумения и ангажименти. Форумът се провежда на всеки две години. Той продължава",
+        "date": "2026-11-02T17:59:54+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238485-lideri-na-stranite-ot-obshtnostta-na-natsiite-se-gotvyat-za-rechta-na-kral-charl",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14062461/c8c106d682d34024b88800f4ca195c3f--0--a60a2abae23943558309732b8f3c8d14.jpg"
+      },
+      {
+        "title": "Украинският президент Зеленски обяви, че руска бомбардировка е отнела живота на 18 души в село в Запорожка област",
+        "description": "Президентът на Украйна Володимир Зеленски обяви днес в публикация в приложението Телеграм и социалната платформа Фейсбук, че руските сили са бомбардирали село Комишуваха в украинската Запорожка област, отнемайки живота на 18 души, предадоха Ройтерс и Укринформ. Ранените са най-малко петима, уточни държавният глава. Той съобщи, че руските войски първо са пуснали бомби над училище в селото, в което се разпределя хуманитарна помощ. Последвал е втори",
+        "date": "2026-11-02T17:35:34+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1238467-ukrainskiyat-prezident-zelenski-obyavi-che-ruska-bombardirovka-e-otnela-zhivota",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14036818/f5d08aa93044447caedf8f5e685cbdc3--0--897a1f5808b44fc1a4ce65c8bc21ebd1.jpg"
       }
     ],
     "Наука": [
