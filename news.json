@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:51:55.335836+00:00",
+  "generatedAt": "2026-11-06T23:46:45.771402+00:00",
   "categories": {
     "България": [
       {
@@ -39,6 +39,14 @@
         "description": "",
         "date": "2026-11-06T20:32:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGVYVFR6Skp1X3M1aGtPbms5OHhTYVpsNjQ2TVFUV2ltbDQ3UHR0VTAwWFJDdGxxZURTMnRtSVIzSk9GWHpvOGxYUFNTOGlxOExHUlRvb0pybERzbDlXMzlzOWllcWJKaFpyMVUtaDAtVExENEJXdlJleUxOcVhlLXNzZTV6Tkh0dER0UTZyWEd2UWxEZkt4UEJXQklkLWlmOHpwaTdtYjI?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "Гълъб Донев обяви край на живота на кредит и защити новия дълг със стари \"борчове\" - Dnevnik.bg",
+        "description": "",
+        "date": "2026-11-06T20:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDhGVDREekNDNjZjX1hNbFBLaUhMUWhNSjd2ejAtUU00UWVJRlhKbUcwX1Y1SEROYjRCYWh6N0RJRDFfbWVUZmkxRnJ2c2RfeXl1WHlxaVlra1UxS0VVN3FZWnIzVWhBRDFiaF81NGt1M1NOVmFlMUhiRjlDbjBCQTdFRXFvVHVCcW5zaGl3RmpjRkZ0cXhJaElUcmlMVWt3bU8zVXBxdw?oc=5",
         "source": "Dnevnik.bg",
         "image": null
       },
@@ -193,17 +201,25 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1241813-obshtina-etropole-i-mrrb-podpisaha-sporazumenie-za-finansirane-na-proekt-za-nov-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14082228/%D0%95%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5+-+6.11.26%D0%B3..jpg"
-      },
-      {
-        "title": "Русенската полиция издирва 67-годишен мъж",
-        "description": "Полицията в Русе издирва по молба на близките му Дилян Христов Хубанов, на 67 години, който е в неизвестност от 21:20 часа вчера. Това съобщи регионалният говорител на МВР в Русе Даниела Малчева. Мъжът е висок около 173 см, със слабо телосложение, плешив, с бяла коса и бяла брада тип „катинар“. Бил е облечен с тъмносиньо дълго яке и сини дънки. Носи диоптрични очила. Последно е забелязан в района на ул. „Николай Здравков“, като се е придвижвал в ",
-        "date": "2026-11-06T16:39:11+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1241826-rusenskata-politsiya-izdirva-67-godishen-mazh",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14082247/%D0%A0%D1%83%D1%81%D0%B5+-+%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D1%8F+-+%D0%BC%D1%8A%D0%B6+-+%D0%B8%D0%B7%D0%B4%D0%B8%D1%80%D0%B2%D0%B0%D0%BD%D0%B5.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Четириетажна сграда рухна в Сао Пауло",
+        "description": "Четириетажна сграда рухна в центъра на Сао Пауло, съобщи полицията, а местнaта новинарска телевизия \"Глобо Нюз\" съобщи за десетки ранени, предаде Ройтерс. В първото спешно повикване до пожарната се е говорело за 25 пострадали, но броят е непотвърден, уточниха органите на реда. Според \"Глобо Нюз\" дотук са спасени 17 души.",
+        "date": "2026-11-06T23:12:34+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241918-chetirietazhna-sgrada-ruhna-v-sao-paulo",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/39782/brazil-map.jpg"
+      },
+      {
+        "title": "Парагвайският Сенат гласува импийчмънт на президента заради банковия скандал",
+        "description": "Парагвайските сенатори приеха решение за импийчмънт на президента Сантяго Пеня заради банковата криза в Парагвай, оставила милиони хора без достъп до банковите им сметки, съобщиха агенциите. Сенаторите приеха по ускорена процедура с внушително мнозинство решение да отстранят Пеня от поста му заради краха на банка \"Уено\", една от най-големите в Парагвай, с която той имаше връзки. \"За осъдителната присъда са подадени 44 гласа, един сенатор не е в з",
+        "date": "2026-11-06T22:59:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241917-paragvayskiyat-senat-glasuva-impiychmant-na-prezidenta-zaradi-bankoviya-skandal",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14082248/ecdd3864813d469b93882ed2fda58d86--0--2da97fd84e344ee3b5bc44bf5cd70b9b.jpg"
+      },
       {
         "title": "Две ракети удариха иранския остров Кешм, съобщи агенция Тасним",
         "description": "Полуофициалната иранска агенция Тасним съобщи, че по първоначални данни две ракети са ударили остров Кешм, и допълни, че засега няма сведения за жертви и разрушения, предаде Ройтерс. Тасним отбеляза, че информацията ще бъде осъвременена веднага щом властите изнесат нови данни. По-рано държавната информационна агенция ИРНА предаде, като се позова на очевидци, че два неуточнени снаряда са паднали в района на Суза на остров Кешм в Южен Иран, след ка",
@@ -211,6 +227,14 @@
         "link": "https://www.bta.bg/bg/news/world/1241916-dve-raketi-udariha-iranskiya-ostrov-keshm-saobshti-agentsiya-tasnim",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13300374/233c23eaa98a4072a9deeb6cd6d8e540--0--f21aff65b8cd4d55904b926614de22e3.jpg"
+      },
+      {
+        "title": "Две ракети удариха иранския остров Кешм, съобщи агенция Тасним - БТА",
+        "description": "",
+        "date": "2026-11-06T22:38:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWU4tTWJMOThIQ3lDZHhSdW1fRXQ0bTY2NnZMM1dBT1RMWXpoYUVWcWNmZWdzV3pnWEJuSmpnLUdPdGx6b3k1ZEJYTWlmak9xWVJraVVtN3E2VXg1bkNPV2s4ejVGRkRtanBLVHlsMzE5aV90VDVZTzRkQVlKU2JIT1NBM2dGMmRWSTJGdG5DQTZRU3hKa1hfV0RtVVBXUnRSWkcwN05kRnV2YVAw?oc=5",
+        "source": "БТА",
+        "image": null
       },
       {
         "title": "В Мианма ще бъдат произведени частични парламентарни избори през април, включително в райони, където все още продължават сраженията",
@@ -379,30 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1241871-dvama-dushi-zaginaha-pri-katastrofa-sas-samolet-na-germanska-magistrala",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/2040495/9bae3a12b3bb43a6ba100efb96b4872d--0--f39243c142c44336a61996bd2f6b4fbd.jpg"
-      },
-      {
-        "title": "Проблем: Броят на браковете в Китай спадна до рекорден 18-годишен минимум - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-06T18:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTG4xQ3dIOWRGcGlkSUFYaUpibGNqdEdOVU5tMWVjRnRwMGRPQzdaVmI2TlpYa2JEYnJ1a2pMQW0wcng1MHdMWmc1bDFMUjU2ZGd6WTI3OEdEWGVFTk5DdTQtR1B0ZWlvb3h0bk05SG9rV2ZCeDdEYWJfZk9CeDZiSHFVMURHcDhPSEFicXNXNUtRbHJUa1R0OV84cld6VkRWVmhwaVJKX2YzSEFHcjViekFmUTg5ajI3?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "САЩ, Великобритания и още осем държави осъдиха присъдата срещу хонконгския продемократичен активист Джошуа Уонг",
-        "description": "Десет държави, сред които САЩ, Великобритания, Германия и Франция, осъдиха днес в съвместно изявление присъдата от 10 години затвор срещу хонконгския продемократичен активист Джошуа Уонг, предаде Ройтерс. Уонг, който се намира в затвора от 2020 г., вчера получи допълнителна присъда от 10 години лишаване от свобода по обвинение в сътрудничество с чуждестранни организации съгласно Закона за националната сигурност на Хонконг. \"Това са поредни пример",
-        "date": "2026-11-06T17:57:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241866-sasht-velikobritaniya-i-oshte-osem-darzhavi-osadiha-prisadata-sreshtu-honkongsk",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14075193/4df59b6025214a45b218f37dfc8a7c23--0--5ed43a13703f467e88669b8f4665caab.jpg"
-      },
-      {
-        "title": "Посещението на австрийският канцлер Кристиан Щокер в Китай разкрива нови възможности за сътрудничество, пишат местни медии",
-        "description": "Австрийският канцлер Кристиан Щокер днес се срещна в Пекин с китайския лидер Си Дзинпин в рамките на няколкодневното си посещение в Китай. Двете страни подчертаха добрите си отношения и изразиха желание за задълбочаване на своето „приятелско стратегическо партньорство“, съобщи австрийското радио и телевизия ОРФ. Си заяви, че цени приятелското отношение на Австрия към Китай. По думите му, рядко се случва европейски държавни и правителствени ръково",
-        "date": "2026-11-06T17:41:54+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1241864-poseshtenieto-na-avstriyskiyat-kantsler-kristian-shtoker-v-kitay-razkriva-novi-v",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14080560/654318162a424dd399b7a160018cb743--0--78d96509b99b4cf89de99f775dc5e414.jpg"
       }
     ],
     "Наука": [
@@ -500,6 +500,14 @@
         "date": "2026-11-06T09:18:43+00:00",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDAyN0ppMElsbldNSjVuMXhCZVktQ0tpeFNlQUE5Zkg2OWxIVzNwM3VycVo0eFR4OUpFYWtDN0JPbEJvUXN4d0haRy1TRlBFc0lnd1BsT2R3VEJOeGU0bVBqQ0JlR09KcVZSMlY1cG16b3A4a0tuNTMzUVRTNk9TaGhFSS0wWFRXaUkzT2V0LUxZMk1lTjdpdTlXdFdfZENwQVBmSXZWUkhJNTZXQW1Fdg?oc=5",
         "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Новата опасност: когато болестите се превърнат в оръжия - Dimitrovgrad.bgvesti.NET",
+        "description": "",
+        "date": "2026-11-06T07:44:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzhQR3dDTklvTUtPYlBoN1F6X2ZxMHQyMW5EUDczYURFWkVFX3VTLUFSLXhBak5CVmE4ZVBzemxiVFEzSEhETGljNDJtRURfUTdpdTBpaVJMY2xqZTJVU0wxUk9tTHdRbnh3ZUgzTWFyZ0wzeDNTU1RzOHZnLTVXejBCekVib2RjOTYzTUNsYlpjOURHcWx4ZlNxWk5XX0xucDlmSFloZU02QQ?oc=5",
+        "source": "Dimitrovgrad.bgvesti.NET",
         "image": null
       },
       {
@@ -684,7 +692,7 @@
         "title": "Училището вече е по-скоро фабрика за социални услуги, а не образователна институция, каза д-р Юлиян Петров - БТА",
         "description": "",
         "date": "2026-11-06T11:57:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNanVfRGlGcWFnbjJ5LTNhMlZzTi05aTBDaF8zaFlKYjVBdGJwTzdKNTNfeUh2MDFhU0REb0p4YlJUTHIwM1ZKVDZmSFQxNTR4ajV0MXBsbkw5eWI0NW1hbHc0VjEtVlFZZDAzM05MdUlGVUZEMHRuTU5KR1FzT0tNd1k4OVlSUDE3dDJCYmZKd2ZPOTR4dUYtY05qUW1jb3hjNldsMEdwSHRPSWdHVUJGc2puNXhrNHhfUHpreVlxNE9rV2d4U0dUa1FlWS1Nd0RXcU43aUFTSVB2MWp4VUVSanpJSzk?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXZwME02X1VmSTJ0ZUhtSEZxUEk5RTZ4Nkg0TjdTLUNoRWY0bzlmczZHSjFZem1RR2M4bkRWNGdaaThIOXJSRFZOVTNtaG5RWk41NWNLN0JSX2k3dmY0MldCNFJqaHZjUFVHX2VmcEFUbG5XWWVnWnZCWjRFZEtVbDEtMkp0VkU4YWdxSzVSZzZQUHVpeTZqUzVTVFprTkN5X0NIQjF0bWpwMElKenY3akRjU0tGWEJLdFE?oc=5",
         "source": "БТА",
         "image": null
       },
@@ -985,7 +993,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 20,
+      "count": 21,
       "feeds": 1
     },
     "Образование": {
