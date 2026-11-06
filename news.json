@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-11-06T20:55:49.100543+00:00",
+  "generatedAt": "2026-11-06T21:50:26.925174+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Започна дванадесетият Plovdiv Jazz Fest",
+        "description": "Световни и български джаз музиканти участват в дванадесетото издание на Plovdiv Jazz Fest, което бе открито тази вечер в Дома на културата „Борис Христов“ в Пловдив. Джаз певицата Мирослава Кацарова, организатор и арт директор на Plovdiv Jazz Fest, посочи в приветствието си, че тази година за първи път е имало три издания на фестивала, които са били очарователни, красиви и смислени. „И видяхме, че публиката за джаз в България е взела да се подмла",
+        "date": "2026-11-06T21:03:39+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1241905-zapochna-dvanadesetiyat-plovdiv-jazz-fest",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14082727/20261106_215153%280%29.jpg"
+      },
+      {
+        "title": "Тръмп смени шефа на канцеларията си след загубата на междинните избори",
+        "description": "Стивън Милър е един от най-ярките политически съратници на президента за преструктуриране на работата в Белия дом",
+        "date": "2026-11-06T21:02:09+00:00",
+        "link": "https://dnes.dir.bg/svyat/tramp-smeni-shefa-na-kantselariyata-si-sled-zagubata-na-mezhdinnite-izbori",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/06/3045387/384x216.jpg?_=1794002015"
+      },
       {
         "title": "Публиката в зала „Дружба“ в Хасково аплодира Любо Киров, изправена на крака, при представянето на албума му „Футурофония“",
         "description": "Любо Киров гостува тази вечер в Хасково с концерт от националното си турне „Футурофония“. Пред препълнената зала „Дружба“ певецът представи песни от едноименния си нов албум, сред които „Някой те обича“, както и някои от най-големите си хитове през годините. При откриването на концерта изпълнителят приветства публиката и я покани да стане част от музикалното пътешествие, което е подготвил. Той определи срещите с почитателите си като специални мом",
@@ -17,6 +33,14 @@
         "link": "https://dnes.dir.bg/svyat/rusiya-veche-izpolzva-rassvet-kato-analog-na-starlink-za-voenni-komunikatsii-nad-ukrayna",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/06/3045386/384x216.jpg?_=1794000210"
+      },
+      {
+        "title": "Божидар Божанов цитира в ефир писмо на Гълъб Донев за втората пенсия - Dnevnik.bg",
+        "description": "",
+        "date": "2026-11-06T20:32:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGVYVFR6Skp1X3M1aGtPbms5OHhTYVpsNjQ2TVFUV2ltbDQ3UHR0VTAwWFJDdGxxZURTMnRtSVIzSk9GWHpvOGxYUFNTOGlxOExHUlRvb0pybERzbDlXMzlzOWllcWJKaFpyMVUtaDAtVExENEJXdlJleUxOcVhlLXNzZTV6Tkh0dER0UTZyWEd2UWxEZkt4UEJXQklkLWlmOHpwaTdtYjI?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
       },
       {
         "title": "Гълъб Донев: Ако не спрем галопиращите дефицити, катастрофата е сигурна",
@@ -51,11 +75,27 @@
         "image": "https://static.dir.bg/uploads/images/2026/11/06/3045378/384x216.jpg?_=1793995112"
       },
       {
+        "title": "Лек самолет се разби на германски аутобан, двама загинаха (снимки/видео) - Dir.bg",
+        "description": "",
+        "date": "2026-11-06T19:16:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTVLZ1BsYmJrdUZPTmRfOC1FdDYweThQSVZUR3RERThIR25xMmpNcHE3aXl2OGNFMW5ibkpnVlVsTWJrYzM5NzhBcm91TGFqRnV1OTFLZnAyWXRSa25YTi0tSjJsMnVpZ21QVkU3ckFRZGUxazhRUzFaSlRpVDVJbWt1VlNHdEZhRlJlWmxCWmx0X191QVBMMGdydw?oc=5",
+        "source": "Dir.bg",
+        "image": null
+      },
+      {
         "title": "Дунав отмъкна точка от Ботев след драма в Пловдив - Gong.bg",
         "description": "",
         "date": "2026-11-06T19:13:26+00:00",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0dPNlEtbTk1YTRpSnZUS1FscHJaRGtoMDV3WXlGcUp4RERLNS1wY1BNcnJPWVFYS01Oa0hMelM0Y3FBSHpfYVRtSDJLaUNQQW1zbjdwVGtMTllDS21FU0d4dmRVV0NqNVFhX3JmVnViSFBHa3F3Y3E5ZEY3R05wSWpwblltRnJ5V3VvdGRtc1k3a2REMmNyaXlXeHA?oc=5",
         "source": "Gong.bg",
+        "image": null
+      },
+      {
+        "title": "Тежка катастрофа с жертва и ранени на пътя между Руен и Айтос - nova.bg",
+        "description": "",
+        "date": "2026-11-06T18:57:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxNX0pUVEN0U3hIYUY2TUpIU3dDVXV5NHZQdmJ5ODItbHZrWWFSckZoRlRPUmRVc2NtRmJDRk9GUDN3cVJZQWZwdmVtaU1qVGRYVzRXRUdWY0pVMDctMy1OTVBzcWhNemg2QVBCX21ZeXMtWmw0Sm5EcmlsSHZScmNUY05SZFl0Z3ZDb19HNjY2ejlheWtBd040LXJkYWNkZFdHeDJGWEV3eDhnQjNBbjRhLVlMUmZSUHpnOGJZbmRCYlhENVZMWXFXblpSRFJGMlJET1VxTmcwZHlFbGgwMV9mSWtfNjZhMDlRZDN6cm9YdTlDY1l1RGJ1TkY1ekZIcm1HcTB0Zllfa0hlaHU3YmpuYnpBTVYyTVE1MjR6VEgxQlV3VHJPc01LbmxiTnI4WjlMU3VTTHh1dURYLUhFcm1POTd3alRXMkRMQXM5YXN2WHFpSkJJOFFRdFN1TlNsOUhSYmtWNnNsODhCbUJnV0l6S19aZDM4N0REVXYzeHFnUnRUMVgtVUFNTzctNVVTRHFFY1VuS2I4OU5JMVFPbjVpd2VtOXQwckNLTWQwMV9mcGhrNzFXX1Y5ei1EeFF5b0paX0dva3F5RUJNRUkzUm1kd25DVTNiMGl5Y1hid29ldmEyNmNoaTRwQ3NVMHVyTndjczVaeHJQQQ?oc=5",
+        "source": "nova.bg",
         "image": null
       },
       {
@@ -86,7 +126,7 @@
         "title": "Сигурността в Черно море обсъди заместник-министърът на външните работи Христо Полендаков с дипломати в Букурещ",
         "description": "Заместник-министърът на външните работи на България Христо Полендаков се срещна с посланиците и временно управляващите мисиите на държавите, акредитирани за България със седалище Букурещ. Събитието бе организирано от посланик Радко Влайков и се проведе в сградата на дипломатическото ни представителство в румънската столица. Разговорите се състояха непосредствено след срещата на външните министри на страните от Централноевропейската инициатива, ор",
         "date": "2026-11-06T18:28:00+00:00",
-        "link": "https://www.bta.bg/bg/news/balkans/1241872-sigurnostta-v-cherno-more-obsadi-zamestnik-ministarat-na-vanshnite-raboti-hristo",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1241872-sigurnostta-v-cherno-more-obsadi-zamestnik-ministarat-na-vanshnite-raboti-hristo",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14082457/IMG_2793.JPG"
       },
@@ -115,14 +155,6 @@
         "image": "https://www.bta.bg/upload/14082350/20261106_175809.jpg"
       },
       {
-        "title": "Гълъб Донев спира парите за дрехи на чиновниците и забранява коледните партита - marica.bg",
-        "description": "",
-        "date": "2026-11-06T17:20:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVTVYbG5lSUtzYjlGa0w5ZHo4bDVYUW9ZaE5nUndMRmVuWHhoOWxzU3FhMDkwOFFwZnUtWFJvM0RDdkc3cWl6bU43ZmFQV3JReEs2ckt2NGtjMExCM2ZFcVlhUmxwenctUlJ3UnpEMGFoenpRd0paMGtfVmswVW51dzhCdmd1N1lNTDJ2QjRudU9YLWItem5XbnRaUFh3MzRXY2tma1dXSVZCUE9oVGJCdVJrUGlVN3NxUDFWX3Fn0gHDAUFVX3lxTE52dFRqRWpHVDRRNEdKR2RKam9lQ0VlVmtOVzA2S2VJVW5RWHRTaDV5MXFzTUJpZUJxYmwwMmVNMU5SR3hyRHdUOG91MTdLU2E0ei0wZEU5NGFPOTVJdXZCOFZwck1EckIzU1p2U0tWS2tsbTRTNUFGYXNhYjhYU2VkTzNJMEVJRGE2RjJZd2VuZjdLYXREX282LWZRVkhtWGZBdDV5NW1ka0lpeGgwQXl1NWhFeFNYc2FhdmFnTlZfekZDRQ?oc=5",
-        "source": "marica.bg",
-        "image": null
-      },
-      {
         "title": "Проф. Константинов: Ударът по търговията със зърно ще доведе до глад. Бог да пази Европа, ако Африка тръгне насам",
         "description": "Местните избори са екзистенциални за ГЕРБ и за \"Прогресивна България\", но по различни причини, изтъква математикът",
         "date": "2026-11-06T17:16:13+00:00",
@@ -131,20 +163,20 @@
         "image": "https://static.dir.bg/uploads/images/2018/08/16/1491641/384x216.jpg?_=1535529902"
       },
       {
+        "title": "Арестуваха бащата на Меган Маркъл заради детска порнография - offnews.bg",
+        "description": "",
+        "date": "2026-11-06T17:11:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDFSVTRnanIyLWFHU0F3M2lZeUVScEkzTWZPbXg0bFVQWF9lUUFJc1hrWWZaZWxyN3ZCNDBjVkhnOHFGZHl4NG82NWJvWE80UkxNenZGbnJDUnROVWRnTXNicVVQVUxuMXhVWUswWHlWclJacFJBNldvMlhQRTB6OGVyY2prNUFyWkRHaXh1c191T3pYb091QlpQNE5FUWM?oc=5",
+        "source": "offnews.bg",
+        "image": null
+      },
+      {
         "title": "„Булгаргаз“ и Столична община ще търсят решение за дълговете на „Топлофикация София“ съм обществения доставчик",
         "description": "По инициатива на „Булгаргаз“ ЕАД се състоя работна среща между представители на ръководствата на „Булгаргаз“ ЕАД и Столична община, с която беше поставено началото на възстановяването на активния и конструктивен диалог между двете страни. В срещата участваха кметът на Столична община Васил Терзиев и председателят на Столичния общински съвет Цветомир Петров, а от страна на „Булгаргаз“ ЕАД – изпълнителният директор Георги Татарски и членът на Съвет",
         "date": "2026-11-06T17:00:19+00:00",
         "link": "https://www.bta.bg/bg/news/economy/1241830--bulgargaz-i-stolichna-obshtina-shte-tarsyat-reshenie-za-dalgovete-na-toplofik",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13829647/V_SH5500.JPG"
-      },
-      {
-        "title": "В Киев няма ток, Зеленски и Кличко се карат - Dnevnik.bg",
-        "description": "",
-        "date": "2026-11-06T16:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMV93YVhvOGdOcGxGeWI5aGh1bThHMnIySXMtUGU5eXJ0cVA4WWhXUnJDM2s0NVlNWnY4TlB6VnVZUzBZOUx4X2xEVk1vdzM1Q05KVm5JMXkyWG5GOFQzR3NTckh4dE04WWRFNk5RR3E0alIyUFI4S2VWZjlya1puQUpGaGVjRGJPazBJem1iX1dwdkZIVE52dnJZLWdxUWVDZzFYNnQtYlpvcFZlZHdUSA?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
       },
       {
         "title": "Николай Василев: Премиера го няма в камиона \"Бюджет 2027\", шофьорът смята да катастрофира",
@@ -169,41 +201,33 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1241826-rusenskata-politsiya-izdirva-67-godishen-mazh",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14082247/%D0%A0%D1%83%D1%81%D0%B5+-+%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D1%8F+-+%D0%BC%D1%8A%D0%B6+-+%D0%B8%D0%B7%D0%B4%D0%B8%D1%80%D0%B2%D0%B0%D0%BD%D0%B5.jpg"
-      },
-      {
-        "title": "Отоплението и топлата вода в студентските общежития на територията на Столичната община са възстановени",
-        "description": "Отоплението и топлата вода в студентските общежития на територията на Столичната община са възстановени. Това е информацията, предоставена от кмета на София Васил Терзиев към 17:00 часа на Министерството на образованието и науката (МОН), съобщи пресцентърът на ведомството. По-рано днес министърът на образованието и науката проф. Георги Вълчев проведе среща със столичния кмет във връзка с продължаващите проблеми с отоплението и топлата вода в част",
-        "date": "2026-11-06T16:34:50+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1241810-otoplenieto-i-toplata-voda-v-studentskite-obshtezhitiya-na-teritoriyata-na-stoli",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/2757253/20231016110058_MIN_1814-01.jpeg"
-      },
-      {
-        "title": "Премиерът Румен Радев се срещна с представителна група 27-1 на Националния университет по отбрана на САЩ",
-        "description": "Премиерът Румен Радев се срещна с представителна група 27-1 на Националния университет по отбрана на САЩ по програмата Capstone. Това съобщиха от правителствената информационна служба. В рамките на разговора Радев e подчертал стратегическото значение на отношенията между България и САЩ и e изразил увереност, че двете страни ще продължат да развиват активното си партньорство в областта на отбраната и сигурността. \"САЩ са наш стратегически съюзник.",
-        "date": "2026-11-06T16:31:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1241794-premierat-rumen-radev-se-sreshtna-s-predstavitelna-grupa-27-1-na-natsionalniya-u",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14072310/KASA0444.jpeg"
-      },
-      {
-        "title": "Разпродадени са вече билетите за концерта на Лили Иванова в Ямбол на 23 ноември",
-        "description": "Разпродадени са вече всички места в спортната зала \"Диана\" в Ямбол за концерта на Лили Иванова на 23 ноември, съобщиха от екипа ѝ. Гостуването ѝ в града е част от националното турне за 2026 година. Примата се завръща в Ямбол след участието си преди четири години, но сега вече в обновената и модернизирана зала \"Диана\", която бе открита официално преди по-малко от месец. Близо двучасовият ѝ концерт през 2022 г. изпълни до краен предел залата. През ",
-        "date": "2026-11-06T16:30:34+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1241787-razprodadeni-sa-veche-biletite-za-kontserta-na-lili-ivanova-v-yambol-na-23-noemv",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/698883/%D0%9B%D0%B8%D0%BB%D0%B8.jpg"
-      },
-      {
-        "title": "Министерството на културата съобщи, че е изплатило всички заплати и хонорари при изрядни документи в сценичните институти",
-        "description": "Министерството на културата е изплатило всички заплати и хонорари, за които държавните културни институти в областта на сценичните изкуства са представили надлежно оформени документи и са спазили приложимите финансови ограничения. Това се посочва в позиция на ведомството, разпространена във връзка с твърдения, изнесени в интервю в сутрешния блок на Би Ти Ви „Тази сутрин“. Възможни забавяния има единствено при изплащането на хонорари, но не и на з",
-        "date": "2026-11-06T16:25:55+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1241805-ministerstvoto-na-kulturata-saobshti-che-e-izplatilo-vsichki-zaplati-i-honorari",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11642711/20250929_124614.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Лидерът на сенатските демократи се зарече да се бори срещу \"всяка стъпка\" на новия шеф на канцеларията на Белия дом",
+        "description": "Шефът на демократите в Сената на Конгреса на САЩ Чък Шумър обеща, че ще бъде яростен противник на новия шеф на канцеларията на Белия дом Стивън Милър, след като президентът Доналд Тръмп обяви назначението му по-рано днес, предаде Франс прес. \"Стивън Милър е архитект на едни от най-варварските и безчовечни политически мерки на това правителство. Тръмп не можеше да направи по-лош избор. Нашите демократически мнозинства ще се борят срещу всяка негов",
+        "date": "2026-11-06T21:17:54+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241912-liderat-na-senatskite-demokrati-se-zareche-da-se-bori-sreshtu-vsyaka-stapka-na",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14073998/295cb203016a44c7b144b16938e76489--0--9138b3e1d0bc4d52b7e0c9b06af9b8b5.jpg"
+      },
+      {
+        "title": "Папа Лъв пристигна в Уругвай за началото на 12-дневната си южноамериканска обиколка",
+        "description": "Папа Лъв Четиринайсети пристигна в Уругвай за началото на натоварената си 12-дневна обиколка в Южна Америка, три седмици след като претърпя хирургическа операция заради онкологично заболяване на белия дроб, съобщиха агенциите. По време на полета от Ватикана 71-годишният понтиф увери, че е \"в сравнително добра форма и че е много щастлив\" да се завърне на континента, където е прекарал почти две десетилетия като мисионер.",
+        "date": "2026-11-06T20:56:59+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241910-papa-lav-pristigna-v-urugvay-za-nachaloto-na-12-dnevnata-si-yuzhnoamerikanska-ob",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14082705/4a673efbb1ed4270b872754044ad438e--2--87ff4771460844a2a2e43e818bc41732.jpg"
+      },
+      {
+        "title": "Световният шампион във Формула 1 Кими Антонели беше най-бърз във втората свободна тренировка в Бразилия - БТА",
+        "description": "",
+        "date": "2026-11-06T20:47:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYk1ZOGhrTGVOYnh3RGJ1UUhTSGNxVHBKenBOeTV2bWlIWWJ2YjJWZGk1LTdLYkt4ckthcTFla3VkUzg0dWt0R3EzMm9IM0pEQkU5T3ZtdTlKZllHcWxkVjBiQmNtYVE3TTRCTGx5eXViR3AxZXhHN0ZLVi0zZDhUWGdCVWNLdjRIbGtNQ1hVcDQ5cDlqVGdneWlvMHZBcjc4TXRJOE9DdDFnRmRKZ2ZzTmw2ZWJvS2tyQmVJM21R?oc=5",
+        "source": "БТА",
+        "image": null
+      },
       {
         "title": "Доналд Тръмп назначи Стивън Милър за шеф на канцеларията си",
         "description": "Президентът на САЩ Доналд Тръмп съобщи, че е назначил за нов шеф на канцеларията си Стивън Милър, предаде Ройтерс, като отбелязва, че американския държавен глава се е спрял в избора си на един от най-ярките си политически съратници за преструктуриране на работата в Белия дом след загубата на контрола над Конгреса от страна на републиканците на междинните избори тази седмица. Милър ще замени на поста Сузи Уайлс, която го заемаше досега. Кадровите ",
@@ -243,6 +267,14 @@
         "link": "https://www.bta.bg/bg/news/world/1241893-zelenski-kaza-che-ukrayna-prodalzhava-udarite-sreshtu-ruskite-petrolni-rafineri",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14013898/9c49a7ece24749f8820ffa2c714954aa--0--a46cdc01d54245cbbac159bc7a60fbb7.jpg"
+      },
+      {
+        "title": "Зеленски каза, че Украйна продължава ударите срещу руските петролни рафинерии в отговор на атаките срещу енергийната ѝ инфраструктура - БТА",
+        "description": "",
+        "date": "2026-11-06T19:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUNEZU5KSi1JTm4tYkVlZEp4OW83TWI1UmxrX255RmwzQ1RCS0ZaTnJ6TkNudms5YmNwbVQ4Sl8xbzlqSkJmUWhyVVpJSmpYaVdwR2czbXVwME1zaFhXNUNEdXVreENMSjZOd1JDRUlLb0hMWENRWU10UnBwckU0MXA0aUJkR2pJOFVoLVZORnJSMXZOS2F6dXBZeHFjQV93UXE3M1VoZHM0M1hXVm4xbjdZM0ZuQzdfUVpkcg?oc=5",
+        "source": "БТА",
+        "image": null
       },
       {
         "title": "Music - Silvana Estrada - БТА",
@@ -371,38 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1241854-nay-malko-33-tsivilni-byaha-ubiti-pri-napadenie-na-islyamistki-boytsi-v-dr-kongo",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/7443557/7b36cb5b07ea4ed882c08d5c153d9728--0--86556dada8bf42c388789072377b0c4d.jpg"
-      },
-      {
-        "title": "Мария Бакалова влиза в опасния свят на Никълъс Кейдж! Българката в нов холивудски филм - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-06T17:20:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVM3ZmxLQ3pfZy0xR3BOWTJ1X2pOeDJpTFFDNF9rd0tvQjdmMS1XM2tJWXVjZzlXTTh2eE5vNlhvcnVZekloUjdqR1V5RmREQnpDOWJFM1o1cDZaUUdRdnJoOHRuQTNvU3VXdkFzaEJTOUYyRXE1U1V5alJrYTJGQXctcEk0SWhaTVJPLWJKZ1BFaWtXZ29NU28wM3R2Z04taG0xbHlLOHJ4UVJ1bHE3WWswNmJ0TktDbnhEa1lpbFYwY1lqaEFFZ180amJ1Z2FxQnAzdVhrN3N3a2htOC1rWTRWSHhlNkdwT3VlX3VYMXpsdTV6RlF1Yl93?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Джорджа Мелони осъди „кибератаките срещу гражданска инфраструктура“",
-        "description": "Италианският министър-председател Джорджа Мелони осъди кибератаките „срещу гражданска инфраструктура“, визирайки както фалшивите сигнали за бомби, така и атаката срещу Френската служба за даряване на кръв, предаде Франс прес. „Днес не сме в състояние да кажем дали атаката срещу Франция, фалшивите сигнали за бомби в самолетите или нападенията срещу хранителни магазини са свързани помежду си. Но всички те безспорно ни показват едно и също: днес име",
-        "date": "2026-11-06T17:01:33+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241835-dzhordzha-meloni-osadi-kiberatakite-sreshtu-grazhdanska-infrastruktura-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14068701/0aec6d640d3e4e9a9bcbdfed118ae78c--0--0c1ba712e7e947ae9daec94b0283b8fd.jpg"
-      },
-      {
-        "title": "Джорджа Мелони осъди „кибератаките срещу гражданска инфраструктура“ - БТА",
-        "description": "",
-        "date": "2026-11-06T17:01:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2pxR0Q2OHVCQU5xOEt6WllQQlI5VkU0dnRDczVTc0RBWUxYYkdGMEZxbXlVN1l3U2pURzBDMENRTF9WRHJEbXZCMGctUTBDT3VSMkgtYm1wU21adVlBMEpwOV9McnRXU3ZNa21qWmhKalVFdkQ4aW1XeWV1bnlsa1d2RTlYZzRDcFFDQjJTTkVlSGNna0p6emRTT2xuSFV2UkNSOEQ0UHpYWG5WS2RLa3Jn?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Крайнодясната партия „Шведски демократи“ проправи пътя за оставането на Улф Кристершон на премиерския пост",
-        "description": "Крайнодясната партия \"Шведски демократи\" обяви днес, че няма да се противопостави на съставянето на десноцентристко правителство на малцинството, с което може да позволи на премиера Улф Кристершон да остане на власт въпреки загубата на парламентарното му мнозинство на изборите през септември, предаде Ройтерс. На изборите на 13 септември блокът на Кристершон спечели 173 места в 349-членния парламент срещу 176 за опозицията. Левоцентристките партии",
-        "date": "2026-11-06T16:57:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241799-kraynodyasnata-partiya-shvedski-demokrati-propravi-patya-za-ostavaneto-na-ulf-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13999851/2eb7e8ab5e274c5eb5611bec013b179a--0--462bbf99eb594c8897242084aceb8187.jpg"
       }
     ],
     "Наука": [
@@ -548,14 +548,6 @@
         "date": "2026-11-05T12:39:49+00:00",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGlYZlJMTm9Ub2IybVBoQ3RkS3MtOTNvZExfMnNlRWN1M294UGtZQ2NSa29iY1c1cHRLN1FERGR5bjJTVGVYNE5sVDRPdkpDLVVNTFlFSHoxLVZlRkRfM3RvSW5PZmZpc0tvOVc0MU9Eb2pLYXR2cXh5OGdpMF9uY2FpVExuMF9TWldmNVpjZTk0MUdhSjN3N21VMWt2b2E3bHhuSlFWWnNWUjNtdHBLcQ?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Форум \"Науката зад четенето\" и има ли наука в стратегиите за четенето у нас - БНР Новини",
-        "description": "",
-        "date": "2026-11-05T12:02:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVA4U0lET3FQY2hmXzM2SGdReFhfWnczT1dvRVJUTHZkVXNnYnRCWVVLZFY0Vms3X1g5RC03b1M1U0FRdW5Fb0FZNDdSenZ2X250M2tPYkNORlFVU2d4NmNrUFd0eERlbGhPdDlSM1RVTTFlVElXUkswbkh6N0xXODJsUURnVGdUQUVQSlR4eTg4UUZkeW1nNUlEbFJ0N0tKdENYZlBkY2MzWk5XbGRrVC1xZk9kdkNXWVE?oc=5",
-        "source": "БНР Новини",
         "image": null
       },
       {
@@ -769,14 +761,6 @@
         "image": null
       },
       {
-        "title": "Технологиите правят обучението по-интересно и мотивират учениците - Bgonair",
-        "description": "",
-        "date": "2026-11-06T09:33:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeWpvSmJSMU1ucFBuSXJoS0dVaDNhVDUxNVloRENpNFpPc1FIMlFNRUsxWXE2LXBjT1JCRVdHbXpiYkZYbVI2eHNlQWV0T3MyNkdXWnYxRnJwMTBfUzBHYzdKQmNZcDh4QnpNdDl2UG5GWmYyMVJ4dkVwUnp0QXd2WVpyTlB6a2xua3k4aUJ5QU5KRm9WVk15b2VGaGNTam5saVl5QTBObGtZYlFKcnQwd0pnUDdjd1J3cDFv?oc=5",
-        "source": "Bgonair",
-        "image": null
-      },
-      {
         "title": "Будни търновки създали училище и сиропиталище още преди 150 години - Вестник Борба",
         "description": "",
         "date": "2026-11-06T08:37:41+00:00",
@@ -791,9 +775,33 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHV6MDVIczE5bkRqTlJKZ0lyVzEwV3NEZi01UHpGN1FPODBxMTFwUjFlUzQyS0tKREhLZHMyX1JVR2I0RG1IUUVZdDJDcmlIREtndUkyNklvcDNKTEE0eE1QeTZ2MFNDSFhVZXZhdWZCal9wbjBpYnRoQVNSamtoR2RjX2dVbWl1Qk4xd05qOHl2MDdKTjlBQw?oc=5",
         "source": "zonaburgas.bg",
         "image": null
+      },
+      {
+        "title": "Ученици от Гимназията по туризъм стават все по-добри в ресторантьорството и кетъринга - Вестник Борба",
+        "description": "",
+        "date": "2026-11-06T07:37:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSFFPRnpkSnVhZUEyOXRiMXVSQThCZkVKUWFmS0lKUExDWnVOd1hPeGhRZ3czSlVMUi1iUTBuVGNEcFNqVjQwN2tLUkRvdjJod21vaW1mUDFsbmVGRHJGS0RNRENzYm1xUXVjV1dIMzZpblRncjMxZWw1a3lwVHNMeTBLTQ?oc=5",
+        "source": "Вестник Борба",
+        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "AI еуфорията: между очакванията и реалността - www.capital.bg",
+        "description": "",
+        "date": "2026-11-06T21:44:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1BRS1TZXg2VThUOFdVOVd1TC1wUGNOT1JKczU2aF80Q0hjZHFfMXZrTFR4OHZReHFpY1JJX2RxS19Ua0JWQ2FHYzZEbGtnTGxHWlBXbkpuYmJoRzNjTHpheWZKRFBmSWZmR2dyQmRVZHBmcUdFMU9aTWJWVjN2QnVtd1IzdWxOMlRzcmRIR2tzQllqMnlLV2VBXzN6RWI3dUtzZ2FsSXdZRngway1HY1g4X3Nvdw?oc=5",
+        "source": "www.capital.bg",
+        "image": null
+      },
+      {
+        "title": "Енергията зад дигиталната икономика - www.capital.bg",
+        "description": "",
+        "date": "2026-11-06T21:44:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHJXcEtrVXlnMVZzYlVhYUxzanp2VkFvVmNGWXBtVXc3Nm9LZGtsQTZ6QU5VOVl3UDBPUWJibXpsNmd6SG0xYlVZb3ItVE9kSXpHS3UwRFVNRnlneWhiM3VXY3RqVXJaWkV6WlFwOEJIY25FSnl0RmVDNkZmMGswUjBPMW5fTnFRX2xKeVFHaGdkS3h1ZVZ2M0N4YnZuZw?oc=5",
+        "source": "www.capital.bg",
+        "image": null
+      },
       {
         "title": "Технологии - най-новото от света на технологиите, събрано на едно място - iNews.bg",
         "description": "",
@@ -848,14 +856,6 @@
         "date": "2026-11-06T14:58:45+00:00",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1NwNlZDNFduRkF6NWhmQjBZcVVmNzF2QVQ5dDRPN2prSXNUY2JfT21VV1hNSTFHRlJPN25YWnIyd2xjRXNkTzZjYVBqZ2gtT21rQlV6Q3BHckxYTzJ2dE5SYWdtMGR2NmVIdWdXOHEwdkd2M1JlM2ZYd3d1VkZ2ZjZfVkZkWS0wOHZjLW9qVWtIa3JQT3I3UHBnUlBwUUJ4dlF5YmVyRXJHZlY5dE0zVnQyOC1ERzlTeWlFWnJBMThIT1VLWXFWY3FsUmNUbWcxQUdJUG5R?oc=5",
         "source": "plevenutre.bg",
-        "image": null
-      },
-      {
-        "title": "“Асарел-Медет” участва във форума “Панорама на уменията” - pa1-media.bg",
-        "description": "",
-        "date": "2026-11-06T14:33:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdXF6cGllVW1KcllVeFNlMUtfbTFfNFB3MTFWN1ZxXzdFZXVBT1htVVFQWjZiTXpLSjlSUGhpTjVpc2hpaWE1cWF5ZXN0TjFXbTRkWGhyUDVtaXk5NjJINFI2NDlrU3JJSndmdWp1bmx6a0JMZ2hLUG9HbGtEUU1KTm12bVlUUVZmY3ZIS2sxVEQ0SnlqSi1idFFpRURZdndhRmp0Y1JYcjdXSGdnRDdKM0RjeFpRcDNNZjVTVGlqZWVEam1udnlXZUppRUQzOHlyQm0xcnNtSWxqWEpTQkxZdTdEUEhZRXRucVB0VWwxcVB5QmhnS2dqYzFGT0RTQnRoMFRQbnV5WFNLTWRGdkVqcWd5UDFDWVQ4ZTlraUtiVHg?oc=5",
-        "source": "pa1-media.bg",
         "image": null
       },
       {
@@ -920,14 +920,6 @@
         "date": "2026-11-06T09:50:13+00:00",
         "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPSFFQUTJvUC1aTVRPQ0hzQlVLdE45SV9JR2hzZkRZaUluMEJ6MjZ2QlZPbG1FcUd3Q1UyVWNZS1ByOEcwR2NPamIyRzVEVDlObktnSXc5ektQQjBFWS1BWU8tb2F5QllwUnJEUEFKTzF1eXpIOWtKVHRMTXZnU1lpcnJDZWlMN19zUzI1V0xqVEJTOXZoUjRCUDVTeW9SUkJQbnRRajVkN1NJMzZSUzZpQWxEcy1Edk93ZzFYSHh4dy0zUERNNTlCLVdVME9HZDZEYkw5NjBqSUpRdm9LWDFOUEpFTDJEam5ob2Y2NmhBQjRMMHBLTjZuX0U4VmtWanpuVkdkeU8tX2l0VFBZTHJIb1dpR2dJalotcjRzUF81dGFXbHVOaTBTM0l5TUI0OEpmc3NYYVlueXpzMU9sc1FDLUx3bVJWWXBhTkhzMjRR?oc=5",
         "source": "Скенер.нюз",
-        "image": null
-      },
-      {
-        "title": "Европа и Япония обединяват сили в суперкомпютрите - TechNews.bg",
-        "description": "",
-        "date": "2026-11-06T09:41:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PYUJkYlpsdHlWenFadVNMY1Q5dEJITXljX3JVaHNOaURheHBaUktnaHE4dHlWLXNBZjBIXzlVTk4yQ3JYcUtGcVF2SnJ4LW5f?oc=5",
-        "source": "TechNews.bg",
         "image": null
       },
       {
@@ -1009,7 +1001,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 23,
+      "count": 22,
       "feeds": 1
     },
     "Образование": {
