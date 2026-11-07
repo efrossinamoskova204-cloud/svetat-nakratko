@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:27:54.030151+00:00",
+  "generatedAt": "2026-11-07T03:29:03.672313+00:00",
   "categories": {
     "България": [
       {
@@ -75,20 +75,20 @@
         "image": "https://www.bta.bg/upload/14082560/20261106_194439.jpg"
       },
       {
+        "title": "Ботев Пловдив съжали горчиво за пропуските си срещу Дунав - Dsport.bg",
+        "description": "",
+        "date": "2026-11-06T19:18:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tSHVKeFZnaUlnUEp1TXdiN0FpY0JqbGMtWE9wc0xyRklydG1LSXlsZUZXb2ZXVFRFYzhqc1JmQXJYemFaZ0VxZGw3RDJhVjNiZDcwQVEzY0F0MWJhSkttUHpRa2JwRHcweVo0dk8wRVVJVjhjakY4N0RB?oc=5",
+        "source": "Dsport.bg",
+        "image": null
+      },
+      {
         "title": "Лек самолет се разби на германски аутобан, двама загинаха (снимки/видео)",
         "description": "При инцидента не са засегнати превозни средства, платното в посока Хановер е било затворено",
         "date": "2026-11-06T19:16:34+00:00",
         "link": "https://dnes.dir.bg/svyat/lek-samolet-se-razbi-na-germanski-autoban-dvama-zaginaha-snimki-video",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/06/3045378/384x216.jpg?_=1793995112"
-      },
-      {
-        "title": "Дунав отмъкна точка от Ботев след драма в Пловдив - Gong.bg",
-        "description": "",
-        "date": "2026-11-06T19:13:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0dPNlEtbTk1YTRpSnZUS1FscHJaRGtoMDV3WXlGcUp4RERLNS1wY1BNcnJPWVFYS01Oa0hMelM0Y3FBSHpfYVRtSDJLaUNQQW1zbjdwVGtMTllDS21FU0d4dmRVV0NqNVFhX3JmVnViSFBHa3F3Y3E5ZEY3R05wSWpwblltRnJ5V3VvdGRtc1k3a2REMmNyaXlXeHA?oc=5",
-        "source": "Gong.bg",
-        "image": null
       },
       {
         "title": "Тежка катастрофа с жертва и ранени на пътя между Руен и Айтос - nova.bg",
@@ -187,23 +187,39 @@
         "image": null
       },
       {
+        "title": "В Киев няма ток, Зеленски и Кличко се карат - Dnevnik.bg",
+        "description": "",
+        "date": "2026-11-06T16:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMV93YVhvOGdOcGxGeWI5aGh1bThHMnIySXMtUGU5eXJ0cVA4WWhXUnJDM2s0NVlNWnY4TlB6VnVZUzBZOUx4X2xEVk1vdzM1Q05KVm5JMXkyWG5GOFQzR3NTckh4dE04WWRFNk5RR3E0alIyUFI4S2VWZjlya1puQUpGaGVjRGJPazBJem1iX1dwdkZIVE52dnJZLWdxUWVDZzFYNnQtYlpvcFZlZHdUSA?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
         "title": "Николай Василев: Премиера го няма в камиона \"Бюджет 2027\", шофьорът смята да катастрофира",
         "description": "Проектът не предлага необходимите реформи за ограничаване на държавните разходи и натрупването на нов дълг, коментира финансистът и бивш министър на икономиката",
         "date": "2026-11-06T16:53:14+00:00",
         "link": "https://business.dir.bg/ikonomika/nikolay-vasilev-premiera-go-nyama-v-kamiona-byudzhet-2027-shofyorat-smyata-da-katastrofira",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2023/10/17/2611810/384x216.jpg?_=1724845275"
-      },
-      {
-        "title": "Община Етрополе и МРРБ подписаха споразумение за финансиране на проект за нов физкултурен салон в Професионална гимназия „Тодор Пеев“",
-        "description": "Община Етрополе подписа с Министерството на регионалното развитие и благоустройството (МРРБ) споразумение за финансиране на проект „Изграждане на нов физкултурен салон в двора на Професионална гимназия (ПГ) „Тодор Пеев“ в град Етрополе“, съобщиха от Общината на официалната си интернет страница. Максималният размер на финансовата подкрепа за цялостната реализация на проекта е 990 474,63 евро. Финансирането е осигурено съгласно разпоредбите на Зако",
-        "date": "2026-11-06T16:43:20+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1241813-obshtina-etropole-i-mrrb-podpisaha-sporazumenie-za-finansirane-na-proekt-za-nov-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14082228/%D0%95%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B5+-+6.11.26%D0%B3..jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "АФП: \"Време е за Милър\": с назначението на новия шеф на канцеларията си Доналд Тръмп дава сигнал, че няма да се даде без бой",
+        "description": "Известен с елегантните си костюми, слънчевите очила и ореола си на плашеща фигура Стивън Милър отдавна е един от най-доверените и воинствени съратници на президента на САЩ Доналд Тръмп. Сега американският лидер назначава архитекта на своите енергични мерки срещу имиграцията за шеф на канцеларията си – най-ясният възможен сигнал, че предстои битка след наскоро отминалите междинни избори в САЩ. Вчера 41-годишният Милър каза, че е готов за нея. \"Зад",
+        "date": "2026-11-07T03:19:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241925-afp-vreme-e-za-milar-s-naznachenieto-na-noviya-shef-na-kantselariyata-si-don",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14049804/9686ac4a74154d30a5906d4d071fd633--0--2b71ef6a711249eea6ee78840ae54d25.jpg"
+      },
+      {
+        "title": "Ръководителят на ПРООН: Развитието на Китай има значително влияние върху целия свят - 国际在线",
+        "description": "",
+        "date": "2026-11-07T02:17:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nLXlRbWhLanpIYjlDVE9pNGd1UXd2elVYX0N3aXYwckswbHZ1c0RiU0hhVG55a3dGenhqZTNZb2lpUElQTHc2M2JBR3pic0VocVQ3S1BOV20zZFBfcndybnhXMmd0Uzg?oc=5",
+        "source": "国际在线",
+        "image": null
+      },
       {
         "title": "ВНА: Във Виетнам се планира създаването на първия в Азия център за приложен изкуствен интелект (ИИ)",
         "description": "Във виетнамския град Хошимин се планира да бъде създаден първият в Азия център за върхови постижения в областта на приложния изкуствен интелект (ИИ), съобщи Виетнамската новинарска агенция (ВНА). Инициативата беше представена по време на технологичен форум в Силициевата долина в САЩ. Проектът е резултат от сътрудничеството между Центъра за стартиращи предприятия и иновации в Хошимин (SIHUB), Икономическия университет в Хошимин, и международната п",
@@ -217,6 +233,14 @@
         "description": "Руските сили предприеха ракетно нападение срещу украинската столица Киев в ранните часове на днешния ден. Падащи отломки причиниха щети на жилищна сграда. Това съобщи кметът Виталий Кличко, цитиран от Ройтерс. \"Взривове в предградията на Киев. Врагът удря инфраструктура с балистични ракети\", написа Кличко в Телеграм. По думите му падащи отломки са поразили пететажна жилищна сграда в западен район на столицата. Друга жилищна сграда е с пострадала ",
         "date": "2026-11-07T01:14:02+00:00",
         "link": "https://www.bta.bg/bg/news/world/1241924-ruskite-sili-predprieha-raketna-ataka-sreshtu-ukrainskata-stolitsa-kiev-saobsht",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14078895/04c17bc2916b4d13956b7db927f04944--2--a76238ac2bea4006a3b7278bdbcb23bc.jpg"
+      },
+      {
+        "title": "Руските сили предприеха ракетна атака срещу украинската столица Киев, съобщи кметът",
+        "description": "Руските сили предприеха ракетно нападение срещу украинската столица Киев в ранните часове на днешния ден. Падащи отломки причиниха щети на жилищна сграда. Това съобщи кметът Виталий Кличко, цитиран от Ройтерс. \"Взривове в предградията на Киев. Врагът удря инфраструктура с балистични ракети\", написа Кличко в Телеграм. По думите му падащи отломки са поразили пететажна жилищна сграда в западен район на столицата. Друга жилищна сграда е с пострадала ",
+        "date": "2026-11-07T01:14:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241926-ruskite-sili-predprieha-raketna-ataka-sreshtu-ukrainskata-stolitsa-kiev-saobsht",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14078895/04c17bc2916b4d13956b7db927f04944--2--a76238ac2bea4006a3b7278bdbcb23bc.jpg"
       },
@@ -349,36 +373,12 @@
         "image": "https://www.bta.bg/upload/14013898/9c49a7ece24749f8820ffa2c714954aa--0--a46cdc01d54245cbbac159bc7a60fbb7.jpg"
       },
       {
-        "title": "Зеленски каза, че Украйна продължава ударите срещу руските петролни рафинерии в отговор на атаките срещу енергийната ѝ инфраструктура - БТА",
-        "description": "",
-        "date": "2026-11-06T19:57:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeUNEZU5KSi1JTm4tYkVlZEp4OW83TWI1UmxrX255RmwzQ1RCS0ZaTnJ6TkNudms5YmNwbVQ4Sl8xbzlqSkJmUWhyVVpJSmpYaVdwR2czbXVwME1zaFhXNUNEdXVreENMSjZOd1JDRUlLb0hMWENRWU10UnBwckU0MXA0aUJkR2pJOFVoLVZORnJSMXZOS2F6dXBZeHFjQV93UXE3M1VoZHM0M1hXVm4xbjdZM0ZuQzdfUVpkcg?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Music - Silvana Estrada - БТА",
         "description": "",
         "date": "2026-11-06T19:41:57+00:00",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VaWlYSVVNQnh3NkUydFYwZVVZRXl2Z3NFQVBteGNtWC1wQ0E5bnNBU1pTR2lSOUtqaE4tUTZnWGdtRHNTLW1PZXNBNl9lRVo5ZWZ4c0w0SQ?oc=5",
         "source": "БТА",
         "image": null
-      },
-      {
-        "title": "Серия от оставки бяха обявени в американското министерство на правосъдието",
-        "description": "Американският министър на правосъдието Тод Бланч е приел оставките на няколко високопоставени служители, сред които заместник-министърът, отговарящ за гражданските права, както и прокурор, натоварен с разследване на лица, които според Доналд Тръмп са участвали в заговор срещу него, предаде Франс прес. Бланч, който е бивш личен адвокат на Доналд Тръмп, съобщи вчера в Екс, че е приел оставката на заместник-министърката на правосъдието по въпросите ",
-        "date": "2026-11-06T19:37:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241892-seriya-ot-ostavki-byaha-obyaveni-v-amerikanskoto-ministerstvo-na-pravosadieto",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14018323/21e351452c4a42a0a00d650287286b88--0--a6c52deee59a4763baa2af6eb85be5ef.jpg"
-      },
-      {
-        "title": "Украинската полиция разби мрежа от измамнически колцентрове",
-        "description": "Полицията в Украйна разби мрежа от мними колцентрове, стояща зад схема за измами на стойност милиони евро, при които са били ощетени германски граждани, предаде ДПА. По данни на украинската полиция извършителите са измамили общо 135 души от Германия, загубили над 4,3 милиона евро. Предполагаемият организатор и още трима заподозрени са били арестувани в рамките на международна операция, а друг предполагаем съорганизатор е поставен под домашен арес",
-        "date": "2026-11-06T19:12:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241885-ukrainskata-politsiya-razbi-mrezha-ot-izmamnicheski-koltsentrove",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14012441/81370d1cdbc34ba88a5f6ea027bc129a--0--10957be15f274c15b4eb71b4a6207492.jpg"
       },
       {
         "title": "Financial Markets Wall Street - БТА",
@@ -406,6 +406,14 @@
       }
     ],
     "Наука": [
+      {
+        "title": "България на прага на бъдещето: Инвестиции в наука и иновации за икономически възход - NetNews – Новините на Ямбол",
+        "description": "",
+        "date": "2026-11-07T02:26:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2ZwRnh4TlV6UzFNVDEyUmkxeVVFY0ZDTVFUMURuZFY1bGlnM2c4X01IWkFhY1BOZXplVUdVQ3l0UVJmM1JRY2ljbVNOSGVvZFc0cG9nN3NBdDdieDJLYTRmdHBxbk5iU3ppYlBkUlF2TXVHZXpKR1hZMkdrRzBrdEMyVHphUmxPaVRjYWV6cWZfWFFqVmNVQVdobF9CV01pSFlHbC1OTndoSlJq?oc=5",
+        "source": "NetNews – Новините на Ямбол",
+        "image": null
+      },
       {
         "title": "Румен Радев обяви двойно увеличение на средствата за наука в Бюджет 2027 - Евроком",
         "description": "",
@@ -899,6 +907,14 @@
         "image": null
       },
       {
+        "title": "Танкове или дронове? Финансовите отчети в отбранителния сектор разкриват по-сложна картина на превъоръжаване - Компании - manager.bg",
+        "description": "",
+        "date": "2026-11-06T10:02:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLTR4NDVJOU5tY0thcVlmbmlfb19WUm5UN1dJY3d5LWRTbnFMZ0FrX1NBWWkzU3E5bDFDMGtwbjJPLVhwY1JKUXZ4aHpGaEVRb0haVEgxUTRCbGROQ2lVM090X0ZNU3dHY1NvYjkzdElQQThIVU16QUxvcFV2X2RzeGxpaGZqNE9uUkRkWG0tNGRIQTVoNGdYTXFQTVNXOTlwamM2Ui1NRS1PdjkxNmNHN1IwQ2Y5ZHY4cGRNYnpMcjNUMGRlVlVaYllnQmJYdGVIbHBLS3JZUk03OXo0Q2ZsRnc4Z0EtY1BaRER4aGZkNUppYmdESFp3OU5QVjdJWTh1TUlCNmhKcDM0Z0s2VTF3c0Z4UXR2dVJGakhPV1BMZzFwSWJwdFpPNHZZTGlDVGw5VVlTb3k3cG1wWU9KRlZiNw?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
         "title": "Motorola представи Moto Watch 2 Fit с технологии на Polar и слушалки Moto Buds 2 Ultra с Bose - Digital.bg",
         "description": "",
         "date": "2026-11-06T09:50:46+00:00",
@@ -947,11 +963,11 @@
         "image": null
       },
       {
-        "title": "Над 100 студенти от чужбина започнаха обучение в Университета по хранителни технологии в Пловдив - БТА",
+        "title": "Над 100 студенти от чужбина започнаха обучение в Университета по хранителни технологии в Пловдив - Утро Русе",
         "description": "",
         "date": "2026-11-06T07:19:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEE1dDRRWTRTSGhnNmdEOV8zS0dnaE5JMG5DMWlYMUZkQTlsRXZJSHBsUFRjODNNOEVxcTR5eDF1OGJDeGNCbmJFSEtsaFJORUh6V0dydGtGV25tN0ZsTlZjdFFOcV91RHZxN3pITTVCVG4yT0pCd21kcnJXLV9sNGpsMFlOZGRkMkJHbzZ5S2lsbndlRi13ZkhFRy1SaGFxVEg2RlBvNDRDN1lJLTdHRnlrdG1HcG5kZ3RB?oc=5",
-        "source": "БТА",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aNk5SS0tkbE5IaVEwaFdqMTYtd2RLREdJcWMwWlBiYWhjclN2aUJxMDU3QmY3R3UzSG5QdXBldVdtN0lVdF9tdnJaaExid9IBSEFVX3lxTE9KQ0tWS0ZhS05YVGZUV2h4b0VvRENyZ1Z2MmlDeDlpN0E3aF8zMVRmakVkcFpBRkVOTWNKLUtoTF9oZDNsd2wzRw?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
@@ -969,14 +985,6 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXJrN3dzbnAtRXR1YVB4Ull6Rkdkck5wZjRPTjE1Z0lKT0ZHejNvaEdkUVU3VEc1azFfS1JLOTR6NGxnTGlrbjhGXzdaMGVrMVU2YkxpRlZwX3BoYThDd3NoN1V2c1VETFY1aU5ScW8xbGFTaEw2d202aHBvUlN3QVNJTlVSU0JlQVhsYlloeWhsSzZqS0NTbVRSeGhCWkZQMFYwUUE3aTRBdTBLREUzQWRUMDdKWTNmSzF1MEdLYw?oc=5",
         "source": "www.capital.bg",
         "image": null
-      },
-      {
-        "title": "Как AI променя инвестиционното банкиране и бъдещето на финансите според Александър Каролев от JP Morgan? - Бизнес новините",
-        "description": "",
-        "date": "2026-11-06T05:46:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWktaNjRuRU0wUHphaFdua2ZzQ0xrdkRndGpjZzh4ZXh4NDlkVzdxU2hWRXNJWXlza25VdVVnaHF0Mlp3N0RzR19tRXdpRWlHemlNbHNwdXZLNTlYNlRaWjdSMWVPbTgtdWFjV3hzWWdDMURMMTlFZzRNdUdQQVVjS01lODVPVDRjaWVJSVU4Q3huTnp4b2VPRkgzT2FMekRVUWNpaDVoMXRDS1o5QTJJelVkcGktV3c1Wm1Nd0wyR0JGckpWaXpOOVVnb0lSSlc4VGMyN2VDcXQwX2F0aDBzWThHSQ?oc=5",
-        "source": "Бизнес новините",
-        "image": null
       }
     ]
   },
@@ -993,7 +1001,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 21,
+      "count": 22,
       "feeds": 1
     },
     "Образование": {
