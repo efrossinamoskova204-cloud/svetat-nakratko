@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:42:58.109640+00:00",
+  "generatedAt": "2026-11-07T02:27:54.030151+00:00",
   "categories": {
     "България": [
       {
@@ -81,14 +81,6 @@
         "link": "https://dnes.dir.bg/svyat/lek-samolet-se-razbi-na-germanski-autoban-dvama-zaginaha-snimki-video",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/06/3045378/384x216.jpg?_=1793995112"
-      },
-      {
-        "title": "Лек самолет се разби на германски аутобан, двама загинаха (снимки/видео) - Dir.bg",
-        "description": "",
-        "date": "2026-11-06T19:16:34+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTVLZ1BsYmJrdUZPTmRfOC1FdDYweThQSVZUR3RERThIR25xMmpNcHE3aXl2OGNFMW5ibkpnVlVsTWJrYzM5NzhBcm91TGFqRnV1OTFLZnAyWXRSa25YTi0tSjJsMnVpZ21QVkU3ckFRZGUxazhRUzFaSlRpVDVJbWt1VlNHdEZhRlJlWmxCWmx0X191QVBMMGdydw?oc=5",
-        "source": "Dir.bg",
-        "image": null
       },
       {
         "title": "Дунав отмъкна точка от Ботев след драма в Пловдив - Gong.bg",
@@ -187,6 +179,14 @@
         "image": "https://www.bta.bg/upload/13829647/V_SH5500.JPG"
       },
       {
+        "title": "Бюджет 2027: 3.5% дефицит, 5000 щата по-малко и ръчна спирачка за заплатите (обновена) - Mediapool.bg",
+        "description": "",
+        "date": "2026-11-06T17:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVlmbms3N1NsT3BCQ1NTcTFHNV9BZlR1SGtvS1dHbWZ2ZkFuU1IzV2hjWTc4Mjllb0dxVlFtNmZ5SkVQT01CUE9Sd1VkX251THVIcDZGWDUxcGYwSlZiWnJNRk1mcURmbkFyWkJiZV9kbS1BdWZRVURPQ2RqUWpRTGVfY2VxRG8ybFpwY2xvUGFQTDBVU3UxbUktQzVTdDYtekF4MHN2eHk1UUV3QlhjRDdSVll5aUltLVNGc0llMA?oc=5",
+        "source": "Mediapool.bg",
+        "image": null
+      },
+      {
         "title": "Николай Василев: Премиера го няма в камиона \"Бюджет 2027\", шофьорът смята да катастрофира",
         "description": "Проектът не предлага необходимите реформи за ограничаване на държавните разходи и натрупването на нов дълг, коментира финансистът и бивш министър на икономиката",
         "date": "2026-11-06T16:53:14+00:00",
@@ -205,6 +205,14 @@
     ],
     "Свят": [
       {
+        "title": "ВНА: Във Виетнам се планира създаването на първия в Азия център за приложен изкуствен интелект (ИИ)",
+        "description": "Във виетнамския град Хошимин се планира да бъде създаден първият в Азия център за върхови постижения в областта на приложния изкуствен интелект (ИИ), съобщи Виетнамската новинарска агенция (ВНА). Инициативата беше представена по време на технологичен форум в Силициевата долина в САЩ. Проектът е резултат от сътрудничеството между Центъра за стартиращи предприятия и иновации в Хошимин (SIHUB), Икономическия университет в Хошимин, и международната п",
+        "date": "2026-11-07T01:56:09+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241360-vna-vav-vietnam-se-planira-sazdavaneto-na-parviya-v-aziya-tsentar-za-prilozhen-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14080762/Applied+AI+Centre+of+Excellence+to+be+built+in+Ho+Chi+Minh+City.jpeg"
+      },
+      {
         "title": "Руските сили предприеха ракетна атака срещу украинската столица Киев, съобщи кметът",
         "description": "Руските сили предприеха ракетно нападение срещу украинската столица Киев в ранните часове на днешния ден. Падащи отломки причиниха щети на жилищна сграда. Това съобщи кметът Виталий Кличко, цитиран от Ройтерс. \"Взривове в предградията на Киев. Врагът удря инфраструктура с балистични ракети\", написа Кличко в Телеграм. По думите му падащи отломки са поразили пететажна жилищна сграда в западен район на столицата. Друга жилищна сграда е с пострадала ",
         "date": "2026-11-07T01:14:02+00:00",
@@ -219,14 +227,6 @@
         "link": "https://www.bta.bg/bg/news/world/1241923-papata-prizova-yuzhna-amerika-da-si-satrudnichi-po-regionalnite-vaprosi",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14083175/a19b7d4a46c4433da0b0e7333b40b585--1--6e396c8793bb4a578a73a0641d5809f0.jpg"
-      },
-      {
-        "title": "ОБНОВЕНА Иранските сили съобщиха, че са свалили американски дрон Ем Кю-9 над остров Кешм - БТА",
-        "description": "",
-        "date": "2026-11-07T00:18:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXF0Z2xlbmx6NWsxN3NnLWFOMHpDS1p5c3hTOGFldFEydEJaVWlRUm9QVXZZTWJDbXRfanJDb3V6Mko2cmgtZVc4cXZqLVNlMHZMQUJFT0NkWHlYa1dVVzVUU3NYQ2V3R3UydEpQWnhJN3V4VWotOGJ0QVNTWW1DQ3IzX1MxTzlpTG4zNWkxc1Rnamg1Y1dMM2hSMHFjeFJHVE1aTGRBSkNhdWxQMjl6NXNtNXJIM2lISWlaYw?oc=5",
-        "source": "БТА",
-        "image": null
       },
       {
         "title": "Папата призова за \"достъпно здравеопазване за всеки\"",
@@ -649,14 +649,6 @@
         "image": null
       },
       {
-        "title": "Дигиталната грамотност започва от класната стая - Dir.bg",
-        "description": "",
-        "date": "2026-11-06T14:20:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1VEN3NBZmR5akNrZjVPSmU4ZVpPa3NnQU5KUzZ6YzBiWmlDWkIwSThsWEQ5U1EyU3Q0Y3R0UXpwR3FoX1lRWlhGY1RFZkp4d1JaWXRvY2VlbkVPMGI5ZjlOM3pDUlNrRXo0cmZMaHl4bUc0ak1pNllwVDN6YVM1U2ZvcEdXUkFsUmlBMkw4VTM4aFU?oc=5",
-        "source": "Dir.bg",
-        "image": null
-      },
-      {
         "title": "Чрез програмите ни искаме да създадем по-безопасна училищна среда, каза представителят на УНИЦЕФ за България Мио Немото - Утро Русе",
         "description": "",
         "date": "2026-11-06T14:04:40+00:00",
@@ -750,6 +742,14 @@
         "date": "2026-11-06T08:37:41+00:00",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFN6RFJFU09qY2JxdVc4b3hVSF9iN0xZR3dSUnNRajlVVXp6d3JzSzUzNUNPYkJmYXpZTTNEUXFFeVhiSC14anlLWFZTZ0RVdWRDSjhHNFkzY0lQRjl2OUtUaU5UUWU2TjMtZ1FNSG5jQXk2cl94ZzczSlN5R3pBTGJGc0V0cWd1TnhJbA?oc=5",
         "source": "Вестник Борба",
+        "image": null
+      },
+      {
+        "title": "Дискусионен форум събра в Бургас педагози и образователни експерти - zonaburgas.bg",
+        "description": "",
+        "date": "2026-11-06T07:57:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHV6MDVIczE5bkRqTlJKZ0lyVzEwV3NEZi01UHpGN1FPODBxMTFwUjFlUzQyS0tKREhLZHMyX1JVR2I0RG1IUUVZdDJDcmlIREtndUkyNklvcDNKTEE0eE1QeTZ2MFNDSFhVZXZhdWZCal9wbjBpYnRoQVNSamtoR2RjX2dVbWl1Qk4xd05qOHl2MDdKTjlBQw?oc=5",
+        "source": "zonaburgas.bg",
         "image": null
       },
       {
