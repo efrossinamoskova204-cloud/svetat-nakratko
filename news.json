@@ -1,7 +1,39 @@
 {
-  "generatedAt": "2026-11-07T04:31:53.509787+00:00",
+  "generatedAt": "2026-11-07T05:29:38.315182+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Над 2200 съдии в страната гласуват за шестима нови членове на Висшия съдебен съвет",
+        "description": "Съдиите в страната гласуват днес за избора на шестима членове на Висшия съдебен съвет (ВСС) от Съдийската колегия. Те ще могат да избират от общо 21 кандидати, изслушани по време на Общото събрание на съдиите, провело се на 31 октомври. Право да гласуват имат 2275 съдии, съгласно избирателния списък. Изборният ден ще започне в 8:00 ч. и ще продължи до 18:00 ч. Гласуването е с хартиени бюлетини в 30 избирателни секции в страната, съвпадащи с броя ",
+        "date": "2026-11-07T05:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1241340-nad-2200-sadii-v-stranata-glasuvat-za-shestima-novi-chlenove-na-visshiya-sadeben",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/158844/OI000441-01.jpeg"
+      },
+      {
+        "title": "Турски военнослужещи и военна техника ще се придвижат по национална пътна инфраструктура, за да участват в учение",
+        "description": "Личен състав и военна техника на турските въоръжени сили ще се придвижат по републиканската пътна инфраструктура към учебен полигон „Ново село“ днес. Като част от многонационалната бойна група на НАТО в България те ще участват в учението „Тракия - 26“. Във връзка със същото учение на 11 и 12 ноември ще се извърши придвижване на военнослужещи и техника от състава на Сухопътните войски към учебен полигон „Корен“. Автоколоните ще бъдат съпровождани ",
+        "date": "2026-11-07T04:45:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1241601-turski-voennosluzheshti-i-voenna-tehnika-shte-se-pridvizhat-po-natsionalna-patna",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13436618/%D0%B5%D0%B4%D0%BD%D0%BE%D0%BE%D0%BE%D0%BE.jpg"
+      },
+      {
+        "title": "Френският колектив Acid Arab ще изнесе концерт в София",
+        "description": "Acid Arab идва в София днес, 7 ноември, за концерт в „Малката текила“, информират от Fest Team. Френският колектив се завръща в България след участието си на Phillgood в Пловдив това лято, но този път на клубна сцена. Историята на Acid Arab започва именно от клубовете, във Франция, и вече повече от десетилетие смесва електроника с мелодии и ритми от Близкия изток и Северна Африка. Acid Arab имат над 600 участия по целия свят, както на големи фест",
+        "date": "2026-11-07T04:45:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1241849-frenskiyat-kolektiv-acid-arab-shte-iznese-kontsert-v-sofiya",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13947007/AcidArab-KV-Post.jpg"
+      },
+      {
+        "title": "Столичната община осигурява допълнителен градски транспорт за Задушница",
+        "description": "Столичната община разкрива пет временни автобусни линии и променя разписанията на част от редовните линии на градския транспорт днес, 7 ноември, за Задушница, съобщиха от Общината. Осигурени са резервни трамваи, тролейбуси и автобуси, които при необходимост ще се включват по най-натоварените маршрути. Временната автобусна линия 44А ще свързва автостанция „Банкя“ с Новия гробищен парк в Банкя. По нея ще се движат електрически автобуси, които ще сп",
+        "date": "2026-11-07T04:35:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1241390-stolichnata-obshtina-osiguryava-dopalnitelen-gradski-transport-za-zadushnitsa",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11165972/BKK_9494+%281%29.JPG"
+      },
       {
         "title": "На Архангелова задушница ще бъде почетена паметта на загиналите български воини",
         "description": "Заупокойна панихида за Архангелова (мъжка) задушница ще бъде отслужена днес в района на Военния мавзолей-костница на Централните софийски гробища от Българския патриарх и Софийски митрополит Даниил. С военен ритуал от Националната гвардейска част ще бъде отдадена почит пред паметта на военнослужещите, загинали във войните за национално освобождение и обединение, в операции по поддържане на мира и при изпълнение на воинския дълг в мирно време, съо",
@@ -32,6 +64,14 @@
         "date": "2026-11-07T03:40:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmw4UE54UXNGNU5ZRXpXOXFqMUxwVlNKclA5aUlDcVJxOWhIZUhnWTNzdjF6UjdjSjIyY2wxX3N1TmVzV1RqTEQzS3RNaUNvS1VwcGdLQ0xOYm11RGdubmthTjIzQXN1Um5UOGhKQl9YX3M4QmlJMTJtT0JtdVdYYk9tM2JLRFpsUE1FOUR6U1ZqM3dabWtrM1k5OXlpcHd1alFERkdtTW0?oc=5",
         "source": "Новини СЕГА",
+        "image": null
+      },
+      {
+        "title": "Нови удари в Иран - News.bg",
+        "description": "",
+        "date": "2026-11-07T00:05:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FQmwtaERFQlQwWHJBZEltSU1BRzAzc0ctYnNBT0hLcXJQYi0xTmRvM1REek1xcjBNM1g0VmRENW1lZzFJaTVkTDVUZmhYRjlLQWdJVUNIWFIyc2Ni?oc=5",
+        "source": "News.bg",
         "image": null
       },
       {
@@ -75,11 +115,19 @@
         "image": null
       },
       {
-        "title": "Гълъб Донев обяви край на живота на кредит и защити новия дълг със стари \"борчове\" - Dnevnik.bg",
+        "title": "Гълъб Донев: Ако не спрем галопиращите дефицити и дълга, неминуемо катастрофата е сигурна - БНТ Новини",
         "description": "",
-        "date": "2026-11-06T20:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDhGVDREekNDNjZjX1hNbFBLaUhMUWhNSjd2ejAtUU00UWVJRlhKbUcwX1Y1SEROYjRCYWh6N0RJRDFfbWVUZmkxRnJ2c2RfeXl1WHlxaVlra1UxS0VVN3FZWnIzVWhBRDFiaF81NGt1M1NOVmFlMUhiRjlDbjBCQTdFRXFvVHVCcW5zaGl3RmpjRkZ0cXhJaElUcmlMVWt3bU8zVXBxdw?oc=5",
-        "source": "Dnevnik.bg",
+        "date": "2026-11-06T20:16:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaW1rRFZCVEF5THVSNDFIT3NLZlVscDgyXzRzdFB1N2dRcDl6OFNOdkhZa3h0M1BqR0VKZE5UMkN3a2M2T2FER2l1Uk9IaG1lYTlBdGZCSFFMQVMtRUlaZEhYNHc3TkhLcUctRFJscmw1cWZqV044cDVHMlFjeGZrZVA5Z28xNmFhbDAwMUpZTEpmQXlzSTFmQ3BYeXI5U1A4VFZFNWRqczZHbE93OGszYlAzLVRCQTZ5azdMZUdjYWxHXzItblFHLXJB?oc=5",
+        "source": "БНТ Новини",
+        "image": null
+      },
+      {
+        "title": "Украйна: Русия пусна в експлоатация собствен аналог на Starlink за военни цели - ФОКУС",
+        "description": "",
+        "date": "2026-11-06T20:11:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0dmUVFEZ2pwdl9lMFI3ZjBxcUQ1R183ZW90dUhzVExYMDNjcFIxcHhlckhDMEt6RXVMTlBzY2VuUW9uVHc4Zm5FVDVxM09MeDdOQ2xsUk5WWW5NOVkwTWlkUXNzTkdhLXBLSWhPdmNjbVVhRjZvNVJBWFRPOXRRaVoyc2JZTTdjaC0xYmE5MzBYRGhLeTN2ODdUbjFYb1Q2QkxhX1ZhVzVjYXFEMG5ZUy1kUTdTaG50ZXNDQ213Vk5Ma1hfdWtrZExfam9vSEU?oc=5",
+        "source": "ФОКУС",
         "image": null
       },
       {
@@ -153,57 +201,17 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1241872-sigurnostta-v-cherno-more-obsadi-zamestnik-ministarat-na-vanshnite-raboti-hristo",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14082457/IMG_2793.JPG"
-      },
-      {
-        "title": "В предложения днес проект на бюджет има баланс, каза вицепремиерът Атанас Пеканов",
-        "description": "В предложения днес проект на бюджет има баланс, каза вицепремиерът Атанас Пеканов в ефира на БНТ. България изпитва значителни фискални трудности и предизвикателства, което означава, че в последните години разходите са вървели пред приходите и ние заварихме това положение, каза Пеканов в отговор на въпрос какво е съдържанието на проекта. Процедурата по свръхдефицит беше обявена две седмици след като влязохме в длъжност и в тази ситуация предприема",
-        "date": "2026-11-06T18:17:14+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1241867-v-predlozheniya-dnes-proekt-na-byudzhet-ima-balans-kaza-vitsepremierat-atanas-p",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13944383/1000161654.jpeg"
-      },
-      {
-        "title": "\"Булгаргаз\" към Столична община за \"Топлофикация\": Ремонтите постоянно отлагат плащанията",
-        "description": "Общинското дружество системно не изпълнява представяните план-графици и не предоставя изисканата финансова информация, необходима за намирането на устойчиво решение, заявиха от газовия доставчик",
-        "date": "2026-11-06T18:10:01+00:00",
-        "link": "https://business.dir.bg/energien-pazar/bulgargaz-kam-stolichna-obshtina-za-toplofikatsiya-remontite-postoyanno-otlagat-plashtaniyata",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2025/12/15/2938259/384x216.jpg?_=1765809264"
-      },
-      {
-        "title": "Боксьорът Йосиф Панов-Пепелянката мисли, че е време съперникът му Даулет Даукенов да бъде победен",
-        "description": "Боксьорът Йосиф Панов-Пепелянката мисли, че е време съперникът му Даулет Даукенов от Казахстан да бъде победен. Двамата излизат в неделя, 8 ноември, в основния мач на боксовата SLYBET’S FIGHT NIGHT – \"Възходът на Пепелянката\" в плевенската спортна зала \"Балканстрой\". За БТА боксьорът каза, че първата битка ще бъде в събота с кантара, след което, в неделя се изправя в дълъг 10-рундов двубой срещу Даулет Даукенов. Панов добави, че за двубоя за готв",
-        "date": "2026-11-06T17:47:27+00:00",
-        "link": "https://www.bta.bg/bg/news/sport/1241863-boksyorat-yosif-panov-pepelyankata-misli-che-e-vreme-sapernikat-mu-daulet-dauke",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14082350/20261106_175809.jpg"
-      },
-      {
-        "title": "Проф. Константинов: Ударът по търговията със зърно ще доведе до глад. Бог да пази Европа, ако Африка тръгне насам",
-        "description": "Местните избори са екзистенциални за ГЕРБ и за \"Прогресивна България\", но по различни причини, изтъква математикът",
-        "date": "2026-11-06T17:16:13+00:00",
-        "link": "https://dnes.dir.bg/na-fokus/prof-konstantinov-udarat-po-targoviyata-sas-zarno-shte-dovede-do-glad-bog-da-pazi-evropa-ako-afrika-tragne-nasam",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2018/08/16/1491641/384x216.jpg?_=1535529902"
-      },
-      {
-        "title": "Арестуваха бащата на Меган Маркъл заради детска порнография - offnews.bg",
-        "description": "",
-        "date": "2026-11-06T17:11:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDFSVTRnanIyLWFHU0F3M2lZeUVScEkzTWZPbXg0bFVQWF9lUUFJc1hrWWZaZWxyN3ZCNDBjVkhnOHFGZHl4NG82NWJvWE80UkxNenZGbnJDUnROVWRnTXNicVVQVUxuMXhVWUswWHlWclJacFJBNldvMlhQRTB6OGVyY2prNUFyWkRHaXh1c191T3pYb091QlpQNE5FUWM?oc=5",
-        "source": "offnews.bg",
-        "image": null
-      },
-      {
-        "title": "„Булгаргаз“ и Столична община ще търсят решение за дълговете на „Топлофикация София“ съм обществения доставчик",
-        "description": "По инициатива на „Булгаргаз“ ЕАД се състоя работна среща между представители на ръководствата на „Булгаргаз“ ЕАД и Столична община, с която беше поставено началото на възстановяването на активния и конструктивен диалог между двете страни. В срещата участваха кметът на Столична община Васил Терзиев и председателят на Столичния общински съвет Цветомир Петров, а от страна на „Булгаргаз“ ЕАД – изпълнителният директор Георги Татарски и членът на Съвет",
-        "date": "2026-11-06T17:00:19+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1241830--bulgargaz-i-stolichna-obshtina-shte-tarsyat-reshenie-za-dalgovete-na-toplofik",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13829647/V_SH5500.JPG"
       }
     ],
     "Свят": [
+      {
+        "title": "Американските военни нанесоха нов целенасочен удар по Иран",
+        "description": "Президентът на САЩ Доналд Тръмп съобщи, че вчера американската армия е нанесла нови ограничени удари по Иран, а тяхната цел са били системи за противовъздушна отбрана, предаде Асошиейтед прес. В разговор с журналисти стопанинът на Белия дом определи военните действия като \"незначителни\". \"Бяха изградили известен брой средства за противовъздушна отбрана, но ние ги извадихме от строя, отне ни не повече от 15, а може би и 5 минути\", каза американски",
+        "date": "2026-11-07T04:43:43+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1241928-amerikanskite-voenni-nanesoha-novi-tselenasocheni-udari-po-iran",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14083316/9be9dac5f5b540a3a165e0fe26d50ff6--0--02340f7e6cca4d03b2e7889e9b6612b4.jpg"
+      },
       {
         "title": "Нидерландската полиция арестува около 200 души по време на протестна акция срещу център за данни на \"Майкрософт\"",
         "description": "Нидерландската полиция съобщи, че е арестувала между 150 и 200 души за незаконно влизане в чужда собственост, след като стотици демонстранти нахлуха на строителната площадка на дейта център на \"Майкрософт\" в Амстердам, за да изразят протеста си срещу проекта, предаде ДПА. Органите на реда заявиха, че у някои от задържаните са открити откраднати материали от строежа, а други са заподозрени в нанасяне на имуществени щети. Всички арестувани ще бъдат",
@@ -211,6 +219,14 @@
         "link": "https://www.bta.bg/bg/news/world/1241927-niderlandskata-politsiya-arestuva-okolo-200-dushi-po-vreme-na-protestna-aktsiya-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14082007/cf9ec27716374393957ea6bbe5aaffa7--0--c8e6681a2ac64313ab5a3c1c3d3e3b62.jpg"
+      },
+      {
+        "title": "Цял свят говори за мелето на Левски - Ягелония + ВИДЕО - Gol.bg",
+        "description": "",
+        "date": "2026-11-07T03:56:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTV1SjM3NjNtYUg4dDRGa1dzUVNEeUFlMkRubTJQVjdtampacG1Ddnp4WFNMVjJCbmRkNnc3SDdfelJxd0E0ZnBLTGpocHJqTTFoRThqd0lKbE00NWpXbVpFa3dheHhYVFppa1FuYkZsY3lfdG40OC05N3ZrUGxvcFViYV9tbWp4b0xkOS1EMEZuZW5VdkM3SDVB?oc=5",
+        "source": "Gol.bg",
+        "image": null
       },
       {
         "title": "АФП: \"Време е за Милър\": с назначението на новия шеф на канцеларията си Доналд Тръмп дава сигнал, че няма да се даде без бой",
@@ -373,14 +389,6 @@
         "image": "https://www.bta.bg/upload/14043551/d2704f8b157e467a880055948cc1cbb7--0--7f4e41ffcc6d47558bc714e1265efe7e.jpg"
       },
       {
-        "title": "Нова Зеландия се готви за оспорвани парламентарни избори",
-        "description": "Нова Зеландия се готви да гласува утре в едни от най-оспорваните парламентарни избори в историята си, като нито управляващата Национална партия, нито Лейбъристката партия изглежда няма да могат да спечелят абсолютно мнозинство на тези избори, белязани от опасения относно разходите за живот, предадоха световните агенции. Сред основните претенденти са премиерът Кристофър Луксън, лидер на дясноцентристката Национална партия, и Крис Хипкинс, който ог",
-        "date": "2026-11-06T20:03:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241884-nova-zelandiya-se-gotvi-za-osporvani-parlamentarni-izbori",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13747783/e5229ab4021b4ca19ce624e4938adb07--0--f3e3ff9473a444088a34b748c95a7048.jpg"
-      },
-      {
         "title": "Music - Silvana Estrada - БТА",
         "description": "",
         "date": "2026-11-06T19:41:57+00:00",
@@ -393,14 +401,6 @@
         "description": "",
         "date": "2026-11-06T19:04:10+00:00",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hZjM1UUVsZXgwalYtLU8tNkl4WUlpOTlqTGg4UE5pTUJjZDlTVTJpZFJFQU9Ic2tmaDEwNFBBbDlfRGZQOEpqLVhCN0V2TW5zazl2NUNrNA?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
-        "title": "Mexico Meghan Father - БТА",
-        "description": "",
-        "date": "2026-11-06T19:04:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxMTFNQWdlcHhoSVo3MUJVaWJ0ZWw2bm1aS19iU01vdE5fME9XRlR6NzlsUDVjOTlveEF0NXpIZjFaTEtNMzJvZXR6NjJkcUhpV2YyQ2ItUQ?oc=5",
         "source": "БТА",
         "image": null
       }
@@ -641,14 +641,6 @@
         "image": null
       },
       {
-        "title": "Учители от Спортното училище защитиха ръководството за режима на достъп - Под Тепето",
-        "description": "",
-        "date": "2026-11-06T14:22:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVi1sZnk0U21fU2NTWjFGUHA1V1dCdGRxM0ZTOVRDZFE3ZlozSE9UcXlzOWZkUUliTjYzRUcwUmNZeFlzVEJyNE1uMUpsMXRfU3NMcVl4QUZWQ2VTeHoxYTlQUi1icHZ1SWlwVUJSRWlhUHpVdHNmbWtIM05fYlRaUkVQTzR3ZkU2N1Nsem16TEZMT3M1SWtIdU8tWmFabnNBb3lBb0FVX0JRcmtmamc?oc=5",
-        "source": "Под Тепето",
-        "image": null
-      },
-      {
         "title": "Кабинетът представи Бюджет 2027: Повече пари за пенсии, здравеопазване и образование, над 5000 съкращения в администрацията - Stadoto",
         "description": "",
         "date": "2026-11-06T14:21:30+00:00",
@@ -686,14 +678,6 @@
         "date": "2026-11-06T11:57:48+00:00",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1FWZDJDSkE4UDhJeFZZRnQxZFVQcUdRRm51c1dvRzJuZ1dZT19lajc4dUFKdXFWeFJaSWM2THJFb0tjU1BYQmJoVnV4b2o4dHJXRzRmeU1naE02QTJuRHBIV1VDd1ZhNS1QeGItdklyc2Rrdm52VlViaXpjaGdkX1dnc0hlR09NcFFzWENOMXNjQTQwY0HSAZsBQVVfeXFMTWZwaXdwSFZzZUdnLTYwMnZjc0p0ZjZfdlY0MElyWnJVTVFsek04TXNnQW1VWTFwYUFxU2lDNzJnelpVbkdjczJfc2p2Vko5SkF0QTVmdU10SlJsUi1jREhjcTB3MDc2bUhhOFBuTXpwblp2M2d2eEhEd1RubFR0MmlPblJNRDNjRTItTDd4MXQ3bGdHMURzaDZkOXc?oc=5",
         "source": "BurgasMedia",
-        "image": null
-      },
-      {
-        "title": "Училището вече е по-скоро фабрика за социални услуги, а не образователна институция, каза д-р Юлиян Петров - БТА",
-        "description": "",
-        "date": "2026-11-06T11:57:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXZwME02X1VmSTJ0ZUhtSEZxUEk5RTZ4Nkg0TjdTLUNoRWY0bzlmczZHSjFZem1RR2M4bkRWNGdaaThIOXJSRFZOVTNtaG5RWk41NWNLN0JSX2k3dmY0MldCNFJqaHZjUFVHX2VmcEFUbG5XWWVnWnZCWjRFZEtVbDEtMkp0VkU4YWdxSzVSZzZQUHVpeTZqUzVTVFprTkN5X0NIQjF0bWpwMElKenY3akRjU0tGWEJLdFE?oc=5",
-        "source": "БТА",
         "image": null
       },
       {
@@ -782,6 +766,22 @@
         "date": "2026-11-06T06:54:07+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNU56dUt6eFY4aEZ3TDZvTlc5QXA5NWl5elpIQTFTdHdIbUxhc20zRlI5OEw1d2VUaHZ1SnZpWWhiMWYzUV9JaGUyMTdlYVFqR0lidzVvX0Z0a1c4NGxUalBPdlloQmUwX3k2Qnl1Y0R4V3kyczI1bmF3eEFoeF8tTkxEbDVuc2NiVzFpWk0tMjBDeW9lanY4NDhXaEp5WjF6NWV2ZUdtdnFXRDJuaTRwVmFkWVJHUXpaYUhGMzVXRVVmVnZhZVA2cUpiTVJRX0ZSNDNBSnpvaFVhWExvOWszek9MY0h5YTQxQms3U2hWNEM4M2JYT1pZZHdQdm01ZVdxQmQyTllxZnhFcXVxNUo0NjBSWG40RnpaUUZ5Q2JLY1lWY1lSUDFJRk92Q0pQbU9hQWVMRERFQ3BsZ1XSAcACQVVfeXFMT2I5QTlBNnBiNkxlcno5RVhfZmRheFVvd3dweUtLaGQxNlVWRzc0ZUlTNkF3Z0M1ejRrYkJ5VG5ISnV5M0pGNzh3QzRJQVc4ejhKcWNKNGlwYWprYTJ6LVRuM3V2S3F6eVhaUmdKeU5uR0l1TlFkNzhqM0ozc0tnS1ZxbVJWZDVpUDk0LThoUG4waF9ScUNUaHRMY1h1eDJGYTJwVUJmR3NpSThhZVQwdVdNdkpjbkdhVEZzZDJDYjVYeDJFVWJmbGRsdmtxOGQyT3FCNFpDakRsMEhJYUtCMktaMmVWUk5aVjVDOHVscVZrTmcwVXY2Ukc2SThLRmlaOGlZZ0pHU3ZFZkMxR1d0X2FnX2pIQjlQTlJGdkNGRnhYaVJEVDVfd1I2M3MyS0dyTklmUXV0S2tZYTdHbGpESVo?oc=5",
         "source": "Kmeta.bg",
+        "image": null
+      },
+      {
+        "title": "Как се избира гимназия отвъд брошурите? СофтУни БУДИТЕЛ отваря врати на 14 ноември - Mediapool.bg",
+        "description": "",
+        "date": "2026-11-06T06:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWR2VE9rdHBJOGp2TnM5TTNtTTZnVzJYYzVyQTJhNlpyYzYxRDJTOGdhTEd0T0xDM21jY1dRQUJoQzZmVEJqQW9aelFvNkd5ejFaNEg5NFhteFVyV3p1UTlhNzBwdjdGMzU0Rl83dlhmQnVfaXh3NG8tNnhLcDVabExRcVV5aUFSRHY5d2tOWEFzbnJBXzZoanBYUjQwakRLWEtNX24wTGJhNGZEZ01sN1lPbmtQWmttaXU4VWJzNA?oc=5",
+        "source": "Mediapool.bg",
+        "image": null
+      },
+      {
+        "title": "Младежки протести в Гърция: Исканията са за повече средства за образование и срещу скъпия живот - БНТ Новини",
+        "description": "",
+        "date": "2026-11-06T04:22:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWU1alYwMkpucThkUDJyTlNMd0twZjZsMEFJaUdRcEQ1ZkdRSzhwZ3JBb0hReGZla3JRRUhJOS1ob1VIMXM2WEN6SWI0S0hKZ29ONVZFLWp0aXMtMWRmeEJSZjJDMlZ0T2RjSEF6NnNoUFlwczZWcGtNVHlSRlpTYlFiUmlsU3hkUTBuMkwydDlqOFJyUFRYbUlCcGF1SjJWd3JkRkxOeXc0MHpOUHNqdzhQSUtPUVA5cG9DNTliUnRMS2VhMGt5YzUtb2VMQm0xaF9nM2NRRnB5X1E?oc=5",
+        "source": "БНТ Новини",
         "image": null
       }
     ],
@@ -979,11 +979,11 @@
         "image": null
       },
       {
-        "title": "Факултет „Техника и технологии\" – Ямбол събра учени от 11 държави на Международната научна конференция ICTTE 2026 - Stz24.com",
+        "title": "Експанзията на центровете за данни няма да спре, дадоха заявка Белият дом и OpenAI - Profit.bg",
         "description": "",
-        "date": "2026-11-06T06:24:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8wZBVV95cUxQaThEaWlLbmlNRXFOTFltV2x2M2RfV2tHVE56b1hYT3M3NDYzTXF6THFlRFFfTkxKbUk3VHlJdlVzbjNJdzFpa1ZpYVNOdjk5VHlyYm1aT0U3TERLTTBrZ0wwYVVSOXZ4MVNUQXVnb29Fb3pUZm82MldNN3JfV0JPOERBU21Db29BMXIycm1NVDBJRC1qX3EtaU1Jd0h4SFl6TzRzM2d4R1ptM2FuUUVrMXUzazRPTzNKaEt6SjM5TzhQUmRzYVR5d3BxWXdWa1UtQWxNUlA0VGNxTk9pLXhNM3RsUGpqdHNDdFdHczdIbVhoTlpRZGtPY2NRMWZKOHFoSHZLZ0xKc1JydzBZX3JRQUFrUFJVMXpkZ3M1MDJENU1aUWt2NUl6bTVHa2gwbVRUV2t5WVU3Vzg2UDJ6OE53X0tTNExwNWxFRWlGdC1xVDFadlJETmlJUUVpWHNURmotVEM3S0RHMEw2YThON1ljMDlGT2ZKRmtsN0VaTDc0Q2Y4czBYYURsUkw0SVpycG1MWDA0dWRzOHZHZnFlc2pEdzRhQnlaWUJ1MU5XMm1WOTlJeE1Ebk9aWGt2NGlfOUg2YjVsZkZ4eHJjVGRMWHFIc0dYTHZRcmVaQzhWNmxFc1cxZzNKWFZCalU4ZXg4T2J1R2x3aFdiRUVuU05OZ3JFckVhOThUbHFyMXBTWVlKaHB1dDVyQl8zT2dvcUVHbFFUdHBic1dHbVRnYy01c3Rmbm9HaV9zVWZhVVQ1TklxX2xIRUFseXpfTC1TTF9qeDQyNHJQbnhDUlkwY3U3OHA4YllwSUVIRFNvN3ZTTlQ3eXhZMEdweThETVNMdzRtTGZvNm9Fc0tnWHNrS0wyZjRmamI5TzZKTXNHcG9yQmVQLTFmMDlwT1p3Uks1MGVVdGdwMV9PbzdqZGtRcnNyYmRfZnR3SHMtZDdUelVDSng3NXhaSGFTWkM5QlJSdmVBZURmQVZIS1JnOHRmWERxR29FS0xnQ0hqY3B6T1VPMlU1RVExRFZuYlc5aEZpUnMwLXp2dUdZalp5aFpfMFZ0c0pGMFpiVE1BcXM1RUJpaF92X3ZDdklaN1hUSWF1VTE2TW1mMG1kSXFkcmNTNW5XSDNrLTd6Vzl6ZUhkMGluU3Q3TTNka2I3aGVha1RhamVYYlRrWVJ3?oc=5",
-        "source": "Stz24.com",
+        "date": "2026-11-06T06:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4aEEwcXVraUU0ZTdnYjFKYmJOSnl1NmpMMEhzdEQ1ZlJjYUFDS0VpUnBRWW9pbDNvZVlPUEExUUtTSk9ld0xjX2paZ0t5VnN5eVI2V3ZjNms?oc=5",
+        "source": "Profit.bg",
         "image": null
       }
     ]
