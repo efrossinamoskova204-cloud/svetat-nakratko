@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-11-07T12:19:34.382145+00:00",
+  "generatedAt": "2026-11-07T13:35:16.507980+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Сливен отбеляза Архангелова задушница с военен ритуал и панихида",
+        "description": "С панихида, венци и цветя пред паметника на Шести артилерийски полк Сливен почете паметта на загиналите български воини по повод Архангелова задушница, съобщиха от пресцентъра на Общината. Венци и цветя в знак на признателност бяха поднесени от името на кмета на Сливен Стефан Радев, председателя на Общинския съвет Димитър Митев и заместник-кмета Стоян Марков. В ритуала участваха командири, военнослужещи, бивши военни и граждани. Архимандрит Стефа",
+        "date": "2026-11-07T13:16:13+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1242133-sliven-otbelyaza-arhangelova-zadushnitsa-s-voenen-ritual-i-panihida",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14084074/4.jpg"
+      },
+      {
+        "title": "Европейски лидер в детската онкология ще подпомага лечението на деца с рак в България",
+        "description": "Специалисти от нидерландския център „Принцеса Максима“ ще работят с колегите си от София и Пловдив за усъвършенстване на медицинските грижи и проследяването на пациентите",
+        "date": "2026-11-07T13:05:59+00:00",
+        "link": "https://dnes.dir.bg/obshtestvo/evropeyski-lider-v-detskata-onkologiya-shte-podpomaga-lechenieto-na-detsa-s-rak-v-balgariya",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/07/3045508/384x216.jpg?_=1794060228"
+      },
+      {
+        "title": "Марти Фридман представя новия си соло албум у нас догодина",
+        "description": "Китаристът Марти Фридман (Marty Friedman) представя новия си соло албум Drama у нас догодина, на 15 април, на Vidas Art Arena, информират от Fest Team. По думите им музикантът анонсира дългоочакваното си завръщане в Европа и Обединеното кралство с турнето Live Drama in Europe през 2027 г. Известен както като един от най-великите шредъри, така и с виртуозното си свирене на класическа китара, той ще представи у нас Drama (2024). „Преминах доста гра",
+        "date": "2026-11-07T13:00:48+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1242121-marti-fridman-predstavya-noviya-si-solo-album-u-nas-dogodina",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14084673/Marty_Friedman_1200x1200.jpg"
+      },
+      {
+        "title": "Съборът „Траханата – бавна храна, природа и занаяти“ събра производители и майстори в античната вила „Армира“ край Ивайловград",
+        "description": "Съборът „Траханата – бавна храна, природа и занаяти“ се провежда в антична вила „Армира“ край Ивайловград. Третото издание на събитието събира производители на традиционни и ферментирали храни, занаятчии, земеделци, изследователи и творци от България и Румъния. Организатори са Община Ивайловград и работилница „Нощви“ на Теменужка Матева. Програмата включва дегустации на местни продукти, демонстрации на традиционни занаяти и кулинарни умения, рабо",
+        "date": "2026-11-07T12:55:15+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1242099-saborat-trahanata-bavna-hrana-priroda-i-zanayati-sabra-proizvoditeli-i-mays",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14084601/5.jpg"
+      },
+      {
+        "title": "На Архангеловден отец Георги за първи път ще служи в църквата в село Миндя и ще се запознае с миряните",
+        "description": "За първи път като предстоятел на храма „Св. Архангел Михаил“ във великотърновското село Миндя отец Георги Тасев ще отслужи богослужение. Свещеникът, който е поел храма преди около месец, тепърва ще има възможност да се запознае с миряните от селото и с тяхната църковна общност. Това каза отец Георги за БТА. На 8 ноември Българската православна църква отбелязва Събора на свети архангел Михаил и другите небесни безплътни сили. Архангеловден е храмо",
+        "date": "2026-11-07T12:48:48+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1242118-na-arhangelovden-otets-georgi-za-parvi-pat-shte-sluzhi-v-tsarkvata-v-selo-mindya",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14084616/20261106_131455.jpg"
+      },
+      {
+        "title": "НА ЖИВО: Ботев Враца 1:2 Локомотив Пловдив - Gong.bg",
+        "description": "",
+        "date": "2026-11-07T12:40:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTU1UWW9Vb2tuXzlIN29WdkJEYjJiVmR2LWVlNXNVcDNiYkpzWmc5TGxqTTNaWi1jZ3NlZTFac2ppdno5S1JvOE5BbS1Ma09oak1rQS1hZnBZUTVxc0YweWJmTUdjSHZ2UmkzSGIwVHV4bG9fVnZPd0tYbEdaRlgwVHBBMzJiMWZvakp5YUtCSmw?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
+        "title": "Йосиф Цанков от самото начало е имал нужда да пише красива музика и да запазва за дълго нейната чистота и наивитет, каза Велислав Стоянов",
+        "description": "Йосиф Цанков от самото начало просто е имал нужда да пише красива музика и запазва за дълго нейната чистота и наивитет, каза пред БТА внукът му, тромбонистът Велислав Стоянов по случай 115 години от рождението на композитора, наричан патриарха на българската шлагерна музика. С изключение на разказите на майка си, музиката му се струва единственият начин да се опита някога да се доближи до дядо си, каза Стоянов. „Неслучайно, световният език е език",
+        "date": "2026-11-07T12:31:58+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1241855-yosif-tsankov-ot-samoto-nachalo-e-imal-nuzhda-da-pishe-krasiva-muzika-i-da-zapaz",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14082338/277286.jpg"
+      },
+      {
+        "title": "Риалити със скрита камера \"подпали\" Дания: 150 души лъжат комик над 4 месеца - Dnes.bg",
+        "description": "",
+        "date": "2026-11-07T12:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUZ6U3NoVWNsZTZkZFMwSGJQaF9BTzBrbFFweFJNTWphcWhBMTVFa0JWYzJFZGhENDlhMThJYVpBbG1NMUhzN2ViVUViTTJVc0M5VVo5X3pJVE1SRE5tLURlTDBZUmFBcVRLTGhnQWFkak53NGJsYy0zeHFnVnFyVnM0YVprUEdZV2dFZ2Ztb0hwNU1YcDhEWjJoWnRPQ0p0TEYybmhldjR0VGVLT2xCV1g1cjQ?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
+        "title": "Денков: Оправданието на правителството, че \"камионът е повреден\" е лъжа",
+        "description": "Задължение на управляващите е да престанат да се оправдават с предишните, да си хванат кормилото и да си натиснат спирачките там, където трябва, каза той",
+        "date": "2026-11-07T12:14:51+00:00",
+        "link": "https://business.dir.bg/ikonomika/denkov-opravdanieto-na-pravitelstvoto-che-kamionat-e-povreden-e-lazha",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2023/12/01/2625898/384x216.jpg?_=1701420442"
+      },
       {
         "title": "С почетен караул от Националния военен университет „Васил Левски“ и панихида във Велико Търново бе отдадена почит на загиналите за България",
         "description": "С почетен караул от Националния военен университет (НВУ) „Васил Левски“ и панихида в гробищния парк във Велико Търново беше отдадена почит към паметта на офицерите и войниците, загинали за България и на всички, паднали в редовете на Българската армия. Ритуалът бе част от Архангелова задушница - най-голямата в календара на Българската православна църква. Официални гости на ритуала бяха заместник-кметът на Велико Търново проф. Георги Камарашев, зам",
@@ -13,7 +85,7 @@
       {
         "title": "В своята саможертва загиналите за отечеството български воини са се уподобили на жертвеността на Христос, каза митрополит Йоан",
         "description": "Всяка година в събота, предшестваща празника на предводителя на небесното войнство св. архангел Михаил, родната ни църква е разпоредила да се почита паметта на всички български воини, загинали на бойното поле за вярата и отечеството, които в своята саможертва са се уподобили на жертвеността на Исус Христос, каза днес Варненският и Великопреславски митрополит Йоан. Той се обърна към миряните, след като отслужи панихида по случай Архангелова задушн",
-        "date": "2026-11-07T12:10:13+00:00",
+        "date": "2026-11-07T12:10:00+00:00",
         "link": "https://www.bta.bg/bg/news/lik/1242083-v-svoyata-samozhertva-zaginalite-za-otechestvoto-balgarski-voini-sa-se-upodobili",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14084364/9.jpg"
@@ -21,7 +93,7 @@
       {
         "title": "С панихиди и военни ритуали в Разградско почетоха паметта на загиналите български воини",
         "description": "С панихиди и военни ритуали в Разградско почетоха паметта на загиналите български воини по повод Архангелова задушница, наричана още Мъжка задушница. Инициативите са организирани от Военното окръжие в Разград, Областния съюз на офицерите и сержантите от запаса и резерва и общинските администрации в региона. В църквата „Св. Николай Мирликийски Чудотворец“ в Разград архиерейският наместник отец Георги отслужи заупокойна панихида в памет на българск",
-        "date": "2026-11-07T12:07:39+00:00",
+        "date": "2026-11-07T12:07:00+00:00",
         "link": "https://www.bta.bg/bg/news/bulgaria/1242094-s-panihidi-i-voenni-rituali-v-razgradsko-pochetoha-pametta-na-zaginalite-balgars",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14084461/20261107_110539.jpg"
@@ -91,6 +163,14 @@
         "image": "https://www.bta.bg/upload/14084320/20261107_113702.jpg"
       },
       {
+        "title": "Нидерландският Център „Принцеса Максима“ за детска онкология започва дългосрочно сътрудничество с два центъра в България",
+        "description": "„Максима Интернешънъл“ започва дългосрочно сътрудничество с два центъра за детска онкология в България: УМБАЛ „Царица Йоанна – ИСУЛ“ в София и УМБАЛ „Св. Георги“ в Пловдив. Това съобщава центърът на сайта си. Центърът „Принцеса Максима“ в Утрехт, Нидерландия, е най-големият специализиран център за детска онкология в Европа. Чрез споделяне на знания и опит и по-добро сътрудничество центровете целят да подобрят грижите и качеството на живот на деца",
+        "date": "2026-11-07T11:27:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1242060-niderlandskiyat-tsentar-printsesa-maksima-za-detska-onkologiya-zapochva-dalgos",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/10848832/b6fb34f591cd46fa94d7144cc6b998f5--0--dc426e5f3fee453b91750c0e69f5a940.jpg"
+      },
+      {
         "title": "Нови хиляди жители на София са без топлоподаване от днес заради аварии",
         "description": "Засегнато е и Спешното отделение на УМБАЛ \"Св. Анна\"",
         "date": "2026-11-07T11:26:57+00:00",
@@ -121,89 +201,41 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1242075-s-panihida-i-polagane-na-tsvetya-v-blagoevgrad-beshe-pochetena-pametta-na-zagina",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/9904778/369A7997.jpg"
-      },
-      {
-        "title": "С огнен спектакъл закриват петото издание на Балканския театрален фестивал в Благоевград",
-        "description": "С огнения спектакъл „Драгониус“ на Театъра на огъня и сенките Fireter ще бъде закрито тази вечер петото юбилейно издание на Балканския театрален фестивал в Благоевград. Представлението е от 21:30 часа на открито пред Драматичния театър „Никола Вапцаров“, съобщиха от културния институт. Спектакълът ще потопи благоевградската публика в свят на фантазия и мистични образи, съчетавайки огнени ефекти, светлина, движение и музика, посочват още организат",
-        "date": "2026-11-07T11:11:57+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1242061-s-ognen-spektakal-zakrivat-petoto-izdanie-na-balkanskiya-teatralen-festival-v-bl",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13888393/369A6811.JPG"
-      },
-      {
-        "title": "В Добрич отбелязаха Архангелова задушница с шествие и панихида във Военното гробище",
-        "description": "С паметно шествие от площад „Свобода“ до Мемориалния комплекс „Военно гробище“ и панихида пред параклиса „Св. Архангел Михаил“ в Добрич беше отбелязана Архангелова (Мъжка) задушница. Във възпоменанието се включиха заместник-кметът на Добрич Павел Павлов, началникът на Военното окръжие в Добрич подполковник Генади Генов, общински съветници, граждани и гости на града. След панихидата отец Велико припомни значението на Архангелова задушница и връзка",
-        "date": "2026-11-07T11:07:22+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242066-v-dobrich-otbelyazaha-arhangelova-zadushnitsa-s-shestvie-i-panihida-vav-voennoto",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14084347/20261107_120154.jpg"
-      },
-      {
-        "title": "Състезание по спортно ориентиране за деца и възрастни предстои в Ямбол",
-        "description": "Състезание по спортно ориентиране за деца и възрастни предстои в Ямбол на 21 ноември. Предвидени са два маршрута с различна степен на трудност, като стартът ще бъде даден на централния площад в града. Това съобщиха от местния Превантивно-информационен център, които са съорганизатори на проявата, заедно с Община Ямбол и Клуба по спортно ориентиране „Диана“ – Ямбол. Събитието е предназначено за малки деца, които да участват заедно с родителите си, ",
-        "date": "2026-11-07T11:00:59+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242062-sastezanie-po-sportno-orientirane-za-detsa-i-vazrastni-predstoi-v-yambol",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14084337/20261029_070808.jpg"
-      },
-      {
-        "title": "Над 300 гълъби, декоративни кокошки и зайци са представени на изложба в Перник",
-        "description": "Над 300 гълъби, декоративни кокошки и породисти зайци са представени на изложба в Перник, организирана от местното сдружение „Птицевъд и зайцевъд“. Двудневната проява се провежда във физкултурния салон и прилежащо помещение на Пето средно училище „Петко Р. Славейков“. В нея участват развъдчици от България и чужбина. В изложението участват около 20 изложители с приблизително 200 гълъба, 70 кокошки и 60 зайци. Това съобщи за БТА Калин Костов, секре",
-        "date": "2026-11-07T10:59:23+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242058-nad-300-galabi-dekorativni-kokoshki-i-zaytsi-sa-predstaveni-na-izlozhba-v-perni",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14084306/20261107_110018.jpg"
-      },
-      {
-        "title": "Левски преодоля ново препятствие по пътя към модерния „Георги Аспарухов“ - Dsport.bg",
-        "description": "",
-        "date": "2026-11-07T10:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNal9FYUdzQnJOUzF4QlZMQ1E1NG50Nk1HWE5HU240aXM1cG5mYmttajI2TFFNLWw5T2VINnpicE5hNjFPeVpaTXlJYXdjYmxjQVlnVm1lT3JkUHR5aVRMc3dEaUtBVUNFdFV6TjJQV0hqcFJfaThpNGgzblJjTmsxZlBObF9LMDdxVnprdnhGeUZHcGViWU1qNEtLbnpmeHQwckE?oc=5",
-        "source": "Dsport.bg",
-        "image": null
-      },
-      {
-        "title": "Над 220 студенти от различни висши училища се конкурираха за 42 места в иновативната образователна програма GEN I",
-        "description": "Иновативната образователна инициатива GEN I: Генерация иновация привлече рекорден брой кандидати за третото си и най-мащабно издание, което се провежда в София. Над 220 студенти от различни държавни висши училища се конкурираха за 42-те места в безплатната програма, която е единствената по рода си у нас. Тя дава възможност на младежи от десетки различни специалности да работят заедно в интердисциплинарни екипи по реални бизнес казуси с помощта на",
-        "date": "2026-11-07T10:57:48+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1242057-nad-220-studenti-ot-razlichni-visshi-uchilishta-se-konkuriraha-za-42-mesta-v-ino",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14084285/GEN-I-Sofia-FirstMeeting1.jpg"
-      },
-      {
-        "title": "Екоинспекцията в Смолян не е установила щети по инфраструктурата на депото край доспатското село Барутин след пожара през октомври",
-        "description": "Регионалната инспекция по околната среда и водите (РИОСВ) – Смолян не е установила щети по инфраструктурата на регионалното депо за отпадъци край доспатското село Барутин след пожар през октомври, съобщи за БТА директорът на инспекцията Екатерина Гаджева. При извънредна проверка е констатирано, че огънят е засегнал между 3500 кв. м и 4000 кв. метра от работната площ на депото. Огънят е овладян в рамките на 10 часа, след което е извършено запръстя",
-        "date": "2026-11-07T10:53:09+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242059-ekoinspektsiyata-v-smolyan-ne-e-ustanovila-shteti-po-infrastrukturata-na-depoto-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13643047/20260707_191856.jpg"
-      },
-      {
-        "title": "Иво Христов: Не чувстваме Фон дер Лайен като инстанция, пред която трябва да се изповядваме - Dnevnik.bg",
-        "description": "",
-        "date": "2026-11-07T10:49:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXdWRV9lR1RKQVdfdF9uNlZMSmpIU24wQmVqbmVEYUR6VC1DX3hHbVpXWWRtcFJ4NVRZS05tSTJsNDQwMWVzSGo4WHhrX2dNdG5OdEpMYnFXekJxaFFRclkzMUM2MXV4X28yVEgyZjJMdWVFUkpqaVdmNTc0dlJKLUFBenNxS2VFcHh3ZGtfVlZ5REtwM0hONDNRYXI?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
-      },
-      {
-        "title": "Откриха телата на шестима моряци на кораба Wine Trader - nova.bg",
-        "description": "",
-        "date": "2026-11-07T10:48:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQSlNuUDlYLURCR1pqUzEyeDNuM3hhN0pyTUZSdHJwVDlNY3lxRlA3RXpBNllyWmN5VWlZcUE5TFJMYzBLVzQyNTJpNExLb1Rka0NIOFJxZTZDU0UxQzBYRjFtTG92YzFpX05yakFYYVFmeTRwSU1WMGxkVldXeEduN0ZzWTl1Y1d0enYzOTVFX3FDbDZmb21vSXljWGx6aURKWUhqZUg0TWtzQlpWczVQMFNWNzhrUERlR1gzenVLcjd2VU9XcFptQUYtWEZ0SFlxcHROVkhYUWowWHp6RjlsTDFjUGlOWko2dGdUUFAyUkRLU3RNZVVBNlVyaEstd1NGaENISWtIS1Y0M2h5eFJTVkwxa0djMVlsSUdKSGtxSzVmRzctSGJubkRRR2R1amhiZUpvRzZFY3lEMzN5QVBrUFBvd2ZSaHFlUWRQeHNvUEJqV1N4WlpvMEdsVFAyRG1lMFN1ZlRMR2ZEWGlKX3hZTnlkV3UzWFpHb1FiZldXeS1fMTVrT0VnaF94dkEtZDk4?oc=5",
-        "source": "nova.bg",
-        "image": null
-      },
-      {
-        "title": "Нови части от София са без топлоподаване от днес заради аварии",
-        "description": "Още части на столицата са без топлоподаване заради аварии, сочи справка на интернет страницата на „Топлофикация София“. Очакваното възстановяване на услугата е насрочено за 9 ноември, уточняват от дружеството. Засегнато е Спешното отделение на УМБАЛ „Св. Анна“. Без парно и топла вода са абонатите на дружеството в бл. 16В,20,20А,22,23,24,25,26,32,33,34,35А,35Б, 132А ул. „Одоровци“ № 44 и 28 СУ „Алеко Константинов“ в „Красна поляна 1“. В „Гео Милев",
-        "date": "2026-11-07T10:44:58+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1242023-novi-chasti-ot-sofiya-sa-bez-toplopodavane-ot-dnes-zaradi-avarii",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13829647/V_SH5500.JPG"
       }
     ],
     "Свят": [
+      {
+        "title": "Кой е новият президент на Парагвай Педро Алиана",
+        "description": "Парагвайският вицепрезидент Педро Алиана зае поста държавен глава, след като Сенатът (горната камара на парламента) отстрани от длъжност досегашния президент Сантяго Пеня чрез импийчмънт в разгара на банкова криза, предизвикала силен политически отзвук, предаде Ройтерс. Пеня загуби подкрепата на висши фигури от управляващата консервативна партия „Колорадо“, след като някои хвърлиха върху него вината за краха на дигиталния кредитор „Уено“, вследст",
+        "date": "2026-11-07T13:11:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242126-koy-e-noviyat-prezident-na-paragvay-pedro-aliana",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14083137/d9eadab97804453ea5d849f47e504604--1--591ecca782a748d7b259619983a99f26.jpg"
+      },
+      {
+        "title": "Ройтерс: Успехът на предложението за ограничаване правата на транссексуалните в 4 щата на изборите в САЩ е предизвикателство за демократите",
+        "description": "На междинните избори в САЩ във вторник американските избиратели в 4 щата одобриха и предложение за ограничаване правата на транссексуалните, предаде Ройтерс. Агенцията отбелязва, че по този начин те са изпратили предупреждение към демократите по въпрос, който продължава да разделя Демократическата партия и вероятно ще остане политическо предизвикателство на път към президентската надпревара през 2028 година. Мерките за ограничаване правата на тра",
+        "date": "2026-11-07T12:47:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242120-royters-uspehat-na-predlozhenieto-za-ogranichavane-pravata-na-transseksualnite-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14070106/c413b869aa604fcfbad1ab9b96a37e27--1--eee720ac4b30451cb63701972eca9370.jpg"
+      },
+      {
+        "title": "Разкриха нова драма с оцелялата от екзекуцията Пайк - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-07T12:39:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkJ5N0NTMDQ1M056U3VoTTdGajgxRmU3aVV3WGdiQVczQnBOMVd5eU9GNGcyTWtnSHhxUWVrYWE5a3VKZThOZDFBUE1pVTdIdkxWcXRsSDBGRVRGU3pQb2pGUWJvdi10NDhDdVMwMTJ4ZExJZktpQ0JqUkx0SlZZbHpIZEpzTC1kN1labU9pcGs3UXNidHB3MjBBeTdhLUpJb0E?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Саудитски въздушни удари в района на Сана са отнели живота на 11 души, съобщиха йеменските бунтовници хуси",
+        "description": "Йеменските бунтовници хуси съобщиха чрез свързана с тях медия, че 11 души са загинали при саудитски въздушни удари в района на провинция Сана - територия, контролирана от проиранското движение, което в момента е в конфликт с правителството на Йемен и подкрепящата го Саудитска Арабия, предаде Франс прес. „Единадесет граждани, сред които жени и деца, загинаха при въздушни удари на саудитския неприятел“ по жилищни райони в окръг Ал Шария, провинция ",
+        "date": "2026-11-07T12:19:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242081-sauditski-vazdushni-udari-v-rayona-na-sana-sa-otneli-zhivota-na-11-dushi-saobsh",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14039139/359ad555a34248a0b6c31b605292731a--1--e4296f41285849d9a2823bd4c67f39b6.jpg"
+      },
       {
         "title": "Започна нов тормоз в цяла Европа - Стандарт нюз",
         "description": "",
@@ -226,14 +258,6 @@
         "date": "2026-11-07T11:39:08+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSC12OGtMdG9RZlM5a1JCYjVDU01fRkZiM3VPX29zcVAzRV9RSXZQVWpiSnBKdGdHcXg4TmxBVkhwc0dWR2lrMHE1WFB0cUJ0ajJxY0VLdDZlbFdRSGkybER5Qk0yWnFtMDVEbnRnQW5UY00tQUN1ajluQlQzVHJ0Y3JHUm5lV0pYNDdBUzh4U2RobzFjeTVNTVdmRGpsTV9EaVh2ZEY4WjY?oc=5",
         "source": "offnews.bg",
-        "image": null
-      },
-      {
-        "title": "Цял свят говори за мелето на Левски - Ягелония + ВИДЕО - Gol.bg",
-        "description": "",
-        "date": "2026-11-07T11:35:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTV1SjM3NjNtYUg4dDRGa1dzUVNEeUFlMkRubTJQVjdtampacG1Ddnp4WFNMVjJCbmRkNnc3SDdfelJxd0E0ZnBLTGpocHJqTTFoRThqd0lKbE00NWpXbVpFa3dheHhYVFppa1FuYkZsY3lfdG40OC05N3ZrUGxvcFViYV9tbWp4b0xkOS1EMEZuZW5VdkM3SDVB?oc=5",
-        "source": "Gol.bg",
         "image": null
       },
       {
@@ -379,33 +403,33 @@
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aTFVqSmVPa2RNb0NMbGZhcDJRT3Byd3U1bzEzMEFnV2JabjZwN1E1VFFfUXdkYjEzMFhBUWd4ZXFET0tvdlRnNVhrbjh3RlNyT05Xd3doVEhwQ1dpWlVSTm1OQQ?oc=5",
         "source": "Bglobal.bg",
         "image": null
-      },
-      {
-        "title": "Щети са нанесени на мост и енергийна инфраструктура в Киев при руската атака днес, обяви кметът; ранените вече са 5, сред които и дете",
-        "description": "Руските удари с балистични ракети срещу Киев в ранните часове днес са нанесли щети на главен мост и енергийна инфраструктура в околностите на украинската столица, пресичайки снабдяването на града, заяви днес кметът Виталий Кличко, цитиран от Франс прес и Укринформ. \"Ситуацията с енергоснабдяването в столицата е изключително тежка. Това се отразява на работата на отоплителните и водоснабдителните системи на града“, заяви Кличко в приложението \"Тел",
-        "date": "2026-11-07T06:28:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241939-shteti-sa-naneseni-na-most-i-energiyna-infrastruktura-v-kiev-pri-ruskata-ataka-d",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14075305/28bd0937414748dcbd52983bb794f769--0--a8040944f73d4d258eac6a0e589d3b2d.jpg"
-      },
-      {
-        "title": "Националната партия на премиера Лъксън води с 30,9 процента при преброени 14,4% of бюлетините в Нова Зеландия, лейбъристите са с 28,39%",
-        "description": "Десноцентристката Национална партия на министър-председателя Кристофър Лъксън води с 30,9 процента при преброени 14,4% от бюлетините на изборите за парламент в Нова Зеландия, приключили днес, предаде Ройтерс, като се позова на изнесени от Избирателната комисия на страната данни. Основният конкурент на Лъксън - Лейбъристката партия на Крис Хипкинс, засега е с 28.39%. Парламентът на Нова Зеландия се състои от 120 депутати. От тях 71 се избират в ед",
-        "date": "2026-11-07T06:05:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241958-natsionalnata-partiya-na-premiera-laksan-vodi-s-30-9-protsenta-pri-prebroeni-14-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083003/82bd319a0e2d43dfa152c716c9b3e737--0--b11cf3a6a786489ca24369220a1307c5.jpg"
-      },
-      {
-        "title": "Избирателните секции в Нова Зеландия затвориха",
-        "description": "Гласуването на парламентарните избори в Нова Зеландия приключи днес в 19:00 ч. местно време (8:00 тази сутрин българско), след като избирателните секции в страната затвориха, предаде Ройтерс. Агенцията посочва, че това са едни от най-оспорваните избори за парламент в новозеландската история, като според социологическите проучвания и прогнозните резултати от предварителния вот не се очаква нито управляващата Национална партия, нито Лейбъристката п",
-        "date": "2026-11-07T06:05:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1241933-izbiratelnite-sektsii-v-nova-zelandiya-zatvoriha",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083187/64948123d33149c2aa21587c86aa7324--0--dba5054108cc4e26a74a0c2ba2d12f09.jpg"
       }
     ],
     "Наука": [
+      {
+        "title": "Отпускат почти 50 милиона евро за българска фабрика за ИИ - DUNAVMOST.com",
+        "description": "",
+        "date": "2026-11-07T13:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMlhNYnRKeV9yS1IzMUtWc0hETmQ4ZXNwT25CaV9pdkNzc1FTU2w3cEZ3UkNXbkFmSUx0X096R0Iwd3dBbGl5UGlaa2dsc0RrQWJDOExBZ056V1BzQWUxZXNxWDUzM2tNc3h3TmpSNklwSU5obndFU29wajNXNW9laG1YQVNQbDhLZjVZZzNQWm1JeTVHdVE?oc=5",
+        "source": "DUNAVMOST.com",
+        "image": null
+      },
+      {
+        "title": "Проектобюджетът за 2027 г. предвижда 49 млн. евро за фабрика за изкуствен интелект - www.24chasa.bg",
+        "description": "",
+        "date": "2026-11-07T12:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVMDN1a1ZRV0RLNnh4NzAxOWI0OGFCNklOTDFYcDRIZ0JZYThGWERLMjM2TThBVFZDaFltU09sbWlSeWE2UkJaWUFQcURYU0U5Q1Rkb1NQVm9vQQ?oc=5",
+        "source": "www.24chasa.bg",
+        "image": null
+      },
+      {
+        "title": "Учени откриха древен хляб на 5000 години - Фактор",
+        "description": "",
+        "date": "2026-11-07T12:08:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Uc0xqNXZqYk1DS09ZUEgzalZmNnpYeVo3Z3BGMGpWa0RrNXJTYU85cE82cXBTQ2RxNkFRYlZRZTJsNTcwcnRNM2tjS0ZNMjQ2YUl3dGpCbHRheExzV3JkLWk4M3lXTlZzVEYycjBB?oc=5",
+        "source": "Фактор",
+        "image": null
+      },
       {
         "title": "Есенното издание на научния форум Ratio започна в „София Тех Парк“ - MediaBricks",
         "description": "",
@@ -519,14 +543,6 @@
         "image": null
       },
       {
-        "title": "Отличието \"Нестандартен учител\" получи бивш преподавател във Владимирово - БНР Новини",
-        "description": "",
-        "date": "2026-11-06T09:18:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDAyN0ppMElsbldNSjVuMXhCZVktQ0tpeFNlQUE5Zkg2OWxIVzNwM3VycVo0eFR4OUpFYWtDN0JPbEJvUXN4d0haRy1TRlBFc0lnd1BsT2R3VEJOeGU0bVBqQ0JlR09KcVZSMlY1cG16b3A4a0tuNTMzUVRTNk9TaGhFSS0wWFRXaUkzT2V0LUxZMk1lTjdpdTlXdFdfZENwQVBmSXZWUkhJNTZXQW1Fdg?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Най-накрая малко слънце! - Книговище",
         "description": "",
         "date": "2026-11-06T05:52:12+00:00",
@@ -593,6 +609,14 @@
     ],
     "Образование": [
       {
+        "title": "Всеки трети 15-годишен в ЕС има затруднения с четенето и математиката - Petel.bg",
+        "description": "",
+        "date": "2026-11-07T12:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0wzcXZHOF9WY3FUYlltWlhfalFzd05DbWxRSnJGMEgyN0lkWkJyU05scHRfNlVGN3I0Vm9QZm5ueDdWRFBLeU5HZ2ZORmxyVHN6czVJWDBVMS1ZakpZSU82MkdZTE9RbDBQOXdxc0VlZzFiTnlLY2pjUUcxZE8zaHdENk5OSnVOMGhXUVZabU1EcFVLd3lsYmd4ZEhhdw?oc=5",
+        "source": "Petel.bg",
+        "image": null
+      },
+      {
         "title": "ЧЕГ „Проф. Иван Апостолов“ кани на международен уебинар за устойчивото образование по програма „Еразъм+“ - Novinata.bg",
         "description": "",
         "date": "2026-11-07T11:15:46+00:00",
@@ -646,14 +670,6 @@
         "date": "2026-11-07T08:00:07+00:00",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yeVpxemR2Z2tBLTRiOVJoeWNYTHI2OXRiSUJ2MHExRlJBNGVyOGtoWmNoQkhDLU1jZ3N0blN4SlRNcENaVkEySzdLZzFRQdIBSEFVX3lxTE9LQzhCNlBrTjdUS2ZEcmVia0t4M29BelRzVXZIOXFCOTJEWjFRQ3hMS3duNnRIdkJTYzBMN1B1ZlVKSm5LZHVnaw?oc=5",
         "source": "Утро Русе",
-        "image": null
-      },
-      {
-        "title": "120 нови учители избраха Бургас: Общината ги отличи на специална церемония - Poligraff",
-        "description": "",
-        "date": "2026-11-07T06:38:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEVZeEp5V2tUTVVPeC1fam56ejQxdmM2bzQ2SGpSZGR3RXhMdzF1UXV4SVhLQUhfRGhTaksyaktIQjFNcVRmaE9ZdWl6ZTAtR3Fpa09sVU9xbTBTQWhaSnpBUjBvWEJheG5KSkFtVkpFc1BZRWVVX2VvQkVLLUVKc1Z6U0dXOGtGTWNmVGVWWWNLQjJxNi1sS0hmaUNUNHc0SFVsWjBPSFh5TlZUdUhB?oc=5",
-        "source": "Poligraff",
         "image": null
       },
       {
@@ -729,6 +745,14 @@
         "image": null
       },
       {
+        "title": "Ученическите стипендии ще се вдигнат средно с 20% от 2027 г. - BurgasMedia",
+        "description": "",
+        "date": "2026-11-06T11:57:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1FWZDJDSkE4UDhJeFZZRnQxZFVQcUdRRm51c1dvRzJuZ1dZT19lajc4dUFKdXFWeFJaSWM2THJFb0tjU1BYQmJoVnV4b2o4dHJXRzRmeU1naE02QTJuRHBIV1VDd1ZhNS1QeGItdklyc2Rrdm52VlViaXpjaGdkX1dnc0hlR09NcFFzWENOMXNjQTQwY0HSAZsBQVVfeXFMTWZwaXdwSFZzZUdnLTYwMnZjc0p0ZjZfdlY0MElyWnJVTVFsek04TXNnQW1VWTFwYUFxU2lDNzJnelpVbkdjczJfc2p2Vko5SkF0QTVmdU10SlJsUi1jREhjcTB3MDc2bUhhOFBuTXpwblp2M2d2eEhEd1RubFR0MmlPblJNRDNjRTItTDd4MXQ3bGdHMURzaDZkOXc?oc=5",
+        "source": "BurgasMedia",
+        "image": null
+      },
+      {
         "title": "Училището вече е по-скоро фабрика за социални услуги, а не образователна институция, каза д-р Юлиян Петров - БТА",
         "description": "",
         "date": "2026-11-06T11:57:37+00:00",
@@ -783,17 +807,33 @@
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSFFPRnpkSnVhZUEyOXRiMXVSQThCZkVKUWFmS0lKUExDWnVOd1hPeGhRZ3czSlVMUi1iUTBuVGNEcFNqVjQwN2tLUkRvdjJod21vaW1mUDFsbmVGRHJGS0RNRENzYm1xUXVjV1dIMzZpblRncjMxZWw1a3lwVHNMeTBLTQ?oc=5",
         "source": "Вестник Борба",
         "image": null
-      },
-      {
-        "title": "От ученици за ученици: Двама гимназисти в София превърнаха здравето в своя мисия - Kmeta.bg",
-        "description": "",
-        "date": "2026-11-06T06:54:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNU56dUt6eFY4aEZ3TDZvTlc5QXA5NWl5elpIQTFTdHdIbUxhc20zRlI5OEw1d2VUaHZ1SnZpWWhiMWYzUV9JaGUyMTdlYVFqR0lidzVvX0Z0a1c4NGxUalBPdlloQmUwX3k2Qnl1Y0R4V3kyczI1bmF3eEFoeF8tTkxEbDVuc2NiVzFpWk0tMjBDeW9lanY4NDhXaEp5WjF6NWV2ZUdtdnFXRDJuaTRwVmFkWVJHUXpaYUhGMzVXRVVmVnZhZVA2cUpiTVJRX0ZSNDNBSnpvaFVhWExvOWszek9MY0h5YTQxQms3U2hWNEM4M2JYT1pZZHdQdm01ZVdxQmQyTllxZnhFcXVxNUo0NjBSWG40RnpaUUZ5Q2JLY1lWY1lSUDFJRk92Q0pQbU9hQWVMRERFQ3BsZ1XSAcACQVVfeXFMT2I5QTlBNnBiNkxlcno5RVhfZmRheFVvd3dweUtLaGQxNlVWRzc0ZUlTNkF3Z0M1ejRrYkJ5VG5ISnV5M0pGNzh3QzRJQVc4ejhKcWNKNGlwYWprYTJ6LVRuM3V2S3F6eVhaUmdKeU5uR0l1TlFkNzhqM0ozc0tnS1ZxbVJWZDVpUDk0LThoUG4waF9ScUNUaHRMY1h1eDJGYTJwVUJmR3NpSThhZVQwdVdNdkpjbkdhVEZzZDJDYjVYeDJFVWJmbGRsdmtxOGQyT3FCNFpDakRsMEhJYUtCMktaMmVWUk5aVjVDOHVscVZrTmcwVXY2Ukc2SThLRmlaOGlZZ0pHU3ZFZkMxR1d0X2FnX2pIQjlQTlJGdkNGRnhYaVJEVDVfd1I2M3MyS0dyTklmUXV0S2tZYTdHbGpESVo?oc=5",
-        "source": "Kmeta.bg",
-        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "България планира 49 млн. евро за фабрика за изкуствен интелект - bTV Новините",
+        "description": "",
+        "date": "2026-11-07T13:19:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZG5iVmc3bndLWGhlWjFIa2laRm9BOFY1M0NrNWdrRjdKbHQ5Vm1wVHB6LTl4V2tXajE2M1ExNDVkSVBrYzFrbURKUndQZk5ZYVozR19pSU1FaDd6cHVablNEUzZSVzM3N0hRYTNqcW1IdFp4ZEhxTVlIN1JfYndrZXNjTXpSSnlOMGhGSTF6cWNVd1ozb0JRVTJ4NnpKVk5r?oc=5",
+        "source": "bTV Новините",
+        "image": null
+      },
+      {
+        "title": "В САЩ изграждат хибриден морски флот - Информационен център на МО",
+        "description": "",
+        "date": "2026-11-07T13:06:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPN1hLR291Z2dRc2czdUFHSk1oNUp1akV3XzBrSDRocC1pNkh0WE9mNjRvS2d2dXhzTzByS0NpNUp6aVFnTXpRTUo3QTNSNkYzVGl5VXJKNFoyRHNVRDRyNlE2di1DTmZMQlgtaU5FQU4tY2RWekttM0F0QW81RlBlcDBHVGlTM1RpaVJJbjRtYXY1QktCZ1RGRko5X3ZTSU1JZVI3MWZHVmNsLV92MDUxUWI4dmR2emlKVDdkRk5pNGEyQlVQMWZqV1hJV2ptUnJQblZqRjdMYmdkRkR6cVpMMXk1RWliZ0Z3NDdqQmRIUXVienB0UHp2RGVHV0N0YnZtcGRONFd0TVFDWDkyZlBoYmpWVENxaEJBZnN5endscmdkZzB4cW83S3U3bDh5T3RlakVfeHlNRDZSdW5PSEg0ZGV1OWFFVDA?oc=5",
+        "source": "Информационен център на МО",
+        "image": null
+      },
+      {
+        "title": "Кои са най-добрите технологични изобретения за 2026 г. според Time - Lifestyle.bg",
+        "description": "",
+        "date": "2026-11-07T13:00:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWd0MzJnQ3dGSl94b0RzLVR4b0x3VWQxUy1ac0JtUkdrQTZLbVZXR0FkOWJEWGZQRWlsaUN4cEVUN1Z1OWVvRG9FVkRWUkZjal9JSlZhNTNGTmFmc1p2bDMtWWt6MjF4QXpzdG1DMmJqMkNaYVhrb2ZmSTM5bENOQ1BzdE44TXFhZUpvS2lBZVBPbEt5Tm12UUV1dlY0cXA2SzhNSnBDcw?oc=5",
+        "source": "Lifestyle.bg",
+        "image": null
+      },
       {
         "title": "Домът на Иван Вазов в Сопот оживя с 3D технологии, лични вещи и нова музейна експозиция - Tribune.bg",
         "description": "",
@@ -856,14 +896,6 @@
         "date": "2026-11-07T09:11:48+00:00",
         "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOZy05N3VGVndZS0lvbnBYWEViMVAtZHEzY3NlRHlLa1dpZ0ZWRWkwb1VuaXVxQmtqSUtuSm5RZUVUM2dpejZQeGVaZ2NrWk13WS1YTjYtNGlYbFRtdUdzdmVxaERNVFhlMGlpd0ZSRmc3b1V5NDhWUmNtNk9TS2c2LXZCMGxzZGx6WnRCaDh4LTZZVXJ1cGxTa1JWZ0pvbkZMXzBtUjMxaXdtOEFnQlItYml0T2RXQktZOU9HS01jaTR4NGRDRFFnTHAwYlBaZ28yNFY3cElDSmZIbFVZOTdwWjJrUFFLSDVJX1EyS0t2OGhYQmpBcE9pT2w0TUZpb08xMno2UVBJb09NcHlaZ3l1Mnc5NmF0U0d1TkwwVnhrRTUzUmNTeUs1c19DQ2Z1ZG9iNXpRUHZycENZN1pfdXRhLWlfbzh1eFpydEFWTlo1b1VuejVlT3NyWmhaNVRUaUphSEV3c3V4T0NsckpscWpVQU8tM1NWZEFBeTRLbmpyUTloZmpLNlRBeU1BX2hmZ1NOX1hzODF2SEJuV254ZTdPRWVxaW15LTJCQWxPckdsM1RRaGJ2RlZvXzJ1Y0l0YzBMQUJmMjVhS2YzeUdGdXVnNDNkazNETmFpeGlFenhleEdFRDFKQ3hVTXRpb3g0OURIdlZDb1NUUjJodXdnWVBxeFp2NkV5eXJCVEhFMHROVmFSbFlaQjVLRTYxeGhWdEZfYm9fYXpXdGc0ZFhDclRuZ0RDdUpPbXN0OW9ER1c2QQ?oc=5",
         "source": "iNews.bg",
-        "image": null
-      },
-      {
-        "title": "Ученици в Русе ще се обучават да управляват и ремонтират дронове - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-11-07T06:55:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeml3SGM0OG1XdTZ6VTh5NVlBWmVSaUxwb3Z1Z3VSZUpralU4N3lNUlAtcXBhTzlsNGxWX1VSaW5WUG5ZZFlDMDVDYW1pZEdVUUlTanBkSUJBUVJnTFBEaTN6dUpBQ1NqVEZNMlpEZ05HVXNnRlZKQkF5TXljeHBQMkVTVHVCQlZ4a0NyM3d4TWVvTW9GUmNma0owZm9xcXc?oc=5",
-        "source": "Таралеж: Истината има значение",
         "image": null
       },
       {
@@ -977,22 +1009,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdF84YUpZdkVGakI0MExpZE0yTVI3Y3Y4bm5vVUtIdDNubFZCRWdac0IwYWtsRHo4UjJfaEU1ZnRmWnlGNVEzT2VwNWRuR2oxSm1ZOG5iLVZqSnRhVzRDQWQtOU13WGlzQ212NGtLaXI5Nk14aTVmc1FuUFlmblluOTlHbjYxODBJbEl0bnVHN1BiNFFpQU40V1lKVHdyVmJ5TlU4X09zQVVESXRELVVwVTAtRlA4akNoak1TXzNxVnE4Y3VZVVdOMmNSSVdOTHBXa2Z6ZDhnYmY4cDdxd19SZk9xSFVjMFJ4?oc=5",
         "source": "Стандарт нюз",
         "image": null
-      },
-      {
-        "title": "НАСА представи X-70 Fractal: Новият експериментален самолет за авангардни технологии - Евроком",
-        "description": "",
-        "date": "2026-11-06T12:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUFaRHgySk5XeHh5NDB2S0FWY0RiX1VfSVJYemlkdl9vc24wZ1JsSUtxbkZwQTI0dzE0dDRTQUItbmtwWW13c01MbXVEUkhtX0JfazZxVHMzVFBFdHF3ZVJUZjI0NURKT3dnUFdfN09pQ0x0RXYtUXl4a19QS2RNMVl5RnlRQ3AzODNkQlBMM1Z6RjF6c1RaVC1hUHkxMjhsTXZFUTA4Nm5oM3E3dVR1ZjBHRE9lQQ?oc=5",
-        "source": "Евроком",
-        "image": null
-      },
-      {
-        "title": "Калифорния срещу Big Tech: Google, Meta и TikTok оспорват ограничения за непълнолетни - Технологии - manager.bg",
-        "description": "",
-        "date": "2026-11-06T10:37:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQck5rcmZ4RFNqU0NfVlBZdWlIbnQ4WVN1Zk0zNzJ4Tmc3S0FrWk1uRWkwa0NrcDBtNXRma2NIT21ZT0hUMnNPOUs3RnB3T2tSOGdrR0s2VDJvZGh1SVFGUHZ6eHFQX09yY212dVBRUmY1VlZIeTR6cWlUaVZ2OWVNUEZLbmswZEtOcFRyOXNZV0ZHSGZ3SDhNN1VweHZwNUFrTTdqZC1FV3h0eThjOXRRdmVMWHcxODZqWUIyNkphMllfcEpLWWg3X3Fma3E5bTd2WHdDcGRrbW1rV0xzS2FjbndzTHo1dWpOcEpSNi1HNlN4V29FOFB0RQ?oc=5",
-        "source": "manager.bg",
-        "image": null
       }
     ]
   },
@@ -1009,7 +1025,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 23,
+      "count": 25,
       "feeds": 1
     },
     "Образование": {
