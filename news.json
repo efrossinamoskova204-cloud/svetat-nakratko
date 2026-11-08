@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-11-08T01:17:20.091083+00:00",
+  "generatedAt": "2026-11-08T02:31:11.043630+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Въвежда се временна организация на движението по маршрута на трамвайна линия № 6",
+        "description": "На 8 ноември, неделя, се въвежда временна организация на движението на обществения транспорт във връзка с ремонт на релсовия път по маршрута на трамвайна линия № 6, съобщиха от пресцентъра на Столичната община (СО). От 04:30 до 18:00 ч. трамвайна линия № 6 ще се движи от ж.к. „Иван Вазов“ до ж.к. „Връбница-1“. След 18:00 ч. движението ще бъде възстановено по постоянния маршрут. За същия период ще бъде разкрита временна автобусна линия № 6ТМ от Це",
+        "date": "2026-11-08T02:30:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1241796-vavezhda-se-vremenna-organizatsiya-na-dvizhenieto-po-marshruta-na-tramvayna-lini",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/10618863/PSX_20250131_083149.jpg"
+      },
+      {
+        "title": "Tesla спира производството на Cybertruck - Новини СЕГА",
+        "description": "",
+        "date": "2026-11-08T01:26:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1hVWm9HMFRPZmluSGZlamV1OUJvbmJ6YWRMMXVqTVFjejVlN1ZNSDluUUxQOFNwWEVCNDlISWZfc1k2V3hjQl9sZXBjZld1ZVlDTGtmdUIwckRrYzFIMXJ3bDlMSzQzN2xaUzgxeU5CeFEzRWF0LXhfaDJhR0tkN25DdUFwYzBD?oc=5",
+        "source": "Новини СЕГА",
+        "image": null
+      },
       {
         "title": "Съдиите не можаха да изберат нови членове на ВСС , ще се проведе повторно гласуване",
         "description": "Няма избрани кандидати за членове на ВСС от квотата на съдиите при проведеното на 7 ноември гласуване, поради това ще се проведе втори тур, съобщи председателят на Избирателната комисия в Общото събрание на съдиите Бисер Троянов – съдия във Върховния касационен съд, От имащите право на глас 2275 съдии своя вот са упражнили 1870. Нито един от кандидатите за членове не е успял да събере повече от половината гласове. Вторият тур ще се проведе измежд",
@@ -9,14 +25,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1242307-sadiite-ne-mozhaha-da-izberat-novi-chlenove-na-vss-shte-se-provede-povtorno-gl",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14083806/BKK_0359+%283%29.JPG"
-      },
-      {
-        "title": "Tesla спира производството на Cybertruck - Новини СЕГА",
-        "description": "",
-        "date": "2026-11-07T22:33:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1hVWm9HMFRPZmluSGZlamV1OUJvbmJ6YWRMMXVqTVFjejVlN1ZNSDluUUxQOFNwWEVCNDlISWZfc1k2V3hjQl9sZXBjZld1ZVlDTGtmdUIwckRrYzFIMXJ3bDlMSzQzN2xaUzgxeU5CeFEzRWF0LXhfaDJhR0tkN25DdUFwYzBD?oc=5",
-        "source": "Новини СЕГА",
-        "image": null
       },
       {
         "title": "Четвърти уикенд на протести във Франция: По-малко участници, но сблъсъци и 360 ареста",
@@ -35,11 +43,11 @@
         "image": "https://static.dir.bg/uploads/images/2026/11/08/3045613/384x216.jpg?_=1794093327"
       },
       {
-        "title": "Айзенкот получи мандат за съставяне на правителство в Израел - News.bg",
+        "title": "Гади Айзенкот ще сформира новото израелско правителство - Mediapool.bg",
         "description": "",
-        "date": "2026-11-07T20:28:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHhSY1FTOENycGc0c3ZiZVVVN1dDTU52cFlHaU53cEx6VmUzUzlGQ3B5eVBoUEYyV210SDBjYTNOYl9QOEVkaHBPaFJqalFkUGFnVVgxSENTSFMyb0psOXhGeGJwWEtfX2tUbkVBQ3RSdkFRUU9JeXpicFI5cV9MN2c1LUdCYVVtaGJnY2Z4QmNGbWFOd2syN29Vd1g?oc=5",
-        "source": "News.bg",
+        "date": "2026-11-07T21:25:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM2U3YWctNnl3a2Q0OG5yOU5iMWg5Q2Z6M0RocUIyRk45QzN6YWJMVVY3RHJ0X2RzRDZsNE9CRFJQM1h2ZmtwSGhnaGV4MGdCQnZQdU9VbEVWZUFjZmtlVWp6bGJ2M3Q2eF92cDhlbzlacGg4ang5em5YU1JoZlR5bGJPS1UyZVdSV2RxNk1KTThmQUE?oc=5",
+        "source": "Mediapool.bg",
         "image": null
       },
       {
@@ -51,28 +59,12 @@
         "image": "https://www.bta.bg/upload/14085947/20261107_175614.jpg"
       },
       {
-        "title": "Терор в Краков. Поляк уби най-малко шестима души - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-07T20:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1ZCNTdGNXU4NUVVZXp5LUl5dVhweEVBY3JOMDJlVHhuUmRHYnZZcWpHS3hZazZBZC1lTzNFb3BlVTdkSjhRVWFxb19xSThTbHN0UU5aMlVTeHBwcEVZeEFudEdrU3RhM211eTBmcFNsZVpJeTFtTllhYzlTRTNmLUctd3JqcnpGdWc?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
         "title": "Стрелецът в Краков е 25-годишен поляк, броят на жертвите и ранените нарасна (снимки)",
         "description": "Шестима души загинаха при нападението, а сред пострадалите има двама полицаи. Нападателят се увличал по крайнодесни идеологии",
         "date": "2026-11-07T20:13:15+00:00",
         "link": "https://dnes.dir.bg/svyat/streletsat-v-krakov-e-25-godishen-polyak-broyat-na-zhertvite-i-ranenite-narasna-snimki",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/07/3045599/384x216.jpg?_=1794081818"
-      },
-      {
-        "title": "Четиригодишно дете загина на място, блъснато от 19-годишен шофьор в село Гривица - bTV Новините",
-        "description": "",
-        "date": "2026-11-07T20:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmFwd1JiX3ExcXdzMHZoWW9ldnU5OTZ2aWM5SFpxVFl5RG5qcEJkT05FOGx3ZHBweE16Z2NxYng1bkdVWm4wOU0yNEVGbVhJVjJ2b0UyZlRnNkVaYVdhSmQ2dXJILURoSTNTN1hncTcxUUl5VjFhVXZOdUdjVUg2SDR4TWRBS2NKN0F6b2tJT09IenFqMnJ5cE40RXZPbzlPWHRRXy15VVJjXzVJdnNoS2owZ2ZNNmpCMFQ3a1dB?oc=5",
-        "source": "bTV Новините",
-        "image": null
       },
       {
         "title": "Четиригодишно дете загина в плевенското село Гривица, блъснато от 19-годишен шофьор",
@@ -97,6 +89,14 @@
         "link": "https://www.bta.bg/bg/bg-world/1242274-iskame-bnt-4-da-vklyuchva-zhivota-problemite-i-uspehite-na-balgarite-v-chuzhbin",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14085614/BKK_0631.JPG"
+      },
+      {
+        "title": "Хиляди протестираха във Франция: Сблъсъци в Париж, полицията използва сълзотворен газ (СНИМКИ) - Dnes.bg",
+        "description": "",
+        "date": "2026-11-07T19:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlI2OGZxNjRJYkdDWVM3ZVRHRGp3a0NJVDNiSTlCMEY3Z3Qzel9idHQtb3ZIOTFyemJEQ0pSc2s4ZkM3dWdHYUs5MUZ1TXVoLVJiUWhPcTVKbkU0cWRDaFFiQlJGbEFabVdqNDl4QlFoSnNtMGItNHF5Q0NiMmpqY1NaX3VnM0JjaFFqNTZVUHI5dGdWV0g5UUtsUjJsUjJHR2V0Z3ptMTlYUHhKMzlGR0RfRHphU3k0Q2RJaVlSUXJDb2hLd0JzX1NhXzI2NGs?oc=5",
+        "source": "Dnes.bg",
+        "image": null
       },
       {
         "title": "Това е баскетболът, един път победиш, другия път - не, каза треньорът на Спартак Плевен Желко Лукаич след загубата от Балкан Ботевград",
@@ -147,6 +147,14 @@
         "image": "https://www.bta.bg/upload/14085647/BKK_0645+%281%29.JPG"
       },
       {
+        "title": "19-годишен с джип блъсна и уби 4-годишно дете в село Гривица (СНИМКИ) - nova.bg",
+        "description": "",
+        "date": "2026-11-07T18:44:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPdUVJYUdKaHVXWWhEZ245ZEg3aTRPa3V6MS1LS0lYNENhQ2RMTlJBQlIzSXMzMG9ZT2J3VmRJMGdVQ1hNYTZDZ1M5QmpyQS1jVmtjMlhmWldIWF9xelRxN1Z4UXlLMHNxY1VWYllvSXo3ekhhRWRsd1ZUNTRWVmI2NnVVQmdzRGtERXlrejJYaHN3NzRwMkdpUkxuY0hYNlNBb3NNWXpjRk5BZWJTMThramxKODVNeFRWcy12djlwa3F5ODNJeXRKdTJ6R3pyR2tKRzRZcUliZlFhXzhmSko5cHU1aEw2VS1QY2lKMzRMMVBSX09HWHZIR2l1cjZLOU52UFJrMnF1SHdVZlptRDBfSG5kaDIxYTNDRHA4elZoWEVXVVdLZmFTaER0dUw2Y2NsenZWWGdJVm1FNXJJdHlmbWJtbVdjaWhEU3ktUl9naW4xWjk5cktRV0FzT2VkUHg0Y1lBb19fWWpxNmZvN0c5czVzdkVUTGdNcWc1SFZLMEs2aGdMVk1wM0wxQVZOTlVKZnRoSTFIa1FSMm9mVlN0cmJnZ1hOZHozSmlpRHBiRVoyTmpZdzhlemdQOXRrTmYyRmZ4LWV4dG9UT2JpSlVxTEFiUVAzUjdnTW9QRTRkdEgtaG1QdWNDQUd0Zlp4TVNSSjdWQWNhMElleE5BSlBoUzQ2ZVJZUQ?oc=5",
+        "source": "nova.bg",
+        "image": null
+      },
+      {
         "title": "С химните на България и ЕС започна концертът, посветен на 10 г. от създаването на Асоциацията на българските фолклорни състави в чужбина",
         "description": "С химните на България и Европейския съюз започна днес, 7 ноември, в клуб Joy Station в София концертът „10 години АБФСЧ“ на Асоциацията на българските фолклорни състави в чужбина, посветен на десетата годишнина от създаването ѝ. Събитието е под патронажа на президента на България и събира на една сцена български танцьори и хорови изпълнители от различни държави. Водещият на концерта Рангел Вангелов приветства присъстващите и говори за значението ",
         "date": "2026-11-07T18:38:00+00:00",
@@ -179,14 +187,6 @@
         "image": "https://www.bta.bg/upload/14085513/20261107_175546.jpg"
       },
       {
-        "title": "Асен Василев излезе с първа порция критики за проектобюджета на управляващите - Dnevnik.bg",
-        "description": "",
-        "date": "2026-11-07T18:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeF9lV1hNb0ZjT2JQQXE4bm00d1NBWHFsN3plWTQ1ZXNZZEFzd0NpcHBUZ2hZOEhUcEhBc2VnZ3ZDRzdqU2hyb1lfUXhOZk1sQ1Izb0JLcm5uQVdkODB1ajR6WEVWb1VxaS1lSldUMW4wN005cm5aSUNLdE53b1ZEVEZ2WmQ0VUk1OGFYZTJWb2tfTUVVbjNCQk1uTzJ6QnAt?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
-      },
-      {
         "title": "Изборът в Пловдив за членове на ВСС от професионалната квота на съдиите приключи с 87,4% избирателна активност",
         "description": "Изборът в Пловдив за членове на Висшия съдебен съвет (ВСС) от професионалната квота на съдиите приключи с 87,4% избирателна активност, съобщиха от избирателната секция в Окръжния съд в града. Съдиите избираха шестима свои колеги от общо 21 кандидати. В секцията в Пловдив право на глас имаха 175 магистрати от Апелативния, Окръжния, Районния, Административния и Военния съд в областния град, както и от Районните съдилища в Асеновград, Карлово и Първ",
         "date": "2026-11-07T18:14:15+00:00",
@@ -204,6 +204,22 @@
       }
     ],
     "Свят": [
+      {
+        "title": "Шестима загинаха при стрелба в Краков, единият е британец, сред ранените са граждани на Австрия, Германия, Португалия, Русия и Великобритания",
+        "description": "Шестима души бяха убити, а 15 бяха ранени при стрелба в полския град Краков в събота. Още три тела бяха открити в дома на заподозрения, съобщи премиерът Доналд Туск, цитиран от ДПА, Франс прес и Ройтерс. Според министъра на вътрешните работи Марчин Кервински нападателят е бил увлечен по крайнодесни идеологии. По данни на полицията мъжът стрелял безразборно от автомобил и убил четири жени и двама мъже. Сред загиналите има британски гражданин. Сред",
+        "date": "2026-11-08T02:15:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242311-shestima-zaginaha-pri-strelba-v-krakov-ediniyat-e-britanets-sred-ranenite-sa-g",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14086437/a7b1089d94ee4f4cae5f6332f1111c98--0--49d2a11833834aef93a25a1cca0ca9a8.jpg"
+      },
+      {
+        "title": "Тръмп нареди разследване срещу демократите за предполагаеми заплахи с импийчмънт и наказания",
+        "description": "Президентът на САЩ Доналд Тръмп нареди на Министерството на правосъдието да разследва демократите за „заплашване на много хора“ с импийчмънт и други наказания. В публикация в социалните мрежи той определи действията им като „престъпно деяние“, без да представи доказателства, предаде Ройтерс. Демократите постигнаха убедителна победа над републиканците на междинните избори във вторник и ще поемат контрола над Конгреса през януари. Партийните лидери",
+        "date": "2026-11-08T01:36:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242301-tramp-naredi-razsledvane-sreshtu-demokratite-za-predpolagaemi-zaplahi-s-impiychm",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14083301/e0b3c1add1db4833aba3d2b0a4fd3963--0--8a87214a1b8f41eb877fd53cde376b48.jpg"
+      },
       {
         "title": "Жертви на сексуално насилие в Боливия призоваха папа Лъв XIV за справедливост по обвинения срещу йезуити",
         "description": "Организация на жертви на сексуално насилие в Боливия призова папа Лъв XIV да осигури справедлив и окончателен отговор по обвиненията за посегателства срещу непълнолетни, отправени към йезуити в страната, предаде Франс прес. Призивът беше отправен в събота, по време на посещението на папата в Уругвай, Аржентина и Перу. „Ние, жертвите, подадохме официални жалби до Боливийската епископска конференция, Апостолическата нунциатура и кардинал Торибио По",
@@ -381,28 +397,12 @@
         "image": "https://www.bta.bg/upload/14041990/8f30a89c5041414393003874214f1dbd--0--f6c1224f54b14b44946b7aef3779dcba.jpg"
       },
       {
-        "title": "Президентът на Израел обяви, че утре ще поиска от лидера на опозиционния блок Айзенкот да сформира ново правителство на страната - БТА",
-        "description": "",
-        "date": "2026-11-07T19:51:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekxwNS1IWVdmVlFLUXg5QVQydW5mTFExU05neVhKN0FzNkF6dnIxanF2N2dxQU51ZV9oUkJ4U01DOFZ0NV9hcEZOSnZrMWhReWFWc1RDcm4yVXFablZ6UHJEendId3MtaGIzUWw2REp0MGVPRGk4dnBBXzh5ZlVnYnJvUnNzX05UVkhxYzFqYWNSOE81clZwM3pXMVZERlY4WWl2NWFzcEFPOFk0Qmh5VzRlLTc3MHVPOXlMNg?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Глобиха дясната ръка на Зеленски. Говори на руски - Стандарт нюз",
         "description": "",
         "date": "2026-11-07T19:47:07+00:00",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMlJndUFOS0JSZC1Tcm5KcTJrQlFtTkRtTjcxdGI4SGFWeGN6eUhTY1NFVG82QXlZOHJlYlgtTjJqMlVmRmhTQ0Y4alBET0cycXU3bDZJZDYyZVpzRlZ0cEF2bHpFQXhIa0hSR0pmUnpoQ1JZd194VjNUZFVGaDk0WkVwajFDZWdiWkZrc2UwUEg1OEZGT19yT0xReXc?oc=5",
         "source": "Стандарт нюз",
         "image": null
-      },
-      {
-        "title": "Лидерът на радикалната левица Меланшон засегна темата за палестинците и за Украйна в програмната си реч",
-        "description": "Лидерът на френската радикална левица „Непокорна Франция“ Жан-Люк Меланшон, сочен в социологическите проучвания като възможен участник във втория тур на президентските избори във Франция догодина, заяви днес, че ако бъде избран за президент на Франция, ще подкрепя „открито и категорично“ палестинците. Той допусна също така, че уреждането на войната в Украйна може да премине през териториални отстъпки, предаде Франс прес. В програмна реч пред пове",
-        "date": "2026-11-07T19:31:44+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242272-liderat-na-radikalnata-levitsa-melanshon-zasegna-temata-za-palestintsite-i-za-uk",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/178637/0c013da047714f4a9274b85c33a392ec-0c013da047714f4a9274b85c33a392ec-ad0437209c0047aaad99cc61d37e8e2e-05576.jpg"
       }
     ],
     "Наука": [
@@ -420,6 +420,14 @@
         "date": "2026-11-07T20:16:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTFyY2VodnM1VHR5ZUxvbjNTcFNodjljcUVEY0U2SnpJajh4cTZzOEpIOFh6MEV3YmRxUmVsZXlQUFpTczYtUEJiV0tEaUtqSGVzLURtRjZTcGlfMXBmSGhCbGFWZzI0UzQzR0N1TEtYN3VLV1VoVm9SMC1jTTN1anR6MEdHNXpnSXhPdlBLLWtONzNS?oc=5",
         "source": "БГНЕС",
+        "image": null
+      },
+      {
+        "title": "България влиза в надпреварата за изкуствен интелект! Държавата заделя 49 млн. евро за AI фабрика - Флагман.Бг",
+        "description": "",
+        "date": "2026-11-07T19:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Zbzl4THlQR0l2WFhJYzVnX1I5N2Q3UmdYelh3RlZYb1hhQ2tOajZqdXdwNk5seEwwTkFacHZWOFFGbGFDTnVXSUZseXZnZ9IBXEFVX3lxTE0ta19uV3BtY0RZMnQ2TVMyTGFKSElYWlJMc2VXSzl3MEs4RVdwdEREaXFGUU5tdDFmdjNtOGh5QVd1VDFxa3NyVE1XOGxtQ0VnTHJkZExKZ1YzM2hU?oc=5",
+        "source": "Флагман.Бг",
         "image": null
       },
       {
@@ -444,6 +452,14 @@
         "date": "2026-11-07T14:56:43+00:00",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOHV4Q2s5cmd5bFNpTVRXNG9tTzVxcnRxRGZ6VU5kWDhnbXY3WkJURTM1OWUzekJjOVRoWTRzSERIWk1LU20yV3F0UG1rTjEtYnNHaXdjYWc0NGY2N1BIdUVjSXg4cnBfV3hzUFhOWU9hTEhGb2JINGRkb1dmWWdNNERjTTlwS29SaWRzOE1CT3c1MGpWZGJHblJuZTRQSmdSQ0ZqUzdSaTFseTcwSHN1VERrUjR4Zmk4UEdOQWZHRTNJUlFwZi16YmVGWVJrdDlPRjlaYnE1ZjlsVGl6NlE?oc=5",
         "source": "ФОКУС",
+        "image": null
+      },
+      {
+        "title": "България инвестира 49 млн. евро във фабрика за изкуствен интелект през 2027 г. - Евроком",
+        "description": "",
+        "date": "2026-11-07T13:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNzZCb3MtZ0hSaUo1SEFZTkpTOHUwYUo2alRPNUNYWnE4V3VOajdweXdfZ1NBM25kMzNzd2FzS2wyQ0RDWVB0VjEwTFRvNGd4V2NaRW90by1NcE5wdFVXVmdRMS1FaFh0a0JHdE9zbkVoa0x1M1p0eDFvdXFNaEF6blFSNk1ieU9uejFTVWM2NFRQOEdlbUxuV1hkdlRnSzNEWWFfamRfR1o0UDhj?oc=5",
+        "source": "Евроком",
         "image": null
       },
       {
@@ -589,22 +605,6 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0syWGRHZThxeVhMLVFLc0ROdWlBLWUxeDZ0d2pUUzJYRE5teUJwOWdJWUQ5VzhGOU9QTVBMYnc0NGVocUlUWDFPUll6MjA4ZWM3RUVaTGQydHZESWd0N0I4OEJlM3RDMGZaUmpVWndMZGJoeV83M3c0T2R1S3ZUV3k2bVVNa1VDY0VDNS1OajI3MVZ1cmx0YUs3dS1feFVEQ1hKc2ZIUHJUMjljY3hZV2tYQWJjQm8tZGxqdWdR?oc=5",
         "source": "Novinata.bg",
         "image": null
-      },
-      {
-        "title": "Форум \"Науката зад четенето\" и има ли наука в стратегиите за четенето у нас - БНР Новини",
-        "description": "",
-        "date": "2026-11-05T12:02:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVA4U0lET3FQY2hmXzM2SGdReFhfWnczT1dvRVJUTHZkVXNnYnRCWVVLZFY0Vms3X1g5RC03b1M1U0FRdW5Fb0FZNDdSenZ2X250M2tPYkNORlFVU2d4NmNrUFd0eERlbGhPdDlSM1RVTTFlVElXUkswbkh6N0xXODJsUURnVGdUQUVQSlR4eTg4UUZkeW1nNUlEbFJ0N0tKdENYZlBkY2MzWk5XbGRrVC1xZk9kdkNXWVE?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Българският научноизследователски кораб „Св. св. Кирил и Методий“ отплава за петата си мисия до Антарктида - MediaBricks",
-        "description": "",
-        "date": "2026-11-05T10:56:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0VyWWZ6N1p6aWo1TTlRZjJ1NVdXOFBPVUJmSXZkaEV2WVRjSW9yQTJxWVc0TFR2TWlFdVNQYjJSUXJrR29CYlZrVGVweHdKTWJodVVKN2hMMEQxc2hRS1VBc25ocWNCc3hJOGR2NjlfYTFWNkJhOEhReHpkZnROVktmYlBWQWJ1WFRtMkdJb3E4S2M5c0pNTmJ5QldiZ1ZQSDRwNU1FODNDY2FtSzNZZ1VRWW54YjJ5bmhwWWVRSmpfTlB2R1AtRg?oc=5",
-        "source": "MediaBricks",
-        "image": null
       }
     ],
     "Образование": [
@@ -622,6 +622,14 @@
         "date": "2026-11-07T16:30:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXdrMll5elNaMU5TQmQxbWNUQ2lwMi1uRlNDZXh1c2NhTzhfa25KbXNyOVN5bmdwdHBlaGNaSWJGQk8xclFsWXVDekNlWFRrS3UtcGVyUTVxT0E2MzdITmc3LVRjRkFXX3V2dUxhQVliSU9PQnhLVWtteGUwYnItX0p6SVdiSXItbEd2TlhpTjFISkJQMHVPZWJhMFBVWnFTd2pPOUlwZ0sxdzJoN2lDTjlqMXBXNGJydmUzRVBnRHk2d9IBxwFBVV95cUxNVGU4WHY3S1YwbE1WNlY5dUVIOE1aN2ozSmwzX0ZrbmtRbHJveXdUbVdsUHFwNWJlWkd0LVBZcUZqT1poSzdVVm96Qlg2Y2U5QlpONW9JUjNGTVM0OWozT0RmblpLOHFpVW9MeUx1OGlPNE55enZMZ1dRMGtkQ1FnbWNSa1hEWGZyMk1iMHN5U3lOdDZyTEotM3UzWmF4Qm8zSXRjeWt6NmpHY05WS3p4QTBydWVrVE1HR25JaURIMUFuV0RxM3k4?oc=5",
         "source": "marica.bg",
+        "image": null
+      },
+      {
+        "title": "В името на Йовков, с името на Йовков - 24rodopi - лидерът на новините в Родопите",
+        "description": "",
+        "date": "2026-11-07T15:40:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pTFpfb0owX0F2dndtazhick4zVWJONlptS2xrU3UwcmRoRWNYR1NVY29mQ0NTUXBDdDJjRW9Bc2hUN2ZyWmxlZm1ZbmVCUFcwS19KaWRvMEhTNVRxdlFWaGVtRG5ESzg?oc=5",
+        "source": "24rodopi - лидерът на новините в Родопите",
         "image": null
       },
       {
@@ -777,6 +785,14 @@
         "image": null
       },
       {
+        "title": "Ученическите стипендии ще се вдигнат средно с 20% от 2027 г. - BurgasMedia",
+        "description": "",
+        "date": "2026-11-06T11:57:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1FWZDJDSkE4UDhJeFZZRnQxZFVQcUdRRm51c1dvRzJuZ1dZT19lajc4dUFKdXFWeFJaSWM2THJFb0tjU1BYQmJoVnV4b2o4dHJXRzRmeU1naE02QTJuRHBIV1VDd1ZhNS1QeGItdklyc2Rrdm52VlViaXpjaGdkX1dnc0hlR09NcFFzWENOMXNjQTQwY0HSAZsBQVVfeXFMTWZwaXdwSFZzZUdnLTYwMnZjc0p0ZjZfdlY0MElyWnJVTVFsek04TXNnQW1VWTFwYUFxU2lDNzJnelpVbkdjczJfc2p2Vko5SkF0QTVmdU10SlJsUi1jREhjcTB3MDc2bUhhOFBuTXpwblp2M2d2eEhEd1RubFR0MmlPblJNRDNjRTItTDd4MXQ3bGdHMURzaDZkOXc?oc=5",
+        "source": "BurgasMedia",
+        "image": null
+      },
+      {
         "title": "Увеличават ученическите стипендии с 20% през 2027 г. - Moreto.net - Варна",
         "description": "",
         "date": "2026-11-06T11:56:00+00:00",
@@ -790,22 +806,6 @@
         "date": "2026-11-06T11:13:16+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWZMVjdmakRvR3pCYWxfNmtMOU43aDRiZ1dPUTZkcUNwbG0wTnpkM0tRb2hfX3U4VTI2UXppOUd4OTc1QXpWMFBIV0p1ZF91Unk2TGdYaHU5QlhxNVFVNjg0UDdHaFZsWkhzN3Jxb3JSeVdjNUhaZlZ1SlNSQlRXa2ZkLVhFMUtybVhFYnNVR2xJQ18ycFg5R2ZpVExjOW9NVUJQRkdnTktHQQ?oc=5",
         "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Ученици замениха класната стая с разсадник - Вестник Борба",
-        "description": "",
-        "date": "2026-11-06T09:10:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEVrdC15OWhHUEhGb2N3UE0xdHFqLTlPb2NkN0xiVHhFay1EUEwxRWxNc1FsNkZIay1GU1hFVHU3RkNGdW9OOGV5WkJiRy1PZEUyX3BvSXR2eWlEZjVLLWpKVFJqVi1jeHp0Z0VHWmNVMGNNcVpRSDd4dENDdk5sNWw2VDR0OEEx?oc=5",
-        "source": "Вестник Борба",
-        "image": null
-      },
-      {
-        "title": "Дискусионен форум събра в Бургас педагози и образователни експерти - zonaburgas.bg",
-        "description": "",
-        "date": "2026-11-06T07:57:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHV6MDVIczE5bkRqTlJKZ0lyVzEwV3NEZi01UHpGN1FPODBxMTFwUjFlUzQyS0tKREhLZHMyX1JVR2I0RG1IUUVZdDJDcmlIREtndUkyNklvcDNKTEE0eE1QeTZ2MFNDSFhVZXZhdWZCal9wbjBpYnRoQVNSamtoR2RjX2dVbWl1Qk4xd05qOHl2MDdKTjlBQw?oc=5",
-        "source": "zonaburgas.bg",
         "image": null
       }
     ],
