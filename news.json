@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T23:16:49.221799+00:00",
+  "generatedAt": "2026-11-08T23:51:36.731737+00:00",
   "categories": {
     "България": [
       {
         "title": "Историята на „Варшава“ започна точно преди 75 години с огромна лъжа - Investor.bg",
         "description": "",
-        "date": "2026-11-08T22:10:36+00:00",
+        "date": "2026-11-08T23:13:23+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1V4RTFLd3QxYVJJWmZaS2FzVDFCT2xzYWZYQXBSQ3Vyc1U2MFp4SFh1UEpzWFFrTG16M0NqdS1ka1YzSUJHalFNVl9TVUdUZDRZTkJUbWJzMDE0MllyRWlhMUEzOHpQZklGX0V2WXpsQ0ItUkVpNjlNcHZwbkljS1JkSVQ2Z1dKV3BqbE9SaTllWkpRazFEMjJMb1A4Zkxod2ZoRW5YS0xUbmwzY18zSHZkSDE4Ynh1?oc=5",
         "source": "Investor.bg",
         "image": null
@@ -97,6 +97,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1242636-katastrofa-zatvori-patya-v-rayona-na-plevenskoto-selo-yasen",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14089345/20260617_130903.jpg"
+      },
+      {
+        "title": "Ландо Норис спечели Гран при на Бразилия, Мерцедес си гарантира титлата при конструкторите - Gong.bg",
+        "description": "",
+        "date": "2026-11-08T18:44:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkVRd3JCUm5KeG5DWmdHSUY1WTJVb01IRXlrYmJqT2VVN3ZwS2FNaU4zXzRLQlptQVJZSHFKTU50WEhSenZHYlJXZnJyV0thdUJySk9UdmhyVTg3SXJZQ25xcllxQmFfWHVPTGNWeV9pWFlJLWY1dlRkbTREQjAtVVVXWWZoT1dueWtucWg0MlljNmhkbUdya2hqRDlrWlNPRjFLNDJfREI5aGg3WVR1WnBFcjhESVB0NDF1VjBoV0pHNHpCUkhPSThtSVM?oc=5",
+        "source": "Gong.bg",
+        "image": null
       },
       {
         "title": "Не Нетаняху, а Айзенкот ще се опита да състави правителство в Израел",
@@ -193,17 +201,25 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1242593-s-87-5-protsenta-izbiratelna-aktivnost-v-targovishte-priklyuchi-povtornoto-glasu",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14083744/20261107_080205.jpg"
-      },
-      {
-        "title": "При 83,33 % избирателна активност приключи повторното гласуване за членове на ВСС от квотата на съдиите във Видин",
-        "description": "Общо 25 от 30 съдии с право на глас от Окръжен съд – Видин, Административен съд – Видин и трите районни съдилища в областта упражниха правото си в повторното гласуване за членове на Висшия съдебен съвет (ВСС) от професионалната квота на съдиите. Това съобщи за БТА председателят на Пета избирателна комисия съдия Николай Витков. Изборният ден приключи без нито една недействителна от общо 25 пуснати бюлетини и при 83,33 - процентова активност на съд",
-        "date": "2026-11-08T17:33:32+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242606-pri-83-33-izbiratelna-aktivnost-priklyuchi-povtornoto-glasuvane-za-chlenove-na",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083974/20261107_100126.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Проливните дъждове в Газа са причинили смъртта на петима души, съобщи Гражданска защита",
+        "description": "Проливните дъждове в ивицата Газа причиниха смъртта на петима души, предаде Франс прес, като се позова на контролираната от ислямистко движение \"Хамас\" Гражданска защита в палестинската територия. Пороите в Газа започнаха завчера. Местните власти съобщиха вчера за десетки хиляди наводнени палатки на разселени хора. Петима души са загинали при срутването на пясъчен насип върху палатки южно от Дейр ал Балах, в централната част на палестинската тери",
+        "date": "2026-11-08T23:35:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242681-prolivnite-dazhdove-v-gaza-sa-prichinili-smartta-na-petima-dushi-saobshti-grazh",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14085859/a03f7ba12f4a4f819c15de4e221facf5--0--00475e485dcb4cc5916e58595964fa4b.jpg"
+      },
+      {
+        "title": "Русия и Украйна си размениха удари с дронове преди предстоящите в Абу Даби преговори с посредничеството на САЩ",
+        "description": "Четирима души бяха ранени в украинския град Кременчук при руска атака с дронове, предаде Укринформ, като се позова на ръководителя на Полтавската областна военна администрация Виталий Дякивнич. Той написа в Телеграм, че при нападението вчера са били поразени жилищна сграда и хотел. Шестнадесетгодишно момче е пострадало сериозно. В пристанищния град Одеса има спирания на тока, след като руски дронове са поразили енергийна инфраструктура, съобщи ръ",
+        "date": "2026-11-08T22:50:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242680-rusiya-i-ukrayna-si-razmeniha-udari-s-dronove-predi-predstoyashtite-v-abu-dabi-p",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14090554/1794167447-7783.jpg"
+      },
       {
         "title": "Мерц е уведомил ръководството на ХДС, че ще номинира утре Илзе Айгнер за първата жена президент на Германия, казаха партийни представители",
         "description": "Германският канцлер Фридрих Мерц е уведомил ръководството на своя Християндемократическия съюз (ХДС), че ще номинира утре за президент Илзе Айгнер, казаха днес партийни източници, цитирани от ДПА. В петък германски медии вече писаха, че ХДС подкрепя нейната кандидатура. Ако бъде избрана, Айгнер, която сега е председател на регионалния парламент на провинция Бавария, ще стане първата жена президент в историята на Германия. На 30 януари Федералното",
@@ -341,30 +357,6 @@
         "image": "https://www.bta.bg/upload/14088072/4b99250b019848ea93bf4f5a5000d357--1--c8bc3bea364440a68a749c822402ca24.jpg"
       },
       {
-        "title": "Многолюдна демонстрация в подкрепа на палестинците се проведе в Амстердам",
-        "description": "Десетки хиляди хора излязоха на протест днес в Амстердам, за да осъдят продължаващото насилие срещу палестинците в Газа. Демонстрантите бяха облечени в червено и носеха плакати с надписи „Спрете геноцида“, предаде Франс прес. Според организаторите на демонстрацията, наречена „Червената линия“, около 200 000 души са се включили в шествието с искане нидерландското правителство да предприеме действия срещу Израел. „Спрете да изпращате оръжия на Изра",
-        "date": "2026-11-08T17:44:58+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242611-mnogolyudna-demonstratsiya-v-podkrepa-na-palestintsite-se-provede-v-amsterdam",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14088548/7eb746bbd48142a89129e02b088b2ea9--0--b3c4b9ace02545e49e4efeef8b19f9ea.jpg"
-      },
-      {
-        "title": "Киев заяви, че е ударил четири руски центъра за контрол на дронове; Moсква твърди, че е поразила електростанции и три кораба в Черно море",
-        "description": "Украинските военни са атакували четири центъра за контрол на дронове в Русия и в окупираните от Русия райони в Източна Украйна, съобщи ДПА. Команден център в Бердянск, в южната част на украинската Запорожка област, беше описан като „най-ценната цел“. Мястото се използва от „Рубикон“, руско елитно подразделение, за извършване на атаки с дронове срещу цивилното население близо до фронтовата линия, според изявление на въоръжените сили на Украйна, пу",
-        "date": "2026-11-08T17:27:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242588-kiev-zayavi-che-e-udaril-chetiri-ruski-tsentara-za-kontrol-na-dronove-moskva-t",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14085950/3a57172e06d24ad3abbaa382f8987c2d--1--718315d053d94349a4e1cd06d1dbd804.jpg"
-      },
-      {
-        "title": "Антоанета Костадинова зае пето място на световното първенство по спортна стрелба - БТА",
-        "description": "",
-        "date": "2026-11-08T17:24:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1JzNUFFX1hUVXNfcGlXUDd3cWcyY01jbWlGa2d3UmhXM090dXR2eXV4ZGtkSGVtOWhPUWdtdmRaQW9LenBuaWNJUVl1cGJmMm5aVmdLNGk5SFBkSV9vMHBNRVdMVlVwNFlDenBJa3BiMll3TXNQVUVsOUdmZXhLMm9sYzFqTFM5bzZ3cXk4emo5YkFSMU90QWlsQVVvZjByeUxGbU91eHgxZHlOVkRjMmY1N2Jpb2FSazhrQjdB?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Как хърватски стартъп превърна гаражно хоби в бизнес за милиони с клиенти по цял свят - Money.bg",
         "description": "",
         "date": "2026-11-08T16:40:35+00:00",
@@ -402,6 +394,14 @@
         "date": "2026-11-08T13:01:42+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2haamFZUlRSV2wyTGl6QUZpdjhZTlNxeVhLR0FUNkpjSWlKNFJCR2RDMlNIT01UdWt0VmI0MnJ5NG85X2s4UDFweUhfalNsVndmczNNOVZERUktcERTVWhRZVdhQ1pLS1lUUmZQU0pQbjhqY1JPRTZxcmxpaXQtTUQ2dkVTSkxYLWQ1ZGo4OXJTcHp0NlFWdFNqV0VPWWpaUjRLZEM5R19XQQ?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Цяла Полша се моли за своя герой! Кой е полицаят от кървавата атака в Краков - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-08T12:56:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVdCQ1ZhUWxxSUJGcFhQTm4yUy04dlNBWXlza2xlb2VmN0t6OWZ3czdlbGlHVmRFbUlKd2xneHhjZHNJLUtyNlpUcVFlSWEyWEw2V2dxdXhuR1h1UmpZZGhRTC1ZOU5PUV9uRTFjWDZoUGM0OGNpb2F6Z05uYUhFOFlsY0pzQktpaU42cHJuUG9qWWxLLXl1RzRtV2ZQcE51Q0M0dzNFUmZraUxhZVd3a2ZWcTg4UVUybVVyczJuODN4V3FD?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       }
     ],
@@ -641,6 +641,14 @@
         "image": null
       },
       {
+        "title": "МОН отпуска над милион евро за 10 университета - DUNAVMOST.com",
+        "description": "",
+        "date": "2026-11-08T15:33:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYjRGWnNUQzI5VGRlV3pFWjJqUmE3TmVkRFFyb293TzRScUVTaWE0RDN4Ym1qVklzTF9OeFNiT25GMDVrdVl4MEt3T2RlTlludXdWUFRrTmdFVmJPX1I1UDN5M0dCRjZ4dWtuanp0NUdGa25lOTZtOWxSQjZtT3ZxcVBVTWhXQQ?oc=5",
+        "source": "DUNAVMOST.com",
+        "image": null
+      },
+      {
         "title": "Училище в Стара Загора пази паметта на основателите на светското образование - Bgonair",
         "description": "",
         "date": "2026-11-08T15:15:00+00:00",
@@ -654,6 +662,14 @@
         "date": "2026-11-08T15:14:32+00:00",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTFNLUmFxb3FuVUdhUXhsVTEzbk00RmxnLUNqMWRmSGdDNFAxQ3lPYmpRM3dIVHJXWUd3RnFCcF9sUnczcDlxSnBZc3hRcnRaYmJCOTlUamNPUjczb3RnSFVCWmRPZkltOVdZSkFOSXljNW5XLWZqMElkTUhUa3A5UFA2aEx1U3FJQi1KVExVMUczeFhNS1NlTldGRGQ?oc=5",
         "source": "Stolica.BG",
+        "image": null
+      },
+      {
+        "title": "Държавата отпуска 1,2 млн. евро за десет български университета, участващи в европейски алианси - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-08T13:44:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQks4VDBUdWtScERWRkxyT3hOemJKc2JMWVdMNUVGbmx0YWNCNHIwTTdpTG1jNzZENi14SlBfdFBWUkdBeWE1T0V2UFc1WU9GTEIwaUNLREZYcEppTjg0UHZ3eTZHbjJvaTIxX3lTeVhmaHZBejc3N1EzN0d0WXNPUDJSc1k4cEt6Y28yLWgwWTZ4NXRlYm4xQUxmaTdpRHEtWDR2elFoNzlHNWdxaG5qWDJ2VkFTZjFRT3ZoZnlDTHFVel9w?oc=5",
+        "source": "Таралеж: Истината има значение",
         "image": null
       },
       {
@@ -790,22 +806,6 @@
         "date": "2026-11-06T16:11:57+00:00",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44NjJFa0xnTGhwNUd6al9jWG16TzVLYWJhRGEyUzRRcDd0bEJrZTRCUVJ5b3puVlN6b2F1WFlFM3RmME0ya0M5XzhLbzdEd9IBXEFVX3lxTE9Sa3NkT1BjTzhzSkVOWUNjWVl0dFVtbG5hX1pzSFNOZzhnR3VIbVR0aUs1cDl3SkRaMmZEWV9rTHJwRW9XLTNLRXE0RzBrb1Yxa0JVY0d0anpBNFlX?oc=5",
         "source": "Флагман.Бг",
-        "image": null
-      },
-      {
-        "title": "Ученическите стипендии ще се увеличат с 20% догодина за първи път от 2017 г. - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-06T15:48:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTlNMk9mNk5FQlZNd0J1QjlmTEZRN1duOFJta0c3YWFZZmozRGZMOFJPZmRuM1dPdVJwekR2eFdsRWhTSlI1aXVIU2xJelBSY3dQbTdKcjlCM1lVZm5yTFcwLXBfRHZ6ZmdkNGFjN1lTVWtRb0pLeDFnbXBoUlJMTVFaNUU2RmtMblJsNFZoQ2p0Ylp4dkpYaUhCSHpMQ2JFdW16R2JGZ1lDMDJ4M24zV2dFTXZ1M1RU?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
-        "title": "Студенти преобразиха зеленото пространство пред Факултета по бизнес на БДУ - БНР Новини",
-        "description": "",
-        "date": "2026-11-06T14:32:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaElRQkJHX1AyQjZfYl9wNXBxc0FoMTBTSThxVmN6bmNvNFdZTmkyZHBJdE1aT1l4S3JLblM3VFhpU0sxTklGRUxPak1ZWHE5bktCWW1hQUg2aXMxN182Z1RyMnVqRXBYdXRIa0hSVTFrb0lvM1VBYnVZMm11VGV1al8zLWJNem9wYjlMQ0o0WlRVUWZQdnhzN3dUUjhqMVlCVm1SaXZGMWdteG9aalprdXh3?oc=5",
-        "source": "БНР Новини",
         "image": null
       }
     ],
