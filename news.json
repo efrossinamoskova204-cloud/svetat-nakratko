@@ -1,142 +1,94 @@
 {
-  "generatedAt": "2026-11-08T06:30:44.978491+00:00",
+  "generatedAt": "2026-11-08T07:43:09.137331+00:00",
   "categories": {
     "България": [
       {
-        "title": "Пети фолклорен фестивал „Погледец“ организират днес в село Челопек",
-        "description": "Пети фолклорен фестивал „Погледец“ организира днес Народното читалище „Огнище – 1930“ в с. Челопек, община Враца, каза за БТА секретар-библиотекарят на читалището Пенка Николова. Ще участват 180 самодейци от 11 танцови и певчески формации към читалищата в района от селата Моравица, Паволче, Търнава, Нефела, Бистрец, Згориград и Костелево. От Враца ще се включат Детският танцов състав „Радост“ към Центъра за работа с деца и Танцовият клуб „Хоротро",
-        "date": "2026-11-08T06:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1242128-peti-folkloren-festival-pogledets-organizirat-dnes-v-selo-chelopek",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13645924/29.jpg"
+        "title": "Хусите изстреляха балистични ракети към Рияд. Саудитска Арабия успя да ги свали",
+        "description": "Предупреждения за потенциални заплахи бяха обявени в няколко района на кралството, включително около централата на \"Сауди Арамко\"",
+        "date": "2026-11-08T07:38:48+00:00",
+        "link": "https://dnes.dir.bg/svyat/husite-izstrelyaha-balistichni-raketi-kam-riyad-sauditska-arabiya-uspya-da-gi-svali",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/30/3042674/384x216.jpg?_=1793394384"
       },
       {
-        "title": "Общо 59 пожара са потушени в страната през последното денонощие, един човек е загинал",
-        "description": "Общо 59 пожара са потушени в страната през последното денонощие, един човек е загинал, съобщиха от Главна дирекция „Пожарна безопасност и защита на населението“ на сайта си. През последните 24 часа противопожарните екипи са реагирали на 89 сигнала за произшествия. С преки материални щети са възникнали 22 пожара, от които 10 са били в жилищни сгради, седем – в транспортни средства. Без нанесени материални щети са възникнали 37 пожара. Извършени са",
-        "date": "2026-11-08T06:29:40+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242327-obshto-59-pozhara-sa-potusheni-v-stranata-prez-poslednoto-denonoshtie-edin-chov",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13973771/IMG_4468+%281%29.jpeg"
-      },
-      {
-        "title": "Патриарх Даниил ще оглави празничното богослужение за Архангеловден в пернишкото село Студена",
-        "description": "Българският патриарх и Софийски митрополит Даниил ще оглави света литургия в храм „Св. архангел Михаил“ в пернишкото село Студена. Богослужението ще започне в 9:00 часа по повод християнския празник Архангеловден, съобщават на сайта на Софийската света митрополия. Както БТА предаде, посещението на предстоятеля на Българската православна църква съвпада със 180-ата годишнина от построяването на храма. Църквата е изградена през 1846 г. и е сред най-",
-        "date": "2026-11-08T06:26:46+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242288-patriarh-daniil-shte-oglavi-praznichnoto-bogosluzhenie-za-arhangelovden-v-pernis",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11328380/20250628_112839.jpg"
-      },
-      {
-        "title": "Започна повторното гласуване за членове на ВСС от квотата на съдиите",
-        "description": "Започна повторното гласуване за членове на Висш съдебен съвет (ВСС) от квотата на съдиите. Във вчерашния ден никой от кандидатите не успя да събере нужната подкрепа. Вторият тур ще се проведе измежду всички 21 кандидати, като първите шест с най-много подкрепа ще бъдат избрани за членове на ВСС. Право да гласуват имат 2275 съдии съгласно избирателния списък. Изборният ден ще продължи до 18:00 ч. Гласуването е с хартиени бюлетини в 30 избирателни с",
-        "date": "2026-11-08T06:22:43+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242308-zapochna-povtornoto-glasuvane-za-chlenove-na-vss-ot-kvotata-na-sadiite",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/158844/OI000441-01.jpeg"
-      },
-      {
-        "title": "Интензивен е трафикът за товарни автомобили на изхода на ГКПП \"Капитан Андреево\"",
-        "description": "Трафикът е интензивен за товарни автомобили на изхода на граничния контролно-пропускателен пункт (ГКПП) на границата с Турция „Капитан Андреево“, съобщиха от „Гранична полиция“ за движението на българските граници към 6:00 ч. На границата с Гърция трафикът е нормален на всички гранични преходи. Автомобили до 3,5 тона преминават и на граничните преходи „Рудозем“, „Златоград“, „Маказа“ и „Ивайловград“. През граничните преходи „Илинден“, „Кулата“ и ",
-        "date": "2026-11-08T06:17:01+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242326-intenziven-e-trafikat-za-tovarni-avtomobili-na-izhoda-na-gkpp-kapitan-andreevo-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11909860/20251211_081448.jpg"
-      },
-      {
-        "title": "В русенското село Божичен днес организират събор",
-        "description": "Събор с фолклорна и културна програма, включващ и кулинарно състезание, ще се състои в русенското село Божичен днес. Началото е в 12:00 часа, а организатор е местното Народно читалище „Петко Рачов Славейков – 1927“, съобщи за БТА неговият секретар Гергана Александрова. Тя уточни, че за първи път в рамките на традиционния събор на Божичен ще бъде организирано кулинарно състезание под надслов „Есенни вкусове“. То ще бъде в три категории – за най-вк",
-        "date": "2026-11-08T06:15:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1242173-v-rusenskoto-selo-bozhichen-dnes-organizirat-sabor",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14085089/1000103092.jpg"
-      },
-      {
-        "title": "Стопанската академия “Димитър А. Ценов“ в Свищов ще отбележи патронния си празник и 90 години от създаването си",
-        "description": "Патронния си празник ще отбележи Стопанската академия “Димитър А. Ценов“ в Свищов. В петък се проведе тържествено събрание-концерт, на което бяха отбелязани 90 години от създаването на свищовското висше училище. Тържествената церемония днес ще започне в 10:30 часа пред паметника на Дарителя до сградата на Ректората. След това ще започне шествие, което ще премине през централната част на града до гроба на Димитър Ценов, където ще има поклонение. С",
-        "date": "2026-11-08T06:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1241798-stopanskata-akademiya-dimitar-a-tsenov-v-svishtov-shte-otbelezhi-patronniya-s",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13927669/20260928_104407.jpg"
-      },
-      {
-        "title": "Град Стралджа отбелязва днес празника си",
-        "description": "Днес е празникът на град Стралджа, общински център в област Ямбол, когато се отбелязва и храмовият празник на местната църква „Св. Архангел Михаил”. Денят на града е определен да се чества именно на 8 ноември с решение на Общинския съвет от 2001 година. Всяка година на Архангеловден в 170-годишния храм на Стралджа се отслужва света литургия, а жители на града палят свещ за здраве и благополучие. Официалните събития, организирани от Общината, този",
-        "date": "2026-11-08T06:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242102-grad-straldzha-otbelyazva-dnes-praznika-si",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11790173/20251020_113225.jpg"
-      },
-      {
-        "title": "Генерал Тошево отбелязва своя празник",
-        "description": "Празникът на град Генерал Тошево днес, 8 ноември, ще бъде отбелязан с програма, включваща VIII Фестивал на сармата и кюфтето с участието на Ути Бъчваров, концерти, детски спектакъл и музикално лазерно-пиротехническо шоу, съобщиха от Община Генерал Тошево. Празничният ден започва в 8:00 часа с утринна и тържествена света литургия в храм „Св. Вмчк. Димитър“. От 11:00 часа на площада ще бъде представен детският спектакъл „Геройско парти“. В 13:00 ча",
-        "date": "2026-11-08T05:35:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242073-general-toshevo-otbelyazva-svoya-praznik",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/3119707/20231108_100812.jpg"
-      },
-      {
-        "title": "Бяла алпака се роди в зоокът край язовир Кърджали",
-        "description": "В зоокът Боровица край язовир Кърджали в Източните Родопи се роди бебе алпака. Малкото е само на дни и носи името Бамби. То е първото бебе алпака в родопския зоокът, където майка му Мока и останалите три алпаки живеят от месеци заедно с други видове животни. Бамби се е появила на бял свят в проливен дъжд и, макар очаквана, появата на малкото е предизвикала много емоции, разказва стопанинът на животните Мехмед Хайрула. Мъжът споделя, че гледа алпа",
-        "date": "2026-11-08T05:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242088-byala-alpaka-se-rodi-v-zookat-kray-yazovir-kardzhali",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14084413/20261106_091404.jpg"
-      },
-      {
-        "title": "Сливенският митрополит Арсений ще възглави литургия в село Желю войвода на Архангеловден",
-        "description": "Архиерейска света литургия ще бъде отслужена на 8 ноември в храм „Св. Архангел Михаил“ в село Желю войвода, община Сливен, съобщиха от канцеларията на Сливенската митрополия. Богослужението ще започне в 9:00 часа и ще бъде възглавено от Сливенския митрополит Арсений. На 8 ноември Православната църква отбелязва Събора на св. архангел Михаил и на всички небесни безплътни сили. Денят е и седмата неделя след Неделя подир Въздвижение. Празничното бого",
-        "date": "2026-11-08T05:15:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1241985-slivenskiyat-mitropolit-arseniy-shte-vazglavi-liturgiya-v-selo-zhelyu-voyvoda-na",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13989984/20261014_103932.jpg"
-      },
-      {
-        "title": "Книга с илюстрации и истории за градския транспорт на графичния дизайнер Георги Василев ще бъде представена в София",
-        "description": "Дебютната книга на графичния дизайнер Георги Василев „А до Б: Кратка история на пътуването заедно между първата и последната спирка“ ще бъде представена днес, 8 ноември, в София, съобщават издателите от студио Punkt. Събитието ще бъде в галерия L44. По думите на издателите книгата предлага поглед към забавни и тъжни истории, клишета и стереотипи за градския транспорт. Според тях, отвъд смешното тя е покана да мислим как да бъдем заедно с търпение",
-        "date": "2026-11-08T04:45:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1242245-kniga-s-ilyustratsii-i-istorii-za-gradskiya-transport-na-grafichniya-dizayner-ge",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14047096/K%D0%BE%D1%80%D0%B8%D1%86%D0%B0_A%D0%B4%D0%BE%D0%91.jpg"
-      },
-      {
-        "title": "Самара Джой идва в София броени дни след премиерата на първия си концертен албум",
-        "description": "Многократната носителка на „Грами“ – Самара Джой, идва в София броени дни след премиерата на първия си концертен албум – Live At The Blue Note L.A, информират организаторите от „БГ саунд стейдж“. По думите им колекцията от пет композиции за първи път пренася блясъка на прочутите ѝ изпълнения на живо отвъд сцената. Записан през април 2026 г., по време на разпродадените ѝ концерти в джаз клуба Blue Note в Лос Анджелис, Live At The Blue Note L.A. пр",
-        "date": "2026-11-08T04:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1242240-samara-dzhoy-idva-v-sofiya-broeni-dni-sled-premierata-na-parviya-si-kontserten-a",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14039504/Digital_SamaraJoy_LiveAtTheBlueNoteL.A._Album.jpg"
+        "title": "Висока активност, но без избрани: Съдиите отново гласуват за ВСС",
+        "description": "Над 82% избирателна активност на първия тур, но нито един от 21-те кандидати не събра необходимата подкрепа",
+        "date": "2026-11-08T07:27:53+00:00",
+        "link": "https://dnes.dir.bg/temida/visoka-aktivnost-no-bez-izbrani-sadiite-otnovo-glasuvat-za-vss",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/25/3040174/384x216.jpg?_=1792880579"
       },
       {
         "title": "Tesla спира производството на Cybertruck - Новини СЕГА",
         "description": "",
-        "date": "2026-11-08T04:28:12+00:00",
+        "date": "2026-11-08T07:26:54+00:00",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1hVWm9HMFRPZmluSGZlamV1OUJvbmJ6YWRMMXVqTVFjejVlN1ZNSDluUUxQOFNwWEVCNDlISWZfc1k2V3hjQl9sZXBjZld1ZVlDTGtmdUIwckRrYzFIMXJ3bDlMSzQzN2xaUzgxeU5CeFEzRWF0LXhfaDJhR0tkN25DdUFwYzBD?oc=5",
         "source": "Новини СЕГА",
         "image": null
       },
       {
-        "title": "Патриарх Даниил ще отслужи света литургия в храм „Св. Архангел Михаил“ в пернишкото село Студена",
-        "description": "Патриарх Даниил ще отслужи света литургия в храм „Св. Архангел Михаил“ в пернишкото село Студена. Това съобщи за БТА отец Марио от църквата „Св. Иван Рилски“. Служението ще се състои днес, 8 ноември, когато се чества празникът на свети Архангел Михаил. „Голяма радост и чест за нас е, тъй като патриархът никога не е идвал в църквата в това село. Това е и повод за радост, защото храмът ще отбележи 180 години от изграждането си“, уточни свещеникът. ",
-        "date": "2026-11-08T04:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1242238-patriarh-daniil-shte-otsluzhi-sveta-liturgiya-v-hram-sv-arhangel-mihail-v-per",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14072847/20261104_102706.jpg"
+        "title": "Делян Пеевски подкрепи исканията на полицаите за по-високи заплати",
+        "description": "Настояваме правителството да осигури необходимите средства и да проведе реален диалог със синдикатите, казва лидерът на ДПС",
+        "date": "2026-11-08T07:22:29+00:00",
+        "link": "https://dnes.dir.bg/politika/delyan-peevski-podkrepi-iskaniyata-na-politsaite-za-po-visoki-zaplati",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/08/3045630/384x216.jpg?_=1794125762"
       },
       {
-        "title": "Въвежда се временна организация на движението по маршрута на трамвайна линия № 6",
-        "description": "На 8 ноември, неделя, се въвежда временна организация на движението на обществения транспорт във връзка с ремонт на релсовия път по маршрута на трамвайна линия № 6, съобщиха от пресцентъра на Столичната община (СО). От 04:30 до 18:00 ч. трамвайна линия № 6 ще се движи от ж.к. „Иван Вазов“ до ж.к. „Връбница-1“. След 18:00 ч. движението ще бъде възстановено по постоянния маршрут. За същия период ще бъде разкрита временна автобусна линия № 6ТМ от Це",
-        "date": "2026-11-08T02:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1241796-vavezhda-se-vremenna-organizatsiya-na-dvizhenieto-po-marshruta-na-tramvayna-lini",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/10618863/PSX_20250131_083149.jpg"
+        "title": "Татяна Дончева: Цацаров ще е главен прокурор в сянка, ако не се пребори Демерджиев",
+        "description": "\"В рамките на масонската ложа ще трябва да решат въпроса\", смята лидерът на \"Движение 21\"",
+        "date": "2026-11-08T07:09:49+00:00",
+        "link": "https://dnes.dir.bg/temida/tatyana-doncheva-tsatsarov-shte-e-glaven-prokuror-v-syanka-ako-ne-se-prebori-demerdzhiev",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2021/09/15/2251292/384x216.jpg?_=1631694175"
       },
       {
-        "title": "Съдиите не можаха да изберат нови членове на ВСС , ще се проведе повторно гласуване",
-        "description": "Няма избрани кандидати за членове на ВСС от квотата на съдиите при проведеното на 7 ноември гласуване, поради това ще се проведе втори тур, съобщи председателят на Избирателната комисия в Общото събрание на съдиите Бисер Троянов – съдия във Върховния касационен съд, От имащите право на глас 2275 съдии своя вот са упражнили 1870. Нито един от кандидатите за членове не е успял да събере повече от половината гласове. Вторият тур ще се проведе измежд",
-        "date": "2026-11-08T00:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242307-sadiite-ne-mozhaha-da-izberat-novi-chlenove-na-vss-shte-se-provede-povtorno-gl",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083806/BKK_0359+%283%29.JPG"
+        "title": "Потребителите заслужават справедливост при сделките онлайн",
+        "description": "Майкъл Макграт, комисар за демокрацията, правосъдието, върховенството на закона и защитата на потребителите, специално за Dir.bg",
+        "date": "2026-11-08T06:53:57+00:00",
+        "link": "https://dnes.dir.bg/na-fokus/potrebitelite-zasluzhavat-spravedlivost-pri-sdelkite-onlayn",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/06/3045383/384x216.jpg?_=1793996317"
+      },
+      {
+        "title": "Мощно земетресение разлюля Япония, десетки са ранени (видео)",
+        "description": "Трусът с магнитуд 5,7 разтърси централната част на страната, счупи прозорци и наруши железопътните връзки",
+        "date": "2026-11-08T06:39:59+00:00",
+        "link": "https://dnes.dir.bg/svyat/moshtno-zemetresenie-razlyulya-yaponiya-desetki-sa-raneni",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/08/3045629/384x216.jpg?_=1794124299"
+      },
+      {
+        "title": "Меси с поредно историческо постижение в САЩ - Gong.bg",
+        "description": "",
+        "date": "2026-11-08T06:11:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWko1RnRzV09BSzA4ZG1CbVc5R3V5TDFpeTdUM2ZYN05WV1JHSTUxOVQzUWJsWGJTbzBxek9ISlZLVXd3U1hWTndUUGJuR2t6UUFRV2lEWkMwRTExaFhCcElGQUt0NXpLUG1GcklLOG1CZFlWenVURHJ1N2tOQl9BYnBsYml4bGRaVkljWEJWY3NmY1k1ZGc?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
+        "title": "Ако Русия удари европейско посолство в Киев, може ли да последва ответна атака? - Dnes.bg",
+        "description": "",
+        "date": "2026-11-08T06:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFdCNG5Jb3RTWXNWWENUclBVTXpRMk9XSFZ4OWZJUzFiWGNkTFlqX2RPWVpzeXB3Z182aDBFenZ3czlJVF9pc0JJNUt6NTNxQjRqQ1ZyX2w3UHowNXNiMVRwcXR0U3A2eWh2UGpoYUtQMURYSHFoUlhtendkRF9FbzBLekZwZDZuLUZjbjdwZTJ2Y3Njd0tueDA4M2E4Yzl1bWRLVG5wS3Rna0kzVGltWHdfUm90Zjg?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
+        "title": "Архангеловден е, вижте кои са имениците - www.24chasa.bg",
+        "description": "",
+        "date": "2026-11-08T04:39:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CQVo0cmJIZ2cxR1M1d3M2LXBnTE9oU0Z1aThnQ1RFeERULTZDZUo0U2lBMUNYV1EzUEF3SXpydy1EbGhfMFZISmRYNnRZZ2JhdmR4eENuZlRLM3d5VWtrZQ?oc=5",
+        "source": "www.24chasa.bg",
+        "image": null
+      },
+      {
+        "title": "Под стрес и без достатъчна подкрепа: как работят директорите на училища в България - Dnevnik.bg",
+        "description": "",
+        "date": "2026-11-08T04:18:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFY3QmxYWnVNN194ZG1KYlBSeG5lM1o4Q1ZZWWNZU1FlZ0d2b0M0REZNTTV1aWVEdW43cHJmd3pPcnVWaE1qVy0zSk4tclgyWlgyWFJpcmZaWGhpNzJUQXIzMHVwVHExcGhwbHVscFpFVjJYcmVmNVR5RzFoQTd5ZkxPR0NYVjcybzc2N3M0N1VKZEtVbU0zbF82WDBxSXgzeUdjcjhtbw?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
       },
       {
         "title": "Четвърти уикенд на протести във Франция: По-малко участници, но сблъсъци и 360 ареста",
@@ -148,27 +100,11 @@
       },
       {
         "title": "Откриха три трупа в дома на стрелеца от Краков. Полша обяви двудневен траур",
-        "description": "При стрелбата на Главния пазарен площад загинаха шестима души, а 16 бяха ранени",
+        "description": "При стрелбата на Главния пазарен площад загинаха шестима души",
         "date": "2026-11-07T22:10:09+00:00",
         "link": "https://dnes.dir.bg/krimi/otkriha-tri-trupa-v-doma-na-streletsa-v-krakov-polsha-obyavi-traur-za-zhertvite-na-atakata",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/08/3045613/384x216.jpg?_=1794093327"
-      },
-      {
-        "title": "Зеленски предлага ново законодателство: Служителите на СБУ да декларират имуществото си - Dnes.bg",
-        "description": "",
-        "date": "2026-11-07T20:40:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRkYyLXhONU5qWWFjLVphaFRlTHZleENDdko4N281SVhyMDgtdldTTjNYRDV2bENQcEwzTkktajRsZ3hMaW5LWEdzLWF2VHByTGdqaVZoems4VDFBWTdJVmdYNmgtV1ZRT0FjcWktd1VKWGRCemY1VHFub2pEeDhrYzJ2anpNOUo3cXRIN1dCQmx2LWYtZTJ0TWRTQzE4QTJjZXRRVmRfTlVSbzdNVWxDdDRZRUUxallFcWpla21EQllJVDRI?oc=5",
-        "source": "Dnes.bg",
-        "image": null
-      },
-      {
-        "title": "Това е най-добрият мач, на който съм присъствал в България, каза треньорът на Балкан Ботевград Богдан Караичич след победата над Спартак Плевен",
-        "description": "\"Благодаря на публиката на двата отбора. Това е най-добрият мач, на който съм присъствал в България\", каза за медиите треньорът на баскетболния Балкан Ботевград Богдан Караичич след победата над Спартак Плевен като гост със 77:71 в мач от петия кръг на Националната баскетболна лига за мъже (НБЛ). Караичич каза още, че цялата атмосфера е била фантастична. Три минути преди края на мача нищо не е било ясно. За това, че отборът е натрупал много лични",
-        "date": "2026-11-07T20:19:48+00:00",
-        "link": "https://www.bta.bg/bg/news/sport/1242283-tova-e-nay-dobriyat-mach-na-koyto-sam-prisastval-v-balgariya-kaza-trenyorat-na",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14085947/20261107_175614.jpg"
       },
       {
         "title": "Стрелецът в Краков е 25-годишен поляк, броят на жертвите и ранените нарасна (снимки)",
@@ -195,15 +131,159 @@
         "image": null
       },
       {
-        "title": "Четиригодишно дете загина в плевенското село Гривица, блъснато от 19-годишен шофьор",
-        "description": "Четиригодишно дете загина в плевенското село Гривица, блъснато от 19-годишен шофьор на „Сузуки“, съобщи за БТА говорителят на Областна дирекция на МВР в Плевен Мариана Цветкова. Тя уточни, че трагедията се е разиграла след 15:00 ч. Ударът е бил фатален и детето е загинало на място. Шофьорът е правоспособен. Тестовете му за алкохол и наркотици са отрицателни. Шофьорът е задържан за 24 часа в Първо Районно управление на МВР в Плевен. В селото след ",
-        "date": "2026-11-07T20:03:33+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242281-chetirigodishno-dete-zagina-v-plevenskoto-selo-grivitsa-blasnato-ot-19-godishen",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14085923/20260417_095750.jpg"
+        "title": "19-годишен прегази 4-годишно дете в Плевенско, напрежението в селото ескалира",
+        "description": "Малчуганът е загинал на място, докато пресича в центъра на Гривица",
+        "date": "2026-11-07T20:00:25+00:00",
+        "link": "https://dnes.dir.bg/intsidenti/19-godishen-pregazi-4-godishno-dete-v-plevensko-naprezhenieto-v-seloto-eskalira",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/07/3045607/384x216.jpg?_=1794084549"
+      },
+      {
+        "title": "Тръмп обвини демократите в ''изнудване'' и разпореди разследване от Министерството на правосъдието - offnews.bg",
+        "description": "",
+        "date": "2026-11-07T19:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmtvWmhMZ0xIM2w3LVVKS0xPNzEwbzMzc0dzOERrdlpMMTVHMFc1RjhhbFpnX09VbkhTUmJxZjFqUWNQY0hGMWdFdHBSbEZsYko1aGpWRVdxQzN4c1lIWFIydmRtVmV4eElHcVRQand1b1lsMGFlZUtVd0tJZkgzVDhKYTB0RG9DRnhCSW95aXFBVFFxSkpNMXBZa1FDSUVtRU9qYTVR?oc=5",
+        "source": "offnews.bg",
+        "image": null
+      },
+      {
+        "title": "Осъдиха окончателно онлайн казино да възстанови загубите на пристрастен",
+        "description": "Мъжът ще бъде обезщетен с близо 10 000 лева, след като бил допуснат да играе, въпреки че е вписан като зависим",
+        "date": "2026-11-07T19:33:42+00:00",
+        "link": "https://dnes.dir.bg/temida/osadiha-onlayn-kazino-da-vazstanovi-zagubite-na-pristrasten",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2025/06/13/2886900/384x216.jpg?_=1749805629"
+      },
+      {
+        "title": "Манчестър Сити бра голям срам на \"Сити Граунд\" срещу Форест - Webcafe",
+        "description": "",
+        "date": "2026-11-07T19:24:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLV9DOFp0ZlFvRjFxNGxndU4tT2xNR3liWTdXdU1QYUNQeWRZR2E4cW5GemMtVWVzTm1qLUZjdks1SHMwek5LRzFUbVVKYjRIYWwtT3RhMXZoUXlYQTJHYS1ySGNVQlBCX1BPaVdVZXZVR3J1Z0pkQm94OFFDSXNRdUNzZWRsSnJZZklPdmtoRk8wWnJJaWhJSlNn?oc=5",
+        "source": "Webcafe",
+        "image": null
+      },
+      {
+        "title": "Глобиха Кирило Буданов, защото говори на руски по време на протеста край Киев",
+        "description": "Ръководителят на президентската канцелария нарушил езиковия закон, докато се опитваше да успокои напрежението около импровизиран военен затвор",
+        "date": "2026-11-07T18:32:00+00:00",
+        "link": "https://dnes.dir.bg/svyat/globiha-kirilo-budanov-zashtoto-govori-na-ruski-po-vreme-na-protesta-kray-kiev",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2024/07/14/2787858/384x216.jpg?_=1720924290"
+      },
+      {
+        "title": "Приключи гласуването на общото събрание на съдиите за членове на ВСС - Mediapool.bg",
+        "description": "",
+        "date": "2026-11-07T17:53:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUxndmRuZXFocWJEX0FNcGVOTVpHZGNBaEZBVktfVk13TklndFFaTFRpMjdObkxkX09SVTRnQ3dyM3VndWF2czg1WjNJcXBPNlhNOFhVaHFlcUtDUFRseUZfR0Rrb3lIZW91QTBKbWYwODR0VzV5VzJOLUxrVFFYSjAxV0NhRDRwV0F4SkprTzNCb2ZTb1g4VGtyZmdsMnZMd085UGhKSjF0UQ?oc=5",
+        "source": "Mediapool.bg",
+        "image": null
+      },
+      {
+        "title": "Един номер, две различни писма до ЕК: \"Да, България\" с нови твърдения за пенсионните вноски",
+        "description": "Скандалът с втория пенсионен стълб придобива ново измерение – „Да, България“ поставя под въпрос достоверността на официалната кореспонденция на страната ни с ЕК",
+        "date": "2026-11-07T17:43:09+00:00",
+        "link": "https://dnes.dir.bg/politika/edin-nomer-dve-razlichni-pisma-do-ek-da-balgariya-s-novi-tvardeniya-za-pensionnite-vnoski",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/07/3045576/384x216.jpg?_=1794076345"
+      },
+      {
+        "title": "Божанов обвини Гълъб Донев в подмяна на документи за втората пенсия - Mediapool.bg",
+        "description": "",
+        "date": "2026-11-07T17:40:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMTZzV2d2czZyVmN1TC1XZG5FYmI5MjdORy0yRzFYaTlIaUNZRURoWmh5bldWNU1zRUI0RU9peEtONUExdFgybVl6MllWdTNYUFJCQlhVTzdkSzZoYlV4aFhUYnFXUWh3NElpQ3E4T2NDay00YjJzZ0w4WTZ2aE1wZ09TbHVhWFV4RFdxMU5MdHJKYUdNM2FOUk1qRnlIVHdIM25jWkhSVVk?oc=5",
+        "source": "Mediapool.bg",
+        "image": null
+      },
+      {
+        "title": "Десетки чували с червен пипер изплуваха на плажа в Синеморец (видео)",
+        "description": "Появата им идва дни след като корабни контейнери бяха открити по Южното Черноморие",
+        "date": "2026-11-07T16:44:47+00:00",
+        "link": "https://dnes.dir.bg/burgas/desetki-chuvali-s-cherven-piper-izpluvaha-na-plazha-v-sinemorets-video",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/07/3045544/384x216.jpg?_=1794072908"
       }
     ],
     "Свят": [
+      {
+        "title": "Солени глоби дебнат шофьорите в Гърция. Една грешка струва 2000 евро - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-08T07:14:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOG9CbXZ1OW5RbkJmbEk5SFhYZWNRMFNyaFBxWFVjSktXbk5SSFdsbTMtUk01TVNwN0JCQjlVRUlTckZIdmRkZHNmX0pFNGxsNURiTVdCVlRLaGlRYmFQN1FURDVzQ055bWJickthblUwaEMwM0l3LW8zNWVHMXh5LWVIOHBzSVRJOW1IaGw1WWZ1UmJBU0Nla3JRNDJxSGxWdC1zS2ZucjFLd0xQRlppTUpVeWxCSGlZ?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "В свят на безнаказаност и разделение Архангеловден напомня за силата на справедливостта - Frognews",
+        "description": "",
+        "date": "2026-11-08T07:11:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkktQmxrMngtdHZoOHJkalU1U0p6Q2tJVVFWUUotY3NhamFTOXJLbXZZYkxQaHFnVWlCRE9iYmlmNU1LdWxkUFI2VjJkVXltbmRHcWhVczdJUm9Kel9SaDhCSkJBWWVQSkV0SVlEalRCRXJmMDFybEJ3MlNVRVU4U2tEek45WWpDeTQwY2JaUFlkaVNtSXZVRk94OWw4RV9ueTlsYVZ5SjRGbHQ5?oc=5",
+        "source": "Frognews",
+        "image": null
+      },
+      {
+        "title": "Оглавяваната от Саудитска Арабия коалиция заяви, че е прехванала две балистични ракети, които хусите са изстреляли срещу Рияд",
+        "description": "Оглавяваната от Саудитска Арабия военна коалиция съобщи, че силите ѝ за противовъздушна отбрана са прехванали две балистични ракети, с които йеменските бунтовници хуси са атакували Рияд, предаде Ройтерс. Рано тази сутрин службата за гражданска отбрана на кралството обяви тревога в саудитската столица, а в последствие в града се чуха няколко мощни взрива. По-късно властите заявиха, че опасността е отминала. Предупреждения за потенциални заплахи та",
+        "date": "2026-11-08T07:04:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242338-oglavyavanata-ot-sauditska-arabiya-koalitsiya-zayavi-che-e-prehvanala-dve-balis",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13746221/2a6bc546fb114eee9425962adec3d35a--0--6293567243a045af89a5aacf3c30936d.jpg"
+      },
+      {
+        "title": "Най-малко един човек бе убит при руска въздушна атака срещу Одеса, съобщи началникът на градската военна администрация - БТА",
+        "description": "",
+        "date": "2026-11-08T06:55:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUFGRmMzMWZIdzZ5U0kzSnB3cy1pT2J6d2JGMXBNWm05cXJMbWcxMkxXV3RWMW14b3J6VWkxOTNWekk4SEhXZy1lQ1RNT0QtT25jUks0VmZxU3Y5d0h0ejVBY181SXdwVnpHS1BCY0hub1ZHNGNGZTBxLWZidVRCcWIzcWNVNFFlLVRxclRxMmhIY0djRTN0ZVZjbDZPdEpwSTlXVEpDdGlVT2t5ZncxMUIwdFhOUjFuU2I2WA?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "От охранител в Ню Йорк и Лондон до художник, който рисува с шампионите – необикновеният свят на Василевса - bTV Новините",
+        "description": "",
+        "date": "2026-11-08T06:53:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY1JkcFU3N2tPNlRXY1llMENtaFBGMUNlVjhtcV9wTl9DQlZ6YjFqQXVVMTFYNGszckdQZU1PN2k5OEZpSVZnSHBsMEFYUlVEUHJxclp1eWhjaXNRVHhpaFc5aWlnaWMwNEJFXzljem93ZDFONncxcXZKY09Za1ZGOVRFYXlvZXY3TFJkek9McENUVy1GUnR3SC0zS1RxUS16RnRaZEdEOTFMbDJDR0tRSHVYZl9OeWZmcjlXa3puWkF4OG1jYXdKLUF5WVZLZnFfRm9WMEs1dmpZeUNqVmJvZUd1b0Z3TlJ6YmNkZjI3eUhDVGt2eU95dFhNRDA?oc=5",
+        "source": "bTV Новините",
+        "image": null
+      },
+      {
+        "title": "Днес православният свят отбелязва Архангеловден - Фактор",
+        "description": "",
+        "date": "2026-11-08T06:48:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CaUZaX3BoMnhrejZwQlM2RFZMUUhfcXRPX09GRHozM2s5U2VNN2xCdER3SVBZWFFJclhMN29qNHg5a1pCODZSdFpzeVlCS29rR3U5SUJRdjNPaFBpdnZZekhMOXBQVEF2UkZnUkVheVVmaEk?oc=5",
+        "source": "Фактор",
+        "image": null
+      },
+      {
+        "title": "Москва крие, хакерите разкриват! Нови числа за руските загуби в Украйна - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-08T06:46:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEFyZVNCOXRMVWRYSjBudUtDTmZUakpDVUotal9EclVXUG5XVjJrTGhkYWN2UGo1anVHSHVVRW9xSW9Jbm5ia1RMSzQ0X1ctZkk3bkw5ZEFuVmRkcVJvWm50UVkzOUhOVXB5TUtjSEdYbzlia01NTGNBT1o5TlFENGRzOTBLN215RnhYMDRhNHMxN0p0MW5ETl80bHZfbTl2aHZoUmhqaUhmbXBvQTB3eC15bzNEd3Vn?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Най-малко един човек бе убит при руска въздушна атака срещу Одеса, съобщи началникът на градската военна администрация",
+        "description": "Най-малко един човек беше убит тази нощ при руски въздушни удари по украинския пристанищен град Одеса, предаде Укринформ, като се позова на изявление на ръководителя на градската военна администрация Сергий Лисак. „Врагът отново атакува Одеса. Нанесени бяха и щети по инфраструктурни обекти“, пише в изявлението на Лисак, което беше публикувано в социалната мрежа Телеграм. „За съжаление загина един човек. Изказваме съболезнования на близките и родн",
+        "date": "2026-11-08T06:31:13+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242328-nay-malko-edin-chovek-be-ubit-pri-ruska-vazdushna-ataka-sreshtu-odesa-saobshti-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13745788/37bfe4f58ded4b34a11f34e458232bcf--0--93fc0d6864c148d58b8473a855008f40.jpg"
+      },
+      {
+        "title": "Ужасът в Краков се разраства! Откриха още мъртви тела - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-08T06:26:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVhaM0RmRnAxWElPMm4tY0dLN0RNZkRmMG80d2dwaDZxSkZkREtVZ2lEWDdIU01yWDdiVnVqRV9zWG54cGhHOGNZYTc0aXI0TnVCaDJmRjZpcmtTRVpCX28wc1hCRkJ5WC12Q1dIbkZCUEJBQURYSUZWNTgzLW5fdmFPc1Uwc0N4X3M0RmlSY193YlpzN2FLc2praWVBQkJtbFJabw?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Десетки пострадали при силно земетресение в Япония - БНР Новини",
+        "description": "",
+        "date": "2026-11-08T06:12:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXVUbWV4LW5ydE5GekpGRWJsZFFTTkwwV3R6NmEtajM1R290NGVybVI5OER2Si1xVm92NGt6QUY1T1BRQkpPTE9ud1NEZEVFdnR6bERVUEdtRVRrY3hibUpleWFnYWw0V3M4VlE0QWhOaElaNndEb3k4SGlVU3JpNjNDRG9CVk5XUmY4R05OQ2tiQQ?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
       {
         "title": "Иран екзекутира трима души по обвинение във въоръжени нападения по време на масовите протести през януари",
         "description": "Властите в Ислямската република екзекутираха трима души, обвинени в осъществяването на операции в полза на Израел и САЩ и във въоръжени нападения по време на протестите, които обхванаха страната в началото на тази година, предаде Ройтерс, позовавайки се на съобщения в иранските държавни медии. Официалното обвинение срещу Хасан Диобанд, Хамид Каземи и Реза Зангане гласи, че по време на размириците те са използвали срещу силите на реда огнестрелно ",
@@ -323,89 +403,17 @@
         "link": "https://www.bta.bg/bg/news/world/1242311-shestima-zaginaha-pri-strelba-v-krakov-ediniyat-e-britanets-sred-ranenite-sa-g",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14086437/a7b1089d94ee4f4cae5f6332f1111c98--0--49d2a11833834aef93a25a1cca0ca9a8.jpg"
-      },
-      {
-        "title": "Тръмп нареди разследване срещу демократите за предполагаеми заплахи с импийчмънт и наказания",
-        "description": "Президентът на САЩ Доналд Тръмп нареди на Министерството на правосъдието да разследва демократите за „заплашване на много хора“ с импийчмънт и други наказания. В публикация в социалните мрежи той определи действията им като „престъпно деяние“, без да представи доказателства, предаде Ройтерс. Демократите постигнаха убедителна победа над републиканците на междинните избори във вторник и ще поемат контрола над Конгреса през януари. Партийните лидери",
-        "date": "2026-11-08T01:36:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242301-tramp-naredi-razsledvane-sreshtu-demokratite-za-predpolagaemi-zaplahi-s-impiychm",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083301/e0b3c1add1db4833aba3d2b0a4fd3963--0--8a87214a1b8f41eb877fd53cde376b48.jpg"
-      },
-      {
-        "title": "Жертви на сексуално насилие в Боливия призоваха папа Лъв XIV за справедливост по обвинения срещу йезуити",
-        "description": "Организация на жертви на сексуално насилие в Боливия призова папа Лъв XIV да осигури справедлив и окончателен отговор по обвиненията за посегателства срещу непълнолетни, отправени към йезуити в страната, предаде Франс прес. Призивът беше отправен в събота, по време на посещението на папата в Уругвай, Аржентина и Перу. „Ние, жертвите, подадохме официални жалби до Боливийската епископска конференция, Апостолическата нунциатура и кардинал Торибио По",
-        "date": "2026-11-08T01:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242305-zhertvi-na-seksualno-nasilie-v-boliviya-prizovaha-papa-lav-xiv-za-spravedlivost-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14086521/155adde3e02547caa3e21d0b88163831--0--55bb94839ec84b5ebd1fb2b0091440f5.jpg"
-      },
-      {
-        "title": "Британски гражданин е сред жертвите на стрелбата в Краков, премиерът Анди Бърнам изрази съболезнования",
-        "description": "Британският премиер Анди Бърнам изрази съболезнования след потвърждението, че британски гражданин е сред шестимата загинали при масовата стрелба в полския град Краков в събота, предаде ДПА. „Шокиран съм и натъжен от ужасяващата стрелба в Краков. Мислите ми са с близките на загиналите, с всички ранени и с всички, засегнати от това безсмислено насилие“, заяви Бърнам. Той добави, че Великобритания изразява солидарност с народа на Полша. Началникът н",
-        "date": "2026-11-08T00:39:20+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242310-britanski-grazhdanin-e-sred-zhertvite-na-strelbata-v-krakov-premierat-andi-barn",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14081178/46dee459d077443f8567ba73ea63f436--0--a94a493ea02e44d2ac93567c4642af45.jpg"
-      },
-      {
-        "title": "Най-малко 33 души загинаха при въздушни удари край Сана, съобщиха здравните власти на хусите",
-        "description": "Най-малко 33 души загинаха, а 39 бяха ранени при въздушни удари край йеменската столица Сана в събота, съобщи контролираното от хусите Министерство на здравеопазването, цитирано от Ройтерс. Управляваната от групировката агенция „Саба“ определи ударите като саудитски. Ройтерс не успя да потвърди независимо информацията. Саудитският център за международна комуникация заяви, че проверява съобщението. Според здравното министерство ударите са поразили",
-        "date": "2026-11-08T00:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242302-nay-malko-33-dushi-zaginaha-pri-vazdushni-udari-kray-sana-saobshtiha-zdravnite-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14085213/88c865d28f7c4a5ebcf6b9c6685a1bcb--0--3b99990ae9ef4ee29cf1ab082f81fd5f.jpg"
-      },
-      {
-        "title": "Ирански медии съобщиха за експлозии в южната част на страната, Революционната гвардия съобщи за два горящи танкера",
-        "description": "Експлозии бяха чути в няколко района в Южен Иран в събота вечерта, включително на остров Кешм в Ормузкия проток, съобщи иранската държавна телевизия, цитирана от Ройтерс. Рано в неделя военноморските сили на Корпуса на гвардейците на Ислямската революция заявиха, че два петролни танкера са се запалили, след като се натъкнали на мини в протока. Според гвардейците танкерите се опитали да преминат по „неразрешен маршрут“. Не стана ясно дали тези инц",
-        "date": "2026-11-08T00:10:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242306-iranski-medii-saobshtiha-za-eksplozii-v-yuzhnata-chast-na-stranata-revolyutsion",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14064279/a0cbf5bcd9994876986121baf954fa59--0--7e8794e1630d4d7a970e034ae61a909a.jpg"
-      },
-      {
-        "title": "Трима души починаха от морбили в САЩ в рамките на една седмица",
-        "description": "Трима души са починали от морбили в Съединените щати само в рамките на една седмица, предаде ДПА След смъртта на дете в щата Ню Йорк жена е починала в Пенсилвания, а бебе – в Уисконсин. Това съобщиха днес Центровете за контрол и превенция на заболяванията. Според центровете от началото на тази година в САЩ са регистрирани общо около 5200 случая на морбили в почти всички щати. Това е повече от два пъти над броя на случаите за цялата минала година ",
-        "date": "2026-11-07T23:49:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242187-trima-dushi-pochinaha-ot-morbili-v-sasht-v-ramkite-na-edna-sedmitsa",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14078696/c008438286634def8843708cd3344bf0--0--eae139a80353484a974750cc46707185.jpg"
-      },
-      {
-        "title": "Американски военен самолет изведе от строя търговски кораб в Оманския залив, съобщи Централното командване на САЩ",
-        "description": "Американски военен самолет откри огън и изведе от строя търговски кораб в Оманския залив, който според Централното командване на САЩ се опитал да пробие американската блокада срещу Иран в събота, предаде Ройтерс. Корабът под флага на Сейнт Китс се опитал да напусне водите на региона след посещение в иранско пристанище. Американският самолет изстрелял прецизни боеприпаси по кърмата му, след като американските сили наредили на екипажа да напусне зо",
-        "date": "2026-11-07T23:26:20+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242304-amerikanski-voenen-samolet-izvede-ot-stroya-targovski-korab-v-omanskiya-zaliv-s",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14009644/1a73ddd99a5d414db923bc3bbd5ee4eb--0--9267084e342c4d3f8d9ca16e6496c8bc.jpg"
-      },
-      {
-        "title": "Двете панди, предоставени от Китай на САЩ, направиха дебют пред публика в зоопарка в Атланта",
-        "description": "Пандите Пън Пън и Фу Шуан, предоставени от Китай на САЩ за временно отглеждане, зарадваха посетителите на зоопарка в Атланта, в щата Джорджия. Това беше първата им публична поява след пристигането им в САЩ, предадоха американски медии и Франс прес. Двете панди пристигнаха през септември и се очаква да прекарат следващите десет години в тази зоологическа градина в южната част на страната. „Тези животни притежават уникалната способност да събуждат ",
-        "date": "2026-11-07T23:20:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242229-dvete-pandi-predostaveni-ot-kitay-na-sasht-napraviha-debyut-pred-publika-v-zoo",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14082384/552af4e1de7344caa26e08130a835093--0--5a53ea9cf09d4e33bba1ad801a16d343.jpg"
-      },
-      {
-        "title": "Земетресение с магнитуд 5,7 разтърси Централна Япония, най-малко 20 души са ранени",
-        "description": "Земетресение с предварително определен магнитуд 5,7 разтърси Централна Япония рано тази сутрин. Най-малко 20 души са ранени в префектура Аичи, съобщи Киодо, позовавайки се на властите. Трусът беше регистриран в 01:04 часа местно време с епицентър в западната част на префектура Шидзуока и огнище на дълбочина около 40 километра, според Японската метеорологична агенция. В град Чита, префектура Айчи, силата на разклащането достигна горната степен на ",
-        "date": "2026-11-07T22:42:34+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242300-zemetresenie-s-magnitud-5-7-raztarsi-tsentralna-yaponiya-nay-malko-20-dushi-sa-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/5648791/0869c300a4174d2395a54c2f2b31a690--0--357b5fcef0fa403eb56c6284307db3ed.jpg"
-      },
-      {
-        "title": "Нов герой! Цяла Полша говори за младия полицай, ликвидирал терориста (ВИДЕО) - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-07T21:08:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUs2ZV82OU95V2ZZdm9yTzh6SUJKSzFyTmM0RmhvVjdPTUU2Slpyc2JfcFVrWkg3clQxR28xd3MxR0xXc1RWdnJwcHEyWjlhc2tJcGtpNmdRVUhVaVFvSFR5Rlktc1NNZjRIdXJXSmhBcTNlVnBVaEdyRE54dnlGOThWYXpEREFCWmtOY2QzZ25SU3ozR2UwR0NaMS00N3ppekdlb2xqUUhBTklvakFKT1VqRjdDVzhhNUxQdHlsdw?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
       }
     ],
     "Наука": [
+      {
+        "title": "В бюджета са заложени 49 млн. евро за фабрика за изкуствен интелект в България - Actualno.com",
+        "description": "",
+        "date": "2026-11-08T06:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEZIVGl4SFFSa1NKVVl1M2k0S3lvQmhmYXhKUmhBUmJ1cHZpaUZDNFRHQTNwSTB5SUpVOXYyR1ZWQndFUHdrSVNaLVJ5dzVGN1EzZ1RjSk11YjF4TU9TVE00NjByWXV6bUgyNTJVWmRjMFNSa3dteElrWUdXWE1KeW9zdUZ6Ri13LWFOYlZob0IwYjk1QnNPWU43REJOUzdtREtPeUtLbzQwZ0JybEhWS1daMWp5ZWR0NGtWdElEX19Gb1Z3NEsyLQ?oc=5",
+        "source": "Actualno.com",
+        "image": null
+      },
       {
         "title": "Теория за по-стара Вселена без тъмна материя и тъмна енергия премина ключови космологични тестове - БГНЕС",
         "description": "",
@@ -439,27 +447,11 @@
         "image": null
       },
       {
-        "title": "През 1962 г. САЩ са провели ядрен тест в Космоса - Фактор",
-        "description": "",
-        "date": "2026-11-07T16:35:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14cGtOcmRGUkh1ZjRCLXByejV3Q3J0b1ZlMEJXQlNHLXgzcjZSeTlNRXhpbExTa1AtSlIyX2cxVUxDVENXOFB0QzA3RmNnT0YtRDhmWi0tdjg2OGNDTjZvUlpUdlBJUk9obkgza3U3aENpQ0NXOXc?oc=5",
-        "source": "Фактор",
-        "image": null
-      },
-      {
         "title": "В деня на рождението на Мария Кюри: ЕК отбелязва 30 години подкрепа за европейската наука - ФОКУС",
         "description": "",
         "date": "2026-11-07T14:56:43+00:00",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOHV4Q2s5cmd5bFNpTVRXNG9tTzVxcnRxRGZ6VU5kWDhnbXY3WkJURTM1OWUzekJjOVRoWTRzSERIWk1LU20yV3F0UG1rTjEtYnNHaXdjYWc0NGY2N1BIdUVjSXg4cnBfV3hzUFhOWU9hTEhGb2JINGRkb1dmWWdNNERjTTlwS29SaWRzOE1CT3c1MGpWZGJHblJuZTRQSmdSQ0ZqUzdSaTFseTcwSHN1VERrUjR4Zmk4UEdOQWZHRTNJUlFwZi16YmVGWVJrdDlPRjlaYnE1ZjlsVGl6NlE?oc=5",
         "source": "ФОКУС",
-        "image": null
-      },
-      {
-        "title": "България инвестира 49 млн. евро във фабрика за изкуствен интелект през 2027 г. - Евроком",
-        "description": "",
-        "date": "2026-11-07T13:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNzZCb3MtZ0hSaUo1SEFZTkpTOHUwYUo2alRPNUNYWnE4V3VOajdweXdfZ1NBM25kMzNzd2FzS2wyQ0RDWVB0VjEwTFRvNGd4V2NaRW90by1NcE5wdFVXVmdRMS1FaFh0a0JHdE9zbkVoa0x1M1p0eDFvdXFNaEF6blFSNk1ieU9uejFTVWM2NFRQOEdlbUxuV1hkdlRnSzNEWWFfamRfR1o0UDhj?oc=5",
-        "source": "Евроком",
         "image": null
       },
       {
@@ -604,6 +596,14 @@
         "date": "2026-11-05T12:02:30+00:00",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVA4U0lET3FQY2hmXzM2SGdReFhfWnczT1dvRVJUTHZkVXNnYnRCWVVLZFY0Vms3X1g5RC03b1M1U0FRdW5Fb0FZNDdSenZ2X250M2tPYkNORlFVU2d4NmNrUFd0eERlbGhPdDlSM1RVTTFlVElXUkswbkh6N0xXODJsUURnVGdUQUVQSlR4eTg4UUZkeW1nNUlEbFJ0N0tKdENYZlBkY2MzWk5XbGRrVC1xZk9kdkNXWVE?oc=5",
         "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Българският научноизследователски кораб „Св. св. Кирил и Методий“ отплава за петата си мисия до Антарктида - MediaBricks",
+        "description": "",
+        "date": "2026-11-05T10:56:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0VyWWZ6N1p6aWo1TTlRZjJ1NVdXOFBPVUJmSXZkaEV2WVRjSW9yQTJxWVc0TFR2TWlFdVNQYjJSUXJrR29CYlZrVGVweHdKTWJodVVKN2hMMEQxc2hRS1VBc25ocWNCc3hJOGR2NjlfYTFWNkJhOEhReHpkZnROVktmYlBWQWJ1WFRtMkdJb3E4S2M5c0pNTmJ5QldiZ1ZQSDRwNU1FODNDY2FtSzNZZ1VRWW54YjJ5bmhwWWVRSmpfTlB2R1AtRg?oc=5",
+        "source": "MediaBricks",
         "image": null
       }
     ],
@@ -793,23 +793,31 @@
         "image": null
       },
       {
-        "title": "Увеличават ученическите стипендии с 20% през 2027 г., не са променяни от 2017 г. - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-11-06T11:53:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy13Qng1ZElCV2tJVlZCU0ZiRG8zZUZvNGc5ODVkejNXNGJXaHBOUHhsTDA0VHZRQW56T1pzeFo1NzZJVndtby1ldzhNTDdYRHN0RFlNdHVQVmJNVVR6LWdUM2tGTHVCQ2UxbmsxU3huZjY4WnlGQUFheHJpZXhmMnpCS1VTOFBSRVhwQjlkODU2Rk1CbnduYWxWZ0xkZjdpOWFQWnYtNTNNc0E?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
-      },
-      {
         "title": "МОН с ключов ход за учителите в страната - Стандарт нюз",
         "description": "",
         "date": "2026-11-06T11:13:16+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWZMVjdmakRvR3pCYWxfNmtMOU43aDRiZ1dPUTZkcUNwbG0wTnpkM0tRb2hfX3U4VTI2UXppOUd4OTc1QXpWMFBIV0p1ZF91Unk2TGdYaHU5QlhxNVFVNjg0UDdHaFZsWkhzN3Jxb3JSeVdjNUhaZlZ1SlNSQlRXa2ZkLVhFMUtybVhFYnNVR2xJQ18ycFg5R2ZpVExjOW9NVUJQRkdnTktHQQ?oc=5",
         "source": "Стандарт нюз",
         "image": null
+      },
+      {
+        "title": "Как 35 ученици от Кирково разказаха за „Полицая в моите очи“ - 24rodopi - лидерът на новините в Родопите",
+        "description": "",
+        "date": "2026-11-06T10:15:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3lXNm5LUEVtWWpDcFZtTG1IZXFUMzkzN3VLaXUyZzlpRmRMaGE0dmdidElYcGpSZlRHUkFWV1pvRFZTTG9nbEgtSjRoWWRyaWd3dG5zNS1LQ05RdnI4ZkFvczFEWmg1VGtPSXRKUzZqZ0NlaFlUaTR6Tkk0cXhrRjVRdkdVRDZzNFE?oc=5",
+        "source": "24rodopi - лидерът на новините в Родопите",
+        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "РУО – Благоевград все още е без старши експерти по математика и по информатика и информационни технологии - Вестник СТРУМА – Вестникът на югозападна България",
+        "description": "",
+        "date": "2026-11-08T07:03:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPN1UzOXBKSVpPOTNFNGpoOHljclVWVlpUandGY2VZZXI5N21qSWR6RHdhSmxNTnV2NjZhbERCbGcwNE9kUXM3MXZjUGJPdmU1RC04eVBIdldGN194V2xNWVU0dl9KQV84ZW9rVzllZGRFbDd0ZTBqd2dBX2hSa0ttMFdRT0NjX3REVWE0MUJwVnRDUUhFNk9iTUN6SzhjcVFYSGl1Y1k5b3lwdDMxWTg0eERaNkt5V044cHBMbEJtS2ZaSFhOeEJ6cTJ3RjBkdWZFVXlpNHpaeDhHM2dOcndpRmZjS0tiNWY5NGw1V2ZxMDg5ZGRjbnVldlI1Vnc1NlVvSlAtVTBzSlNsbk4wa0lHYmNiM0F6Q2NVSE5NMTViTXhiZlhoQjdrQTl6SDI0aERKRjBZd3pzOA?oc=5",
+        "source": "Вестник СТРУМА – Вестникът на югозападна България",
+        "image": null
+      },
       {
         "title": "Енергията зад дигиталната икономика - www.capital.bg",
         "description": "",
@@ -848,14 +856,6 @@
         "date": "2026-11-07T20:23:27+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTA0Rmp6SWthb1djVGpwbTZjMTZYUm9rWmYtSzB1aVFGYkZpZ2dfVEx4ZFJLcWxJWTFPbGUwRU1rQUlReUJXd190aW9sWGpYVDJoLVMybXlFXzI5T0JSM2VxQ2w1NkZJZzNtMUFvVXFIRHc1SFpOMl9Ec2Rlb0pIZW43WEFDSnZZcmh1TmVKamVBcXJibU9hc21xd3RfTUpM?oc=5",
         "source": "NewsPoint.bg",
-        "image": null
-      },
-      {
-        "title": "България развива фабрика за изкуствен интелект и разширява участието си в космически и високотехнологични проекти - СайтЪТ",
-        "description": "",
-        "date": "2026-11-07T20:04:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSFh3VVhfc1FQOElnM1VubmJBYUdEQTllVVVmMXdpZXdlWm14cDZmU1lBSGhCLTFSbUlpLW5TbF9aTDJXSDN1cTh4d1FtTHdZc3ZSVmtLczV5emhMd0h2eFF2a1FvWnAwcTRDY3hLbmhrVHhqaDVUUFpJYlNJMHRXb0dKWko0NVZrdENqaVpaUlZ2N21SQldXclh0MEFaczRIVHVVYkVtNGdJSHZwYjlWNkJ1VWN3cjZaLVJaQzA5QldfeUtURU5oM1dJb1FEekhNWDlkNk1HNHpoZ9IB2gFBVV95cUxNSFh3VVhfc1FQOElnM1VubmJBYUdEQTllVVVmMXdpZXdlWm14cDZmU1lBSGhCLTFSbUlpLW5TbF9aTDJXSDN1cTh4d1FtTHdZc3ZSVmtLczV5emhMd0h2eFF2a1FvWnAwcTRDY3hLbmhrVHhqaDVUUFpJYlNJMHRXb0dKWko0NVZrdENqaVpaUlZ2N21SQldXclh0MEFaczRIVHVVYkVtNGdJSHZwYjlWNkJ1VWN3cjZaLVJaQzA5QldfeUtURU5oM1dJb1FEekhNWDlkNk1HNHpoZw?oc=5",
-        "source": "СайтЪТ",
         "image": null
       },
       {
@@ -1016,7 +1016,7 @@
     "България": {
       "fresh": true,
       "count": 25,
-      "feeds": 3
+      "feeds": 2
     },
     "Свят": {
       "fresh": true,
