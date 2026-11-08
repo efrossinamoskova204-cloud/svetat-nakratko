@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:28:04.055719+00:00",
+  "generatedAt": "2026-11-08T10:23:55.822586+00:00",
   "categories": {
     "България": [
       {
@@ -17,6 +17,22 @@
         "link": "https://dnes.dir.bg/obshtestvo/arhangelovden-e-pochitame-arhistratiga-na-tsyaloto-nebesno-voynstvo-ot-angeli-1",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2022/11/08/2413763/384x216.jpg?_=1667886417"
+      },
+      {
+        "title": "Докога ще растат цените у нас? Шефът на НСИ с прогноза за 2027 г. - Dnes.bg",
+        "description": "",
+        "date": "2026-11-08T09:03:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWxLdU9EVm5rS19YcENTS2hJaS0xOExBb2t1UjI4T1FRcGFDTG1VYmlRUEw5NTM3Z2k3Z2tTM3p5RTlzMWZYVzIwU3BLV1hTZ21vdTV0WF80dFZpelFZVWlQbEhmc3NfTmFLdnl0TWdHcHA2QnpkUDZ1ZlZmQW9RTUVFdVV0MEdrU09mUEg5UU9DcjlGM2xaOGhWeEcwTFdnNHI2MnZUWjFROEU?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
+        "title": "Нови разкрития след атаката в Краков: Родителите и сестрата на стрелеца са застреляни",
+        "description": "Сред жертвите на стрелбата на площава във втория по големина полски град е и британски гражданин",
+        "date": "2026-11-08T09:01:55+00:00",
+        "link": "https://dnes.dir.bg/svyat/novi-razkritiya-sled-atakata-v-krakov-roditelite-i-sestrata-na-streletsa-sa-zastrelyani",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/08/3045634/384x216.jpg?_=1794132096"
       },
       {
         "title": "Кирил Вълчев: Спечели идеята за президентство на съгласието, а не на барикадата",
@@ -41,14 +57,6 @@
         "link": "https://dnes.dir.bg/politika/chestta-na-pagona-i-politicheskiyat-natisk-kak-demerdzhiev-borisov-i-peevski-pozdraviha-politsaite",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/08/3045632/384x216.jpg?_=1794130655"
-      },
-      {
-        "title": "Честта на пагона и политическият натиск: Как Демерджиев, Борисов и Пеевски поздравиха полицаите - Dir.bg",
-        "description": "",
-        "date": "2026-11-08T08:45:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFR2dHoxckUyWVBFTWh0LTRSdHdsUERNVm8zMWxpTDBMVkkxUHlTdkhGSGU3dWNmZ1RYbUtraEVSRzYxbGw4ck1ES01IQnhGOUVNMmY5cFNBNEVsWTJLcE1ibkhhejg0TFlveTR0TnFwTUxxckJGV1FHRVpIbGdGSGpLVktwelVpMk5YeHdWVTBfc3ktNDZMMDAwV3JmSkhuRUZqXzhiZVF0emdOYm1uVDJuRjhjSEU5Rk5VMmJLdktBRUJpQ2c?oc=5",
-        "source": "Dir.bg",
-        "image": null
       },
       {
         "title": "Двама българи се спасили при кървавата стрелба в Краков",
@@ -131,6 +139,14 @@
         "image": "https://static.dir.bg/uploads/images/2026/11/08/3045629/384x216.jpg?_=1794124299"
       },
       {
+        "title": "Битката за първото място – Левски срещу ЦСКА - Dsport.bg",
+        "description": "",
+        "date": "2026-11-08T06:33:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10WW9oNEF4Y2kxM2lYUXNpRGNCaVdGZzQ5UUlleDRnQnBPNHFEMmxTQnNIX3EyS0V3YVRtZHpvVjlVOENZX0NQbEstQ3lrTjBENDRlYzl2UzhmbVRILXUtaURDNE9Nc2tBZnAyZzVPbHBMME5LZ05KcW1DbUZOZw?oc=5",
+        "source": "Dsport.bg",
+        "image": null
+      },
+      {
         "title": "Опасно мръсен въздух в София - www.24chasa.bg",
         "description": "",
         "date": "2026-11-08T06:13:00+00:00",
@@ -152,6 +168,14 @@
         "date": "2026-11-08T06:05:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFdCNG5Jb3RTWXNWWENUclBVTXpRMk9XSFZ4OWZJUzFiWGNkTFlqX2RPWVpzeXB3Z182aDBFenZ3czlJVF9pc0JJNUt6NTNxQjRqQ1ZyX2w3UHowNXNiMVRwcXR0U3A2eWh2UGpoYUtQMURYSHFoUlhtendkRF9FbzBLekZwZDZuLUZjbjdwZTJ2Y3Njd0tueDA4M2E4Yzl1bWRLVG5wS3Rna0kzVGltWHdfUm90Zjg?oc=5",
         "source": "Dnes.bg",
+        "image": null
+      },
+      {
+        "title": "Българи в Краков с първи разкази след стрелбата вчера - nova.bg",
+        "description": "",
+        "date": "2026-11-08T05:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPOWhXa1RvUFpBcVBPb1lveUpoOUYxd3hIRGRBNk1nOEI4RFZGZTNESGNKODdNa0dEZzRZY29yVElyZV96UENIcmRtc1pLa05xXzgyM2FzZ2s2NUpUZ010YUpMZkRFVnZldGxPTlBJZFdvREd0ZXoya0pUTDRVeUZ0enMyS1ZZQlFnT203ZkFZdFVtQVFZaWJGcklmRzctcmNJemZCNGVFVmljaS1za1JtbW8xQUlRSUZ3RVNmMWhUV1p5c2M2bnE2eXpYdEE3cVRRRHU1NG1QeER6MEFfbzBjYkNkbHg4ZWJjTHVMWkp4ekVHNEQyVGd2TG9VNlFMQ2dsZTA3NU1VZkgwRTVtUmw1Z3VlR1lubDMyOUhkb2hGeFNoZ0VHaVFuV1hDaXgtSkZUZjQ2Ym1nc1pEUU9jQWtvY21abUhMYTM0cGpUOFlLZXBlUkFhSXpwX1JXbnV1YlR1MzQwY3J0X2J0bzZPZVFvUlpBVVdCS1RsSDRsdGZhUkhZWDhCV2R5NXFBWE5yMVNmWXJpcXdPTWl0MU1jM0FZWDRWZ1BVbE5mdXlxZHI5ZVktMFJqX3c1bkJiVndhNEJkTFkyeHNwbUVYVXM?oc=5",
+        "source": "nova.bg",
         "image": null
       },
       {
@@ -177,33 +201,41 @@
         "link": "https://dnes.dir.bg/krimi/otkriha-tri-trupa-v-doma-na-streletsa-v-krakov-polsha-obyavi-traur-za-zhertvite-na-atakata",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/08/3045613/384x216.jpg?_=1794093327"
-      },
-      {
-        "title": "Зеленски обеща нови уволнения в СБУ след корупционен скандал - ФОКУС",
-        "description": "",
-        "date": "2026-11-07T20:28:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkQ2MlliWlA4Nl9LaTZHbWZVYmVVSjZ6dGxvRGFzV2lISFczR1hXa0xNN0Y2T1RfN3M5RUc3czNPUjM0UDk3dWF3TmgyUXpib1BWeVl3a3IwWjlaQjJnSUZKWjUxTU9MdFdHczVmSWluODdKYWJtN3g4RWhrTlRVNWNPTG81VVhsNl94S25tNDcyRVYtSkVRZTk3c25BZG5oM1RSNVJ5X3ROa1d6NFIzbXRKc3RTTDU2Q2c?oc=5",
-        "source": "ФОКУС",
-        "image": null
-      },
-      {
-        "title": "Стрелецът в Краков е 25-годишен поляк, броят на жертвите и ранените нарасна (снимки)",
-        "description": "Шестима души загинаха при нападението, а сред пострадалите има двама полицаи. Нападателят се увличал по крайнодесни идеологии",
-        "date": "2026-11-07T20:13:15+00:00",
-        "link": "https://dnes.dir.bg/svyat/streletsat-v-krakov-e-25-godishen-polyak-broyat-na-zhertvite-i-ranenite-narasna-snimki",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/07/3045599/384x216.jpg?_=1794081818"
-      },
-      {
-        "title": "Съперникът на Нетаняху ще получи мандат за съставяне на правителство - Dnevnik.bg",
-        "description": "",
-        "date": "2026-11-07T20:04:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGRPcUpTanZ1V0xkcmdSRkJUTHMwQnVFVnVmQzd0cm5Ba1FwVTBzdFFHWWM1cjBHeFRxbDgxaXBrWjA2ODEzcnMyUExkVWZFck43R1M4eHNDbThYUmpKRkppVjhPbldNeDZvSTJWMEc1eXJkLVhkN0JsbzNObTVWcEljSldxancza1JEYnpTcVluMGJWdlZLT2FpakprOWpETVA3Zw?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
       }
     ],
     "Свят": [
+      {
+        "title": "ПТИ: Нарендра Моди поздрави сънародниците си за най-големия празник в индуизма Дивали",
+        "description": "Премиерът на Индия Нарендра Моди поздрави сънародниците за днешния празник Дивали и заяви, че и тази година отново ще празнува заедно с военнослужещи от индийската армия, предаде индийската национална новинарска агенция ПТИ. Дивали е най-големият празник в индуизма, сикхизма и джайнизма и символизира победа на светлината над тъмнината, доброто над злото и знанието над невежеството. В този ден индийците поставят специална украса в домовете си, пал",
+        "date": "2026-11-08T10:15:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242403-pti-narendra-modi-pozdravi-sanarodnitsite-si-za-nay-golemiya-praznik-v-induizma",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14085894/11cefbdc7c134bec806f94940875b4e3--0--316f75fe2cb24b63b13a47bde43adeab.jpg"
+      },
+      {
+        "title": "Иранският Корпус на гвардейците на Ислямската революция нарече \"игра на думи\" плана на САЩ да затегне икономическия обръч около Иран",
+        "description": "Говорителят на иранския Корпус на гвардейците на Ислямската революция (КГИР) Хосейн Мохеби заяви днес, че няма как САЩ да постигнат целта си да блокират иранската икономика и да затворят иранските търговски пътища, защото Техеран се е подготвил за това и поддържа близък контакт със своите съседи, предаде Ройтерс. Изявлението му бе по повод на специалната оперативна група, наречена \"Желязна врата\" (Task Force Iron Gate), създадена от САЩ за против",
+        "date": "2026-11-08T09:51:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242386-iranskiyat-korpus-na-gvardeytsite-na-islyamskata-revolyutsiya-nareche-igra-na-d",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14028288/a0c69cab2d2341bb8b0288201da85f96--0--0f47b95ff8ef4a2a951bed2ac4b7dbc0.jpg"
+      },
+      {
+        "title": "Един човек беше убит при украински удар с дрон в руската Курска област, заявиха местните власти",
+        "description": "Губернаторът на руската Курска област, която граничи с Украйна, заяви, че един човек е загинал при украински удар с дрон, предаде Ройтерс. „Вражески дрон атакува работещ трактор в Первомайское. За наше огромно съжаление 40-годишен мъж загина на място“, написа Александър Хинщайн в социалната мрежа Макс. По-рано днес Хинщайн съобщи, че през изминалото денонощие украинските въоръжени сили са атакували с артилерия евакуираните райони в Курска област ",
+        "date": "2026-11-08T09:45:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242390-edin-chovek-beshe-ubit-pri-ukrainski-udar-s-dron-v-ruskata-kurska-oblast-zayavi",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/10828746/28a5913d4ef940b6b5b5156e36d8aa0e--0--a769f32efca54cd0920308b2dc044fa0.jpg"
+      },
+      {
+        "title": "Гъст дим се издига над рафинерията в Техеран, според ръководството причина е активиране на системите за изгаряне; не се съобщава за пожар",
+        "description": "Гъстият дим и пламъците, забелязани да се издигат тази сутрин над нефтопреработвателната рафинерия в Техеран, са причинени от активирането на системите за изгаряне след електрически и технически проблеми, съобщи пресслужбата на рафинерията, цитирана от агенцията на Министерството на петрола на Иран „Шана“, предаде Ройтерс. Рафинерията заяви, че системите са били активирани, за да се изпуснат излишните газове в съответствие с процедурите за промиш",
+        "date": "2026-11-08T09:23:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242391-gast-dim-se-izdiga-nad-rafineriyata-v-teheran-spored-rakovodstvoto-prichina-e-p",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11282138/9aca61149bb946b292ed2b69c87450ee--0--45d9d971fafc4f1784d33067a5bc7c72.jpg"
+      },
       {
         "title": "Небостъргачът „Арамко тауър“ в Рияд стана обект на „опит“ за нападение, съобщиха властите в Саудитска Арабия",
         "description": "Небостъргачът „Арамко тауър“ в Рияд стана обект на „опит“ за нападение, съобщиха властите в Саудитска Арабия, цитирани от Франс прес. Административната сграда на саудитския петролен гигант „Сауди Арамко“ се намира във финансовия район „Крал Абдула“. Агенция Ройтерс предаде, позовавайки се на очевидец и на три запознати лица, че по небостъргача има щети, причинени от проектил. Оглавяваната от Саудитска Арабия военна коалиция тази сутрин съобщи, че",
@@ -219,6 +251,14 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjZPUHJBcEk0MlNqWFVkZzN1SHR5czNLMk1JVHk1dUtmbmJyMWpBams4TTYyVGRNY1hlS0RoNFVQUUpHS3ZUd0s1UzJGVno4VUZvNDhaR2swd1hmcno5XzBZdjZqM05TekZPRVpjcUlRaloyMVJnQ3ZHZjVGZzhCWWRKZnVNdDZRajNjcldNaUEtZEFJa1hj?oc=5",
         "source": "Novinite.bg",
         "image": null
+      },
+      {
+        "title": "Запорожката АЕЦ е останала временно без външно електроснабдяване поради повреда, заяви назначеното от Русия ръководство",
+        "description": "Назначеното от Русия ръководство на окупираната Запорожка АЕЦ в югоизточната част на Украйна тази сутрин заяви, че атомната електроцентрала временно е останала без външно електроснабдяване, след като електропреносната линия „Феросплавна“ е била изключена от защитните системи поради повреда, предаде Ройтерс. В изявление, публикувано в подкрепяното от руската държава мобилно приложение за съобщения „Макс“, ръководството на централата уточни, че лин",
+        "date": "2026-11-08T08:59:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242383-zaporozhkata-aets-e-ostanala-vremenno-bez-vanshno-elektrosnabdyavane-poradi-povr",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/1393568/5f6c840e037042ed9d1efa92da88f17d--0--6c8f2e32c7894f3fb6c85c3a35ea4b8d.jpg"
       },
       {
         "title": "Трите тела, открити в дома на заподозрения за нападението в Краков, са на родителите и на сестра му, заяви говорител на полската полиция",
@@ -251,6 +291,14 @@
         "link": "https://www.bta.bg/bg/news/lik/1242317-posledniyat-lednik-v-algoyskite-alpi-zagubi-statuta-si-sled-goreshtoto-lyato",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13687568/5027eaf4d881487382895fc4d32e605c--0--b7dd895a32a04de4b398bcedd1afc087.jpg"
+      },
+      {
+        "title": "Хусите изстреляха балистични ракети към Рияд. Саудитска Арабия успя да ги свали - Dir.bg",
+        "description": "",
+        "date": "2026-11-08T07:38:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1IzY1FpY1lZeWU3bXRrdnVGWTNUV1dGQXJ4dmxXcXZKSVJLcVJqUHV1SGpDSUtURkMxdzdyRTctOGlPLUtyMEQ1S3NPU1o0MkI5ZExJYXRHekVZOTRzRFlWQXRZcGY0czRjLU5CT19ZSmRodXdkMzZWT184QlpnYXg0cnloMnQ5VmQxMWZITGs1d0FXUEZ6bVFzZWtoM1V6NEVIeld4Y2F2azVpV0E?oc=5",
+        "source": "Dir.bg",
+        "image": null
       },
       {
         "title": "Солени глоби дебнат шофьорите в Гърция. Една грешка струва 2000 евро - Стандарт нюз",
@@ -333,14 +381,6 @@
         "image": null
       },
       {
-        "title": "Десетки пострадали при силно земетресение в Япония - БНР Новини",
-        "description": "",
-        "date": "2026-11-08T06:12:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXVUbWV4LW5ydE5GekpGRWJsZFFTTkwwV3R6NmEtajM1R290NGVybVI5OER2Si1xVm92NGt6QUY1T1BRQkpPTE9ud1NEZEVFdnR6bERVUEdtRVRrY3hibUpleWFnYWw0V3M4VlE0QWhOaElaNndEb3k4SGlVU3JpNjNDRG9CVk5XUmY4R05OQ2tiQQ?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Иран екзекутира трима души по обвинение във въоръжени нападения по време на масовите протести през януари",
         "description": "Властите в Ислямската република екзекутираха трима души, обвинени в осъществяването на операции в полза на Израел и САЩ и във въоръжени нападения по време на протестите, които обхванаха страната в началото на тази година, предаде Ройтерс, позовавайки се на съобщения в иранските държавни медии. Официалното обвинение срещу Хасан Диобанд, Хамид Каземи и Реза Зангане гласи, че по време на размириците те са използвали срещу силите на реда огнестрелно ",
         "date": "2026-11-08T06:10:03+00:00",
@@ -363,49 +403,25 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU200bU1XYmJsVGh4MjBza0pLeDBDdEtBUHFzclN3cUZpQzhaOXVpWGRhaDJ4V2MwWjRZVTVLc0xaaTduM2hYRGZ4X25FbGh2d01QR0JickxLSnNzcXVuTTdyNzdfVWd1bG9KdGY1cVZyOVZhbjYtMFlGakNFYlQwLUR0ak9iazhRVmlzMEZtNG8zRU1wOEswaV8zLUUwekwycHVxMXVRdlNSYjFEWkJiUlowNmh4TEFQYm5zTXBDLWVNX3JjbG5GQXlHbw?oc=5",
         "source": "bTV Спорт",
         "image": null
-      },
-      {
-        "title": "Ердоган пристига днес в Азербайджан в опит да успокои напрежението между Анкара и Баку",
-        "description": "Турският президент Реджеп Тайип Ердоган се очаква днес в Азербайджан в опит да успокои напрежението между Анкара и Баку, изострило се след приемането на правила, ограничаващи носенето на ислямска забрадка в училищата, предаде Франс прес. Двете съседни държави, чиито официални езици са близки, поддържат тесни политически, военни, икономически и културни връзки, обобщавани с формулата „една нация, две държави“. Отношенията им обаче се влошиха през ",
-        "date": "2026-11-08T05:22:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242318-erdogan-pristiga-dnes-v-azerbaydzhan-v-opit-da-uspokoi-naprezhenieto-mezhdu-anka",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13901262/41a797434cff47f68752a576a3fb8f2e--0--b318b5aee5fe4f95a9402f73a5a78d89.jpg"
-      },
-      {
-        "title": "Политическа буря във Вашингтон! Тръмп прати правосъдието срещу демократите - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-08T05:07:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkZkY3d2Q1BSMl9LMlpmRHQzcXRGYXQzcTB6Wks2R1dmbnAxSl9wY3N2cDNhZ0hqQTJRQ1o2TFh2VVZ3RFk0RWkwRnFPc0NWQmxDZm84V29RR044RkVHaGZHcUNPaGd3S0lOb2FrQ2R2NVFCVjZ1RnM5NHJpTHZscG4xMnZiQTRzdmZSSHFZaTEtemxtQ24xS2JYbDAwb3o5WWp4bTdkUE9uQ0taZ3pwNlJlU2p1UlFIYjVBOWcyclZGMWM?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Триумфът на Каспийския лъв! Денят на победата на Азербайджан - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-08T05:01:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkhmRmRuQ1FNYW81MTBLdDJlWFN5TS1QaUxpOGVTMTRPWjdmdHFiUWotclJvOTJiX0RyV2xnUTA5dFVVeVI0WGJDNjhiSWN3Q2NWZkdSSVpXQXM4aHZ6NkxpQVJ3cDFhZktMYnRGX29KMUl5em1ValVZZWpQR1FnT0hPcGROMnEyMFk0RnNLUHFuRDd1S0lldWpFRmtfV1pUSW15SlU2M1pjd0c1YUE?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Писториус поиска решение до март 2027 г. за алтернатива на прекратената програма за изтребители",
-        "description": "Германският министър на отбраната Борис Писториус очаква до края на март 2027 г. да бъде взето принципно решение за алтернатива на прекратената германско-френска програма за изтребител от ново поколение „Фючър Комбат Еър Систем“ (Future Combat Air System – FCAS), предаде ДПА. Пред медийната група „Функе“ Писториус заяви, че държи германската авиационна индустрия да участва в бъдещия проект. Според него тя не би могла да го осъществи самостоятелно",
-        "date": "2026-11-08T04:55:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242315-pistorius-poiska-reshenie-do-mart-2027-g-za-alternativa-na-prekratenata-program",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14064229/50874c62fe944d13981251c555337594--0--d3d68823ef2f4e288d7506f8785ff430.jpg"
-      },
-      {
-        "title": "Отстраненият президент на Парагвай Сантяго Пеня беше задържан под стража",
-        "description": "Отстраненият президент на Парагвай Сантяго Пеня беше задържан под стража във връзка с банковия скандал, довел до импийчмънта му, предаде ДПА. Съдия разпореди той да бъде настанен във военна казарма в столицата Асунсион. „Трябва да се гарантира, че той ще остане в страната“, заяви съдия Умберто Отазу след съдебното заседание в събота. На пресконференция Отазу посочи, че има риск Пеня да избяга или да възпрепятства разследването. Съдията заяви, че ",
-        "date": "2026-11-08T04:42:32+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242320-otstraneniyat-prezident-na-paragvay-santyago-penya-beshe-zadarzhan-pod-strazha",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083251/2de1c7d19f4748fb8a65ef73272a9aca--0--85005d45aa754f2db4f7fda9b14c6d03.jpg"
       }
     ],
     "Наука": [
+      {
+        "title": "Над България текат невидими реки от водна пара - БНР Новини",
+        "description": "",
+        "date": "2026-11-08T10:16:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNjBNUXBvRHdYNHBvNW96Mjl5TDcwNkJMdU0tM1ZsS05XbWhOLWtFOVlUUktaa3RLbmkxaVIwU2FtXzBXbTFJWmJMRmplMnZZQkptRDRMalhpYldBM2Q2ai1kc2k5VXR2SGlJNERpTkZUSi1jSlNrcTJ4R18yMmlfZVZVLUQxY1JNdGg0?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Пластмасовите пакетчета чай отделят хиляди частици микропластмаса и вещества, влияещи на хормоните - manager.bg",
+        "description": "",
+        "date": "2026-11-08T10:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDBiZ0lYeG4ySi13QnBKcWJjN1ZaYk5UeGZSQ25RRlF5XzBzcnBHNU5TZ2tHelRyV1NkcXZzVVhRaE4tdEtWRTI0dm55ZV9LUW1jZDZvN01CSWR0VzFTdllQOFpyX1VsdmtaMnpYOGRjdkVFbURWUzViS1FIZjMtd01DcGQ3d0pVVmZwcXp2czZJZnV4UkZCenFfei0zUlJDaHFPbXVfdVdmbVBIUFpKY1BaZVIyektnTXdXYWpQRXhCUk5ka0pCTVdlYTh5WVR6TUE?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
       {
         "title": "Пробив в медицината: FDA одобри първото лекарство, което може да доведе до функционално излекуване на хепатит B - Наука и Здраве - manager.bg",
         "description": "",
@@ -589,22 +605,6 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QNGFBQkVhVEN4dnRwdEI3Z0JSVWFjTVFuZEhoT0NnU01DTmNsQ1poc192U2t4bTZJMUtiZk1iSEQybUw4OXZtSzhveDRlbkpTWmdyTFZqZGVMMHpPUWJrQ3Iyak05UmJ6Nm52c0ZjblI?oc=5",
         "source": "Книговище",
         "image": null
-      },
-      {
-        "title": "Русе събра ректори от Дунавския регион на международна конференция за образование и иновации - Novinata.bg",
-        "description": "",
-        "date": "2026-11-05T18:48:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0syWGRHZThxeVhMLVFLc0ROdWlBLWUxeDZ0d2pUUzJYRE5teUJwOWdJWUQ5VzhGOU9QTVBMYnc0NGVocUlUWDFPUll6MjA4ZWM3RUVaTGQydHZESWd0N0I4OEJlM3RDMGZaUmpVWndMZGJoeV83M3c0T2R1S3ZUV3k2bVVNa1VDY0VDNS1OajI3MVZ1cmx0YUs3dS1feFVEQ1hKc2ZIUHJUMjljY3hZV2tYQWJjQm8tZGxqdWdR?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "Форум \"Науката зад четенето\" и има ли наука в стратегиите за четенето у нас - БНР Новини",
-        "description": "",
-        "date": "2026-11-05T12:02:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTVA4U0lET3FQY2hmXzM2SGdReFhfWnczT1dvRVJUTHZkVXNnYnRCWVVLZFY0Vms3X1g5RC03b1M1U0FRdW5Fb0FZNDdSenZ2X250M2tPYkNORlFVU2d4NmNrUFd0eERlbGhPdDlSM1RVTTFlVElXUkswbkh6N0xXODJsUURnVGdUQUVQSlR4eTg4UUZkeW1nNUlEbFJ0N0tKdENYZlBkY2MzWk5XbGRrVC1xZk9kdkNXWVE?oc=5",
-        "source": "БНР Новини",
-        "image": null
       }
     ],
     "Образование": [
@@ -769,14 +769,6 @@
         "image": null
       },
       {
-        "title": "Увеличават ученическите стипендии през 2027 г. - Труд",
-        "description": "",
-        "date": "2026-11-06T12:14:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOWmpsUGYzSThCb1hJSHpxVzltYUQ5Y05wZmUwZVl3VHFqMU5jVnNOaEE5SXFOWUFjamRKRElZdFNubC1lZnRGQzBfeVpGUGFhbWJpQ2VyLU9RN01WY3p5akN6ajJPdFZ1NVpYMWxObnl5dDhWOVFUY2QzUHJTQ3NxX2E3NFRfa3J4R0VsUkk3ZjVDbzJkajVJc0xjV1d0QmJ2RHZnV0hnVTJjU3B4U1M4OGltX1Yzc2ZibDZGTEs1S002Q3VZVllwMWMtN0tKQTVVbEVZUFNSbTBmTjV4QnByVlF1S21jZVRjeWRGRGNGUU9TZjRLRk95aFExMldPQl8xM3YyX3BxNnRqRHJGTUx2Qlh6NzFMMC1mMkt0U1BCUTZYdzhrY3NwTm54M1FRUXpycHdFVk4ybUMtNXFxWXlscHZxTnVYNHNBVHdlOGROS0doVFNoZ251OGVpcFZOV2hTOWZncmQ5UFppMUF3?oc=5",
-        "source": "Труд",
-        "image": null
-      },
-      {
         "title": "Увеличават ученическите стипендии с 20% през 2027 г. - Moreto.net - Варна",
         "description": "",
         "date": "2026-11-06T11:56:00+00:00",
@@ -807,6 +799,14 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWU1alYwMkpucThkUDJyTlNMd0twZjZsMEFJaUdRcEQ1ZkdRSzhwZ3JBb0hReGZla3JRRUhJOS1ob1VIMXM2WEN6SWI0S0hKZ29ONVZFLWp0aXMtMWRmeEJSZjJDMlZ0T2RjSEF6NnNoUFlwczZWcGtNVHlSRlpTYlFiUmlsU3hkUTBuMkwydDlqOFJyUFRYbUlCcGF1SjJWd3JkRkxOeXc0MHpOUHNqdzhQSUtPUVA5cG9DNTliUnRMS2VhMGt5YzUtb2VMQm0xaF9nM2NRRnB5X1E?oc=5",
         "source": "БНТ Новини",
         "image": null
+      },
+      {
+        "title": "Невероятната ваканция на Берен от Чорбаджийско се отплати… - 24rodopi - лидерът на новините в Родопите",
+        "description": "",
+        "date": "2026-11-06T04:15:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3J5UDFkaHFlQnpBejJrLUJDRkRibGk3aWpxMTh5TXZWQThfQzR5bWdtcnJwTWNGdkRkWVYyTEEzaVF1ZnVZak5PdDRZb1QyMVZHLXhfenB1RGppRF9PNUo4WFlHdkdnMFY5MDg0QlR2UWlVOVJlRC1kMWpTNlhIUjRCaGZJSFhRcHc?oc=5",
+        "source": "24rodopi - лидерът на новините в Родопите",
+        "image": null
       }
     ],
     "Технологии": [
@@ -816,14 +816,6 @@
         "date": "2026-11-08T09:14:12+00:00",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYkdMNDFuOWFTVDg3V21rZ3kzUHg4ajlVdDYxUjdIRDhyYUluTG1WTklEVS1Wd1dJV09rdk05dHF5X2R3MzF5U3ZmMmFsRVpSU3lLODFKajBIWkVqZnRsV0dEaTJuZDU5NzhscVJiY3pCTVNJUjZzSU9GOE1PTllrYWpTbEJFVjhQdEpvekJHb3VGa01COWYzUE5MU2t4amd3dTlwZUR6MlBSWUxqc09BbA?oc=5",
         "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Ключова служба в авиацията използва дискети и стар Windows - TechNews.bg",
-        "description": "",
-        "date": "2026-11-08T09:08:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EaDBYSVZZVl9SQW80czBWX0FjcHdlaXBNMW5xMXZWVjduMHE5VXNLUTN5Uk50OUpoZjMxLTJzVTdiZHUyV1daNXY3R0tROV90?oc=5",
-        "source": "TechNews.bg",
         "image": null
       },
       {
@@ -875,14 +867,6 @@
         "image": null
       },
       {
-        "title": "Многомилионен проект ще използва изкуствен интелект за ранно откриване на деменция - БГНЕС",
-        "description": "",
-        "date": "2026-11-07T22:04:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0Y0X3RZWTJ6cU9MbGtoR3ZqNlVpM3o5b3V3THBJbG1fVEtBVnYwTkpEWUk2ZERkcl82Q3ZsWFZnRGtkQktVbWVzbzhnb2U5aWFUSVRZa253d24xbEROM0k0OFpRUUZwMFBxRU1YclFFeFM3NHFCbzhwYlNjQUwtRnMxNU9JLXRsUFVFZ0o5dENJUl9USGlaMXozemRRVFh2OXFMSndsaTU?oc=5",
-        "source": "БГНЕС",
-        "image": null
-      },
-      {
         "title": "България инвестира 49 млн. евро във фабрика за изкуствен интелект през 2027 г. - NewsPoint.bg",
         "description": "",
         "date": "2026-11-07T20:23:27+00:00",
@@ -912,14 +896,6 @@
         "date": "2026-11-07T15:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnFndC1VU3IyVjRhRm5oNkxzS0ppYTBkdzUwdWk1clFjWDlDOU5zaTBQZEJrSm9HTVFUYV9nOWdGN3FDS29zY1pISG5qUFBpMDdHQUZKU283RVVldjhhcjFHanBUU19LSnV3c0d1amVxLTFmNzE4Qjl2WURWaUJRTEV5NUUwZ09GcUcyRXdIMUx2cG9paHNtNEswakt0UFhjRkt5RXg2Sm9EVUhD?oc=5",
         "source": "Epoch Times Bulgaria",
-        "image": null
-      },
-      {
-        "title": "България залага 49 млн. евро за фабрика за изкуствен интелект - Fakti.bg",
-        "description": "",
-        "date": "2026-11-07T13:43:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2llVlJaVjdOU2w4eG9ZR1N1RC1JVUl3a1p6cm9YUWRGVWRtYWVxRE9jckxGQWo0cndRRzVZSzZPTGVFdW1mTGRKejJKbWE5Mk9EUGJ3a3BCMzVRaDRfMW9BbnZFZGpUaGp5NklqT2FBRU95ejRZN2tZWGlrckFvUy00azMyMjdJVWhDanhUcHlRRkkyY0lJ?oc=5",
-        "source": "Fakti.bg",
         "image": null
       },
       {
@@ -1008,6 +984,30 @@
         "date": "2026-11-07T06:53:57+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamhidTE4WDVPMWZHREtNUzJMOUNqTnp4RXlMRWdHMUtfYzFzTE9BYng4bmFmcGt5N2U5dUtyQ1ZQN2NpbXBVZGU1QWtIOVZBTXZDeHRBOGlsR1hZM1diSklHaFRnVjFwWUdfWDBGZV9haFZvcGM3VFJjUHJmc2djaFkxVEVmT2h1d3EyMWZnMjZ4U29wb3h5TGJYWkR0M215ekJCQTNXc2lTQQ?oc=5",
         "source": "Таралеж: Истината има значение",
+        "image": null
+      },
+      {
+        "title": "Домът на Вазов в Сопот оживя с 3D технологии и непоказвани досега вещи - TrafficNews",
+        "description": "",
+        "date": "2026-11-07T06:37:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2FXZi1vZmtLWlE4YUxvNXJxNEVlb1ZDRDktMTNtblQ1VmNKdktjX1ptczdMbmVzS0VmcUJYMndEVS1BSFR0V3N4ZGQza0Y5V3VSeGtheDNndGQ4Tk9aakQ0NUFfWlpyYV9zM1JsdlhqaDFMWlRobW14MlB6WGhOOS1rUWVaTHhlbmRnaHhMdE9BM3FBSjRF?oc=5",
+        "source": "TrafficNews",
+        "image": null
+      },
+      {
+        "title": "Домът на Иван Вазов оживя! Невиждани съкровища и уникални технологии в Сопот (ВИДЕО) - SafeNews.bg",
+        "description": "",
+        "date": "2026-11-07T06:23:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGVaU2Z5NFNRb1F3OHF2aGc5V0R4RTJyaXh6aTdJRWQxNXQ4LXFKZlVqUlJoUlAxMGhJQTlBa1VaNjJ0ZTI1RjZYYkZxOTJMNlN1d0U2S3RyUl9ZTlRJWFh6UVdTU25DZEFldEZGS1NlUFdwSDBmTlZNWkFHdTZ4RTg5bm1aenZnNk9YU1hvdkloZDZhTUlidFo4eGpjMXBYRC0wbDNzclBCeXM?oc=5",
+        "source": "SafeNews.bg",
+        "image": null
+      },
+      {
+        "title": "Европейската комисия обвини TikTok: Алгоритъмът може да пристрастява потребителите - NewsPoint.bg",
+        "description": "",
+        "date": "2026-11-06T14:25:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkU3Tl9qM3RCazdjaEluM2RPWlpXV0tSanZsaExNcUQxYVhPTlpuTnEwRHlaRENzU2pleWR4TTMtQS1EWkJodmliOVN3WGhnbWZiVGVBa01pRWoxOEJEZWx1U0xZUUNRYzVraFRPTDg5Rk8xTHVWd0lqWW02Qjh3TlpxQmpDQUxZS2Z1b2VIaUtiemJ5a0FN?oc=5",
+        "source": "NewsPoint.bg",
         "image": null
       }
     ]
