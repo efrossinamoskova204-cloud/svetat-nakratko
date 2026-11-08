@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-11-08T03:32:43.856992+00:00",
+  "generatedAt": "2026-11-08T04:35:29.501595+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Самара Джой идва в София броени дни след премиерата на първия си концертен албум",
+        "description": "Многократната носителка на „Грами“ – Самара Джой, идва в София броени дни след премиерата на първия си концертен албум – Live At The Blue Note L.A, информират организаторите от „БГ саунд стейдж“. По думите им колекцията от пет композиции за първи път пренася блясъка на прочутите ѝ изпълнения на живо отвъд сцената. Записан през април 2026 г., по време на разпродадените ѝ концерти в джаз клуба Blue Note в Лос Анджелис, Live At The Blue Note L.A. пр",
+        "date": "2026-11-08T04:30:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1242240-samara-dzhoy-idva-v-sofiya-broeni-dni-sled-premierata-na-parviya-si-kontserten-a",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14039504/Digital_SamaraJoy_LiveAtTheBlueNoteL.A._Album.jpg"
+      },
+      {
+        "title": "Tesla спира производството на Cybertruck - Новини СЕГА",
+        "description": "",
+        "date": "2026-11-08T04:28:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1hVWm9HMFRPZmluSGZlamV1OUJvbmJ6YWRMMXVqTVFjejVlN1ZNSDluUUxQOFNwWEVCNDlISWZfc1k2V3hjQl9sZXBjZld1ZVlDTGtmdUIwckRrYzFIMXJ3bDlMSzQzN2xaUzgxeU5CeFEzRWF0LXhfaDJhR0tkN25DdUFwYzBD?oc=5",
+        "source": "Новини СЕГА",
+        "image": null
+      },
+      {
+        "title": "Патриарх Даниил ще отслужи света литургия в храм „Св. Архангел Михаил“ в пернишкото село Студена",
+        "description": "Патриарх Даниил ще отслужи света литургия в храм „Св. Архангел Михаил“ в пернишкото село Студена. Това съобщи за БТА отец Марио от църквата „Св. Иван Рилски“. Служението ще се състои днес, 8 ноември, когато се чества празникът на свети Архангел Михаил. „Голяма радост и чест за нас е, тъй като патриархът никога не е идвал в църквата в това село. Това е и повод за радост, защото храмът ще отбележи 180 години от изграждането си“, уточни свещеникът. ",
+        "date": "2026-11-08T04:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1242238-patriarh-daniil-shte-otsluzhi-sveta-liturgiya-v-hram-sv-arhangel-mihail-v-per",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14072847/20261104_102706.jpg"
+      },
       {
         "title": "Въвежда се временна организация на движението по маршрута на трамвайна линия № 6",
         "description": "На 8 ноември, неделя, се въвежда временна организация на движението на обществения транспорт във връзка с ремонт на релсовия път по маршрута на трамвайна линия № 6, съобщиха от пресцентъра на Столичната община (СО). От 04:30 до 18:00 ч. трамвайна линия № 6 ще се движи от ж.к. „Иван Вазов“ до ж.к. „Връбница-1“. След 18:00 ч. движението ще бъде възстановено по постоянния маршрут. За същия период ще бъде разкрита временна автобусна линия № 6ТМ от Це",
@@ -9,14 +33,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1241796-vavezhda-se-vremenna-organizatsiya-na-dvizhenieto-po-marshruta-na-tramvayna-lini",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/10618863/PSX_20250131_083149.jpg"
-      },
-      {
-        "title": "Tesla спира производството на Cybertruck - Новини СЕГА",
-        "description": "",
-        "date": "2026-11-08T01:26:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1hVWm9HMFRPZmluSGZlamV1OUJvbmJ6YWRMMXVqTVFjejVlN1ZNSDluUUxQOFNwWEVCNDlISWZfc1k2V3hjQl9sZXBjZld1ZVlDTGtmdUIwckRrYzFIMXJ3bDlMSzQzN2xaUzgxeU5CeFEzRWF0LXhfaDJhR0tkN25DdUFwYzBD?oc=5",
-        "source": "Новини СЕГА",
-        "image": null
       },
       {
         "title": "Съдиите не можаха да изберат нови членове на ВСС , ще се проведе повторно гласуване",
@@ -185,25 +201,41 @@
         "link": "https://www.bta.bg/bg/news/sport/1242243-balkan-nadvi-spartak-pleven-kato-gost-i-ostana-nepobeden-v-nbl",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14085513/20261107_175546.jpg"
-      },
-      {
-        "title": "Изборът в Пловдив за членове на ВСС от професионалната квота на съдиите приключи с 87,4% избирателна активност",
-        "description": "Изборът в Пловдив за членове на Висшия съдебен съвет (ВСС) от професионалната квота на съдиите приключи с 87,4% избирателна активност, съобщиха от избирателната секция в Окръжния съд в града. Съдиите избираха шестима свои колеги от общо 21 кандидати. В секцията в Пловдив право на глас имаха 175 магистрати от Апелативния, Окръжния, Районния, Административния и Военния съд в областния град, както и от Районните съдилища в Асеновград, Карлово и Първ",
-        "date": "2026-11-07T18:14:15+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242225-izborat-v-plovdiv-za-chlenove-na-vss-ot-profesionalnata-kvota-na-sadiite-priklyu",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083659/20261107_080651.jpg"
-      },
-      {
-        "title": "Приключи гласуването на общото събрание на съдиите за членове на ВСС - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-07T17:53:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUxndmRuZXFocWJEX0FNcGVOTVpHZGNBaEZBVktfVk13TklndFFaTFRpMjdObkxkX09SVTRnQ3dyM3VndWF2czg1WjNJcXBPNlhNOFhVaHFlcUtDUFRseUZfR0Rrb3lIZW91QTBKbWYwODR0VzV5VzJOLUxrVFFYSjAxV0NhRDRwV0F4SkprTzNCb2ZTb1g4VGtyZmdsMnZMd085UGhKSjF0UQ?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
       }
     ],
     "Свят": [
+      {
+        "title": "Какви са възможностите пред Гади Айзенкот за съставяне на правителство в Израел",
+        "description": "Бившият началник на израелската армия Гади Айзенкот получи първата възможност да състави правителство след изборите на 27 октомври, които не излъчиха ясно парламентарно мнозинство. Говорител на президента Ицхак Херцог обяви решението в събота, предаде Ройтерс. Блокът на Айзенкот не разполага с необходимите места, за да управлява самостоятелно. Агенцията очерта няколко възможни сценария за преодоляване на политическата безизходица. Правителство на",
+        "date": "2026-11-08T04:35:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242316-kakvi-sa-vazmozhnostite-pred-gadi-ayzenkot-za-sastavyane-na-pravitelstvo-v-izrae",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14034544/d1ef7affeb0f45e79017c90b9f601855--0--a14fb43ed9d841788097a1b6eb0b83c4.jpg"
+      },
+      {
+        "title": "В Северен Израел бяха задействани сирени заради предполагаемо проникване на вражески самолет",
+        "description": "В Северен Израел бяха задействани сирени за тревога заради подозрение за проникване на вражески самолет, съобщиха израелските въоръжени сили, цитирани от Ройтерс. Военните уточниха, че подробностите се изясняват.",
+        "date": "2026-11-08T04:29:15+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242319-v-severen-izrael-byaha-zadeystvani-sireni-zaradi-predpolagaemo-pronikvane-na-vra",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/12663332/12ee1a32228541b7aa9aa60a10600dcd--0--5678974a3bbe4fa8ba57aae4008c4ddb.jpg"
+      },
+      {
+        "title": "ОАЕ спасиха 22 души след пожар на товарен кораб в Оманско море",
+        "description": "Националната гвардия на Обединените арабски емирства съобщи днес, че е спасила 22 души след пожар на товарен кораб в Оманско море, предаде Ройтерс. Всички спасени са граждани на арабски държави. В съобщението не бяха посочени причината за пожара, името на кораба и точните националности на спасените. Инцидентът стана на фона на засилено напрежение около корабоплаването в региона. В събота Централното командване на САЩ съобщи, че американски военен",
+        "date": "2026-11-08T03:57:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242314-oae-spasiha-22-dushi-sled-pozhar-na-tovaren-korab-v-omansko-more",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14068625/6f3339fc777f49ea82b8abe684300e72--0--47c7cfc007764f8fae6f01267c3c9694.jpg"
+      },
+      {
+        "title": "Мали прие около 160 000 души, върнати от Гвинея след операции срещу незаконния добив на злато",
+        "description": "Мали съобщи в събота, че е приела около 160 000 души, върнати от Гвинея след операции срещу незаконния добив на злато. Властите съобщиха за шест смъртни случая и определиха ситуацията като хуманитарна криза, предаде Франс прес. През последните дни в Мали пристигат безпрецедентен брой хора от района на Сигуири в съседна Гвинея. Притокът последва решението на властите в Конакри да забранят незаконния занаятчийски добив на злато в няколко зони в сев",
+        "date": "2026-11-08T03:33:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242312-mali-prie-okolo-160-000-dushi-varnati-ot-gvineya-sled-operatsii-sreshtu-nezakon",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13964262/b2197cf62b73481394fc68a82eaa8ba6--0--4feb749a617a44e49995a62f85e59f0b.jpg"
+      },
       {
         "title": "Корабен дневник на БТА - Научноизследователски кораб „Св. св. Кирил и Методий“ - пети ден - БТА",
         "description": "",
@@ -371,38 +403,6 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSUs2ZV82OU95V2ZZdm9yTzh6SUJKSzFyTmM0RmhvVjdPTUU2Slpyc2JfcFVrWkg3clQxR28xd3MxR0xXc1RWdnJwcHEyWjlhc2tJcGtpNmdRVUhVaVFvSFR5Rlktc1NNZjRIdXJXSmhBcTNlVnBVaEdyRE54dnlGOThWYXpEREFCWmtOY2QzZ25SU3ozR2UwR0NaMS00N3ppekdlb2xqUUhBTklvakFKT1VqRjdDVzhhNUxQdHlsdw?oc=5",
         "source": "Стандарт нюз",
         "image": null
-      },
-      {
-        "title": "Колко струват бомбените заплахи, които объркаха полетите в Европа - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-07T20:19:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXdIdkRmYlAxanl2WnRvNEYwYV8tUWR2Q21aRjNieEJ3V3dBeG5uVFl0Mzc1RkpLT3EzRnVRVUFzSERtNXpaZkFjd2pPMDYtaWNZRi10TUFrenQtQllvWGN4MDhHV00tMVUwbU9iX29qcThzVW41Q0o0ZUMtWWV2ZS1lam1JMVRfaXI5VWJwV0w4cEFVbUV2VTE2LWEzVXdCSHE0dGRwa0NzT2lpaFVYZQ?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Заподозреният за нападението в Краков се е увличал по крайнодесни идеологии. Един от убитите е чужденец, а сред ранените има петима чужденци",
-        "description": "Заподозреният за нападението в полския град Краков, който застреля шестима души и рани според последни данни 16 души, е бил увлечен по крайнодесни идеологии и е имал „изключително радикални възгледи“, заяви полският министър на вътрешните работи Марчин Кервински на пресконференция, предадоха световните агенции. Полският министър на отбраната Владислав Кошиняк-Камиш на свой ред определи смъртоносната стрелба днес като „терористичен акт срещу жител",
-        "date": "2026-11-07T20:13:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242284-zapodozreniyat-za-napadenieto-v-krakov-se-e-uvlichal-po-kraynodesni-ideologii-e",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14085580/501e8e2d3cb848e6a5897b33d3cf031c--0--8d406f147a684c44a4409416d2eb158d.jpg"
-      },
-      {
-        "title": "Тръмп кани ММА бойци за говорители в Белия дом - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-07T20:02:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWgyTjlvck9MMEgtMW1VLUVfVXRCanhtWHduc1JSVWNLaDRuMHZTRHExc1l4TVk3Nk15SV9rODZpVi1yTG5XT2w4OHJxU1hURjREODdaTXBOU1d5WG9jRDFHLTVnT3o2QmU2ZFRkVVA3RW43VUlwS3J3Z0dncHExN3BCaW9TblJYQVF2OUdET3cwTm9ReXFMc1lR?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Тръмп съобщи, че е предложил поста говорител на Белия дом на Дейна Уайт, който ръководи най-голямата организация за смесени бойни изкуства в света",
-        "description": "Президентът на САЩ Доналд Тръмп съобщи, че е предложил поста говорител на Белия дом на Дейна Уайт, който е ръководител на UFC, най-голямата организация за смесени бойни изкуства в света, предадоха световните агенции. Тръмп обяви това в социалната си мрежа Трут Соушъл, като уточни, че 57-годишният Уайт все още не е приел предложението. Публикацията му обаче беше споделена и от официалния профил на Белия дом в социалната мрежа Екс. „Дейна, моля те,",
-        "date": "2026-11-07T20:01:32+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242282-tramp-saobshti-che-e-predlozhil-posta-govoritel-na-beliya-dom-na-deyna-uayt-ko",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14085776/25229541df24459eb0aef19bb84c30eb--0--c1fd54bebcb14ef08a9788a2ae6d5f2c.jpg"
       }
     ],
     "Наука": [
@@ -609,19 +609,19 @@
     ],
     "Образование": [
       {
+        "title": "Под стрес и без достатъчна подкрепа: как работят директорите на училища в България - Dnevnik.bg",
+        "description": "",
+        "date": "2026-11-08T04:18:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFY3QmxYWnVNN194ZG1KYlBSeG5lM1o4Q1ZZWWNZU1FlZ0d2b0M0REZNTTV1aWVEdW43cHJmd3pPcnVWaE1qVy0zSk4tclgyWlgyWFJpcmZaWGhpNzJUQXIzMHVwVHExcGhwbHVscFpFVjJYcmVmNVR5RzFoQTd5ZkxPR0NYVjcybzc2N3M0N1VKZEtVbU0zbF82WDBxSXgzeUdjcjhtbw?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
         "title": "Всеки трети 15-годишен в ЕС се затруднява с четенето и математиката, създават училищни съюзи - marica.bg",
         "description": "",
         "date": "2026-11-07T16:30:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXdrMll5elNaMU5TQmQxbWNUQ2lwMi1uRlNDZXh1c2NhTzhfa25KbXNyOVN5bmdwdHBlaGNaSWJGQk8xclFsWXVDekNlWFRrS3UtcGVyUTVxT0E2MzdITmc3LVRjRkFXX3V2dUxhQVliSU9PQnhLVWtteGUwYnItX0p6SVdiSXItbEd2TlhpTjFISkJQMHVPZWJhMFBVWnFTd2pPOUlwZ0sxdzJoN2lDTjlqMXBXNGJydmUzRVBnRHk2d9IBxwFBVV95cUxNVGU4WHY3S1YwbE1WNlY5dUVIOE1aN2ozSmwzX0ZrbmtRbHJveXdUbVdsUHFwNWJlWkd0LVBZcUZqT1poSzdVVm96Qlg2Y2U5QlpONW9JUjNGTVM0OWozT0RmblpLOHFpVW9MeUx1OGlPNE55enZMZ1dRMGtkQ1FnbWNSa1hEWGZyMk1iMHN5U3lOdDZyTEotM3UzWmF4Qm8zSXRjeWt6NmpHY05WS3p4QTBydWVrVE1HR25JaURIMUFuV0RxM3k4?oc=5",
         "source": "marica.bg",
-        "image": null
-      },
-      {
-        "title": "В името на Йовков, с името на Йовков - 24rodopi - лидерът на новините в Родопите",
-        "description": "",
-        "date": "2026-11-07T15:40:34+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pTFpfb0owX0F2dndtazhick4zVWJONlptS2xrU3UwcmRoRWNYR1NVY29mQ0NTUXBDdDJjRW9Bc2hUN2ZyWmxlZm1ZbmVCUFcwS19KaWRvMEhTNVRxdlFWaGVtRG5ESzg?oc=5",
-        "source": "24rodopi - лидерът на новините в Родопите",
         "image": null
       },
       {
@@ -785,6 +785,14 @@
         "image": null
       },
       {
+        "title": "Увеличават ученическите стипендии с 20% през 2027 г., не са променяни от 2017 г. - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-06T11:53:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy13Qng1ZElCV2tJVlZCU0ZiRG8zZUZvNGc5ODVkejNXNGJXaHBOUHhsTDA0VHZRQW56T1pzeFo1NzZJVndtby1ldzhNTDdYRHN0RFlNdHVQVmJNVVR6LWdUM2tGTHVCQ2UxbmsxU3huZjY4WnlGQUFheHJpZXhmMnpCS1VTOFBSRVhwQjlkODU2Rk1CbnduYWxWZ0xkZjdpOWFQWnYtNTNNc0E?oc=5",
+        "source": "Таралеж: Истината има значение",
+        "image": null
+      },
+      {
         "title": "МОН с ключов ход за учителите в страната - Стандарт нюз",
         "description": "",
         "date": "2026-11-06T11:13:16+00:00",
@@ -799,17 +807,17 @@
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3lXNm5LUEVtWWpDcFZtTG1IZXFUMzkzN3VLaXUyZzlpRmRMaGE0dmdidElYcGpSZlRHUkFWV1pvRFZTTG9nbEgtSjRoWWRyaWd3dG5zNS1LQ05RdnI4ZkFvczFEWmg1VGtPSXRKUzZqZ0NlaFlUaTR6Tkk0cXhrRjVRdkdVRDZzNFE?oc=5",
         "source": "24rodopi - лидерът на новините в Родопите",
         "image": null
-      },
-      {
-        "title": "Ученици замениха класната стая с разсадник - Вестник Борба",
-        "description": "",
-        "date": "2026-11-06T09:10:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEVrdC15OWhHUEhGb2N3UE0xdHFqLTlPb2NkN0xiVHhFay1EUEwxRWxNc1FsNkZIay1GU1hFVHU3RkNGdW9OOGV5WkJiRy1PZEUyX3BvSXR2eWlEZjVLLWpKVFJqVi1jeHp0Z0VHWmNVMGNNcVpRSDd4dENDdk5sNWw2VDR0OEEx?oc=5",
-        "source": "Вестник Борба",
-        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "Европа и Япония обединяват сили в суперкомпютрите - TechNews.bg",
+        "description": "",
+        "date": "2026-11-08T03:56:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PYUJkYlpsdHlWenFadVNMY1Q5dEJITXljX3JVaHNOaURheHBaUktnaHE4dHlWLXNBZjBIXzlVTk4yQ3JYcUtGcVF2SnJ4LW5f?oc=5",
+        "source": "TechNews.bg",
+        "image": null
+      },
       {
         "title": "Зам.-министър Чакъров връчи дипломите на отличниците от Випуск 2026 на УХТ – Пловдив - Novinata.bg",
         "description": "",
@@ -995,19 +1003,11 @@
         "image": null
       },
       {
-        "title": "Научният форум Ratio ни отвежда отвъд Земята на 7 ноември - MediaBricks",
+        "title": "От традиционните занаяти до роботиката: „Панорама на уменията 2026“ събра над 300 участници в Панагюрище - Darik.bg",
         "description": "",
-        "date": "2026-11-06T15:20:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1JNQ0FkZGliRmZpWW5mNEJuVHR5M1hXTlcxeW5SVEtQVFUtOVM4QW9xNFQxSnR5TXJZYUpHcG9CUE1Xbk53djhMTUV2Z2JLM2Y2VjJfYmJlR1dwb1VHa0tLbTBkX3gzQ1pzQlZXR0h3Y2Vmd2lpdk5Yb19oUzY3TGlLcGkwd3ZpWE5hTTl3?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Европейската комисия обвини TikTok: Алгоритъмът може да пристрастява потребителите - NewsPoint.bg",
-        "description": "",
-        "date": "2026-11-06T14:25:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkU3Tl9qM3RCazdjaEluM2RPWlpXV0tSanZsaExNcUQxYVhPTlpuTnEwRHlaRENzU2pleWR4TTMtQS1EWkJodmliOVN3WGhnbWZiVGVBa01pRWoxOEJEZWx1U0xZUUNRYzVraFRPTDg5Rk8xTHVWd0lqWW02Qjh3TlpxQmpDQUxZS2Z1b2VIaUtiemJ5a0FN?oc=5",
-        "source": "NewsPoint.bg",
+        "date": "2026-11-06T14:53:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV0VObTZKVWFRV290elNNeGdLZmdkQ25hV0ZOZ3ZKUlFuSE1PM1BrdzhsR2tRYnAtTVFqODgxTU5DOXM1M3FPUXMyeERhWHJLdXE2ZU5POC1rbmZxekh4R0xNamI0bUpMWG1HQXRON1pQelhBV1Y2em9OTWxrX0x1Y2JLTWZmOE5kWXNPX3d6WDIyWXBLMm1WRkZJak04U2M5dTZ2TXcwVmszLUlicmltMHdmS0NYZ3J2SDNjeVVmZmlPOGJ5RnhvQUNsaGQ?oc=5",
+        "source": "Darik.bg",
         "image": null
       }
     ]
