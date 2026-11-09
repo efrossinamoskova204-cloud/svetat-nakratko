@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T01:20:50.854814+00:00",
+  "generatedAt": "2026-11-09T02:36:15.807104+00:00",
   "categories": {
     "България": [
       {
@@ -99,14 +99,6 @@
         "image": "https://www.bta.bg/upload/14089345/20260617_130903.jpg"
       },
       {
-        "title": "Ландо Норис спечели Гран при на Бразилия, Мерцедес си гарантира титлата при конструкторите - Gong.bg",
-        "description": "",
-        "date": "2026-11-08T18:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkVRd3JCUm5KeG5DWmdHSUY1WTJVb01IRXlrYmJqT2VVN3ZwS2FNaU4zXzRLQlptQVJZSHFKTU50WEhSenZHYlJXZnJyV0thdUJySk9UdmhyVTg3SXJZQ25xcllxQmFfWHVPTGNWeV9pWFlJLWY1dlRkbTREQjAtVVVXWWZoT1dueWtucWg0MlljNmhkbUdya2hqRDlrWlNPRjFLNDJfREI5aGg3WVR1WnBFcjhESVB0NDF1VjBoV0pHNHpCUkhPSThtSVM?oc=5",
-        "source": "Gong.bg",
-        "image": null
-      },
-      {
         "title": "Не Нетаняху, а Айзенкот ще се опита да състави правителство в Израел",
         "description": "Очаква се процесът да бъде труден",
         "date": "2026-11-08T18:36:41+00:00",
@@ -201,9 +193,41 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1242593-s-87-5-protsenta-izbiratelna-aktivnost-v-targovishte-priklyuchi-povtornoto-glasu",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14083744/20261107_080205.jpg"
+      },
+      {
+        "title": "При 83,33 % избирателна активност приключи повторното гласуване за членове на ВСС от квотата на съдиите във Видин",
+        "description": "Общо 25 от 30 съдии с право на глас от Окръжен съд – Видин, Административен съд – Видин и трите районни съдилища в областта упражниха правото си в повторното гласуване за членове на Висшия съдебен съвет (ВСС) от професионалната квота на съдиите. Това съобщи за БТА председателят на Пета избирателна комисия съдия Николай Витков. Изборният ден приключи без нито една недействителна от общо 25 пуснати бюлетини и при 83,33 - процентова активност на съд",
+        "date": "2026-11-08T17:33:32+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1242606-pri-83-33-izbiratelna-aktivnost-priklyuchi-povtornoto-glasuvane-za-chlenove-na",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14083974/20261107_100126.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Започва срещата на върха на ООН за климата COP31, домакинството на Турция поставя акцент върху свеждането на отпадъците до нула",
+        "description": "Срещата на върха на ООН за климата COP31 ще се проведе в Анталия от 9 до 20 ноември. Първото домакинство на Турция поставя акцент върху рециклирането, което да сведе отпадъците до нула, прехода към зелена енергия и продоволствената сигурност. В същото време пространството на събитието се превръща в най-голямото пространство в света за изкуство, посветено на климатичните промени - с арт инсталации, фотографии, музика и документални филми по темата",
+        "date": "2026-11-09T02:30:00+00:00",
+        "link": "https://www.bta.bg/bg/news/balkans/1242657-zapochva-sreshtata-na-varha-na-oon-za-klimata-cop31-domakinstvoto-na-turtsiya-p",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14089666/1000079154.jpg"
+      },
+      {
+        "title": "Тръмп предположи, че ще се срещне със Си Дзинпин и Путин на форума на АТИС другата седмица",
+        "description": "Президентът на САЩ Доналд Тръмп предположи, че ще се срещне с колегите си от Китай и Русия, Си Дзинпин и Владимир Путин, на форума на Азиатско-тихоокеанското икономическо сътрудничество (АТИС) другата седмица, за да обсъдят войната с Иран и ядреното разоръжаване, предаде Ройтерс. Преди да отпътува от Флорида за Вашингтон, той потвърди пред репортери, че ще участва в срещата на върха на АТИС в южния китайски град Шънджън на 18 и 19 ноември. Минала",
+        "date": "2026-11-09T01:56:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242686-tramp-predpolozhi-che-shte-se-sreshtne-sas-si-dzinpin-i-putin-na-foruma-na-atis",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11754818/c321ea25feb24da291a326bdb301b1e7--0--480a1ea7a7a54fcf9f0966797cefeebe.jpg"
+      },
+      {
+        "title": "Близо 40 украински дрона са били свалени над Ленинградска област, обяви губернаторът на руския регион",
+        "description": "Близо украински 40 дрона са били свалени над Ленинградска област тази нощ, обяви губернаторът на северозападния руски регион Александър Дрозденко, цитиран от ТАСС. Дрозденко написа в своя канал в приложението Макс, че до момента са били унищожени 38 безпилотни летателни апарата. Работата по сваляне на дронове продължава, добави той. В Ленинградска област се намират съоръжения за износ на зърно и петрол през Балтийско море, както и голяма петролна",
+        "date": "2026-11-09T01:33:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242685-blizo-40-ukrainski-drona-sa-bili-svaleni-nad-leningradska-oblast-obyavi-guberna",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/4279914/0b67547f94614879aac06e9aad1e2dfa--1--9ab02b59e19e4c44b08bb1dfbabd05d0.jpg"
+      },
       {
         "title": "Тръмп заяви, че се е пошегувал, че е предложил за говорител на Белия дом Дейна Уайт",
         "description": "Президентът на САЩ Доналд Тръмп заяви, че се е пошегувал, че е предложил за говорител на Белия дом Дейна Уайт - ръководителя на най-голямата организация за смесени бойни изкуства (ММА) в света - Ю Еф Си (UFC), предаде Ройтерс. \"Ще ви кажа, просто се шегувах\", отбеляза вчера пред репортери Тръмп и добави, че като част от шегата е публикувал снимки на известни бойци от Ю Еф Си като потенциални помощници на Уайт. Ден по-рано президентът на САЩ обяви",
@@ -245,14 +269,6 @@
         "image": "https://www.bta.bg/upload/14090554/1794167447-7783.jpg"
       },
       {
-        "title": "Русия и Украйна си размениха удари с дронове преди предстоящите в Абу Даби преговори с посредничеството на САЩ - БТА",
-        "description": "",
-        "date": "2026-11-08T22:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSHpYcXhnQlh4ak9yRzNsanllaENsaXRrNlA5U3ljcHI1eEdLQ3pIVmVadHFPTUpZMXVVcDZlU0dKY3BySmlfenFmOU42bEJZME8xc2ZhRk5Dcm1oalpQbEEyRkVldGd5aW03cGx1OFJ4anhsd2E2SHc1MnQ2WFVvaDBjazlpcWg0ejZVNE1ZZDJ3ODd5dl93RnJnT2tDTGhkbF9BdWRuSHhTVkVCRTBFeU56a3lKU2o1ZUhlZHhB?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Мерц е уведомил ръководството на ХДС, че ще номинира утре Илзе Айгнер за първата жена президент на Германия, казаха партийни представители",
         "description": "Германският канцлер Фридрих Мерц е уведомил ръководството на своя Християндемократическия съюз (ХДС), че ще номинира утре за президент Илзе Айгнер, казаха днес партийни източници, цитирани от ДПА. В петък германски медии вече писаха, че ХДС подкрепя нейната кандидатура. Ако бъде избрана, Айгнер, която сега е председател на регионалния парламент на провинция Бавария, ще стане първата жена президент в историята на Германия. На 30 януари Федералното",
         "date": "2026-11-08T21:54:00+00:00",
@@ -275,14 +291,6 @@
         "link": "https://www.bta.bg/bg/news/world/1242625-dvanadeset-chlenove-na-edno-i-sashto-semeystvo-byaha-ubiti-pri-napadenie-v-niger",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/3857423/a50fc9ae52f84d5793268711ab6041d2--0--a1d0de9fdecf4080a6e44456f8ad30df.jpg"
-      },
-      {
-        "title": "ОБНОВЕНА Седем загинали и 125 ранени във влакова катастрофа в Египет - БТА",
-        "description": "",
-        "date": "2026-11-08T20:24:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbS1FSERKdUlEYnpOaUV6SkZSdWdwQm1DSzRnTktRNkRjbzcyU0Z6TkxsN2IyVWc3YkVDQUFMVnJnc1Rvd0ZmM1NXRFZhQ2hreE40ZnEtNzBraDRyZGVOeUpDMndxdHpkcHNUSDhfSlNmWDBEYktCN09xTWlxSUlxSlFKeEVybklnTFMzN2drR1QyTVBYTnZ4NWZUdmVVYXoxNHc?oc=5",
-        "source": "БТА",
-        "image": null
       },
       {
         "title": "Фридрих Мерц възнамерява да номинира Илзе Айгнер за следващ президент на Германия",
@@ -349,22 +357,6 @@
         "image": "https://www.bta.bg/upload/13960653/7e86126c5b92420eacecb650d2bd6c29--0--9daa9e26b99d4caca6cf709a955c2ba1.jpg"
       },
       {
-        "title": "Хирурзи, обядващи близо до мястото на стрелбата в Краков, са оказали първа помощ на ранените",
-        "description": "Двама хирурзи, които са обядвали близо до централен площад в Краков, на който вчера нападател откри огън на случаен принцип, са се притекли веднага на помощ на пострадалите, предаде Би Би Си. В нападението бяха убити шестима души и ранени 15 души. Нападателят беше прострелян по време на конфронтация с полицията. В престрелката пострадаха двама полицаи, които бяха в кома, от която днес са излезли. Двамата хирурзи - професор Михал Пендживятр и д-р ",
-        "date": "2026-11-08T19:00:54+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242639-hirurzi-obyadvashti-blizo-do-myastoto-na-strelbata-v-krakov-sa-okazali-parva-p",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14088895/2eb25298484f41b6be59b73632f68105--0--2a80d8509e37439db9f419bbc63288f5.jpg"
-      },
-      {
-        "title": "Иран казва, че преговорите за край на войната са спрени за известно време след шока, предизвикан от американските избори",
-        "description": "Преговорите, които наскоро се активизираха с цел намиране на решение на конфликта в Близкия изток, са преустановени за известно време заради „шока“, предизвикан от тежкото поражение на лагера на Доналд Тръмп на междинните избори в САЩ. Това заяви днес иранският външен министър Абас Арагчи пред иранската държавна телевизия, предаде Франс прес. „От няколко дни няма никакви пътувания (на посредниците), а причината е шокът, който резултатите от избор",
-        "date": "2026-11-08T18:47:59+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242641-iran-kazva-che-pregovorite-za-kray-na-voynata-sa-spreni-za-izvestno-vreme-sled-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14009864/dc4544a557b44f9dbbb9ba1d892874eb--0--61ccd6f4d46e4a99ad130f8c04c84cbf.jpg"
-      },
-      {
         "title": "Как хърватски стартъп превърна гаражно хоби в бизнес за милиони с клиенти по цял свят - Money.bg",
         "description": "",
         "date": "2026-11-08T16:40:35+00:00",
@@ -402,6 +394,14 @@
         "date": "2026-11-08T13:01:42+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS2haamFZUlRSV2wyTGl6QUZpdjhZTlNxeVhLR0FUNkpjSWlKNFJCR2RDMlNIT01UdWt0VmI0MnJ5NG85X2s4UDFweUhfalNsVndmczNNOVZERUktcERTVWhRZVdhQ1pLS1lUUmZQU0pQbjhqY1JPRTZxcmxpaXQtTUQ2dkVTSkxYLWQ1ZGo4OXJTcHp0NlFWdFNqV0VPWWpaUjRLZEM5R19XQQ?oc=5",
         "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Цяла Полша се моли за своя герой! Кой е полицаят от кървавата атака в Краков - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-08T12:56:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVdCQ1ZhUWxxSUJGcFhQTm4yUy04dlNBWXlza2xlb2VmN0t6OWZ3czdlbGlHVmRFbUlKd2xneHhjZHNJLUtyNlpUcVFlSWEyWEw2V2dxdXhuR1h1UmpZZGhRTC1ZOU5PUV9uRTFjWDZoUGM0OGNpb2F6Z05uYUhFOFlsY0pzQktpaU42cHJuUG9qWWxLLXl1RzRtV2ZQcE51Q0M0dzNFUmZraUxhZVd3a2ZWcTg4UVUybVVyczJuODN4V3FD?oc=5",
+        "source": "Стандарт нюз",
         "image": null
       }
     ],
@@ -665,14 +665,6 @@
         "image": null
       },
       {
-        "title": "Държавата отпуска 1,2 млн. евро за десет български университета, участващи в европейски алианси - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-11-08T13:44:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQks4VDBUdWtScERWRkxyT3hOemJKc2JMWVdMNUVGbmx0YWNCNHIwTTdpTG1jNzZENi14SlBfdFBWUkdBeWE1T0V2UFc1WU9GTEIwaUNLREZYcEppTjg0UHZ3eTZHbjJvaTIxX3lTeVhmaHZBejc3N1EzN0d0WXNPUDJSc1k4cEt6Y28yLWgwWTZ4NXRlYm4xQUxmaTdpRHEtWDR2elFoNzlHNWdxaG5qWDJ2VkFTZjFRT3ZoZnlDTHFVel9w?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
-      },
-      {
         "title": "Обявени свободни работни места в област Силистра - Кворум Силистра",
         "description": "",
         "date": "2026-11-08T13:30:02+00:00",
@@ -807,6 +799,14 @@
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44NjJFa0xnTGhwNUd6al9jWG16TzVLYWJhRGEyUzRRcDd0bEJrZTRCUVJ5b3puVlN6b2F1WFlFM3RmME0ya0M5XzhLbzdEd9IBXEFVX3lxTE9Sa3NkT1BjTzhzSkVOWUNjWVl0dFVtbG5hX1pzSFNOZzhnR3VIbVR0aUs1cDl3SkRaMmZEWV9rTHJwRW9XLTNLRXE0RzBrb1Yxa0JVY0d0anpBNFlX?oc=5",
         "source": "Флагман.Бг",
         "image": null
+      },
+      {
+        "title": "Ученическите стипендии ще се увеличат с 20% догодина за първи път от 2017 г. - Mediapool.bg",
+        "description": "",
+        "date": "2026-11-06T15:48:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTlNMk9mNk5FQlZNd0J1QjlmTEZRN1duOFJta0c3YWFZZmozRGZMOFJPZmRuM1dPdVJwekR2eFdsRWhTSlI1aXVIU2xJelBSY3dQbTdKcjlCM1lVZm5yTFcwLXBfRHZ6ZmdkNGFjN1lTVWtRb0pLeDFnbXBoUlJMTVFaNUU2RmtMblJsNFZoQ2p0Ylp4dkpYaUhCSHpMQ2JFdW16R2JGZ1lDMDJ4M24zV2dFTXZ1M1RU?oc=5",
+        "source": "Mediapool.bg",
+        "image": null
       }
     ],
     "Технологии": [
@@ -923,6 +923,14 @@
         "image": null
       },
       {
+        "title": "Стартъпи за отбранителни технологии навлизат във веригата на доставки на автомобили и фракинг - Investor.bg",
+        "description": "",
+        "date": "2026-11-07T10:24:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0E5M1lrMy11ZmIzbE9ZYUVqM1A5SmRkQkEwck9tZ3hUd2JESzJBU1lrUjhFYUJOSlhhbFlxMDdYUUtjcWpTZDB2NFlQcmdEeDhiNHV5WnlUWVlpeWs3eXZtdVl4NGRwMlNHVnhkWDRYQVJ2YlRTZnBsaXhhdHFsZ2ExeDFzUHJNbDJCMTBWMkVsTkd0ODlDWktrc05UVWcwdG9LZ05IcmdlMWwyMVppRG9jekdyNXRtSUFUanBoMEVLTXA1akUwekdaSzNhaHBaVkJIMHo2Uk9ON180Sk5UcFJBZlA?oc=5",
+        "source": "Investor.bg",
+        "image": null
+      },
+      {
         "title": "Учители от област Силистра усъвършенстваха уменията си за работа с изкуствен интелект в майсторски клас - Кворум Силистра",
         "description": "",
         "date": "2026-11-07T09:52:09+00:00",
@@ -936,6 +944,14 @@
         "date": "2026-11-07T09:11:48+00:00",
         "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOZy05N3VGVndZS0lvbnBYWEViMVAtZHEzY3NlRHlLa1dpZ0ZWRWkwb1VuaXVxQmtqSUtuSm5RZUVUM2dpejZQeGVaZ2NrWk13WS1YTjYtNGlYbFRtdUdzdmVxaERNVFhlMGlpd0ZSRmc3b1V5NDhWUmNtNk9TS2c2LXZCMGxzZGx6WnRCaDh4LTZZVXJ1cGxTa1JWZ0pvbkZMXzBtUjMxaXdtOEFnQlItYml0T2RXQktZOU9HS01jaTR4NGRDRFFnTHAwYlBaZ28yNFY3cElDSmZIbFVZOTdwWjJrUFFLSDVJX1EyS0t2OGhYQmpBcE9pT2w0TUZpb08xMno2UVBJb09NcHlaZ3l1Mnc5NmF0U0d1TkwwVnhrRTUzUmNTeUs1c19DQ2Z1ZG9iNXpRUHZycENZN1pfdXRhLWlfbzh1eFpydEFWTlo1b1VuejVlT3NyWmhaNVRUaUphSEV3c3V4T0NsckpscWpVQU8tM1NWZEFBeTRLbmpyUTloZmpLNlRBeU1BX2hmZ1NOX1hzODF2SEJuV254ZTdPRWVxaW15LTJCQWxPckdsM1RRaGJ2RlZvXzJ1Y0l0YzBMQUJmMjVhS2YzeUdGdXVnNDNkazNETmFpeGlFenhleEdFRDFKQ3hVTXRpb3g0OURIdlZDb1NUUjJodXdnWVBxeFp2NkV5eXJCVEhFMHROVmFSbFlaQjVLRTYxeGhWdEZfYm9fYXpXdGc0ZFhDclRuZ0RDdUpPbXN0OW9ER1c2QQ?oc=5",
         "source": "iNews.bg",
+        "image": null
+      },
+      {
+        "title": "Заместник-кметът Пламен Панов разкри защо Пловдив стана първата община с изкуствен интелект - Plovdiv24.bg",
+        "description": "",
+        "date": "2026-11-07T09:09:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0ZHMDZzZjY2dHB0b1dFWUhRZGZPX3M1WDd3cENwV2tETFc4anRYU3BodG8yQW1iajFRVnhnUThmMGU3SkRZeGJJRVpsQTJvbnV0ZmRaeTZJMklSa2NnTkpiNm1xQnI3MGh6SFBrR09PRGU1cy0xVmt2ZGdpc1NhOVpVZXBUQk45RTg0T25uYS0zNERjX1doVnA2alB2VS1NY2dfOTdQZGF6QnVDZFZvOGFUSk1PNm1paHVlc2ZPM2lJN2NEMXBoYkZtWTdGbnJpM3FmREVhcDZFUzg?oc=5",
+        "source": "Plovdiv24.bg",
         "image": null
       },
       {
@@ -992,22 +1008,6 @@
         "date": "2026-11-06T09:06:39+00:00",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1hkcmRPWmdsdzlCblRZamZ4enVnNTRwRnotQlVpNFdqU1g2N0xaRDFmb2JHbFBzMzJTWExBOTdIbDhVSDkxMC04NTZreDNkZjV2eDh1NU9lMjlBWGx1Sy1aS0MyWFRmUFhtekhWVXk3Q2RudlprYWtMMUQ5WHMwWnMwak5Ed040N1JJbllMdXE?oc=5",
         "source": "NewsPoint.bg",
-        "image": null
-      },
-      {
-        "title": "От традиционните занаяти до роботиката: \"Панорама на уменията 2026\" събра над 300 участници в Панагюрище - ФОКУС",
-        "description": "",
-        "date": "2026-11-06T07:53:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMVBFZFhCeXpVVHNaSlV2MEgxeXZicGFZR0c2WFJ0cUJicnJnQ3dKbFlNR253YmxMclRjQzJfOGYzU1gyWFJseWgyUDYtUTg5eERnUmRaWktwUGJRbUJYQmpFNkNnUjl3cEZiMzlVN3pQcnVpRUpXZmFWOC1icVhjTy1LZmJrU3llcmJJSFg3SG9SU0gtbHVzVTJ5bXJGb0dWWkpFQlZDaTBRMkZnd09JNGNZdzFRVzQ2ZjNWSjRtUFV2dGd2aE5wTTNtY2xVNkxRd2xBTTNFQ2JHTmhVdlJDX0paNGZ4eTJnYVphYVRB?oc=5",
-        "source": "ФОКУС",
-        "image": null
-      },
-      {
-        "title": "Близо 58% от наетите в България получават възнаграждения под необходимата заплата за издръжка на живота - iNews.bg",
-        "description": "",
-        "date": "2026-11-06T07:49:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAZBVV95cUxOX1pmMS12OXAxZkt5VlN1SzhIWjl2d3N3ajBOS01rVWdfRm5pNi1TOHhrYXJJTTlpWVI1MnBjWWdnWWJZSk9nVHB2czAyLVdsb0tqNFZDWjBJRTFxVTc4Ql9OQWVobXdMN1lTdk10ZExTSEdXME1XeW1Kek5ScXQ0TUpVRUFvdlR1TThhaURxTUJ1djJicUg5cTNQLV9LeHpVV0ZvQWZSUzN3ZWJhWG03RVNwai05SFI1N1loVmhSUXI0ZXRUMGozbDlRX1FYLWRpQ2ZyWnJ4ZUhDV256czVZdWduWk5rZktPZWt0NnFOeWRnaDN4WVJKZlVDUnJGRzdXdG0zd3RQd04xV2JsWDhUZzU0cThTOEpJUmZnRm5mdlloQl9vekpRZkQ3eHFIcDF6RGk3TkZIcVc0bFM4VWxXejRWM2dNOHBsV3dUSkZlOEg0NDlpMmtlbTZpaTJlRFNrU3lqd0czN1JLVVJnNUhtZmFFSllOQmV0a3ljRzJ0WEc0VVhEVl9GaW5ISGVubWFUZHNLcVdPNHNpQjBXcm4wekF4TVBJcGgyd2lGenRxaF9LQUl2NUJxNzBPQW9CbnEzNlRTcW9DUGwtQzM1Vk5zbVltZEVGQUlVRUdxc0t1THVNRm9sZFUyaDE4cGw3SmRVUUhQdjF6TWRjdmhPZE91VEJTRUt4aUxfX1ZkaEpMSmZqaG5kdzVYVTUycnZCSHVRVE16SnRIVk5WeXA2cWtqUDZEMG80X29YWU9mODduUS1KNkVtYTFGVUpIbUlZZzZweXZxQWFaWWxXcUhLa2NEb0F5LTJta1VqNFFFR1N0SXdBZjRtbUdjbUtsOVU1WlUweXl3UktaVU9hM1hZeWlNVE54TDMxREFVOUVrcnRHTEdrU1ZVRjNiU1ZsNG9FaS16RkpiLVZWT2N6VTl0Yml2TVljMEdqQXA4dGdHVkRVcV9QV0xhOGxhX1J2U3kyVDdmbGZfSEVyaHE5dXlkTjlCRW1vbDUxOWhKckluTnBRMUppRXNGcFl1TEc2R1RpS1JqQmljVmNlZTloOEFLaWpfd1ZoVGxrSk9tdEdyaWNnMjREM2FaWXpTVHJ2d3U?oc=5",
-        "source": "iNews.bg",
         "image": null
       }
     ]
