@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:36:15.807104+00:00",
+  "generatedAt": "2026-11-09T03:36:23.813812+00:00",
   "categories": {
     "България": [
       {
@@ -17,6 +17,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1242674-sadiite-izbraha-svoite-shestima-predstaviteli-v-noviya-sastav-na-visshiya-sadebe",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14085408/20261107_180059.jpg"
+      },
+      {
+        "title": "Руски удар по хотел и жилищна сграда в Кременчук - Dnes.bg",
+        "description": "",
+        "date": "2026-11-08T21:28:13+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTFTVEVubHRETE5GWFREQlFlRVp5Sl9Lc1JJdEVxQ245aFJFdGE2Uml2RmpvQkV6T3RCQlNvb1hzTTBRZ1FYaTJQOFhIR3V0TDhLU2JPOE9wQXV2allJS2tlV1JaOVZZRWRhVGJjYmh0dFUzVVJrQ3ZrMWpzQ3d3eFJ3SU9JLXNBWVBFU25HVU5Zb0dYaGdzNGFyQ0I0eXVoREpFcDJ3?oc=5",
+        "source": "Dnes.bg",
+        "image": null
       },
       {
         "title": "Людмила Данова представи в Плевен литературното си творчество",
@@ -193,17 +201,33 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1242593-s-87-5-protsenta-izbiratelna-aktivnost-v-targovishte-priklyuchi-povtornoto-glasu",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14083744/20261107_080205.jpg"
-      },
-      {
-        "title": "При 83,33 % избирателна активност приключи повторното гласуване за членове на ВСС от квотата на съдиите във Видин",
-        "description": "Общо 25 от 30 съдии с право на глас от Окръжен съд – Видин, Административен съд – Видин и трите районни съдилища в областта упражниха правото си в повторното гласуване за членове на Висшия съдебен съвет (ВСС) от професионалната квота на съдиите. Това съобщи за БТА председателят на Пета избирателна комисия съдия Николай Витков. Изборният ден приключи без нито една недействителна от общо 25 пуснати бюлетини и при 83,33 - процентова активност на съд",
-        "date": "2026-11-08T17:33:32+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1242606-pri-83-33-izbiratelna-aktivnost-priklyuchi-povtornoto-glasuvane-za-chlenove-na",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083974/20261107_100126.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Държавният секретар на САЩ съобщи за напредък по \"архитектурата на сигурността\" след края на войната в Украйна",
+        "description": "Държавният секретар на САЩ Марко Рубио съобщи за напредък по \"архитектурата на сигурността\" за Украйна и Европа след края на войната, предаде Франс прес. Разговорите, които предстоят тази седмица, може да доведат до по-нататъшен прогрес, добави Рубио, без за навлезе в детайли. Той отбеляза, че гаранциите за сигурност са постоянна тема в дискусиите за края на конфликта. Държавният секретар на САЩ говори пред репортери преди да замине за срещата на",
+        "date": "2026-11-09T03:10:43+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242688-darzhavniyat-sekretar-na-sasht-saobshti-za-napredak-po-arhitekturata-na-sigurno",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14090541/6036beae406e4f07988722fecb46e23b--0--1d810253586b46579cb296f8efde6b80.jpg"
+      },
+      {
+        "title": "Корабен дневник на БТА - Научноизследователски кораб „Св. св. Кирил и Методий“ - ден шести - БТА",
+        "description": "",
+        "date": "2026-11-09T03:02:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jQUdzR29aZzdUcThGcGNEV3ExVjdKOXNWc1NXbko3dzU3QjVyc1BBX015TThmSU03c29QNjA0VHRSN3hkd2E4M09aRUU3SEU?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
+        "title": "Водената от Саудитска Арабия коалиция каза, че е унищожила в Сана платформа за изстрелване на ракети; хусите съобщиха за 63 убити при удари",
+        "description": "Водената от Саудитска Арабия коалиция заяви, че е унищожила в йеменската столица Сана платформа за изстрелване на балистични ракети, използвана от хусите за атака срещу Източната провинция на Саудитска Арабия вчера, предаде Ройтерс. Агенцията отбелязва, че този регион, който е саудитският икономически център, е станал през последните няколко седмици мишена на множество нападения от страна на проиранската групировка в съседен Йемен. Шестдесет и тр",
+        "date": "2026-11-09T02:40:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242687-vodenata-ot-sauditska-arabiya-koalitsiya-kaza-che-e-unishtozhila-v-sana-platfor",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14085202/06903aa71c0c4cb3a5d9428228528dc7--0--feca2516158540b38d8ba5d3001ec3e0.jpg"
+      },
       {
         "title": "Започва срещата на върха на ООН за климата COP31, домакинството на Турция поставя акцент върху свеждането на отпадъците до нула",
         "description": "Срещата на върха на ООН за климата COP31 ще се проведе в Анталия от 9 до 20 ноември. Първото домакинство на Турция поставя акцент върху рециклирането, което да сведе отпадъците до нула, прехода към зелена енергия и продоволствената сигурност. В същото време пространството на събитието се превръща в най-голямото пространство в света за изкуство, посветено на климатичните промени - с арт инсталации, фотографии, музика и документални филми по темата",
@@ -221,18 +245,26 @@
         "image": "https://www.bta.bg/upload/11754818/c321ea25feb24da291a326bdb301b1e7--0--480a1ea7a7a54fcf9f0966797cefeebe.jpg"
       },
       {
+        "title": "Над 100 украински дрона са били свалени над Ленинградска област, обяви губернаторът на руския регион",
+        "description": "Над украински 100 дрона са били свалени над Ленинградска област тази нощ, обяви губернаторът на северозападния руски регион Александър Дрозденко, цитиран от ТАСС. Дрозденко написа в своя канал в приложението Макс, че са били унищожени 113 безпилотни летателни апарата. Предупреждението за заплаха от дронове вече е отменено, уточни той. Дрозденко добави, че отломки от безпилотен летателен апарат са паднали в апартамент в град Кириши, на около 115 к",
+        "date": "2026-11-09T01:33:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1242689-nad-100-ukrainski-drona-sa-bili-svaleni-nad-leningradska-oblast-obyavi-gubernat",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/4279914/0b67547f94614879aac06e9aad1e2dfa--1--9ab02b59e19e4c44b08bb1dfbabd05d0.jpg"
+      },
+      {
         "title": "Близо 40 украински дрона са били свалени над Ленинградска област, обяви губернаторът на руския регион",
         "description": "Близо украински 40 дрона са били свалени над Ленинградска област тази нощ, обяви губернаторът на северозападния руски регион Александър Дрозденко, цитиран от ТАСС. Дрозденко написа в своя канал в приложението Макс, че до момента са били унищожени 38 безпилотни летателни апарата. Работата по сваляне на дронове продължава, добави той. В Ленинградска област се намират съоръжения за износ на зърно и петрол през Балтийско море, както и голяма петролна",
         "date": "2026-11-09T01:33:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1242685-blizo-40-ukrainski-drona-sa-bili-svaleni-nad-leningradska-oblast-obyavi-guberna",
         "source": "БТА",
-        "image": "https://www.bta.bg/upload/4279914/0b67547f94614879aac06e9aad1e2dfa--1--9ab02b59e19e4c44b08bb1dfbabd05d0.jpg"
+        "image": "https://www.bta.bg/upload/14058502/f608bef5ff604f94a747f2692bbf96cb--0--633eec169e5e44deadb4bab0a0017e8c.jpg"
       },
       {
-        "title": "Тръмп заяви, че се е пошегувал, че е предложил за говорител на Белия дом Дейна Уайт",
-        "description": "Президентът на САЩ Доналд Тръмп заяви, че се е пошегувал, че е предложил за говорител на Белия дом Дейна Уайт - ръководителя на най-голямата организация за смесени бойни изкуства (ММА) в света - Ю Еф Си (UFC), предаде Ройтерс. \"Ще ви кажа, просто се шегувах\", отбеляза вчера пред репортери Тръмп и добави, че като част от шегата е публикувал снимки на известни бойци от Ю Еф Си като потенциални помощници на Уайт. Ден по-рано президентът на САЩ обяви",
+        "title": "Тръмп заяви, че се е пошегувал, предлагайки за говорител на Белия дом Дейна Уайт",
+        "description": "Президентът на САЩ Доналд Тръмп заяви, че се е пошегувал, предлагайки за говорител на Белия дом Дейна Уайт - ръководителя на най-голямата организация за смесени бойни изкуства (ММА) в света - Ю Еф Си (UFC), предаде Ройтерс. \"Ще ви кажа, просто се шегувах\", отбеляза вчера пред репортери Тръмп и добави, че като част от шегата е публикувал снимки на известни бойци от Ю Еф Си като потенциални помощници на Уайт. Ден по-рано президентът на САЩ обяви в ",
         "date": "2026-11-09T01:00:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242684-tramp-zayavi-che-se-e-posheguval-che-e-predlozhil-za-govoritel-na-beliya-dom-d",
+        "link": "https://www.bta.bg/bg/news/world/1242684-tramp-zayavi-che-se-e-posheguval-predlagayki-za-govoritel-na-beliya-dom-deyna-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13736880/8fdff6fdeabf4d41873f8a649a5ba193--0--a140112f804446b8adae138960d9ca11.jpg"
       },
@@ -333,43 +365,11 @@
         "image": "https://www.bta.bg/upload/12022476/9174672609a34e28a2dabacee6fe652d--0--564f326302644f45a8b51b44e155e568.jpg"
       },
       {
-        "title": "Молдова въведе в експлоатация нова електропреносна линия, свързваща я със съседна Румъния",
-        "description": "Правителството на Молдова обяви днес, че е въведена в експлоатация нова електропреносна линия, свързваща страната със съседна Румъния и намаляваща зависимостта ѝ от руската енергия, предадоха Молдпрес и Франс прес. „Пуснахме в експлоатация електропровода Вулканещи – Кишинев, който свързва Молдова с Румъния и европейската електроенергийна мрежа“, заяви молдовският президент Мая Санду. Молдовският град Вулканещи вече беше свързан с румънската елект",
-        "date": "2026-11-08T19:30:22+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242653-moldova-vavede-v-eksploatatsiya-nova-elektroprenosna-liniya-svarzvashta-ya-sas-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/313188/Moldova-flag.jpg"
-      },
-      {
-        "title": "Водената от Саудитска Арабия коалиция твърди, че е унищожила платформа за изстрелване на балистични ракети на хусите в Сана",
-        "description": "Водената от Саудитска Арабия коалиция заяви, че е унищожила платформа за изстрелване на балистични ракети в столицата на Йемен Сана, която проиранските милиции хуси са използвали при днешен опит за атака срещу Източната провинция на Саудитска Арабия, предаде Ройтерс. Провинцията, която е икономическият център на Саудитска Арабия, е обект на множество атаки от страна на хусите през последните няколко седмици.",
-        "date": "2026-11-08T19:23:38+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242650-vodenata-ot-sauditska-arabiya-koalitsiya-tvardi-che-e-unishtozhila-platforma-za",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13964539/37ae28e86db64bf0a9d3a6f39005702b--0--492ec96548974555b4497eeeeae700f1.jpg"
-      },
-      {
-        "title": "Северният мост в Киев, повреден при руски въздушни атаки, е частично отворен за движение",
-        "description": "Северният мост в украинската столица Киев, който беше повреден при руски въздушни атаки, е отворен отново, като движението е ограничено, предаде ДПА, позовавайки се на пост на кмета на Киев Виталий Кличко. Мостът е с една отворена лента от левия до десния бряг на река Днепър, докато две ленти са отворени в обратната посока. Киев, град с население от 3 милиона души, е разделен от Днепър. Всяко прекъсване на мостовете сериозно нарушава живота в гра",
-        "date": "2026-11-08T19:11:37+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1242644-severniyat-most-v-kiev-povreden-pri-ruski-vazdushni-ataki-e-chastichno-otvoren",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13960653/7e86126c5b92420eacecb650d2bd6c29--0--9daa9e26b99d4caca6cf709a955c2ba1.jpg"
-      },
-      {
         "title": "Как хърватски стартъп превърна гаражно хоби в бизнес за милиони с клиенти по цял свят - Money.bg",
         "description": "",
         "date": "2026-11-08T16:40:35+00:00",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGNmX3R4bkg4ZUdHb2h1QVpuOTFIWmNCVC1ueEpGMFBOUm1yd09GT253d0oxa01CTGlLLXZCQmFkdGFLUWhpQUdfaVlvX3pCekdVNTV4SVA4bHBmWS16Ylp0amJOQ0NIbUNPOEU2eVRYV3d0Wi1GaktSTTBHR0pTYW5sRDlLeE9tbk1uN29FbjkxUkRKd0o0V2ZhQVQweWZyaWhFVlpNNTR0WEtUdUdLNHZkUDRDQnRTcm1PNg?oc=5",
         "source": "Money.bg",
-        "image": null
-      },
-      {
-        "title": "Два инцидента със стрелба в университет в САЩ, има загинал и трима ранени - Dir.bg",
-        "description": "",
-        "date": "2026-11-08T15:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEYtSTBRR3FOeUVDRHotY3FjZXZDUkxlWHVsb0VZSWRWMG5PY2kzMXNhbWVJbHJLTTJYTW96bS12bm9QQzA4MWluRFo2eHdsOEQzbzhTa3RZSEVDTkh0ZFdQZlpNQlBlcWpVTmgyZW95dWswTUhheElydzJvdnRhV2VQbERJbVBhdlBGckxFUzFCUDUzVXZfWDlFQkFZUm8tcnVn?oc=5",
-        "source": "Dir.bg",
         "image": null
       },
       {
@@ -609,6 +609,14 @@
     ],
     "Образование": [
       {
+        "title": "Варна - Синдикат „Образование“ - Академия за образователни лидери“ - БТА",
+        "description": "",
+        "date": "2026-11-09T03:20:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMV3dqX1JTQ2JseTMwWmlmV0lmbzNScHJuaEhwUXRYUFVuTFhVS1I2OXdrcmx3aVhGRlhkWjlKd05DRVhVWmxMQlU3V2hBaVE?oc=5",
+        "source": "БТА",
+        "image": null
+      },
+      {
         "title": "Бай Ганьо и неговите розови приключения в иновативен STEAM урок - уча в Пловдив",
         "description": "",
         "date": "2026-11-08T17:22:46+00:00",
@@ -721,27 +729,11 @@
         "image": null
       },
       {
-        "title": "Всеки трети 15-годишен в ЕС се затруднява с четенето и математиката, създават училищни съюзи - marica.bg",
-        "description": "",
-        "date": "2026-11-07T16:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXdrMll5elNaMU5TQmQxbWNUQ2lwMi1uRlNDZXh1c2NhTzhfa25KbXNyOVN5bmdwdHBlaGNaSWJGQk8xclFsWXVDekNlWFRrS3UtcGVyUTVxT0E2MzdITmc3LVRjRkFXX3V2dUxhQVliSU9PQnhLVWtteGUwYnItX0p6SVdiSXItbEd2TlhpTjFISkJQMHVPZWJhMFBVWnFTd2pPOUlwZ0sxdzJoN2lDTjlqMXBXNGJydmUzRVBnRHk2d9IBxwFBVV95cUxNVGU4WHY3S1YwbE1WNlY5dUVIOE1aN2ozSmwzX0ZrbmtRbHJveXdUbVdsUHFwNWJlWkd0LVBZcUZqT1poSzdVVm96Qlg2Y2U5QlpONW9JUjNGTVM0OWozT0RmblpLOHFpVW9MeUx1OGlPNE55enZMZ1dRMGtkQ1FnbWNSa1hEWGZyMk1iMHN5U3lOdDZyTEotM3UzWmF4Qm8zSXRjeWt6NmpHY05WS3p4QTBydWVrVE1HR25JaURIMUFuV0RxM3k4?oc=5",
-        "source": "marica.bg",
-        "image": null
-      },
-      {
         "title": "Пламен Панов представи общинската образователна политика и иновации на Национална конференция СНИМКИ - marica.bg",
         "description": "",
         "date": "2026-11-07T14:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZFlJM09GWUlFeEczWHBRX1NzdS03eDdrOXhrb1hvUXJUa3V3QUN2UUJtbDdRS3IxSTdMUW9LS2ZUMkQtalc3UjV0ZnRCTlp0VHZIZy0tYldRZzJLcEZWSHd5My0tSnNMVHVrd0t6YTd5OFR4bDFwVC1jbjNiVUJ4VldKcDE0d2Q2bkNqNXYyb2QzRkpFSTlycnYxWGVzWnVISUNpb3VzRFhXNXI5bzA3blBCUjEta3lqLUdjYi1pZTFMU2c5ZkpMM2diTEtxWWJkU1VGUzJB0gHbAUFVX3lxTE9hODZlRmtZeENNQU5iX1YyZFYtTUN1SFNxYW5KZUZTRjFzLVh0VXlvekVzNUxvYmg3d2pKcm9XYl9pQzVVNEFSRkxhLTgzVFlTbkdNWExrV3ZhWFQ2c044RldVSkhyNEh0VkdNV1RDUFlXdnptd3h1TVZzd3RaZjdKVTZZNjVKcWotQkZCWVl1THJGZ3hCblZrNlRLYkU5X29IUGU2U0F1YThHNk1KTTEwQWxrcnlLY3pLazhWdlVDMmV1NEpQcGtienpqSUZMcmF6RXdWekxzYlhnZw?oc=5",
         "source": "marica.bg",
-        "image": null
-      },
-      {
-        "title": "Всеки трети 15-годишен в ЕС има затруднения с четенето и математиката - Petel.bg",
-        "description": "",
-        "date": "2026-11-07T12:14:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0wzcXZHOF9WY3FUYlltWlhfalFzd05DbWxRSnJGMEgyN0lkWkJyU05scHRfNlVGN3I0Vm9QZm5ueDdWRFBLeU5HZ2ZORmxyVHN6czVJWDBVMS1ZakpZSU82MkdZTE9RbDBQOXdxc0VlZzFiTnlLY2pjUUcxZE8zaHdENk5OSnVOMGhXUVZabU1EcFVLd3lsYmd4ZEhhdw?oc=5",
-        "source": "Petel.bg",
         "image": null
       },
       {
@@ -806,6 +798,14 @@
         "date": "2026-11-06T15:48:42+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYTlNMk9mNk5FQlZNd0J1QjlmTEZRN1duOFJta0c3YWFZZmozRGZMOFJPZmRuM1dPdVJwekR2eFdsRWhTSlI1aXVIU2xJelBSY3dQbTdKcjlCM1lVZm5yTFcwLXBfRHZ6ZmdkNGFjN1lTVWtRb0pLeDFnbXBoUlJMTVFaNUU2RmtMblJsNFZoQ2p0Ylp4dkpYaUhCSHpMQ2JFdW16R2JGZ1lDMDJ4M24zV2dFTXZ1M1RU?oc=5",
         "source": "Mediapool.bg",
+        "image": null
+      },
+      {
+        "title": "Студенти преобразиха зеленото пространство пред Факултета по бизнес на БДУ - БНР Новини",
+        "description": "",
+        "date": "2026-11-06T14:32:14+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaElRQkJHX1AyQjZfYl9wNXBxc0FoMTBTSThxVmN6bmNvNFdZTmkyZHBJdE1aT1l4S3JLblM3VFhpU0sxTklGRUxPak1ZWHE5bktCWW1hQUg2aXMxN182Z1RyMnVqRXBYdXRIa0hSVTFrb0lvM1VBYnVZMm11VGV1al8zLWJNem9wYjlMQ0o0WlRVUWZQdnhzN3dUUjhqMVlCVm1SaXZGMWdteG9aalprdXh3?oc=5",
+        "source": "БНР Новини",
         "image": null
       }
     ],
@@ -923,14 +923,6 @@
         "image": null
       },
       {
-        "title": "Стартъпи за отбранителни технологии навлизат във веригата на доставки на автомобили и фракинг - Investor.bg",
-        "description": "",
-        "date": "2026-11-07T10:24:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0E5M1lrMy11ZmIzbE9ZYUVqM1A5SmRkQkEwck9tZ3hUd2JESzJBU1lrUjhFYUJOSlhhbFlxMDdYUUtjcWpTZDB2NFlQcmdEeDhiNHV5WnlUWVlpeWs3eXZtdVl4NGRwMlNHVnhkWDRYQVJ2YlRTZnBsaXhhdHFsZ2ExeDFzUHJNbDJCMTBWMkVsTkd0ODlDWktrc05UVWcwdG9LZ05IcmdlMWwyMVppRG9jekdyNXRtSUFUanBoMEVLTXA1akUwekdaSzNhaHBaVkJIMHo2Uk9ON180Sk5UcFJBZlA?oc=5",
-        "source": "Investor.bg",
-        "image": null
-      },
-      {
         "title": "Учители от област Силистра усъвършенстваха уменията си за работа с изкуствен интелект в майсторски клас - Кворум Силистра",
         "description": "",
         "date": "2026-11-07T09:52:09+00:00",
@@ -952,14 +944,6 @@
         "date": "2026-11-07T09:09:28+00:00",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0ZHMDZzZjY2dHB0b1dFWUhRZGZPX3M1WDd3cENwV2tETFc4anRYU3BodG8yQW1iajFRVnhnUThmMGU3SkRZeGJJRVpsQTJvbnV0ZmRaeTZJMklSa2NnTkpiNm1xQnI3MGh6SFBrR09PRGU1cy0xVmt2ZGdpc1NhOVpVZXBUQk45RTg0T25uYS0zNERjX1doVnA2alB2VS1NY2dfOTdQZGF6QnVDZFZvOGFUSk1PNm1paHVlc2ZPM2lJN2NEMXBoYkZtWTdGbnJpM3FmREVhcDZFUzg?oc=5",
         "source": "Plovdiv24.bg",
-        "image": null
-      },
-      {
-        "title": "Млад фермер: Животновъдството е труден сектор, но това е моят начин на живот - Agri.bg",
-        "description": "",
-        "date": "2026-11-07T08:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZGRTc1hIQnJFNkl3UkdlU0lRNzhoRWZpTXhfWGdVUnZoakVOUmJ2YmYyTTZEdzNUakNYVEFJV3IzRFdobWpkYVA2ZS0tOG9FU0dFM21tbWJKVmIxS3pxb1RqaEZ4Z3NCVGsxMTJuQnRZWTYzUE8zX2Y0QlFnd2trc3hKajhBLWZSMV9UalI3QlZLeHdRUkYxX054cXhxQWRq?oc=5",
-        "source": "Agri.bg",
         "image": null
       },
       {
@@ -987,6 +971,14 @@
         "image": null
       },
       {
+        "title": "От традиционните занаяти до роботиката: „Панорама на уменията 2026“ събра над 300 участници в Панагюрище - Darik.bg",
+        "description": "",
+        "date": "2026-11-06T14:53:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV0VObTZKVWFRV290elNNeGdLZmdkQ25hV0ZOZ3ZKUlFuSE1PM1BrdzhsR2tRYnAtTVFqODgxTU5DOXM1M3FPUXMyeERhWHJLdXE2ZU5POC1rbmZxekh4R0xNamI0bUpMWG1HQXRON1pQelhBV1Y2em9OTWxrX0x1Y2JLTWZmOE5kWXNPX3d6WDIyWXBLMm1WRkZJak04U2M5dTZ2TXcwVmszLUlicmltMHdmS0NYZ3J2SDNjeVVmZmlPOGJ5RnhvQUNsaGQ?oc=5",
+        "source": "Darik.bg",
+        "image": null
+      },
+      {
         "title": "Европейската комисия обвини TikTok: Алгоритъмът може да пристрастява потребителите - NewsPoint.bg",
         "description": "",
         "date": "2026-11-06T14:25:00+00:00",
@@ -1008,6 +1000,14 @@
         "date": "2026-11-06T09:06:39+00:00",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT1hkcmRPWmdsdzlCblRZamZ4enVnNTRwRnotQlVpNFdqU1g2N0xaRDFmb2JHbFBzMzJTWExBOTdIbDhVSDkxMC04NTZreDNkZjV2eDh1NU9lMjlBWGx1Sy1aS0MyWFRmUFhtekhWVXk3Q2RudlprYWtMMUQ5WHMwWnMwak5Ed040N1JJbllMdXE?oc=5",
         "source": "NewsPoint.bg",
+        "image": null
+      },
+      {
+        "title": "Близо 58% от наетите в България получават възнаграждения под необходимата заплата за издръжка на живота - iNews.bg",
+        "description": "",
+        "date": "2026-11-06T07:49:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAZBVV95cUxOX1pmMS12OXAxZkt5VlN1SzhIWjl2d3N3ajBOS01rVWdfRm5pNi1TOHhrYXJJTTlpWVI1MnBjWWdnWWJZSk9nVHB2czAyLVdsb0tqNFZDWjBJRTFxVTc4Ql9OQWVobXdMN1lTdk10ZExTSEdXME1XeW1Kek5ScXQ0TUpVRUFvdlR1TThhaURxTUJ1djJicUg5cTNQLV9LeHpVV0ZvQWZSUzN3ZWJhWG03RVNwai05SFI1N1loVmhSUXI0ZXRUMGozbDlRX1FYLWRpQ2ZyWnJ4ZUhDV256czVZdWduWk5rZktPZWt0NnFOeWRnaDN4WVJKZlVDUnJGRzdXdG0zd3RQd04xV2JsWDhUZzU0cThTOEpJUmZnRm5mdlloQl9vekpRZkQ3eHFIcDF6RGk3TkZIcVc0bFM4VWxXejRWM2dNOHBsV3dUSkZlOEg0NDlpMmtlbTZpaTJlRFNrU3lqd0czN1JLVVJnNUhtZmFFSllOQmV0a3ljRzJ0WEc0VVhEVl9GaW5ISGVubWFUZHNLcVdPNHNpQjBXcm4wekF4TVBJcGgyd2lGenRxaF9LQUl2NUJxNzBPQW9CbnEzNlRTcW9DUGwtQzM1Vk5zbVltZEVGQUlVRUdxc0t1THVNRm9sZFUyaDE4cGw3SmRVUUhQdjF6TWRjdmhPZE91VEJTRUt4aUxfX1ZkaEpMSmZqaG5kdzVYVTUycnZCSHVRVE16SnRIVk5WeXA2cWtqUDZEMG80X29YWU9mODduUS1KNkVtYTFGVUpIbUlZZzZweXZxQWFaWWxXcUhLa2NEb0F5LTJta1VqNFFFR1N0SXdBZjRtbUdjbUtsOVU1WlUweXl3UktaVU9hM1hZeWlNVE54TDMxREFVOUVrcnRHTEdrU1ZVRjNiU1ZsNG9FaS16RkpiLVZWT2N6VTl0Yml2TVljMEdqQXA4dGdHVkRVcV9QV0xhOGxhX1J2U3kyVDdmbGZfSEVyaHE5dXlkTjlCRW1vbDUxOWhKckluTnBRMUppRXNGcFl1TEc2R1RpS1JqQmljVmNlZTloOEFLaWpfd1ZoVGxrSk9tdEdyaWNnMjREM2FaWXpTVHJ2d3U?oc=5",
+        "source": "iNews.bg",
         "image": null
       }
     ]
