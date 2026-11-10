@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-09T23:22:43.947926+00:00",
+  "generatedAt": "2026-11-10T00:16:48.350216+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Дроновете променят войната: Защо американската армия крие танковете Abrams? - Dnes.bg",
+        "description": "",
+        "date": "2026-11-09T21:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVRPVDVreHZJUnpMcjk5ZW8xYm9Ub0w1Zlc0R0s3R0dyMGtzNGh3c01ydzBmVTFmRkJnRVNfc3NyRFNoXzJiVU1tSVMtTWc5QTdjRmFmVG5UaHJ1ZnJNdDJZa05sTU1qTzBoendzMVVDYkEzNjlFeHo0TloxR2VfM1lHWkRVbWctQWRBSm16VXJYbkU2OHRwWWM1M1FJTUNkUjN6NTlHaHdQc0liUTBJTzdyTGI?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
       {
         "title": "Си Дзинпин поздрави Йотова, иска да работи с нея за възраждане на отношенията ни",
         "description": "Китайският президент наблегна, че България е втората страна в света, установила дипломатически отношения с Пекин",
@@ -193,21 +201,29 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1243373-obshtinskiyat-savet-v-loznitsa-odobri-obshtinata-da-iztegli-kratkosrochen-zaem-o",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13242025/20260330_133751.jpg"
-      },
-      {
-        "title": "Биляна Савова среща своите лични истории с гласовете на поети и мислители в новата си книга „Огледало“",
-        "description": "Биляна Савова среща своите лични истории с гласовете на поети и мислители в новата си книга „Огледало“, съобщиха издателите от „Колибри“. Премиерата на изданието ще се състои на 26 ноември от 19:00 ч. в пространството за изкуство и събития nOva art spacе в столицата. Художник на корицата е Омана Кацарска. В книгата личните истории на Биляна Савова се срещат с гласовете на поети и мислители, с притчи, знаци, сънища и въпроси, казват издателите. Ед",
-        "date": "2026-11-09T17:48:16+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1243344-bilyana-savova-sreshta-svoite-lichni-istorii-s-glasovete-na-poeti-i-misliteli-v-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14093471/Cover-Ogledalo.jpg"
       }
     ],
     "Свят": [
       {
+        "title": "Върховният съд на САЩ разреши възобновяването на строителството на гранична стена в района на Биг Бенд в Тексас",
+        "description": "Върховният съд на САЩ снощи разреши на администрацията на президента Доналд Тръмп да възобнови изграждането на гранична стена в района на Биг Бенд в Тексас, предаде Асошиейтед прес. Това е удар по двупартийните опоненти на съоръжението, които твърдяха, че проектът е загуба на пари, която заплашва уникалната природа. Граничната стена е знаков проект на Тръмп, който отдавна се зарича да построи стена от Тихия океан до Мексиканския залив. Миналата г",
+        "date": "2026-11-10T00:09:52+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1243445-varhovniyat-sad-na-sasht-razreshi-vazobnovyavaneto-na-stroitelstvoto-na-granichn",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14093895/b6645958eeee470e802b8e21826f1d1f--0--cc09bc22cb5d4bdeb58a89a42b7545bd.jpg"
+      },
+      {
+        "title": "Австрийският вътрешен министър Герхард Карнер отхвърля незабавния достъп до пазара на труда за търсещите убежище",
+        "description": "Министърът на вътрешните работи Герхард Карнер отхвърли предложението на тиролския областен управител Антон Матле търсещите убежище да получават достъп до пазара на труда още от първия ден. В писмено становище по инициативата на Матле министърът заяви днес, че бежанците и без това имат възможност да извършват общественополезен труд, предаде новинарският канал на австрийското радио и телевизия ОРФ. Пет от федералните провинции в Австрия са въвели ",
+        "date": "2026-11-09T23:36:26+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1243187-avstriyskiyat-vatreshen-ministar-gerhard-karner-othvarlya-nezabavniya-dostap-do-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/784280/b7ae1779ed0c4361a8dd1d6311ba003e-b7ae1779ed0c4361a8dd1d6311ba003e-cfa3671152264ba09f7ea68874fcd183-bc145.jpg"
+      },
+      {
         "title": "Тръмп заяви, че войната в Иран е приключила \"във военно отношение\"; Иран призова САЩ да спрат с \"фалшивите новини за въображаеми преговори\"",
         "description": "Американският президент Доналд Тръмп снощи заяви, че смята, че войната в Иран “на практика е приключила във военно отношение“, предадоха Ройтерс и Асошиейтед прес. Президентът се появи изненадващо в залата за пресконференции в Белия дом след срещата си с катарския премиер. “Войната с Иран на практика е приключила във военно отношение”, заяви Тръмп. “Ние просто поддържаме статуквото”, добави той. Американският президент каза още, че Иран е “обезгл",
-        "date": "2026-11-09T23:03:08+00:00",
+        "date": "2026-11-09T23:03:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1243446-tramp-zayavi-che-voynata-v-iran-e-priklyuchila-vav-voenno-otnoshenie-iran-pr",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14094242/b04fe0f57b6e8ceec57ec9dbe0ee9b69--0--4f352c6f9099445890da6b223e2d17e9.jpg"
@@ -381,27 +397,11 @@
         "image": "https://www.bta.bg/upload/779527/4a7eb79320f64cbf99457e0a169b5cc6-4a7eb79320f64cbf99457e0a169b5cc6-a05b1cf824af48ea93e6663f6304afc0-68329.jpg"
       },
       {
-        "title": "Експерти от Международната агенция за атомна енергия пристигнаха в Иран, за да инспектират атомната електроцентрала „Бушехр“",
-        "description": "Експерти от Международната агенция за атомна енергия (МААЕ) пристигнаха в Иран, за да направят инспекции, съобщиха ирански медии, цитирани от ДПА. Говорителят на иранското Министерство на външните работи Есмаил Багаи заяви, че представителите на агенцията на ООН са инспектирали преди няколко дни атомната електроцентрала „Бушехр“ в южната част на страната, съобщи държавната информационна агенция ИРНА. За последен път делегация на МААЕ посети през ",
-        "date": "2026-11-09T18:10:53+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1243350-eksperti-ot-mezhdunarodnata-agentsiya-za-atomna-energiya-pristignaha-v-iran-za-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11601630/9c171dac5a724f999d7f8a9eb03cfe14--0--754239e8bd0f4dfab466092442ccbb1f.jpg"
-      },
-      {
-        "title": "Латвия и Естония изграждат укрепления по границата с Русия - Ruse news",
+        "title": "Джефри ван Леувен ще представлява НАТО в Абу Даби - Ruse news",
         "description": "",
-        "date": "2026-11-09T18:05:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFBCdXBxMEtLMmxOdXYyNUdIVGNObk94TmsxWDBsSDVXUVZ0UDFhTjl6bHhmaS1vUkVTUnkwYk1xSWFOTDhZSnY2M2M0eUVndGtIS3VPMkUtZENnbnhKd3BZUUlhYndPcVRjaU1HODdsQnBqVWMxT1ZrSWRnSjNJLXRrR3FDWnRYTFBRc3RwcUpJTjJ6YlJwYWkyWDRpdi03U2VV?oc=5",
+        "date": "2026-11-09T18:09:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZDZiZzNfcXV2TGV1emZQeFJ3QjV1WnRuU1h5cncydmUxNnN5a3ROSjIxbVdKUllaanBJVTJpS0ZEUGdqQ1hyVnhJYmVfYkRLWWJqMjY1Rld3UXNja0ljZkRaNVNoMVNpdkUwLUxiTjV6bUJIeHNMVWg2cXdseHZsaWxycHlDWlZVclpILVpRZFRNTU52VDhzdg?oc=5",
         "source": "Ruse news",
-        "image": null
-      },
-      {
-        "title": "Необичаен радиосигнал от звезда с планета е бил засечен на 11 светлинни години от Земята - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-09T18:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ3B2eWNqaGtBMHNKbmpHX3dYcG1DOHFxSXJ6M0JEeGE0a3lVX2VyN0dwSTloc3dQbnVDVzM1VWQ5MzBab0sxTFJaUUdJTGdoaDFlVjhUU2xSTWc0NVp1TmdhRWpNWXh0QkJybnRyZ1J5ZFFOMUFQMUg5Ym9WYkp3UnVraHhYaGMyNVlabElCN3NwOFRISlQzcXFWTnJDYWZvRmU2cWo1dkRDRFFTdVgzTlV5clNkRzc2aUZmQWNBVmRnNlNVMndHN05GaFV2OVE?oc=5",
-        "source": "manager.bg",
         "image": null
       }
     ],
@@ -753,11 +753,11 @@
         "image": null
       },
       {
-        "title": "Дни на отворените врати започнаха в Шуменския университет „Епископ Константин Преславски“ - Делник БГ",
+        "title": "Дни на отворените врати започнаха в Шуменския университет \"Епископ Константин Преславски\" - Утро Русе",
         "description": "",
-        "date": "2026-11-09T10:35:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQM2FVZEc0dklVWkdSZXI5dmdONF9vcTJUMS1CMFQtdzNZVVQ0WU1IaDBRNXdjM1hQVUxEU3hiTV85UUhFTWlFaG9HWHJkdm1uc0hpY0tBMGpDMDg5bDhROGdkMkdVZ24yc3J5azl6WWxWUnFxUlB4MTZBZDR5WWVWanN0VEM5NmNRUVNzeDlfMDhIYW1vaHZ5bTl4MDZMY0JmREFJWjVfa1l1MnFmUDJBOVAzYjJhRTlieWJfY1JIRDVpcXptZ1JDNTJYVkxGdWZaa0QzaTlYU0kxbkRzY0F0YVpBUjJZUzd1bl9EbnFIUEhOY0RLWXlDcXB5a1QxQ05EWUlNT1pPcDFOVXhHeHNmeU1ySWR3SksxWi1sQzVOdkd5QUZqRHBzekx4RHJaYTB2VHEyWlhzOXI2WjZPNkZtUGlVeHd2clY1WjFEQlJ6eHFEYUE?oc=5",
-        "source": "Делник БГ",
+        "date": "2026-11-09T10:35:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FRktLOW53NWY5THYwb3NzUW5LOXBHTEFXNWQ3M2lkUEJSTjR3S1lvTUMzRGl1S3JaalJvYWtsTlhENldYWFdoaDNIQmlNUdIBSEFVX3lxTE1TVkliallQM0YzY0NtbEdUQ0d1R29ZQUV4RDBuRzlFNThwcFIzcUN6eGdNLWFrVlRiZWxuTDFxUEVleGYwUVhJZQ?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
