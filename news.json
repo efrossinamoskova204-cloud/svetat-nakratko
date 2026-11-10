@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:25:59.233203+00:00",
+  "generatedAt": "2026-11-10T02:32:30.845970+00:00",
   "categories": {
     "България": [
       {
@@ -33,6 +33,14 @@
         "link": "https://dnes.dir.bg/svyat/kongresmen-republikanets-vnese-rezolyutsiya-za-impiychmant-na-piyt-hegset",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/09/3045997/384x216.jpg?_=1794258958"
+      },
+      {
+        "title": "Конгресмен републиканец внесе резолюция за импийчмънт на Пийт Хегсет - Dir.bg",
+        "description": "",
+        "date": "2026-11-09T20:25:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWRvWS1fSTV3VzFqMnNSNGNIamd2cTM0eURSM0VPX2FjaUl3Y0hpQW5YU1RRZmJzT3l2czJVeEFkQlF5Wm13d0V3NVpHRGM2cFoyektvOWxkcFhwRXc3anJWVm9EVEZka2tjZTZ6eGZJVWhBMGJnQUdZNGNvNEpTZWdhckZYWUpKR19IXzIyWHB0UGdUWjdrNi1INkU5aFZD?oc=5",
+        "source": "Dir.bg",
+        "image": null
       },
       {
         "title": "Виолончелистът Атанас Кръстев и пианистът Георги Славчев изнесоха съвместен концерт в Гоце Делчев",
@@ -139,14 +147,6 @@
         "image": "https://www.bta.bg/upload/14072134/1000068368.jpeg"
       },
       {
-        "title": "Опозицията срещу Нетаняху почти договори нов председател на Кнесета - News.bg",
-        "description": "",
-        "date": "2026-11-09T18:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1RLcGlBVjAzdmY5YUJhZGNzNktnLVdZeXdHVTJNbDJQdnR5MS1yeHNtN0NaRjNKRFdhcUJRdjFGTlRoQTBzbGZDTmV5TklxVjFFSzVKNWhONjZOeGdvRkVyWGduZXFWZmVsM2NrRXc5YjBFd2VNQ093NVBUNTBrRnR6S1ZsZW1MbGdoSzF0Ri1OVnhKckxkbkhfeWYwQkgweDFfV2w3aHcxTGM?oc=5",
-        "source": "News.bg",
-        "image": null
-      },
-      {
         "title": "Земеделски площи край лознишкото село Гороцвет ще бъдат оборудвани с автоматизирани поливни системи",
         "description": "Земеделски площи край лознишкото село Гороцвет ще бъдат оборудвани с автоматизирани поливни системи. Общинският съвет в Лозница даде съгласие за учредяване на възмездно право на прокарване през общински поземлени имоти на електропровод и водопровод за захранването им. Инвестиционното намерение е на дружеството „Агроз“ ООД. Предвижда се изграждането на общо пет централни поливни системи, които ще обслужват земеделски земи в землището на селото. За",
         "date": "2026-11-09T18:14:13+00:00",
@@ -204,6 +204,22 @@
       }
     ],
     "Свят": [
+      {
+        "title": "Тръмп защити Хегсет срещу опитите да бъде подложен на импийчмънт",
+        "description": "Американският президент Доналд Тръмп защити в интервю за Ройтерс министъра на отбраната Пийт Хегсет срещу усилията на конгресмени от Камарата на представителите той да бъде подложен процедура по импийчмънт. “Добре, той спечели две войни. Аз не знам как може да го подлагате на процедура по импийчмънт”, заяви Тръмп в кратко телефонно интервю. “Какво ще кажете за импийчмънт на хората от (войните във) Виетнам, Афганистан, Ирак и всички останали, кога",
+        "date": "2026-11-10T02:19:26+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1243449-tramp-zashtiti-hegset-sreshtu-opitite-da-bade-podlozhen-na-impiychmant",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14093951/317bcfc74d8d4403b95cd8b3729b6d54--0--9207cfe1fbd941acac9ba7b2869c0b79.jpg"
+      },
+      {
+        "title": "Саудитска Арабия съобщи, че е свалила две ракети, изстреляни от хусите срещу Рияд",
+        "description": "Две ракети, изстреляни от йеменските бунтовници хуси срещу Рияд, бяха прехванати и унищожени тази нощ, заяви коалицията, водена от Саудитска Арабия, цитирана от Ройтерс. Журналисти на Франс прес в саудитската столица съобщиха, че са чули няколко експлозии. Жителите на града получиха на мобилните си телефони предупреждения с призив да намерят убежище заради “въздушна тревога”. Малко по-късно с второ съобщение от саудитската служба за гражданска за",
+        "date": "2026-11-10T01:45:59+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1243451-sauditska-arabiya-saobshti-che-e-svalila-dve-raketi-izstrelyani-ot-husite-sres",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13949450/bb855b8756034bb8b71e891e22979897--0--283fe77405894216ad6a1f3aada53a36.jpg"
+      },
       {
         "title": "Успехите на бойното поле засилват позициите на Украйна в преговорите, заяви Зеленски",
         "description": "Украинският президент Володимир Зеленски снощи заяви, че в навечерието на ръководените от САЩ тристранни преговори за прекратяване на войната с Русия, успехите на Украйна на бойното поле и ръста на руските загуби засилват позицията на Киев в преговорите, предаде Ройтерс. Преговорите с руските и американските преговарящи, които ще започнат по-късно днес в Абу Даби, ще бъдат първите от февруари, които имат за цел приближаването до края на продължав",
@@ -373,22 +389,6 @@
         "image": "https://www.bta.bg/upload/12029243/2f6c8befff1e4fa3ac76f2aed061dac6--0--f72a588358b34c27a0549006d89a12bf.jpg"
       },
       {
-        "title": "Шефът на Пентагона Пийт Хегсет свика извънредна пресконференция, на която ще обсъди очакваната резолюция за отстраняването си от длъжност",
-        "description": "Изправен пред очаквана резолюция за импийчмънт в Конгреса, министърът на отбраната на САЩ Пийт Хегсет заяви, че с нетърпение очаква да защити политическите решения, взети от него и президента Доналд Тръмп по отношение на Иран и Венецуела, предаде Асошиейтед прес. \"Ако искате да оспорите това, което направихме по време на операциите \"Епична ярост\" (Epic Fury) и \"Корав ездач\" (Rough Rider) или при задържането на (венецуелаския президент) Николас Ма",
-        "date": "2026-11-09T18:41:35+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1243392-shefat-na-pentagona-piyt-hegset-svika-izvanredna-preskonferentsiya-na-koyato-sh",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14042818/bcfa8306d7eb43be8af29c42a6cbe60a--0--d152fe0cfb114278b89c0ebaf087b5da.jpg"
-      },
-      {
-        "title": "Зад закрити врата Русия и Украйна проявяват известна гъвкавост по териториалните въпроси, заяви представител на САЩ",
-        "description": "Русия и Украйна подхождат с добри намерения към преговорите с посредничеството на САЩ за прекратяване на войната, заяви днес американски представител, цитиран от Ройтерс. На брифинг преди насрочените за утре преговори в Абу Даби представителят заяви пред журналисти, че и двете страни са проявили известна гъвкавост по териториалните въпроси в разговори, водени при закрити врата. Американският представител, пожелал анонимност, подчерта, че тези въп",
-        "date": "2026-11-09T18:28:56+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1243397-zad-zakriti-vrata-rusiya-i-ukrayna-proyavyavat-izvestna-gavkavost-po-teritorialn",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14078185/dcb8903a438444f48289b5a691437076--0--64e3714db4be4bfa9844516cfde24c35.jpg"
-      },
-      {
         "title": "Зад закрити врата Русия и Украйна проявяват известна гъвкавост по териториалните въпроси, заяви представител на САЩ",
         "description": "Русия и Украйна проявяват известна готовност за компромис в неофициалните разговори за евентуална размяна на територии преди преговорите с посредничеството на САЩ, които започват утре в Абу Даби, заяви американски представител, цитиран от Ройтерс. Това се случва на фона на засилените усилия на президента Доналд Тръмп за уреждане на конфликта. Американският представител, който застана пред журналистите при условие за анонимност, посочи, че един от",
         "date": "2026-11-09T18:28:00+00:00",
@@ -476,6 +476,14 @@
         "date": "2026-11-08T22:00:55+00:00",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjQwanQyWUtsbHUxVDJOcmVoTGdzdDJUT0l5QXZkY3hKbV9VSHRRZk9KMHdpcGw2NTFXTjJUS0JNMUpwc2Y3b1RCeE14RThUQW9USlh0UklORGNVYTFlNXFmR1pJaVNtekFfNV9xSjVBMEhIVlZ0eVpnX2Ffb0FZUzNTRnFwa2lvUEM0bHlzc09Ydw?oc=5",
         "source": "MMA.BG",
+        "image": null
+      },
+      {
+        "title": "Учени: Замърсяването с микропластмаси може да променя цвета на Тихия океан - bTV Новините",
+        "description": "",
+        "date": "2026-11-08T19:44:33+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXZtQ3JzczNsTWtiYkZRcllBdUttR1RqN1g0Tl8wRzJ2Y3hvQ05UUFEwMVdXMVJkam82M2diRVhITU5xMHhXM0JmbnBtSjNjM3hIc0tpcENmbzRzbkFpbmxZZVhYVUVkZ0o2ZngzQnFiMkRlZUU3cnc3Wk1HNTBPYUcxU3hQQ1Mtc0lpSGJCMVpLWjlZMGFvaUhyUjluWkhYQngxQzR5a2dUSm1MeW44YVFHdw?oc=5",
+        "source": "bTV Новините",
         "image": null
       },
       {
@@ -597,14 +605,6 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkdySElCVmdlM1ItUkszWTBzNzdTSjJfYkFXTUtVUmtUTFU0c2lRSkNWVGxvY29oUGIxNHl5alhYWm9sLUVKMnJ1UktQMG9pLTZxd3BPeDJzdjAwcVhvSXJxOHp2M1V6TDVPS3JuR3JpT1FmT2N2SmZLNEJXclFlQUlwcGNzT015WHlqS1QzUVZZcENab2FhazZjYTc?oc=5",
         "source": "https://novini247.com/",
         "image": null
-      },
-      {
-        "title": "Премиерът: Увеличаваме парите за наука с почти 100% в бюджета за 2027 г. ᐉ Новини от Fakti.bg - България - Fakti.bg",
-        "description": "",
-        "date": "2026-11-06T18:25:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUVFbWJCWDJxNm1EMUJYVDRaaGg4RV95ZlVUaTN6YzhmMXVFdDZaVDJmTF82cllPVC14UFJjNExpTHFkcWdYUTZwQThoYjlyNDRrbWx4dEE3ak9GNXlWVkwzazNLSHdHNUMyaWQwQlRHWHhNUE1TdXlEa2FNLWlnanVGc3Z4M3UxMk5yYm9XTVYyM3BIa1VpNzVyX2YyaFU5V3JZeDd1cC0?oc=5",
-        "source": "Fakti.bg",
-        "image": null
       }
     ],
     "Образование": [
@@ -713,6 +713,14 @@
         "image": null
       },
       {
+        "title": "МВнР и УНСС ще си сътрудничат за подготовката и професионалната реализация на бъдещи дипломати - Novinite.bg",
+        "description": "",
+        "date": "2026-11-09T13:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOUZTMG05cEFCanZxVjgyeXpXR0Q4c2NmMGp4azZVRDY2Vk9NMXY5UWw0MGNFVHY0MmEtdm9Oa091Y3Rac3JjbzhLQlREdTRncVdwTnB4aURoZWwtb2lOaU5mdVZybzQ1bVZFcXRoMm50LUFqeThXVm9YUm1Ycl9mUTRwWVppalBoNnB1ZFRUTl81dzViVWNWbTRwSEh0aVFMSGFoQUlHS1pSWC1rejk4R3FlUGJsNVBlM2R4VDlPVklDeVFGZGlCOUtaMGJia3dkUWdkSGxfOA?oc=5",
+        "source": "Novinite.bg",
+        "image": null
+      },
+      {
         "title": "Кандидатите трябва да са със завършено поне средно образование, документи - https://novini247.com/",
         "description": "",
         "date": "2026-11-09T12:18:06+00:00",
@@ -726,6 +734,14 @@
         "date": "2026-11-09T12:15:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUhWazNyU3BWVko4eU1RamYybDJJcUZGVmhid1VvOFhfZjYxNjc4eU5oQzlic1M5bUxFRG9MY2p4aGc0b1lzYktFWmhsRTNUalhScWE4TW9UUUhVNHZkUUg2UHlOdkxqclZZSEZJU05CVjUwZENEZHVVNENDRzJiUnRINHVMLUNaOG52YXVjZFc0a2hRaDZoZXl6QnhUSzF3a21pM21IZWxHTGtFeFhkVGhIdGJ6eExHdEFCbUZ3ZVZXWjlTR3kydmZOUjFBV3E1VWJ2ZnNtRnZkVnlkRk0tcEZJQXJTSWg1Mk85bEllQWU5WV96?oc=5",
         "source": "Слободен печат",
+        "image": null
+      },
+      {
+        "title": "Напредва строежът на новия корпус на училище \"Любен Каравелов\" в Несебър - БНР Новини",
+        "description": "",
+        "date": "2026-11-09T11:31:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTS1rMDlmYXRJWHBfR2ZjN1ZaYTJvcUhGVWdsNzZaNG0zck15RkQ3Q0JjV1BKaFVrZWpOd3pfWXFBOGwtel8xZm9IYmR4dGtGOWJ3OWR0NVluRm41c2ozSjIweFVDUlNfdVpEYV92T21ndjhtd0F0aGx3RTRvNFVLZTVtUVI1dkRvelIzSmFzSDJodlFGSEp3dTQtZjhlYk53TE5kRl9RWTdncVJNVHdkOUctSm0?oc=5",
+        "source": "БНР Новини",
         "image": null
       },
       {
@@ -753,11 +769,11 @@
         "image": null
       },
       {
-        "title": "Дни на отворените врати започнаха в Шуменския университет \"Епископ Константин Преславски\" - Утро Русе",
+        "title": "Дни на отворените врати започнаха в Шуменския университет „Епископ Константин Преславски“ - Делник БГ",
         "description": "",
-        "date": "2026-11-09T10:35:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FRktLOW53NWY5THYwb3NzUW5LOXBHTEFXNWQ3M2lkUEJSTjR3S1lvTUMzRGl1S3JaalJvYWtsTlhENldYWFdoaDNIQmlNUdIBSEFVX3lxTE1TVkliallQM0YzY0NtbEdUQ0d1R29ZQUV4RDBuRzlFNThwcFIzcUN6eGdNLWFrVlRiZWxuTDFxUEVleGYwUVhJZQ?oc=5",
-        "source": "Утро Русе",
+        "date": "2026-11-09T10:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQM2FVZEc0dklVWkdSZXI5dmdONF9vcTJUMS1CMFQtdzNZVVQ0WU1IaDBRNXdjM1hQVUxEU3hiTV85UUhFTWlFaG9HWHJkdm1uc0hpY0tBMGpDMDg5bDhROGdkMkdVZ24yc3J5azl6WWxWUnFxUlB4MTZBZDR5WWVWanN0VEM5NmNRUVNzeDlfMDhIYW1vaHZ5bTl4MDZMY0JmREFJWjVfa1l1MnFmUDJBOVAzYjJhRTlieWJfY1JIRDVpcXptZ1JDNTJYVkxGdWZaa0QzaTlYU0kxbkRzY0F0YVpBUjJZUzd1bl9EbnFIUEhOY0RLWXlDcXB5a1QxQ05EWUlNT1pPcDFOVXhHeHNmeU1ySWR3SksxWi1sQzVOdkd5QUZqRHBzekx4RHJaYTB2VHEyWlhzOXI2WjZPNkZtUGlVeHd2clY1WjFEQlJ6eHFEYUE?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -790,22 +806,6 @@
         "date": "2026-11-09T08:43:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUklwVVdXQ0xRRmF5Y1JBMXVUSDhNR1dCVFBzMm9nMEhkT1FjeHlMVUlVN2h1QlBsc3JhcHFEVlViTmJTUXhnX0tIRDhXbGVjMjcyZXIwNHZ6N2dBYmlUSlNBOUFCQWh0TDVPVHR5cTZnVm5Kc2NiTjEzWVcwUDl5MW1scGQxelpxV3NacWxZUHpzeWFpSlUwZ1JQS25LWXdDUlFTVVN30gGrAUFVX3lxTE9aUng2cC1HY3NKc3doOHA1VFY3UzhIUklqbzMzN3ZYSF91cXo3WVhISnB5cDA2c2ppN3NjTjRSNjQzSnFEUFlpU1k4ZndFZlVXNzZXQ0dwbHExd0NvMWJ3SHY2VXJvLTZfMk5WWDd6OUhKQmQ4dV9wUGpQQnJOZ0Z1N1huQ09FakhtcUVYWEw1VkZJWkNROXd6a19obWdtQXZ6Q2l5Q3U4blU3VQ?oc=5",
         "source": "BurgasMedia",
-        "image": null
-      },
-      {
-        "title": "33 изследователи от ВТУ представиха резултатите от проучване за изкуствения интелект - Вестник Борба",
-        "description": "",
-        "date": "2026-11-09T08:08:24+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5R0hLVUY4UXRIUU5Ec1FqUXBMWmZnSEE5bFF6VFdPdF8zYUE1TWVaNjlPODlJd0hVMHRlNDFKMmxJUFMtVGpMNDQzdTA3UjRqdkNld0VzU2lWVGladktfZm1XZnhLQVQtQ3Bfd2JfSm0wR0FEVHZMWlh6aw?oc=5",
-        "source": "Вестник Борба",
-        "image": null
-      },
-      {
-        "title": "Над 60 свободни работни места са обявени в област Разград, търсят се кадри с различно образование и квалификация - Утро Русе",
-        "description": "",
-        "date": "2026-11-09T07:47:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81UWM2UmFlMUR5bkNZOVRYejdYaVJIc1dEdDlrYzlyVnp2bjBOSDhlaVhOQkZtU2ZHakROajVjVVVrdWMtbG9sd0otV0RPd9IBSEFVX3lxTE9ySlVpMlVYaHJXeTBKWmpRdzhhLWlhNXJuWGotV016eDZUSFJ3U1VValVYT3FjVHpzZnFpM2pNekdFTW5PcUpLUA?oc=5",
-        "source": "Утро Русе",
         "image": null
       }
     ],
@@ -859,27 +859,19 @@
         "image": null
       },
       {
-        "title": "България има шанс за технологичен скок, но бюджет 2027 не е достатъчно смел - bloombergtv.bg",
+        "title": "KPMG IT Service: Локална експертиза, глобално въздействие - Forbes Bulgaria",
         "description": "",
-        "date": "2026-11-09T13:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2ZuNklqSHdYaXRoRi1vRzZSRmZwTHg5dkdIVDZQbVpBUkFnQXBGSHdlOWQtX2ZOU1FJZDlxMWlsLWlZY2RJYlhhLWZSYVUwZ3RMS3FhSWlZbV9rZ3JpZ25zMG9DWWY1UVYyNGZISE9QOFkzcWlzckdyY2toYURLNF9RUGszd3VOaEc3bHYyOGN1VkZhdDl2a0hTbzd5N3lCQVUtajFtWHpLb1VINlZHZW1fb0piOGJGM1hzWms0UlZLZ2Frbldncll3?oc=5",
-        "source": "bloombergtv.bg",
+        "date": "2026-11-09T14:06:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmZVOXpCMEd3QjlvUkVvdU85dFZhOGxvekNyZHBfcUVGelVadXl6WHhJemdiRXhrYTUtLTBUelhzbXp5c3hhemI3N0FPYU4xeVZxQm1feVBQR2NYanZRMjdMSnVKdlIweVR6V3ExR3k2TDRGTUJVbDVsUW5OMUNWRERYbzVZeGRMUVJkbTctTlVKZEJVVThCNVpR?oc=5",
+        "source": "Forbes Bulgaria",
         "image": null
       },
       {
         "title": "ChatGPT вече може да изпълнява задачи в Google Chrome: нови възможности за хотелите и туризма - 3e News",
         "description": "",
-        "date": "2026-11-09T13:46:37+00:00",
+        "date": "2026-11-09T13:33:44+00:00",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUGRCZWpyTG9zd29hV09pRHYtSnBzU19zS2FaU0FOTDJrZG1QUE1jYno1c204czdBclo0WWpxUE05SndPSHhsRlV6YlBESUItbkk3VVVZVHE0dG5jWVZMYmpsbFNVamRqVFFyM3R3UTdFUElmd3hQMDV1REVodVppd3pWX2kyWU9Od294UndIc0JWZUFoX3l3a0I3ZXltUWVuMFByMnBPdl96Y1dMNTg4N19XUGc2Ym9KX2JtZm1CY0tOdTVqSlAtOTJiQk8?oc=5",
         "source": "3e News",
-        "image": null
-      },
-      {
-        "title": "УниБИТ отбеляза 16 години на научния си институт с форум за млади изследователи - Евроком",
-        "description": "",
-        "date": "2026-11-09T13:38:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1I0QzB5TTUyR1dFY09YREpoTHc0OXdfdWJWazh4a3NMUkwtcGxVSjdldEFxcnFfV2hmaHVjaHdQNzJsbkFYWFNrbUJzQ21XT3dMX1BFS1BaRm5LcTdsUVBuejdYWHNKRWVNT2EtNWs4MEpEVXlZbGJORnlBd1prc1N0SWtOa3pCY1AtajYzVTdob1czUU1lNXFHTGtyeWJ0M1ZrMHhn?oc=5",
-        "source": "Евроком",
         "image": null
       },
       {
@@ -952,6 +944,14 @@
         "date": "2026-11-09T10:07:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDlWSUVURG1OYjJ2S0lmT3dqN0VPdjRRbHVCOUROT3ltS2E0cE5kNk1aTzhOcXhsU19jRWdpSDUyejVWeDB5ZFNORXhEdU5aREFSZld0dlptdEU3VTAyRTF1Z2hVYlNNTTg1dENKd1Y2QkJRZXpDR1FlWHl3NHZxcEt1UVlUZlljMXlBY0xmczlCNmVQNDlycHliTXdLQmZ1UUY2R09JaDc1X3FZd2ZEa3lZYU1QVHIxYmhmVg?oc=5",
         "source": "www.capital.bg",
+        "image": null
+      },
+      {
+        "title": "В Уси се проведе международен форум за бъдещето на медиите и новите технологии - 国际在线",
+        "description": "",
+        "date": "2026-11-09T10:00:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLMFhMeUxJbm9qVWxWWGtJajQ3M25XWGFQdmdlUE1CUmVpNWZXbzRsZEtPcXFnd0k0MFg4ekxCT0cwLUJzYVU1dnlEREpCNlI4cHI5bWx2M3JKcnRUM2xTN3FVcUgyYk0?oc=5",
+        "source": "国际在线",
         "image": null
       },
       {
