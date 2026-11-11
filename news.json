@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:17:41.763641+00:00",
+  "generatedAt": "2026-11-11T00:17:31.237086+00:00",
   "categories": {
     "България": [
       {
@@ -205,20 +205,36 @@
     ],
     "Свят": [
       {
+        "title": "Цял свят говори за агитката на ЦСКА. Сектор \"Б\" е тотално съкрушен - Gol.bg",
+        "description": "",
+        "date": "2026-11-10T23:43:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0NOZERQenFOVUZITFg0dU5kZFhqWko1dXFjLTJKZmNMM0JUcnVTbF80MFNLSnZjQUc4SGtjSXJ2VlRGLVJMQlliYVdNX003S0kzejFfODExMEVLTEhOOHNCZnBNdG9qTEcwa1RIUUVOSUp4NHBFaW43b3hNNGZlNy1IQVY2TjdlR1FlNWdxUExYX0ExbGF5VU53QUFZMGFmR1NkWnJ0MGZPWW9ldHR4TkJJS0MtRGc?oc=5",
+        "source": "Gol.bg",
+        "image": null
+      },
+      {
+        "title": "МОЛДПРЕС: Молдовският мед получи достъп до китайския пазар",
+        "description": "Пчелният мед, произведен в Молдова, ще получи достъп до китайски пазар – един от най-големите потребителски пазари на света, предаде новинарска агенция МОЛДПРЕС. Това ще стане възможно след подписването на протокол за изисквания за износ на пчелен мед от Молдова за Китай. Документът беше подписан от китайските митници и Националната агенция за безопасност на храните (НАБХ) на Молдова. „Поредният молдовски продукт си открива пътя до Китай. Това е ",
+        "date": "2026-11-10T23:43:09+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1244001-moldpres-moldovskiyat-med-poluchi-dostap-do-kitayskiya-pazar",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11659354/b58f8825802e42d782c0422b52d857dd--2--587cde4757fc44f2b935ad383988f728.jpg"
+      },
+      {
+        "title": "Венецуела одобри реформа, която отваря електроенергийният отрасъл на страната за частни инвестиции",
+        "description": "Парламентът на Венецуела одобри реформа на закона за националната електрическа система, която проправя пътя за частни инвестиции в сектора на фона на често и продължително прекъсване на електроснабдяването в голяма част от страната, предаде Франс прес. Законът беше одобрен единодушно от венецуелското Национално събрание. Национализацията на електроснабдяването през 2007 г. доведе през следващите години до липса на инвестиции, корупция и лошо упра",
+        "date": "2026-11-10T23:10:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1244273-venetsuela-odobri-reforma-koyato-otvarya-elektroenergiyniyat-otrasal-na-stranat",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14062735/6ed7fb739b694bb2b91c3d20ee1baf69--0--f3b06390c23f4cf594c02ae8312aa1f9.jpg"
+      },
+      {
         "title": "Джон Тюн е преизбран за лидер на републиканците в американския Сенат",
         "description": "Лидерът на настоящото републиканско мнозинство в Сената Джон Тюн беше преизбран и от януари догодина ще оглавява малцинството на партията си в горната камара на Конгреса на САЩ, предадоха световните агенции, като се позоваха на официално изявление на екипа му. Сенаторът от Южна Дакота беше преизбран след напрегнат ден на закрити обсъждания на тежките загуби, които претърпяха републиканците на междинните избори, в резултат на което партията се лиш",
         "date": "2026-11-10T22:39:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1244272-dzhon-tyun-e-preizbran-za-lider-na-republikantsite-v-amerikanskiya-senat",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14097621/6cb003c24d99418b9406cde186c42ec1--0--19debdff1a4442eeadf086015b28a5cb.jpg"
-      },
-      {
-        "title": "Цял свят говори за агитката на ЦСКА. Сектор \"Б\" е тотално съкрушен - Gol.bg",
-        "description": "",
-        "date": "2026-11-10T22:14:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0NOZERQenFOVUZITFg0dU5kZFhqWko1dXFjLTJKZmNMM0JUcnVTbF80MFNLSnZjQUc4SGtjSXJ2VlRGLVJMQlliYVdNX003S0kzejFfODExMEVLTEhOOHNCZnBNdG9qTEcwa1RIUUVOSUp4NHBFaW43b3hNNGZlNy1IQVY2TjdlR1FlNWdxUExYX0ExbGF5VU53QUFZMGFmR1NkWnJ0MGZPWW9ldHR4TkJJS0MtRGc?oc=5",
-        "source": "Gol.bg",
-        "image": null
       },
       {
         "title": "Джим Джордан бе избран за лидер на републиканците в Камарата на представителите на САЩ",
@@ -341,14 +357,6 @@
         "image": "https://www.bta.bg/upload/14078853/e0b34bcb224d44f7be1f7a0e2c5f83ae--0--29401ce7a98a400fb0eea2e8def9f8b2.jpg"
       },
       {
-        "title": "Борба с опасен паразит: САЩ отделят 610 милиона долара за развъдник на стерилни мухи - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-10T18:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3ZURE0wYnFQeXNFTWxjcXEwLVZGbm1zYTFMSExPTDdLSXh0ajZWRFJ2MDVLVFhMWi04Rk1RU1p3MTBiRkZoazUzbDFHTGItZDR1SVZfdDJ6WTRfVy1ZVWkydUs2RVh0TG1HcWozQlVCZTVjckp5RmhpY2JKNnlxcUFobG9pTjIwaWR4c2xGMVVfRVRjNEVzT1FQeFB2SlE2X2RiRUtWR2Fsc3ZzbXhGYkU5LWpES3dXQmJvZzFKaEcwWWNPeWlz?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
         "title": "Конфликтът около полския Конституционен съд се възобнови след края на траура заради нападението в Краков",
         "description": "След двудневния национален траур, обявен след масовото убийство в Краков, политическият конфликт в Полша около Конституционния съд (КС) бе възобновен днес, предаде Франс прес. Денят обаче премина без сериозни инциденти на фона на дългоочаквано заседание на КС. След завръщането си на власт през 2023 г. министър-председателят Доналд Туск се стреми да реформира тази институция, която според неговите поддръжници е била поставена под контрола на изпъл",
         "date": "2026-11-10T17:47:00+00:00",
@@ -373,14 +381,6 @@
         "image": "https://www.bta.bg/upload/13611048/0149c91a806048dfa735ddbfbdfd6c41--0--c8a465a6447a4409a747733bf54f9438.jpg"
       },
       {
-        "title": "Съветът на ООН по правата на човека отложи прегледа на ситуацията в САЩ заради отказа на администрацията на Тръмп да участва",
-        "description": "Съветът на ООН по правата на човека реши да отложи за януари прегледа на състоянието на правата на човека в САЩ, след като администрацията на президента Доналд Тръмп отказа да участва в процедурата, предаде Асошиейтед прес. Решението беше прието без гласуване от 47-те държави членки на Съвета с надеждата Вашингтон да преразгледа позицията си. САЩ са първата страна, отказала да участва в механизма, известен като Универсален периодичен преглед, чре",
-        "date": "2026-11-10T17:26:43+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244195-savetat-na-oon-po-pravata-na-choveka-otlozhi-pregleda-na-situatsiyata-v-sasht-za",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/2222122/2ef3e3ab75d343b48d5d25c08322e531--0--870c1f6b93894797bf7fec2cc94ca08d.jpg"
-      },
-      {
         "title": "От Брюксел и Киев до Вашингтон: Светът реагира на трагедията на \"Тракия\" - Dir.bg",
         "description": "",
         "date": "2026-11-10T17:25:04+00:00",
@@ -389,19 +389,19 @@
         "image": null
       },
       {
-        "title": "Държавният секретар на САЩ призова останалите държави от Г-7 да \"поемат по-активна роля\" за обезопасяването на Ормузкия проток",
-        "description": "Държавният секретар на САЩ Марко Рубио призова днес другите държави от Групата на седемте най-развити икономики (Г-7) \"да се включат\" и да помогнат за защитата на корабоплаването от ирански атаки в Ормузкия проток, но същевременно призна, че не е постигнал напредък по въпроса с външните министри от Г-7 на срещата в Париж, предаде Асошиейтед прес. \"Повдигнах въпроса. Не получих отговор\", заяви Рубио, когато беше попитан как са реагирали външните м",
-        "date": "2026-11-10T17:20:49+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244189-darzhavniyat-sekretar-na-sasht-prizova-ostanalite-darzhavi-ot-g-7-da-poemat-po-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14096491/8493176e02c843269815e43127d4cbaf--0--7817aa0effbf4fc0bae1b1d785d0b0df.jpg"
-      },
-      {
         "title": "Руски генерали на тайна визита в Израел. Какво договарят - Стандарт нюз",
         "description": "",
         "date": "2026-11-10T17:00:24+00:00",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazdONGZTVnZyVWdmUm5PY0RMdF8tVWV3LXdvaTcwaDVzcjRZZWFWaFptTUp6S3NIV1d2SDFjeUd0cUE3YU02QjlVQjkyYWN0Z0p1OXpqYjZmeGxQeDdCMEFxSy1kVllwRzM3eGxaZFdOR25pVEIyWWpYOUUyNjJpcGRsS05wWmVOeV9EbFREZzFpSHlHckJNblhQU3hFdE1lcmlLQndR?oc=5",
         "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Париж и Киев приветстваха усилията на САЩ за \"постигане на частично примирие\" - БТА",
+        "description": "",
+        "date": "2026-11-10T15:09:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUEhUaGxGczczX1gwX1VaOC1YQVBmS0hia19IN0xDNzZnVmhOaFowcVpRS3prZEhfME9JaWNrc2thNkVTZnprOVdLMmpxcmZCT0l2akpBS0w3Qzlvc0Jzdll6OXR0Y3N4V3lDMDdsRDNnQlRDSEVBcjJZdHVLVWZpSkJjYVUwNUdGckJmYUpTZVJqWU14cE5VeHkyczNhQ2RWeWk3ZGhYQ1UwNkMyUFMyeEJTeHdZXzhsandZZGxXY1dtOHBacnFwY0h4a1REaHc?oc=5",
+        "source": "БТА",
         "image": null
       }
     ],
@@ -428,14 +428,6 @@
         "date": "2026-11-10T20:35:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR1dIdjl1NjN0SzRTb01FQjY4NnpIS19iem9HUkF2a09GcF9UV0RlakJNeUN4Z3lhallkVGxMTDRtYjl4VHBMYUU3WHhGS3NBVDhqcy1KSlQzVmlzSEF3Y1FzeVN3MGtkVWF5Y3E0NGRWZTVVX2Nld2ptcmNGdGRxOVZJMXhONWQzcWVfbV9zdkduTEwxVDNabzd2R05nd3lmbVc1NmdOZHdybjA5cFozXzhkOUZsTmVobm45ZjI3UFFPWUtablhlMVE5T2hiNFk3Y3dMY1ZIUFNnNnVTOWp3VmNKcllmalM5?oc=5",
         "source": "Plovdiv24.bg",
-        "image": null
-      },
-      {
-        "title": "Изследват тайната на дълголетието за Путин с помощта на над 7000 маймуни - Фактор",
-        "description": "",
-        "date": "2026-11-10T16:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFBuVTZqUUtqUjdaQ1NKMjV0UWhOeEN4R3dSako5UFVjRmdZWWJuVjhMSFBPR0xsUy12UnRpdF9CQVBOMlNlWV9VRFJwbE1JaTVMY0UtT29wVkd3bXZOUTdTZTl5WDJVTGwxR1lJNGFXM25oeW1TUmVCT1ZBSlM3TW1OUE9QR0RubHZBZnNYVXFHMTQ3bGtn?oc=5",
-        "source": "Фактор",
         "image": null
       },
       {
@@ -605,6 +597,14 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU3dZdnFEeTVvZDdJUHJ4TDVvckdON3BNY3F3SENtOUdJbG5Sck04bVBjSnNpV1Z4bHVRNlNvY09ueXpMR1JYS2pCTlp0Nk5saG9hVXBncDNlNm11cjZDaUdaVElsUy1STVlraWdMaGxhWDhmMEN4NkE1QVJNM0xpbzE0djVwUGVOblNzQnpqQUUzVjRNeWc1cm5mYmliVWxrcThuUDZTSHlJM3MwbkwzMDh1U1JjUXAwS21HMnFJS1UzM3lmaEcyNlYtVG0wcWpZdFViUjhlaldKZ2M3TDVNZWpaaGxpUQ?oc=5",
         "source": "MediaBricks",
         "image": null
+      },
+      {
+        "title": "Скритата наука зад ММА | Стивън „Уондърбой“ Томпсън - MMA.BG",
+        "description": "",
+        "date": "2026-11-08T22:00:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjQwanQyWUtsbHUxVDJOcmVoTGdzdDJUT0l5QXZkY3hKbV9VSHRRZk9KMHdpcGw2NTFXTjJUS0JNMUpwc2Y3b1RCeE14RThUQW9USlh0UklORGNVYTFlNXFmR1pJaVNtekFfNV9xSjVBMEhIVlZ0eVpnX2Ffb0FZUzNTRnFwa2lvUEM0bHlzc09Ydw?oc=5",
+        "source": "MMA.BG",
+        "image": null
       }
     ],
     "Образование": [
@@ -665,11 +665,11 @@
         "image": null
       },
       {
-        "title": "Варна ще бъде домакин на годишен семинар за учителите по религия - Moreto.net - Варна",
+        "title": "Варна ще бъде домакин на годишен семинар за учителите по религия - Moreto.net",
         "description": "",
         "date": "2026-11-10T15:31:28+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZWRaMm5sNTFxdkVQZXpOWjFsUE5RdjR0eUdpaEc4amtRSEoxOUJoVFFveTByUDR5RFpFWGpZUmI4SkpNd203YXRyX1JqaTV0T05FXw?oc=5",
-        "source": "Moreto.net - Варна",
+        "source": "Moreto.net",
         "image": null
       },
       {
@@ -769,14 +769,6 @@
         "image": null
       },
       {
-        "title": "Трима ученици от ПГИИ „Джон Атанасов“ с отличия от международен конкурс - TargovishteBG.com",
-        "description": "",
-        "date": "2026-11-10T11:40:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNZE9oMGNYV3JqWlZDOUtPakRFcVc1ZEl5cFF0bXVjeWZ1aEdvSG5DOU8xWE1KdGF4TEQtc0g0dnlXZ2I0VGtBaEtfZzZlX1ZlcUdGaVNGbGlSLXFRYkhpMnh0bXpmMEJKYkx3QlVDNjJfWF9lU3gycXdBQlZlVXlYVjIxckRxY0ZqZ1RwTkxtLWtBclVYT0ZMSk9BUUFTZHlRZDdGcHEzcDF3VkNUZnN5dTRHTTJTZ0JYU3M4bzFJSGFFYkhyVGNtT0ZwRHdSM3Qwc1I5dFVZR0xSWmRBaFVOSXR2M1JZQXhDYWhDZnlQNVY2dEgxM1RvWG9uZHVCelpYUXA5VW5UMjl2RTIzNERab002SjBia0hpdjJZWUhRRHRwOGRwQ1RiUlFJclNycGFYR2cxZk85MEYyclJBeVhnMUEzTXdndW1taWNiVS1vVDVOT0xVZlhRSnZPSGtrcGpKV0pnZ242UlRrVWxRM2p0dzJhQ3VtVjFnOFdzTnRRcGFlVC0zaGFXcmF4clljNXU1bkFzRG5zVm9TUEE0UFRNN2kyQnFkODVyQi0zS0pEdk5XRTEzVFUtMjg3dFNSZ05Sb3pHNkRRaFVtelFrU0RnaFVjYTJzOXVRMlE?oc=5",
-        "source": "TargovishteBG.com",
-        "image": null
-      },
-      {
         "title": "15 учители от Република Молдова са на обучение във ВТУ - Радио Велико Търново",
         "description": "",
         "date": "2026-11-10T11:32:44+00:00",
@@ -793,19 +785,27 @@
         "image": null
       },
       {
-        "title": "Кметът на Бургас Димитър Николов получава званието „доктор хонорис кауза“ - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-11-10T10:13:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGI2TTg0RWtWTEd3NWJIX2Z3bDZNaW94UDBscUV2RFQtMkJURXBJdmlsRUJMUFdhenFHbjEtUVc3YmhjOVVQeW1LZVg0NTYwaDhNRXRvNTRiUFBnTEVzdHFKWUVPVkh3TzY0RTNmMG0tc3F6TFMtV3VnM3RIMUUta1ZDWE1mNUJ3Nk01ZFNvbDFPdzRINlhPenVUTjlDOXNTMm44cQ?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
-      },
-      {
         "title": "Наука, образование и креативност – във фокуса на научна конференция на Педагогическия факултет - Пловдивски университет \"Паисий Хилендарски\"",
         "description": "",
         "date": "2026-11-10T09:39:56+00:00",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QVW04UTVyYnFaMGtlX0FRMDhUQ0dBVFhtMnBCMy1aRjlvdllZZWZoVnN4cVRWM29wRUI0c2pHUXNGa0sxaHJXRXpqRF95Zw?oc=5",
         "source": "Пловдивски университет \"Паисий Хилендарски\"",
+        "image": null
+      },
+      {
+        "title": "Откриха нов STEM център в бургаското ОУ \"Антон Страшимиров\" - БНР Новини",
+        "description": "",
+        "date": "2026-11-10T09:32:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjYtYlI0X0dFclJHZlBlcnJDa0JKRnB5SGdXdG5HTXAwZGpEelVfa0UyVlR3a3JFQWthNVlWaW1zR2o4X0Ztd3lxNDNWT09nWVUzYkRsLUo5TXdtWS1xckM4MXVMY2oyNGhYX3lGaUk2dnpUbVlvQ1IxV0xjM2hTU2FncGN1VHBHcDdMQXpjRXNUeUwwSFJVRkRGSU9qdw?oc=5",
+        "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "Данъчни облекчения до 1500 евро за родители: Предвиждат и бонус за спорт и образование - Novinite.bg",
+        "description": "",
+        "date": "2026-11-10T09:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelFsQ2htODVLR083VUtjZl9ja19IUDl2M1V0RnJQOUpXSFB5X0tBSnN5R0Y3ZGxGdnRnaWVzX20xRTNSOEo2MGFqd3dCN2M1OE5mOWNSU2RHcjVSbEU0QWxwQmNYQ1hydXVHZ2VfWWJHMEExc3Q4SHFpX2ViQ0ZfekVPY0Zta1FDNGVSbFVfcGZZOFFiQXFwd1ROZTNiQWR0Y2l5ZWloRnc0al9KMzVkVmNxMHVSc3dqYmk4X1Nyc0J4X2Y4a0dF?oc=5",
+        "source": "Novinite.bg",
         "image": null
       }
     ],
