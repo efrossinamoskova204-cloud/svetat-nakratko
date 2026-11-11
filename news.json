@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:45:47.809893+00:00",
+  "generatedAt": "2026-11-11T02:30:48.481166+00:00",
   "categories": {
     "България": [
       {
@@ -25,6 +25,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1244269-dvizhenieto-po-avtomagistrala-trakiya-ostava-zatvoreno-prodalzhava-izteglyane",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14096626/20261110_174833.jpg"
+      },
+      {
+        "title": "11 станаха жертвите при тежкото произшествие край Зимница, утре е ден на траур - БНТ Новини",
+        "description": "",
+        "date": "2026-11-10T21:21:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlB0RU5qb1ZtLWRiNm1PTGRKdm5KSEJXcEd0Si1DMVY1Ym1wZ3FOZEFQSzMwenZweHhTLVRPRnhsaW91RkZIVDRSRkhpSTFYQnhlYThRajVzNGt5c2lNcDFKSFNtRGRCbGctbHBJeTljc1FrWGhBRXJGZDBNYi1fOWxsWEZ2YXZoOHo4elBicldQM3NQVW1NQlBkNWNwVWRod1duNEV2T3dVODhOZEdXWDI4NHU5ampNZVhjVnVn?oc=5",
+        "source": "БНТ Новини",
+        "image": null
       },
       {
         "title": "Лондон задържа американски военен за шпионаж за Русия - News.bg",
@@ -155,14 +163,6 @@
         "image": "https://www.bta.bg/upload/14097010/369A2439.JPG"
       },
       {
-        "title": "Британският тв водещ, актьор и писател Дейвид Уолямс е обвинен в сексуални посегателства - Dir.bg",
-        "description": "",
-        "date": "2026-11-10T18:27:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkxlQ2hvWXBkV2pWY3lzaVRscEhXbGdqNlViZUM0d0pYYVpqek5RcGRnVkxVWm1tNl9mYTR1OU5rclMzYzlWbjFlMVlvc2lOVWlyZUVqQ05taXNXMlBPNTRURWZxdE9WSG8tZVpVdGx0elQ2eVNGblQyS25ueGFjUUx3VExLVUZDaUtaSUZlNjJCeXZ3b3FHSXZGYm9lLXNrWXBUZVIyV1hKc2xHMzV0a1VXWHY1cUJzbWc?oc=5",
-        "source": "Dir.bg",
-        "image": null
-      },
-      {
         "title": "Митко Новков представи сборника си с разкази „До Бързùя и после“ в София",
         "description": "Митко Новков представи сборника си с разкази „До Бързùя и после“ в софийския център за изкуство „Сити марк“. На събитието участваха и Руси Чанев, Валентин Ганев, Теодосий Спасов, Анна Лазарова, доц. Михаил Груев и Деян Енев. Водещ и модератор на срещата бе проф. Георги Каприев. Представянето започна с минута мълчание за жертвите на двете верижни катастрофи на автомагистрала „Тракия“ край пътен възел „Зимница“ тази сутрин. В обръщението си към сво",
         "date": "2026-11-10T18:20:39+00:00",
@@ -204,6 +204,22 @@
       }
     ],
     "Свят": [
+      {
+        "title": "Украйна и Русия планират голяма размяна на пленници, съобщи от Копенхаген Зеленски",
+        "description": "Украйна и Русия обсъждат мащабна размяна на военнопленници, заяви украинският президент Володимир Зеленски, цитиран от ДПА. Размяната може да обхване от 1000 до 1500 военнопленници, съобщи снощи Зеленски на пресконференция в Дания, където е на посещение. Украинският президент е в Дания за разговори с датския министър-председателка Мете Фредериксен и други северноевропейски лидери. \"Имахме подробен разговор за дипломацията и подготовката на следва",
+        "date": "2026-11-11T02:05:54+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1244277-ukrayna-i-rusiya-planirat-golyama-razmyana-na-plennitsi-saobshti-ot-kopenhagen-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14097777/8a7e1105c54a425f83e3c6d4cd1acacc--0--bfb8996469e74ffb8abe21f593a232fb.jpg"
+      },
+      {
+        "title": "Украйна и Русия планират голяма размяна на пленници, съобщи от Копенхаген Зеленски - БТА",
+        "description": "",
+        "date": "2026-11-11T02:05:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmpCd25LVXl2SUhTRjhGRWRkMjJ0YXVROVpEWlExMHJHVUE4SnJSRnBabl9velVSQS0zeVh0UTJrVFI2NkxmcTJwZHJEenQwYkdMVk9RdGRxclJwWDdoZjM5b2gxblMxTVRNZXdRTDJ6bWw0dzlTT29IVm9vS3RaWjFfeHg0elAzZlpiUTQyVzl0dWc1Q1lfakNGanBfTjFDNGpFN2thSFEtSkpHVnJuRkZZZ2xwcFRXWDVMRA?oc=5",
+        "source": "БТА",
+        "image": null
+      },
       {
         "title": "Руските сили свалиха 92 дрона над Ленинградска област, съобщи губернаторът на областта",
         "description": "Руските сили свалиха рано тази сутрин 92 дрона при атака срещу Ленинградска област, съобщи в приложението Телеграм губернаторът на областта Александър Дрозденко, цитиран от Ройтерс. \"Над територията на Ленинградска област бяха свалени 92 безпилотни летателни апарата. Бойната работа продължава\", написа Дрозденко в канала си в мрежата Макс, цитиран от ТАСС. В района се намират пристанищата Уст Луга, Приморск и Висоцк, които са ключови за руския изн",
@@ -349,6 +365,14 @@
         "image": "https://www.bta.bg/upload/14097273/IMG_8324+%281%29.jpeg"
       },
       {
+        "title": "Александър Телалим представя юбилейната изложба „Магичен свят“ в Ловеч - ЗЕТРА медия",
+        "description": "",
+        "date": "2026-11-10T18:35:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPR0dPdks1NV9sVlRCTU1WZmVSd3R5RWNKQkZLLUJ4Sk4zQVd2QmpVbjhMX1ZPa0pvRXF1SFZpN3M3XzNtR0lXeHczejVYWnlsdzBGWHlRMmoxdDBmQWNWM2hFUlF6S1NxRXkyblFFRk9iSGd4UjRuOFNGOUlKcDZoQk9DVzR0YlBhUkUxTENta21xT3ZJaFFFdUpJV3BXZlFiZ3Fyd3djUno5SnJjTmZZSFBNOS1LTGVOdnRmLXAzMURNa3pCQmlvQ1l0RlhhVkkxNUhyWUpqRzVFekctTFdvR0tUSkltZTFZbldlRjI2SXFHZFByZWV0eFp5Y0FkYVlfaUU2eHFPOVI4QVZSNnMzeFdOMy04YVJGSzFPNkZTXzhtaUhGY20ycXB2S0J1X3RXVTk0Mkk3UlJBb0E2WUdXaA?oc=5",
+        "source": "ЗЕТРА медия",
+        "image": null
+      },
+      {
         "title": "Сибига заяви, че е призовал Рубио да ускори доставките на прехващащи ракети на фона на руските атаки по енергийната инфраструктура на Украйна",
         "description": "Украинският външен министър Андрий Сибига заяви, че е призовал държавния секретар на САЩ Марко Рубио да ускори доставките на прехващащи ракети, предаде Ройтерс. Агенцията отбелязва, че това става на фона на засилените руски атаки по енергийната инфраструктура на Украйна, ​​действия, предприети с наближаването на зимата в опит да се сломи морала на украинците. В интервю за Ройтерс, дадено след разговори с Рубио в кулоарите на срещата на външните м",
         "date": "2026-11-10T18:31:00+00:00",
@@ -357,15 +381,39 @@
         "image": "https://www.bta.bg/upload/14078853/e0b34bcb224d44f7be1f7a0e2c5f83ae--0--29401ce7a98a400fb0eea2e8def9f8b2.jpg"
       },
       {
-        "title": "Конфликтът около полския Конституционен съд се възобнови след края на траура заради нападението в Краков",
-        "description": "След двудневния национален траур, обявен след масовото убийство в Краков, политическият конфликт в Полша около Конституционния съд (КС) бе възобновен днес, предаде Франс прес. Денят обаче премина без сериозни инциденти на фона на дългоочаквано заседание на КС. След завръщането си на власт през 2023 г. министър-председателят Доналд Туск се стреми да реформира тази институция, която според неговите поддръжници е била поставена под контрола на изпъл",
-        "date": "2026-11-10T17:47:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244187-konfliktat-okolo-polskiya-konstitutsionen-sad-se-vazobnovi-sled-kraya-na-traura-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14055969/22524a1bea174238b53d0043f2cf6482--0--45a3ec2aa5434d609d8bc32525d80548.jpg"
+        "title": "От Брюксел и Киев до Вашингтон: Светът реагира на трагедията на \"Тракия\" - Dir.bg",
+        "description": "",
+        "date": "2026-11-10T17:25:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjVSQXVoYXZjUWx3cmdGbDVuS0ZKWXAwWXpFNWJxLXFuX0JITnBQZ3ItOGJCT0h6LTdDQW1ZSTl1RG9MTEtkSzlUelVzemZ2Q2ZqU0YySVBCT3l5WlVUNWpnRmZKY1VwcFZJRW5Zem1YUGZuRXd5cG1URFVSYTNnSks3aXhJVG12cDFXMUJwRWszNFhRVXR5bXVnMTdWVk9N?oc=5",
+        "source": "Dir.bg",
+        "image": null
+      },
+      {
+        "title": "Новият израелски парламент полага клетва на фона на битката за съставяне на правителство - Свят - manager.bg",
+        "description": "",
+        "date": "2026-11-10T14:04:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVEtTVBpS2lpOGR5cTYyNms0ZlR6Z01lenR2dU5rbVEtZ0pQY2EyT1RYMHNrLTBReWMtMXpFZl9vZUM3QU9uaUR1WmluMkJGalY1dmR3QnFDZ3hDTUlxRW1zYThocVZGVkM4MXBnVzhzOTVCY3BjdlJ2aEg4bDZHeE0tbndSUmVDc0N0YjZlRGVIOVZJUUhHQW1NTGlZaVZocHBRYl9kV3E4RXdFaWxPRkFaQ2RfNW1XN2xTcnd1cG1qV1JtV0FyQ0xwZnA?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Борба с опасен паразит: САЩ отделят 610 милиона долара за развъдник на стерилни мухи - Свят - manager.bg",
+        "description": "",
+        "date": "2026-11-10T12:53:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3ZURE0wYnFQeXNFTWxjcXEwLVZGbm1zYTFMSExPTDdLSXh0ajZWRFJ2MDVLVFhMWi04Rk1RU1p3MTBiRkZoazUzbDFHTGItZDR1SVZfdDJ6WTRfVy1ZVWkydUs2RVh0TG1HcWozQlVCZTVjckp5RmhpY2JKNnlxcUFobG9pTjIwaWR4c2xGMVVfRVRjNEVzT1FQeFB2SlE2X2RiRUtWR2Fsc3ZzbXhGYkU5LWpES3dXQmJvZzFKaEcwWWNPeWlz?oc=5",
+        "source": "manager.bg",
+        "image": null
       }
     ],
     "Наука": [
+      {
+        "title": "Още преди старта на мисията „Рубин“ откри две невидими досега съседки на нашата галактика - БГНЕС",
+        "description": "",
+        "date": "2026-11-11T01:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUF90dm9rTEFzOEc1M0lCQzR2UTJXb0FyTTdTRGZpWUpMWGVGQWZhQlNpNEhWemx3ZjRfTTRHTTNIUHNhOWJFLVBOWklCOUE5cmlsc2ZpWjM1WTgzdC1NREZrTlRDN2VrbUhDRTdmXzBjRDVIWHF4elZQQVdhMzBoZHZhaGIySGZRME5GVHVEOWZZeXFESXVzVERzRXhzc0k5aFQyTDB2VnVyclAwendyZA?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
       {
         "title": "Елитът на българската наука се събра в УниБИТ: Нова ера за докторантските изследвания - NetNews – Новините на Ямбол",
         "description": "",
@@ -557,14 +605,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU3dZdnFEeTVvZDdJUHJ4TDVvckdON3BNY3F3SENtOUdJbG5Sck04bVBjSnNpV1Z4bHVRNlNvY09ueXpMR1JYS2pCTlp0Nk5saG9hVXBncDNlNm11cjZDaUdaVElsUy1STVlraWdMaGxhWDhmMEN4NkE1QVJNM0xpbzE0djVwUGVOblNzQnpqQUUzVjRNeWc1cm5mYmliVWxrcThuUDZTSHlJM3MwbkwzMDh1U1JjUXAwS21HMnFJS1UzM3lmaEcyNlYtVG0wcWpZdFViUjhlaldKZ2M3TDVNZWpaaGxpUQ?oc=5",
         "source": "MediaBricks",
         "image": null
-      },
-      {
-        "title": "Скритата наука зад ММА | Стивън „Уондърбой“ Томпсън - MMA.BG",
-        "description": "",
-        "date": "2026-11-08T22:00:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjQwanQyWUtsbHUxVDJOcmVoTGdzdDJUT0l5QXZkY3hKbV9VSHRRZk9KMHdpcGw2NTFXTjJUS0JNMUpwc2Y3b1RCeE14RThUQW9USlh0UklORGNVYTFlNXFmR1pJaVNtekFfNV9xSjVBMEhIVlZ0eVpnX2Ffb0FZUzNTRnFwa2lvUEM0bHlzc09Ydw?oc=5",
-        "source": "MMA.BG",
-        "image": null
       }
     ],
     "Образование": [
@@ -614,14 +654,6 @@
         "date": "2026-11-10T16:20:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUZ3QUp6ekdQNkItakdDcVloSHV6bEZnYXBhQnJqeXMyWURIeUYwX21tMlE5OUwyTjJTSWg0WlkwOFVQY1hYQTNyXzBlenlxcENEbGRMYXhwV0oxcnpYVFZDZzVQaE9XSGRkRmhqYU91MjM3emJTUzRhNk56eGVkTEU0WWRiWGNHdThJNDZtbTJvdG9VU3VB?oc=5",
         "source": "Frognews",
-        "image": null
-      },
-      {
-        "title": "В Благоевград се проведе работна среща за обхващане и връщане на децата в образователната система. - Struma.com",
-        "description": "",
-        "date": "2026-11-10T16:04:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGE0empYYmxzWDVINTJ4MUFBMTlJbWM2emlTS255cHZlNHFJanVGa0VlekNXN1lZYkpvTC1rTFNjaHpKajRDN3pmYlJtZ0xkeE53d0VrWWVjZDFYVFV3YTUyVXdUUzN6SnVheEZ0eVRWMU9tbDhPWUg3X005LXJBXy0ydHhRazdCT0lTbTRxVDVYYVRfT1ZKc3pGbXl4MXNsS2lfOTNpUGJlNlhXcmc?oc=5",
-        "source": "Struma.com",
         "image": null
       },
       {
@@ -697,6 +729,14 @@
         "image": null
       },
       {
+        "title": "Близо 400 ученици участваха в математическия турнир „Черноризец Храбър“ в Бургас - Poligraff",
+        "description": "",
+        "date": "2026-11-10T14:27:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMEZtVk55OXZiUTMtSmJIc3lXcUZtakllZEVFSTRNMnpURXo0QncxNU1UcERpQklrZXZCbUtXd002dm8wZUJxRzZHR0NUa1RROEljVzZORTZoS3FZMzR1S3FFYjd6cFEydU84bmtMZVBwMFlEQWRvcmcwVUhuRzUtNFNCQjk3aUNWYXpWel9sMXhidmUyYWw4SmRTMF9iTmhXdng2RU1VR3ZnaU1nLWxBOWdR?oc=5",
+        "source": "Poligraff",
+        "image": null
+      },
+      {
         "title": "Близо 400 ученици участваха в математическия турнир „Черноризец Храбър“ в Бургас - https://vburgas.bg/",
         "description": "",
         "date": "2026-11-10T14:21:05+00:00",
@@ -710,6 +750,14 @@
         "date": "2026-11-10T13:56:47+00:00",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEpjVlhUbks3ZXJaSHlNV1B1X2VwZzBBV1pFOW0tRDZYT2k2a2ZLYnJrUkxzcXc2WU41aHVlQmRtemI5dzRwb2VPQklUUTlQamkyOGNCbXo4TmlWeU9WemhWUlZSR0ZLYUlEbUE4bXF3ekNjU2ltbE9ZaFFNMXV3cDEwVlZBX1FfZHhia0N5OGxEZGZiaThvMVFxUUtudnFKclE5a0RjS1BCMDY1dUh0YlUyUS1aNXI4X244TXdB?oc=5",
         "source": "Haskovo.Net",
+        "image": null
+      },
+      {
+        "title": "Връщат отпадналите деца в клас: Спешна среща на институциите в Благоевград - ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ",
+        "description": "",
+        "date": "2026-11-10T13:02:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1B0NGFUcW82eno1UjhzN2NyQXA2MXp6V0FsNjFkUHl5RVc1WmhVUmZyaldpODBCZVk0b3VCaGZQR3BuTEtpQ3J2N0c3dzdjRFY3TGlUckdkNW9CTnVxbV9BbVlMdTU1aWU0eDM5Q29jZ01tcjRuVTBTdjFza0FkcW5fektraHl0akhubUJ0WkM0YnNGZGNOM29QZkFqcS1pQ1RuUHJMbkdrcWM?oc=5",
+        "source": "ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ",
         "image": null
       },
       {
@@ -758,14 +806,6 @@
         "date": "2026-11-10T09:39:56+00:00",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QVW04UTVyYnFaMGtlX0FRMDhUQ0dBVFhtMnBCMy1aRjlvdllZZWZoVnN4cVRWM29wRUI0c2pHUXNGa0sxaHJXRXpqRF95Zw?oc=5",
         "source": "Пловдивски университет \"Паисий Хилендарски\"",
-        "image": null
-      },
-      {
-        "title": "Откриха нов STEM център в бургаското ОУ \"Антон Страшимиров\" - БНР Новини",
-        "description": "",
-        "date": "2026-11-10T09:32:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjYtYlI0X0dFclJHZlBlcnJDa0JKRnB5SGdXdG5HTXAwZGpEelVfa0UyVlR3a3JFQWthNVlWaW1zR2o4X0Ztd3lxNDNWT09nWVUzYkRsLUo5TXdtWS1xckM4MXVMY2oyNGhYX3lGaUk2dnpUbVlvQ1IxV0xjM2hTU2FncGN1VHBHcDdMQXpjRXNUeUwwSFJVRkRGSU9qdw?oc=5",
-        "source": "БНР Новини",
         "image": null
       }
     ],
@@ -980,8 +1020,8 @@
     },
     "Свят": {
       "fresh": true,
-      "count": 20,
-      "feeds": 1
+      "count": 25,
+      "feeds": 2
     },
     "Наука": {
       "fresh": true,
