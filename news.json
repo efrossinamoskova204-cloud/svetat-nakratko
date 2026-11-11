@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:17:31.237086+00:00",
+  "generatedAt": "2026-11-11T01:45:47.809893+00:00",
   "categories": {
     "България": [
       {
@@ -19,14 +19,6 @@
         "image": "https://static.dir.bg/uploads/images/2025/08/13/2902579/384x216.jpg?_=1755060703"
       },
       {
-        "title": "Великобритания арестува висш американски военен по подозрение в шпионаж за Русия - Dir.bg",
-        "description": "",
-        "date": "2026-11-10T21:55:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1NvdmtYMmJmZjB1OGpKNlJuYlRuY1lEX3JzWGljd2U3Y3ZqQXNxNUdsRE81d0ZsWk5aQjFjdV9ERXQ5QUpSLXV1amZWZWRRel96V0t2ZVRhU2NzVk5aUnRJbW9LRC00R0NINVItNEJqMS1abmExRU1sd0QyMUgxSEhmNkRZWUVEVk05UXZkU1FKZkdjeDRWLXdwYk5hQ2xJMWcybEVsQ1N1SXFvRFJoRA?oc=5",
-        "source": "Dir.bg",
-        "image": null
-      },
-      {
         "title": "Движението по автомагистрала „Тракия“ остава затворено, продължава изтеглянето на автомобили и камиони от двете верижни катастрофи",
         "description": "Движението по автомагистрала „Тракия“ между пътните възли „Зимница“ и „Кабиле“ край Ямбол остава затворено и към този час. Продължава изтеглянето на леки автомобили и камиони от двете тежки верижни катастрофи, видя кореспондентът на БТА в региона. Изтеглянето на автомобилите от платното в посока София вече е приключило, като в момента се извършва обработка на пътната настилка заради разлетите масла и горивни материали. В платното в посока Бургас ",
         "date": "2026-11-10T21:46:42+00:00",
@@ -35,10 +27,34 @@
         "image": "https://www.bta.bg/upload/14096626/20261110_174833.jpg"
       },
       {
+        "title": "Лондон задържа американски военен за шпионаж за Русия - News.bg",
+        "description": "",
+        "date": "2026-11-10T21:05:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnRkM0U1Q1otdEk3WFZIT1YyZ1RUaGV1Vm56WEViT1Y5Nk1La1ctb3lBTlBMOTV4N2VPVXZScHNWMXhZN2F5NDZKZThpNlhsaWsyTHA5RUplQWVBYUJ1SmozM0RVVmRKc25HUld0eFYydGNjNkwzOExFZWZyTERaN2RZWU5ablQ1Tno4QTh1UVhwRWhvMmc?oc=5",
+        "source": "News.bg",
+        "image": null
+      },
+      {
+        "title": "Връзка с \"Азов\" и план за въстание: Какво разкри разследването срещу испански неонацисти? - Dnes.bg",
+        "description": "",
+        "date": "2026-11-10T21:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdXlOOTMwU3BQTmNxNkJaZzJldF8wanNRRGNBaFU5ZjRLblY2NnlUMFV1ZnVwcEY3ZTlpUG0wM0NJTWZuZWZKX3k4bzg4UkRGbkFhUlJiNEpOVjk4SDc5RTh6TDJFMHloRTRQU2Y4dTBweUxHRFZFQVJrMHlEZS1OR2pVUm1yUVNQY2F0a3czYnBjNHNYZU8wbld0SWZ3ZTNnazVhdHZKUEY0Q3IzeTBFNHRxd2VhNUFNU3lidll3eWJ0WHM?oc=5",
+        "source": "Dnes.bg",
+        "image": null
+      },
+      {
         "title": "Нова възможност! Никола Цолов с важен тест във Формула 1 - Gong.bg",
         "description": "",
         "date": "2026-11-10T20:50:11+00:00",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVAtOXdSMmhSb2xCWms1Z0pFVFM2ckl5SEtTbkN1OThUMmpabWlKVXNEUW5oTGxxNEhrNEVhWEluM2pnUXBhTUhxRnVWMjVsRmFoYVllVVZDamYzbVJDa2ZGZnZNME9rTXpISENqQWpyWDAzdkp0aDJPUXJrSnY2bEgzbUIwLWFvZUFZQVByeXNQY3ViNnlUSFRlaEczdw?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
+        "title": "Манчестър Юнайтед с нов план за Майкъл Карик - Gong.bg",
+        "description": "",
+        "date": "2026-11-10T20:45:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnFlRUNaT2loRGd3LU1CZF9VdHIydW1fdVJNZ21JSmRJZmU1MS1xSzBYQnEzZkRaR1BDN2czNmFvQ0ZIaXZCRWpoNHJpOXc2bTBrdjdwblYzdFl6STB2SzNaNDJyV01rSHdNbGdQM0g5aTFsV09RcFhEeEtGLXlDQWNxTnJTRnFSaWVNV1lrN3hpVjUtNHc?oc=5",
         "source": "Gong.bg",
         "image": null
       },
@@ -107,14 +123,6 @@
         "image": "https://www.bta.bg/upload/2021703/369A9199.jpg"
       },
       {
-        "title": "Любимият на децата комик и писател Дейвид Уолямс е обвинен в сексуални посегателства над... деца - offnews.bg",
-        "description": "",
-        "date": "2026-11-10T19:25:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2tmU2xBaEpLUk0ySUVFZk9QblRFRUw1YVgwSHBQU0FkZTZubjdwUDBHQ0pYei01UFRuWDdEenB3Z0F3eUxNZHNCNmRfTHRFTEsyb2o2WGpLaktVNzNNdDMxWFc0SHFOMHJNc3VWdTBGcVZRVGxPdzdrN2ZPanNEOUNtdW51SnZhSVg3ZTdnMDRCdnZBU3daUHVaUGJsYzB6cDB4ZUROeWI0YnlHdmc?oc=5",
-        "source": "offnews.bg",
-        "image": null
-      },
-      {
         "title": "Шефът на КЗК: Наложената глоба е умерена спрямо предвиденото в закона",
         "description": "Росен Карадимов обясни трите нарушения, за които глобиха \"Кауфланд\" с рекордните над 75 млн. евро",
         "date": "2026-11-10T19:15:30+00:00",
@@ -145,6 +153,14 @@
         "link": "https://www.bta.bg/bg/news/lik/1244236-izlozhbata-zapechatano-v-kosmosa-na-ivelina-ivanova-predstavya-abstraktni-zhiv",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14097010/369A2439.JPG"
+      },
+      {
+        "title": "Британският тв водещ, актьор и писател Дейвид Уолямс е обвинен в сексуални посегателства - Dir.bg",
+        "description": "",
+        "date": "2026-11-10T18:27:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkxlQ2hvWXBkV2pWY3lzaVRscEhXbGdqNlViZUM0d0pYYVpqek5RcGRnVkxVWm1tNl9mYTR1OU5rclMzYzlWbjFlMVlvc2lOVWlyZUVqQ05taXNXMlBPNTRURWZxdE9WSG8tZVpVdGx0elQ2eVNGblQyS25ueGFjUUx3VExLVUZDaUtaSUZlNjJCeXZ3b3FHSXZGYm9lLXNrWXBUZVIyV1hKc2xHMzV0a1VXWHY1cUJzbWc?oc=5",
+        "source": "Dir.bg",
+        "image": null
       },
       {
         "title": "Митко Новков представи сборника си с разкази „До Бързùя и после“ в София",
@@ -185,32 +201,24 @@
         "link": "https://www.bta.bg/bg/news/lik/1244224-svetiyat-sinod-na-bpts-bp-izrazyava-saboleznovaniya-na-semeystvata-na-zaginalite",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/5212389/1000129523-01.jpeg"
-      },
-      {
-        "title": "Тези, които се гордееха с магистрално строителство, докато ни оставяха некачествени пътища, днес нямат право на критика, коментира Иван Демерджиев",
-        "description": "Тези, които в продължение на две десетилетия се гордееха с магистрално строителство, докато в действителност ни оставяха пътища с тесни ленти и компрометирано качество, днес нямат нито моралното, нито политическото право на критика, написа министърът на вътрешните работи Иван Демерджиев във Фейсбук. Той коментира, че днес мнозина са се опитали да политизират трагедията на автомагистрала \"Тракия\". Тази сутрин две верижни катастрофи станаха при гъс",
-        "date": "2026-11-10T17:53:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1244221-tezi-koito-se-gordeeha-s-magistralno-stroitelstvo-dokato-ni-ostavyaha-nekaches",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14095932/viber_image_2026-11-10_14-27-51-333.jpg"
-      },
-      {
-        "title": "Шефът на НСлС за \"Тракия\": Мъглата е предпоставка, търсим причината за първия удар и виновно лице",
-        "description": "Екип от десет следователи разпитва пострадали в болниците в Ямбол, Сливен и Бургас",
-        "date": "2026-11-10T17:45:36+00:00",
-        "link": "https://dnes.dir.bg/intsidenti/shefat-na-nsls-za-trakiya-maglata-e-predpostavka-tarsim-prichinata-za-parviya-udar-i-vinovno-litse",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/10/3046338/384x216.jpg?_=1794335800"
       }
     ],
     "Свят": [
       {
-        "title": "Цял свят говори за агитката на ЦСКА. Сектор \"Б\" е тотално съкрушен - Gol.bg",
-        "description": "",
-        "date": "2026-11-10T23:43:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON0NOZERQenFOVUZITFg0dU5kZFhqWko1dXFjLTJKZmNMM0JUcnVTbF80MFNLSnZjQUc4SGtjSXJ2VlRGLVJMQlliYVdNX003S0kzejFfODExMEVLTEhOOHNCZnBNdG9qTEcwa1RIUUVOSUp4NHBFaW43b3hNNGZlNy1IQVY2TjdlR1FlNWdxUExYX0ExbGF5VU53QUFZMGFmR1NkWnJ0MGZPWW9ldHR4TkJJS0MtRGc?oc=5",
-        "source": "Gol.bg",
-        "image": null
+        "title": "Руските сили свалиха 92 дрона над Ленинградска област, съобщи губернаторът на областта",
+        "description": "Руските сили свалиха рано тази сутрин 92 дрона при атака срещу Ленинградска област, съобщи в приложението Телеграм губернаторът на областта Александър Дрозденко, цитиран от Ройтерс. \"Над територията на Ленинградска област бяха свалени 92 безпилотни летателни апарата. Бойната работа продължава\", написа Дрозденко в канала си в мрежата Макс, цитиран от ТАСС. В района се намират пристанищата Уст Луга, Приморск и Висоцк, които са ключови за руския изн",
+        "date": "2026-11-11T01:18:11+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1244276-ruskite-sili-svaliha-92-drona-nad-leningradska-oblast-saobshti-gubernatorat-na-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13889817/d9cbdb4a5f7e4a3f8c136504796cc20e--0--733157d43798487a88de7f204def2bdd.jpg"
+      },
+      {
+        "title": "Камарата на представителите блокира процедурата за импийчмънт на министъра на отбраната на САЩ Пийт Хегсет",
+        "description": "Контролираната от републиканците Камара на представителите в Конгреса на САЩ предприе процедурни действия, с които на практика блокира опита за импийчмънт на министъра на отбраната Пийт Хегсет, осигурявайки му още време, преди демократите да поемат контрола над Конгреса догодина и евентуално да подновят опитите за отстраняването му, предаде Ройтерс. Гласуването на процедурното предложение се състоя броени часове след като Хегсет определи усилията",
+        "date": "2026-11-11T00:31:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1244275-kamarata-na-predstavitelite-blokira-protsedurata-za-impiychmant-na-ministara-na-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14018401/98a6318757bc40b59237228939e1fec7--0--2b1608ee78254481b26221ecea9fd35d.jpg"
       },
       {
         "title": "МОЛДПРЕС: Молдовският мед получи достъп до китайския пазар",
@@ -341,14 +349,6 @@
         "image": "https://www.bta.bg/upload/14097273/IMG_8324+%281%29.jpeg"
       },
       {
-        "title": "Александър Телалим представя юбилейната изложба „Магичен свят“ в Ловеч - ЗЕТРА медия",
-        "description": "",
-        "date": "2026-11-10T18:35:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPR0dPdks1NV9sVlRCTU1WZmVSd3R5RWNKQkZLLUJ4Sk4zQVd2QmpVbjhMX1ZPa0pvRXF1SFZpN3M3XzNtR0lXeHczejVYWnlsdzBGWHlRMmoxdDBmQWNWM2hFUlF6S1NxRXkyblFFRk9iSGd4UjRuOFNGOUlKcDZoQk9DVzR0YlBhUkUxTENta21xT3ZJaFFFdUpJV3BXZlFiZ3Fyd3djUno5SnJjTmZZSFBNOS1LTGVOdnRmLXAzMURNa3pCQmlvQ1l0RlhhVkkxNUhyWUpqRzVFekctTFdvR0tUSkltZTFZbldlRjI2SXFHZFByZWV0eFp5Y0FkYVlfaUU2eHFPOVI4QVZSNnMzeFdOMy04YVJGSzFPNkZTXzhtaUhGY20ycXB2S0J1X3RXVTk0Mkk3UlJBb0E2WUdXaA?oc=5",
-        "source": "ЗЕТРА медия",
-        "image": null
-      },
-      {
         "title": "Сибига заяви, че е призовал Рубио да ускори доставките на прехващащи ракети на фона на руските атаки по енергийната инфраструктура на Украйна",
         "description": "Украинският външен министър Андрий Сибига заяви, че е призовал държавния секретар на САЩ Марко Рубио да ускори доставките на прехващащи ракети, предаде Ройтерс. Агенцията отбелязва, че това става на фона на засилените руски атаки по енергийната инфраструктура на Украйна, ​​действия, предприети с наближаването на зимата в опит да се сломи морала на украинците. В интервю за Ройтерс, дадено след разговори с Рубио в кулоарите на срещата на външните м",
         "date": "2026-11-10T18:31:00+00:00",
@@ -363,46 +363,6 @@
         "link": "https://www.bta.bg/bg/news/world/1244187-konfliktat-okolo-polskiya-konstitutsionen-sad-se-vazobnovi-sled-kraya-na-traura-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14055969/22524a1bea174238b53d0043f2cf6482--0--45a3ec2aa5434d609d8bc32525d80548.jpg"
-      },
-      {
-        "title": "Великобритания ще инвестира в дронове и сензори за противодействие на руски подводни заплахи",
-        "description": "Великобритания обяви, че ще инвестира 90 млн. британски лири (около 107,5 млн. евро) за дронове, сензори и системи с изкуствен интелект, за да подпомогне Кралския военноморски флот в противодействието на руски подводни заплахи в северната част на Атлантическия океан и в защитата на критичната инфраструктура, предаде Ройтерс. Нова мрежа от автономни системи, оборудвани с усъвършенствани сензори, ще създаде единен капацитет за наблюдение, който да ",
-        "date": "2026-11-10T17:41:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244215-velikobritaniya-shte-investira-v-dronove-i-senzori-za-protivodeystvie-na-ruski-p",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/5771908/9165868c083e4624bd002aaf1f4bdf18--0--289e1734c3f74d8fbce67009ca3ebd78.jpg"
-      },
-      {
-        "title": "Страните от Съвета за сътрудничество в Залива ще засилят военното си сътрудничество на фона на заплахата от Иран",
-        "description": "Съветът за сътрудничество в Залива (ССЗ) ще засили военното си сътрудничество в отговор на войната с Иран, предаде ДПА, позовавайки се на шестте държави членки след среща на министрите на отбраната в Манама, столицата на Бахрейн. Бахрейн, Кувейт, Оман, Катар, Саудитска Арабия и Обединените арабски емирства (ОАЕ) постигнаха споразумение да създадат съвместен военен команден център със седалище в Кувейт. Шестте държави също така се съгласиха да пре",
-        "date": "2026-11-10T17:31:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244204-stranite-ot-saveta-za-satrudnichestvo-v-zaliva-shte-zasilyat-voennoto-si-satrudn",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13611048/0149c91a806048dfa735ddbfbdfd6c41--0--c8a465a6447a4409a747733bf54f9438.jpg"
-      },
-      {
-        "title": "От Брюксел и Киев до Вашингтон: Светът реагира на трагедията на \"Тракия\" - Dir.bg",
-        "description": "",
-        "date": "2026-11-10T17:25:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjVSQXVoYXZjUWx3cmdGbDVuS0ZKWXAwWXpFNWJxLXFuX0JITnBQZ3ItOGJCT0h6LTdDQW1ZSTl1RG9MTEtkSzlUelVzemZ2Q2ZqU0YySVBCT3l5WlVUNWpnRmZKY1VwcFZJRW5Zem1YUGZuRXd5cG1URFVSYTNnSks3aXhJVG12cDFXMUJwRWszNFhRVXR5bXVnMTdWVk9N?oc=5",
-        "source": "Dir.bg",
-        "image": null
-      },
-      {
-        "title": "Руски генерали на тайна визита в Израел. Какво договарят - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-10T17:00:24+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazdONGZTVnZyVWdmUm5PY0RMdF8tVWV3LXdvaTcwaDVzcjRZZWFWaFptTUp6S3NIV1d2SDFjeUd0cUE3YU02QjlVQjkyYWN0Z0p1OXpqYjZmeGxQeDdCMEFxSy1kVllwRzM3eGxaZFdOR25pVEIyWWpYOUUyNjJpcGRsS05wWmVOeV9EbFREZzFpSHlHckJNblhQU3hFdE1lcmlLQndR?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Париж и Киев приветстваха усилията на САЩ за \"постигане на частично примирие\" - БТА",
-        "description": "",
-        "date": "2026-11-10T15:09:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUEhUaGxGczczX1gwX1VaOC1YQVBmS0hia19IN0xDNzZnVmhOaFowcVpRS3prZEhfME9JaWNrc2thNkVTZnprOVdLMmpxcmZCT0l2akpBS0w3Qzlvc0Jzdll6OXR0Y3N4V3lDMDdsRDNnQlRDSEVBcjJZdHVLVWZpSkJjYVUwNUdGckJmYUpTZVJqWU14cE5VeHkyczNhQ2RWeWk3ZGhYQ1UwNkMyUFMyeEJTeHdZXzhsandZZGxXY1dtOHBacnFwY0h4a1REaHc?oc=5",
-        "source": "БТА",
-        "image": null
       }
     ],
     "Наука": [
@@ -583,11 +543,11 @@
         "image": null
       },
       {
-        "title": "INSAIT стартира ново научно направление за откриване на лекарства с изкуствен интелект - MediaBricks",
+        "title": "INSAIT стартира ново научно направление за откриване на лекарства с изкуствен интелект - БГНЕС",
         "description": "",
-        "date": "2026-11-09T08:57:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWh1VUpJWVpndlNxTzlHWlY0bGxlUGdqNWpvSC05RnJqRFU0NVB2Nl9hSDNNTUJSM0k2dHo3YXFtcENtQUpzZ19ISnpfMmFBLUMwRUR0S3lHUTMyRTZYbkdoeGw0QlRoTEJQTlZRRkRVaHBVaUViS01Dakd5aFJOTTNNUmtWYU1pTUc1Vk5kdjYwajFSTV9FSmlXTzI1RHpvYlNyVnRvbmplY2JQYmFzTQ?oc=5",
-        "source": "MediaBricks",
+        "date": "2026-11-09T08:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXl5X0VSM2p6SHhKMkEyOW1yVkhZNVFqRDBIYjZ6MUFRa18tNy1WWmh4WmNIRjVNZXBCWldjVG5WaWQyLVd3ZWtSZDZZMUxuUG40WUNtanhxUmNHX3MtWkRSY0hUTjRJVkVPdlZQd3V5eU9sdTR2UTNlTlB1V25ldXAzMl9vZDhIOVpudlY4VE5wNGhsZjFmSFRGR0hYRmJnNzAxUWlxZHZqTUNx?oc=5",
+        "source": "БГНЕС",
         "image": null
       },
       {
@@ -608,6 +568,22 @@
       }
     ],
     "Образование": [
+      {
+        "title": "Европейски знак за качество за проект на ППМГ - Враца - Враца плюс",
+        "description": "",
+        "date": "2026-11-10T18:47:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFFhbFdoZmZaVWd1OEs4UlBKbFd4S0FIVHhtRVJQVWZrTEpsVmNRWXdFTGJxQnV6anl3OGJOUFFQVHFJd2Ewdkl6SjlHdG1xV1NvSUE4OHZGMlVjelBZZ2l1MDF3YVNhN0xxSWhZdzlyeGZ4UlNwVkJnSWdSR3BRVUFCZ2RqakRIbkRidnljckR5NXc0Zl9zU2lKZ0I?oc=5",
+        "source": "Враца плюс",
+        "image": null
+      },
+      {
+        "title": "От Враца до Болоня - учене с италиански връстници по „Еразъм+ - Враца плюс",
+        "description": "",
+        "date": "2026-11-10T18:42:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3RVc1V4a2VWVGUzR2YxTGM4QzJEVTBDUjQ2cUh5NzhGUTJEQWNzTEJORkNxeHhYb3hXOFExUkdGdk5fU0R0SDhMc3JyenFWWGRNcEpKTlhZa3RFWi1wNGpCLTh2ZVA2bTloQXB2RzFfeEpjWHkteGN2UmZNNTJaRnNTWkNTY21LbnJGWVpOeXE2Zlp5TlpsZEtXMHVLaUhybjVHbGN5TQ?oc=5",
+        "source": "Враца плюс",
+        "image": null
+      },
       {
         "title": "РАБОТНА СРЕЩА НА ОБЛАСТНИЯ КООРДИНАЦИОНЕН ЦЕНТЪР В БЛАГОЕВГРАД!Създават Механизъм за съвместна работа на институциите по обхващане и включване в образователната система на деца и ученици в задължителна предучи - Вестник СТРУМА – Вестникът на югозападна България",
         "description": "",
@@ -638,6 +614,14 @@
         "date": "2026-11-10T16:20:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUZ3QUp6ekdQNkItakdDcVloSHV6bEZnYXBhQnJqeXMyWURIeUYwX21tMlE5OUwyTjJTSWg0WlkwOFVQY1hYQTNyXzBlenlxcENEbGRMYXhwV0oxcnpYVFZDZzVQaE9XSGRkRmhqYU91MjM3emJTUzRhNk56eGVkTEU0WWRiWGNHdThJNDZtbTJvdG9VU3VB?oc=5",
         "source": "Frognews",
+        "image": null
+      },
+      {
+        "title": "В Благоевград се проведе работна среща за обхващане и връщане на децата в образователната система. - Struma.com",
+        "description": "",
+        "date": "2026-11-10T16:04:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGE0empYYmxzWDVINTJ4MUFBMTlJbWM2emlTS255cHZlNHFJanVGa0VlekNXN1lZYkpvTC1rTFNjaHpKajRDN3pmYlJtZ0xkeE53d0VrWWVjZDFYVFV3YTUyVXdUUzN6SnVheEZ0eVRWMU9tbDhPWUg3X005LXJBXy0ydHhRazdCT0lTbTRxVDVYYVRfT1ZKc3pGbXl4MXNsS2lfOTNpUGJlNlhXcmc?oc=5",
+        "source": "Struma.com",
         "image": null
       },
       {
@@ -723,25 +707,9 @@
       {
         "title": "Успешно финализиране на проект по програма „Еразъм+“ в ПМГ „Иван Вазов“, град Димитровград - Haskovo.Net",
         "description": "",
-        "date": "2026-11-10T13:58:28+00:00",
+        "date": "2026-11-10T13:56:47+00:00",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcEpjVlhUbks3ZXJaSHlNV1B1X2VwZzBBV1pFOW0tRDZYT2k2a2ZLYnJrUkxzcXc2WU41aHVlQmRtemI5dzRwb2VPQklUUTlQamkyOGNCbXo4TmlWeU9WemhWUlZSR0ZLYUlEbUE4bXF3ekNjU2ltbE9ZaFFNMXV3cDEwVlZBX1FfZHhia0N5OGxEZGZiaThvMVFxUUtudnFKclE5a0RjS1BCMDY1dUh0YlUyUS1aNXI4X244TXdB?oc=5",
         "source": "Haskovo.Net",
-        "image": null
-      },
-      {
-        "title": "С 16.6 млн. евро преобразяват факултет на ВТУ, професионална гимназия и 2 училища в Горна Оряховица - www.24plovdiv.bg",
-        "description": "",
-        "date": "2026-11-10T13:30:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iVzdwQWJBaDBPajh5MmpZS3FoR19GbmhjaUZUVWFjQTBFOXRYMlE5dGNoQ3N1TmZVbDRSa1Q2VHZDQ05uV2pBM3d0YzdjYXNERzlPdnZLTmtWZTU3?oc=5",
-        "source": "www.24plovdiv.bg",
-        "image": null
-      },
-      {
-        "title": "Връщат отпадналите деца в клас: Спешна среща на институциите в Благоевград - ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ",
-        "description": "",
-        "date": "2026-11-10T13:02:34+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1B0NGFUcW82eno1UjhzN2NyQXA2MXp6V0FsNjFkUHl5RVc1WmhVUmZyaldpODBCZVk0b3VCaGZQR3BuTEtpQ3J2N0c3dzdjRFY3TGlUckdkNW9CTnVxbV9BbVlMdTU1aWU0eDM5Q29jZ01tcjRuVTBTdjFza0FkcW5fektraHl0akhubUJ0WkM0YnNGZGNOM29QZkFqcS1pQ1RuUHJMbkdrcWM?oc=5",
-        "source": "ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ",
         "image": null
       },
       {
@@ -798,14 +766,6 @@
         "date": "2026-11-10T09:32:29+00:00",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjYtYlI0X0dFclJHZlBlcnJDa0JKRnB5SGdXdG5HTXAwZGpEelVfa0UyVlR3a3JFQWthNVlWaW1zR2o4X0Ztd3lxNDNWT09nWVUzYkRsLUo5TXdtWS1xckM4MXVMY2oyNGhYX3lGaUk2dnpUbVlvQ1IxV0xjM2hTU2FncGN1VHBHcDdMQXpjRXNUeUwwSFJVRkRGSU9qdw?oc=5",
         "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Данъчни облекчения до 1500 евро за родители: Предвиждат и бонус за спорт и образование - Novinite.bg",
-        "description": "",
-        "date": "2026-11-10T09:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelFsQ2htODVLR083VUtjZl9ja19IUDl2M1V0RnJQOUpXSFB5X0tBSnN5R0Y3ZGxGdnRnaWVzX20xRTNSOEo2MGFqd3dCN2M1OE5mOWNSU2RHcjVSbEU0QWxwQmNYQ1hydXVHZ2VfWWJHMEExc3Q4SHFpX2ViQ0ZfekVPY0Zta1FDNGVSbFVfcGZZOFFiQXFwd1ROZTNiQWR0Y2l5ZWloRnc0al9KMzVkVmNxMHVSc3dqYmk4X1Nyc0J4X2Y4a0dF?oc=5",
-        "source": "Novinite.bg",
         "image": null
       }
     ],
@@ -1020,8 +980,8 @@
     },
     "Свят": {
       "fresh": true,
-      "count": 25,
-      "feeds": 2
+      "count": 20,
+      "feeds": 1
     },
     "Наука": {
       "fresh": true,
