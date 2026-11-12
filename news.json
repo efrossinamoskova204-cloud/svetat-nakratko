@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-11-12T20:30:37.894912+00:00",
+  "generatedAt": "2026-11-12T21:29:00.248219+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Съдът оправда Лютви Местан за катастрофата със загинало бебе, осъди условно бащата на детето",
+        "description": "Юсеин Ахмед получи 3 г. условно с 5-годишен изпитателен срок и 6 г. без право да шофира",
+        "date": "2026-11-12T21:08:31+00:00",
+        "link": "https://dnes.dir.bg/temida/sadat-opravda-lyutvi-mestan-za-katastrofata-sas-zaginalo-bebe-osadi-uslovno-bashtata-na-deteto",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/12/3047175/384x216.jpg?_=1794521181"
+      },
+      {
+        "title": "Кой ще наследи Тръмп? Четирима политици се открояват в битката за Белия дом",
+        "description": "Проучване на Ройтерс/Ипсос показва минимална преднина на Марко Рубио пред Джей Ди Ванс сред републиканците, докато Джон Ософ и Пийт Бутиджидж получават равни оценки сред демократите за изборите през 2028 г.",
+        "date": "2026-11-12T21:00:09+00:00",
+        "link": "https://dnes.dir.bg/svyat/koy-shte-nasledi-tramp-chetirima-polititsi-se-otkroyavat-v-bitkata-za-beliya-dom",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/12/3047112/384x216.jpg?_=1794499832"
+      },
+      {
+        "title": "Хегсет награди войника, който го смъмри за смях пред Гроба на незнайния воин (снимки)",
+        "description": "Пийт Хегсет отличи военнослужещия за стриктното изпълнение на служебните му задължения",
+        "date": "2026-11-12T20:53:02+00:00",
+        "link": "https://dnes.dir.bg/svyat/hegset-nagradi-voynika-koyto-go-smamri-za-smyah-pred-groba-na-neznayniya-voin",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/12/3047219/384x216.jpg?_=1794520538"
+      },
+      {
+        "title": "Окръжният съд в Кърджали оправда Лютви Местан и осъди условно втория обвиняем по делото за катастрофа от 2019 г., при която загина бебе",
+        "description": "Състав на Окръжния съд в Кърджали определи Лютви Местан като невиновен по повдигнатото му обвинение за извършено пътнотранспортно произшествие през 2019 г. край момчилградското село Загорско, в резултат на което по непредпазливост е причинил смъртта на едно лице. По повдигнатото обвинение съдът осъди условно на три години „лишаване от свобода“ с пет години изпитателен срок втория подсъдим по делото – бащата на загиналото бебе Юсеин Ахмед, като му",
+        "date": "2026-11-12T20:50:58+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1245935-okrazhniyat-sad-v-kardzhali-opravda-lyutvi-mestan-i-osadi-uslovno-vtoriya-obviny",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14105045/20261112_193654.jpg"
+      },
+      {
+        "title": "Разширение на метрото, места в градините и мащабна инфраструктура: Терзиев отчете 3 г. управление",
+        "description": "Столичният кмет и неговият екип представиха постигнатото в четири тематични панела, акцентирайки върху спестените средства от отпадъци, транспорта и образованието",
+        "date": "2026-11-12T20:44:00+00:00",
+        "link": "https://dnes.dir.bg/politika/razshirenie-na-metroto-mesta-v-gradinite-i-mashtabna-infrastruktura-terziev-otchete-3-g-upravlenie",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/12/3047179/384x216.jpg?_=1794517158"
+      },
+      {
+        "title": "Най-малко 8 жертви, десетки ранени и в неизвестност след срутване на сграда в Ню Йорк (снимки)",
+        "description": "Пожарникари продължават издирвателно-спасителната операция през нощта на фона на прогнози за обилни дъждове",
+        "date": "2026-11-12T20:39:57+00:00",
+        "link": "https://dnes.dir.bg/svyat/nay-malko-8-zhertvi-desetki-raneni-i-v-neizvestnost-sled-srutvane-na-sgrada-v-nyu-jork-snimki",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/12/3047189/384x216.jpg?_=1794518377"
+      },
       {
         "title": "Борисов към \"Кауфланд\": Спазвайте законите! А към кабинета: \"Нармаг\" и \"Кореком\" ли връщате?",
         "description": "Лидерът на ГЕРБ призова бизнеса и правителството да не демонстрират силата си на гърба на българските производители, работниците и потребителите",
@@ -153,57 +201,41 @@
         "link": "https://www.bta.bg/bg/news/lik/1245889-sonya-stankova-predstavi-svoya-fotografska-izlozhba-v-plovdivska-galeriya",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14104907/20261112_173852.jpg"
-      },
-      {
-        "title": "КЗК обвини \"Кауфланд\" в опит за публичен натиск върху съда",
-        "description": "Антимонополният регулатор припомни, че е санкционирал веригата три пъти от 2020 г. насам, а Върховният административен съд вече е потвърдил окончателно една от глобите",
-        "date": "2026-11-12T17:42:20+00:00",
-        "link": "https://business.dir.bg/ikonomika/kzk-obvini-kaufland-v-opit-za-publichen-natisk-varhu-sada",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2025/05/29/2880337/384x216.jpg?_=1748513541"
-      },
-      {
-        "title": "Нека не отлагаме обичта за утре, призова Сливенският митрополит Арсений по повод трагедията на АМ „Тракия“",
-        "description": "„Нека не отлагаме обичта за утре. Нека не пестим добрите думи. Нека не пропускаме възможността да прегърнем близките си, да поискаме прошка, да простим, да бъдем заедно. Защото не знаем колко дни са ни отредени, но знаем, че всеки един от тях е дар, за който трябва да благодарим на Бога“. Това призова Сливенският митрополит Арсений по повод трагедията на автомагистрала (АМ) „Тракия“. Сливенската света митрополия пое изцяло разходите по погребения",
-        "date": "2026-11-12T17:38:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1245880-neka-ne-otlagame-obichta-za-utre-prizova-slivenskiyat-mitropolit-arseniy-po-pov",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/10746588/20250226_112847.jpg"
-      },
-      {
-        "title": "Президентът Илияна Йотова поздрави проф. Николай Овчаров за премиерата на последния том от неговата трилогия за Второто българско царство",
-        "description": "Президентът Илияна Йотова поздрави проф. Николай Овчаров за премиерата на последния том от неговата трилогия за Второто българско царство, състояла се в столичен хотел. Проф. Николай Овчаров представи книгата си „Живот и смърт във Второто българско царство“ с участието на историка, медиевист и преподавател проф. Пламен Павлов. Модератор и водещ бе журналистът Бойко Василев. „Днес ще се срещнем с последната книга от трилогията, която вече няколко ",
-        "date": "2026-11-12T17:33:25+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1245877-prezidentat-iliyana-yotova-pozdravi-prof-nikolay-ovcharov-za-premierata-na-posl",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14105101/20261112_183426.jpg"
-      },
-      {
-        "title": "Районният съд в Тутракан започна новата образователна година с лекция за разделението на властите",
-        "description": "Районният съд в Тутракан започна учебно-образователните си инициативи за учебната 2026/2027 година с лекция за разделението на властите пред ученици от местното средно училище „Христо Ботев“. Това съобщиха от пресслужбата на Окръжния съд в Силистра. Председателят му съдия Георги Георгиев се срещна с ученици от 11-и клас и ги запозна с принципите на разделението на властите, функционирането на институциите и независимостта на съдебната власт. Той ",
-        "date": "2026-11-12T17:18:27+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1245876-rayonniyat-sad-v-tutrakan-zapochna-novata-obrazovatelna-godina-s-lektsiya-za-raz",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14104921/%D0%A1%D1%8A%D0%B4+%D0%A2%D1%83%D1%82%D1%80%D0%B0%D0%BA%D0%B0%D0%BD+%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F.jpg"
-      },
-      {
-        "title": "Пропадна контролата на Дунав (Русе) с румънския Волунтари, \"драконите\" ще проведат двустранна игра",
-        "description": "Предвидената за събота (14 ноември) контролна среща между Дунав (Русе) и румънския елитен тим на Волунтари няма да се състои заради множество контузени и болни футболисти в състава на отбора от северната ни съседка. Това съобщиха от щаба на \"драконите\". Първоначално Дунав и Волунтари трябваше да се срещнат в паузата на първенството на Първа футболна лига. Идеята на треньорското ръководство на Дунав беше футболистите да запазят игровия си ритъм, к",
-        "date": "2026-11-12T17:15:11+00:00",
-        "link": "https://www.bta.bg/bg/news/sport/1245870-propadna-kontrolata-na-dunav-ruse-s-rumanskiya-voluntari-drakonite-shte-pro",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14104882/1000103565.jpg"
-      },
-      {
-        "title": "Тематичен брой на списание „Социологически проблеми“ ще бъде представен в ИЕФЕМ-БАН",
-        "description": "Тематичният брой на списание „Социологически проблеми“ под заглавие „Нови актьори на промяната в труда, политиката, културата“ ще бъде представен на 18 ноември от 16:00 ч. в Института за етнология и фолклористика с Етнографски музей при Българската академия на науките (ИЕФЕМ-БАН) в София. Събитието ще се състои в Зимната градина на института на ул. „Московска“, информират домакините. Изданието обединява изследвания от различни научни дисциплини, ",
-        "date": "2026-11-12T17:13:29+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1245873-tematichen-broy-na-spisanie-sotsiologicheski-problemi-shte-bade-predstaven-v-i",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14028257/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B5%D0%BD+%D0%95%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B8+%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Американските емисари Къшнър и Уиткоф пристигнаха в Дъблин за среща със Зеленски",
+        "description": "Американските емисари Джаред Къшнър и Стив Уиткоф пристигнаха в Дъблин за среща с президента на Украйна Володимир Зеленски, който е там за участие в срещата на върха на Европейската политическа общност, предшестваща срещата на върха на ЕС утре, предадоха Си Ен Ен и Франс прес. Самолетът, с който пътуват двамата емисари, е кацнал във военновъздушна база в Дъблин. Преди това американските емисари бяха в Москва за среща руския президент Владимир Пут",
+        "date": "2026-11-12T21:27:40+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245939-amerikanskite-emisari-kashnar-i-uitkof-pristignaha-v-dablin-za-sreshta-sas-zelen",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14105597/6e01e46159c644b0a249e7ddcb2f4dd9--0--0bee41a454f94465a0f14e297134068b.jpg"
+      },
+      {
+        "title": "Коща отхвърли твърденията за разногласия между лидерите в ЕС относно това кой е най-подходящ да представлява Европа в бъдещите мирни преговори с Русия и Украйна",
+        "description": "Председателят на Европейския съвет Антонио Коща отхвърли твърденията за разногласия между лидерите на Европейския съюз относно това кой е най-подходящ да представлява Европа в бъдещите мирни преговори с Русия и Украйна, предаде ДПА. „Няма никакви разногласия“, заяви Коща пред журналисти в Дъблин в навечерието на срещата на върха на ЕС, посветена на ролята на Съюза в бъдещите мирни преговори между Москва и Киев. „Кой трябва да говори от името на Е",
+        "date": "2026-11-12T21:08:42+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245938-koshta-othvarli-tvardeniyata-za-raznoglasiya-mezhdu-liderite-v-es-otnosno-tova-k",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14049632/70c0c41b3d87467baee683806f0e8fb8--0--2620c57a993d49588f16c4715b812ab0.jpg"
+      },
+      {
+        "title": "Над 3000 училища в Италия отново получиха бомбени заплахи",
+        "description": "Днес около 3800 училища в Италия получиха бомбени заплахи, изпратени по имейл. Междувременно правителството на премиера Джорджа Мелони призова образователните институции в страната да не евакуират незабавно сградите при получаване на подобни масово разпращани имейли, предадоха АНСА и \"Скай Ти Джи 24\" Днес в страната са били евакуирани само 77 училища, докато в останалите са извършени проверки, без учениците да напускат класните стаи. Вчера над 60",
+        "date": "2026-11-12T20:54:47+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245936-nad-3000-uchilishta-v-italiya-otnovo-poluchiha-bombeni-zaplahi",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14101126/f0467bf34d0d490586c1ac383ade955e--0--34d5bd5193654f52867eb3d0a15a0fff.jpg"
+      },
+      {
+        "title": "Йеменските бунтовници хуси твърдят, че са нанесли удари по петролопровода \"Изток-Запад\" и пристанището в град Янбу в Саудитска Арабия",
+        "description": "Подкрепяните от Иран йеменски бунтовници хуси заявиха, че са нанесли удари по петролопровода \"Изток-Запад\" и петролния терминал в град Янбу на брега на Червено море в Саудитска Арабия като част от почти ежедневните си атаки срещу кралството, предаде Франс прес. Рияд подкрепя международно признатото правителство на Йемен и ръководи коалиция, която се бори срещу хусите. Една от операциите \"беше насочена срещу помпена станция номер 7 по петролопрово",
+        "date": "2026-11-12T20:27:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245932-yemenskite-buntovnitsi-husi-tvardyat-che-sa-nanesli-udari-po-petroloprovoda-iz",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11564175/747803a12ddb44d7bb79bc2e3929a39e--0--4bf627fbadd14f06a3c00c8dd53e142e.jpg"
+      },
       {
         "title": "Хегсет награди войника, който го смъмри пред Гроба на незнайния воин във Вашингтон",
         "description": "Министърът на отбраната на САЩ Пийт Хегсет връчи високо отличие на военнослужещия, който отправи устна забележка към министъра и група негови съветници пред Гроба на незнайния воин във Вашингтон след церемония по случай Деня на ветераните в Арлингтънското национално гробище, предаде Асошиейтед прес. Хегсет публикува днес снимки в социалните мрежи, на които се вижда как закача отличието и се ръкува с войника. „Обичаме войници. Обичаме стандарти. Д",
@@ -246,11 +278,19 @@
       },
       {
         "title": "Израел забрани на лидера на френската радикална левица Жан-Люк Меланшон да влиза на територията на страната",
-        "description": "Израел обяви днес, че е издал забрана лидерът на френската радикална лява партия „Непокорна Франция“ Жан-Люк Меланшон да влиза на територията на страната и обвини партията, че изповядва „изключително враждебна позиция към Израел“, предаде Франс Прес. В първоначална реакция пред радио „Франс Инфо“ Меланшон отбеляза, че му е било забранено да влиза „в страна, в която никога не съм искал да влизам“. „Съжалявам, че израелското правителство ме взема н",
+        "description": "Израел обяви днес, че е издал забрана лидерът на френската радикална лява партия „Непокорна Франция“ Жан-Люк Меланшон да влиза на територията на страната и обвини партията, че изповядва „изключително враждебна позиция към Израел“, предаде Франс прес. В първоначална реакция пред радио „Франс енфо“ Меланшон отбеляза, че му е било забранено да влиза „в страна, в която никога не съм искал да влизам“. „Съжалявам, че израелското правителство ме взема н",
         "date": "2026-11-12T19:17:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1245914-izrael-zabrani-na-lidera-na-frenskata-radikalna-levitsa-zhan-lyuk-melanshon-da-v",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14085401/8c61a1d775eb461683a5cd5266f4dc49--0--f3ac2be5206c4540b3f8dc2f45955254.jpg"
+      },
+      {
+        "title": "Деца сред жертвите на сградата гробница. Покъртителни разкази - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-12T19:16:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTHFqX1Z6UzBMSW5QbG9nQTFST0NyaHk5TVd5c2ZieWJ4Wk1TVS0zd292TUdXcEtsSlRMcU1MWGh2Q0djb0pIQWE2aGRKSUNSZkZ6TVNNdmVRNGZCV3lOZWNVMjlnVnU4eDNGc1RDS1RXMHpVVjRBc1ZLcDAtMUY1R05CZ1FkYkUyWlhDaTM5c3h1cEFpQng3SnpzSWhvRHE3Y3hNcTJ6Wk1NV2VJQzZ3Y1pUSTdsNGtqa0hKN0dMb0w4Vmw3MkhjX0VOQUZHbGNNRG1yNV8xRmVKclBy?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "К. Фезелов: Основният проблем на Европа е суровинен, не индустриален и финансов - bloombergtv.bg",
@@ -267,6 +307,14 @@
         "link": "https://www.bta.bg/bg/news/world/1245882-dvoyka-izdirvana-ot-germanskite-vlasti-po-obvineniya-v-ukrivane-na-danatsi-bes",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13986008/e961a7511a87432fa8d0e2ba6a728107--0--3b940cfc5c5d4a4d8129ca252333be39.jpg"
+      },
+      {
+        "title": "Бомбените заплахи заляха Европа. Макрон с предупреждение - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-12T18:45:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGNYU0U5X1N4ZGhONXhrUTl5aXZHVjRwS1ZmZTN6bnRmWnFWWk9vSnB0LVVhcDI0RGNYYlZXSGVEY3pXb0NIdWxJMUlBY3FZWFFvbWZSRmp3UEdoQkpKTVhmWDNoOFpEXy11NGJHRDFaXzQ5VFlyVjVid0c1clFrUmdkYWluamNaZk1fUE5MRFZxM1k5RTU2NGxqVjZ2NkFValdvWTNXVUxNSXotOXZOM1U3U0JnbTh1bkpvU3NWaUdfY3Bqc0hpU1JB?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Макрон заяви, че е твърде рано да се приписват на чужди сили множеството бомбени заплахи, които се разпространяват в Европа",
@@ -355,54 +403,6 @@
         "link": "https://www.bta.bg/bg/news/world/1245866-iran-saobshti-za-eksplozii-izbuhnali-na-chetiri-tankera-v-ormuzkiya-protok",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13370255/9ad6b7af50c94709a88a38b78d36a591--0--70867c3314fa494aaed35d0ecd95b40c.jpg"
-      },
-      {
-        "title": "Белгийски министри спорят кой е виновникът за кибератаката срещу хладилници на вериги за продажба на хранителни стоки в страната",
-        "description": "Министрите на вътрешните и на външните работи на Белгия не споделят общо мнение за това кой е виновникът за кибератаката срещу хладилниците на няколко вериги за продажба на хранителни стоки в страната на 2 ноември, съобщиха местни медии. Според вътрешния министър Бернар Кентен отговорност носят хакери, свързани с Иран, а според външния министър Максим Прево е твърде рано за официални заключения. Отбелязва се, че прокуратурата в съседна Франция по",
-        "date": "2026-11-12T16:45:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245848-belgiyski-ministri-sporyat-koy-e-vinovnikat-za-kiberatakata-sreshtu-hladilnitsi-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13990349/de0f8804afbd4e69863ca3850e53b3f9--0--8028fb58387e4e819834497374dd1694.jpg"
-      },
-      {
-        "title": "Прочуване на Ройтерс/Ипсос: Ванс, Рубио, Ософ и Бутиджидж са начело сред претендентите за Белия дом през 2028 г. - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-12T16:40:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSHpPclhIRXgtZ0hnbm44cjYxaDRIaGg3R1I3bk9uQ3NFZ244Y1hYOGF6c0N4YzVCd1llVmhhdFdUTDNxZTE1RVhsMFhBOW9iY2otZVExUVlQLWZLcEQ4S2dGRkMtQXA4MzV3VG04QWYyWl9FeURxam9aTTVJeWRpbm4wRFJLLW9UVXpPSGRXM3ZERjVIeXpVdlhoVGwzZDJ6T2V6SEVNLVBNTkZTWFVTZzczQnBjQ1dZdzlyMWVWNWJ1SGZ6LUw1Tm84SDdLbkhOQ2Y3RWVWQUlOOUN3M3k4OXQ4eWk5dGFha2tN?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Когато детското въображение рисува свят без граници! - БНР Новини",
-        "description": "",
-        "date": "2026-11-12T16:34:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVG5VMnNEdHcyS3VYWjZDbHFldkhLTEpTMktmZVlvSXFScGNocXF2QkM0Tk5lNzBZSVVNRDV6THNYa0NrNDIydC1JWngyY1dtcVZQZXEyc0ZxZmY4cFdqMGtNWTVVMHJZVWpTcUk0blYyX09mU21OMmhyVHFPRm5aQkhGLUwyakNlOUQwNDM1WUVOWVBQd3AxcQ?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Американските пратеници се срещнаха с Путин в Москва и отпътуваха към Дъблин, за да се срещнат със Зеленски",
-        "description": "Пратениците на американския президент Доналд Тръмп се срещнаха с президента Владимир Путин на фона на опитите на Вашингтон да даде нов тласък на усилията за постигане на мир след двудневните преговори между Русия и Украйна в Абу Даби, предаде Асошиейтед Прес. Стив Уиткоф и зетят на Тръмп Джаред Къшнър посредничиха за преговорите в столицата на Обединените арабски емирства. Това бяха първите директни разговори между представители на Москва и Киев ",
-        "date": "2026-11-12T16:33:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245840-amerikanskite-pratenitsi-se-sreshtnaha-s-putin-v-moskva-i-otpatuvaha-kam-dablin-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14104005/3aa944edb8694b839454cc1333fb4e44--0--6cd0cf07507f40fcadc941b710954f35.jpg"
-      },
-      {
-        "title": "Путин отхвърли възможността за разполагане на чуждестранни войски в Украйна и потвърди териториалните претенции на Русия",
-        "description": "Руският президент Владимир Путин потвърди териториалните претенции на Москва към Украйна и заяви, че разполагането на чуждестранни войски на украинска територия е „напълно неприемливо“, предаде Франс Прес. Той направи изявленията по време на среща в Кремъл с пратениците на американския президент Доналд Тръмп – Стив Уиткоф и Джаред Къшнър. Путин отхвърли възможността за създаване на демилитаризирани зони по протежение на фронтовата линия и повтори",
-        "date": "2026-11-12T16:13:09+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245831-putin-othvarli-vazmozhnostta-za-razpolagane-na-chuzhdestranni-voyski-v-ukrayna-i",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14104057/4405760c1a8e42868da91eed0a6487fe--0--80c1694140a742c0929f63d84fc4079e.jpg"
-      },
-      {
-        "title": "АПП: Премиерът на Пакистан призова за международна подкрепа за най-уязвимите на климатичните промени държави",
-        "description": "Министър-председателят на Пакистан Шехбаз Шариф призова за подпомагане на държавите, които са най-уязвими на климатичните промени, с цел да се справят с нарастващите последици от тях. Финансирането може да бъде предоставяно под формата на безвъзмездни средства, включително чрез публично-частни партньорства, предаде пакистанската новинарска агенция АПП. В изказването си по време на срещата на върха на Конференцията на ООН по изменението на климата",
-        "date": "2026-11-12T15:41:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245790-app-premierat-na-pakistan-prizova-za-mezhdunarodna-podkrepa-za-nay-uyazvimite-n",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14104415/WhatsApp-Image-2026-11-12-at-1.32.31-PM.jpg"
       }
     ],
     "Наука": [
@@ -511,14 +511,6 @@
         "image": null
       },
       {
-        "title": "Мащабна нова симулация разкрива как е изглеждала Вселената през първите 2 милиарда години - БГНЕС",
-        "description": "",
-        "date": "2026-11-12T04:25:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUYxMzBzTEJKR0lvYlFzTkdsbHdrSVZkbVlDSFEzdkZJbEo5TXlkTFVVTm92cUxKUWs1ajhhTG5RTHV0UHFqYnFZRm5nTlpnUzl3UzVnNmt5T3pud0tCMFBmRjg2bkhtdVBiZUFNSU52WW1fQTFsTXNQM056cHRyR1hrbXhleEUzOHd5WXMzXzJhREt3Z253UnhJOXJraUV2UUdJRTdxNW1aMExCR1VSbC13?oc=5",
-        "source": "БГНЕС",
-        "image": null
-      },
-      {
         "title": "35 години специалност „Теология“ в Шуменския университет - Телевизия Шумен",
         "description": "",
         "date": "2026-11-11T16:51:05+00:00",
@@ -605,9 +597,33 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDRFdmlydk5ySU53Slp2VXJQeHpob1B2dENKdzJMUnlndFBMRXFxQXNiT0Z0NWl5T0ZYSTQ1cVItbFlReTBDQ3MwTWZlQ0Q3aWM4ZDlKQnlpQldUZmM5SWxHV0FtaVlKdWpqM0p2Mkw4cFZSRmtkYVJRRFdoV1EtU1VXTDEyY1RWWEpiNlZfWExFNmFGa2NBOHhR?oc=5",
         "source": "Pleven info",
         "image": null
+      },
+      {
+        "title": "Копродукция на Радио Кърджали и програма „Христо Ботев“ с награда от БАН - БНР Новини",
+        "description": "",
+        "date": "2026-11-10T10:52:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZThYV2dJMTlBN1VDOWhLdEowZEZtSXZwWl8ydmNpdWk2a3UySERqSGtYMmx6d2NhYVVPanJhN1VJZldhNVFHSXB6UEM0YjZPRmJzNjlaVW03MlpmV1BtYVFneUdlT0w4ZmhVS3lFZWpGVVpNRFJpZXRtZXlyTXluc1pJeDNqVnFiLW1yNEI1RE5MaVZIOHRQVHZZNXQyampKTUU4TTljelRVWV81RmdIVEVSRDA?oc=5",
+        "source": "БНР Новини",
+        "image": null
       }
     ],
     "Образование": [
+      {
+        "title": "Срещу Закона за българския език се обявиха преподаватели и синдикат „Образование“ - Vesti.bg",
+        "description": "",
+        "date": "2026-11-12T20:44:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTVRGR3YyRkVvWmVBc1JuMGpGYjE1dGJPSWRLWTUzR0toR2h0VUFIN3h4V1BNOHc1Unczd3VZenVfN0pObkM0YUkzN0kwTjhjU0paLUtNaVBYdTdUTTZMTG80VWtkYmUxM1V5bmp4UVJYUDB5Z0tOUUM1R05UT0cyUU5rR2prUjZGc01DN29HTWhGY3RDVHd5U3FVbTBiOXVSR0VrYS1uVkNvLXc2T2lqVGd4R2F6NnBUSVhNZ0xn?oc=5",
+        "source": "Vesti.bg",
+        "image": null
+      },
+      {
+        "title": "Костадин Костадинов обяви война на директорите в Дупница: 450 000 евро за образование на деца със СОП, но къде са грижата и резултатите, физкултурните салони през зимата са неизползваеми, няма пари за ток, а връщат по 300 000 евро - 4ВЛАСТ- Информационна агенция",
+        "description": "",
+        "date": "2026-11-12T20:19:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UdjM0VFBBT2dHdEVsaHd5c1F5NmViSUFXakVyQ2hwYU0yekU3WUt0M3BlOTNMTkpTVUdSQlh4aTFYYmlwa0xvSmtpZ19GZw?oc=5",
+        "source": "4ВЛАСТ- Информационна агенция",
+        "image": null
+      },
       {
         "title": "Дванадесетокласници от СУ \"Никола Й. Вапцаров\" в Силистра с национално отличие за проект за здравословно хранене - Кворум Силистра",
         "description": "",
@@ -659,7 +675,7 @@
       {
         "title": "ОИЦ проведе съвместно събитие с Регионалното управление на образованието - Ямбол - Радио 999",
         "description": "",
-        "date": "2026-11-12T14:47:19+00:00",
+        "date": "2026-11-12T14:47:55+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1ZIUW5PMnBjZENtNHVTQmNZRnViMXJiSDVNV2ZhN3ZUaWlURzRNa2Z6TllrNlJlWHdlS2xTRGlMeS1Xa2dnbG81MkthZHNuNi0wSndCT3Vxa3o5RHgtaXpDQzVtaTFjdUhYR1k5NWJmUkdqWHhsYTVQRjltaEJVTk1lYnZ3d0pCTThPOFZvTG8xVExUQUZ2OVpyUEZGY3VqZGJ3ZUg2OXA?oc=5",
         "source": "Радио 999",
         "image": null
@@ -791,25 +807,33 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlpUcGkwY2NFVDRQSVNhVmJwTHNjdWVWS05mU1dnN2pNOFRKak93bXctYy1Lc0Z1Uk05cjlualZLUGRxb29kWUNRcGNFU2dyZlVmZ0w4anRhdi1IRlhqbEVUSHFZck9iOURZMngwbXZKN3hueWdNUTMtbVBHempORHVxamY2VDgtcVVN?oc=5",
         "source": "Вестник Борба",
         "image": null
-      },
-      {
-        "title": "След 14 г. Съветът на ректорите се завърна в европейското академично семейство - Новини СЕГА",
-        "description": "",
-        "date": "2026-11-12T09:16:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkNURVlKQnFZVFhFRGd0cGhJUERObGlDSXBMSmlkMVBNaHlDdUctSmU4MEhaeDRxcjRIMzRCSWZRWU9QMHpTRVozTTBleHpSWl9XWFlJS2l6R3RyNzluUFdGRWNCRFRFb0VTTzlFUkJlQ0VTS2J1TlhMb1J5eW0xRjQ5SGN4T2ZaNEZKMkM0d3pQcWlKbnBSamVsUlV2S2NKVHB1MmFHSEpaQWg2Ykt5V0ktTWhuMmhYd2c?oc=5",
-        "source": "Новини СЕГА",
-        "image": null
-      },
-      {
-        "title": "Преподавателите в България: Доц. д-р Силвия Христова, катедра „Икономика и стопанско управление\", ХТМУ - Economy.bg",
-        "description": "",
-        "date": "2026-11-12T08:52:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb3lfLXU3RkNhb3B0eDA0VnBFUFlfeG5sUWtIMkgtMFBnRHBPX1pKSEJoSWVJVkhTdFBaNl8zektUbXhfbjNnVDQxVWo4VlRFNWp5RjBhZWpFR1ZoS28tXzJEaThRaXNKVkRGYlZEWUVUd0hhbGJSS05NTFhfbzczYXpEWnNzOWJLWjdpUlc0UjBtN0paTHQ3RmVjWHRMYmNnYmFwRU00Z3B3WTFMdWpseHhTRll4Nnl4ZEthcVRqQW1NcVZFcTN4dkEyY3A1YWh0ZDRCMnppbw?oc=5",
-        "source": "Economy.bg",
-        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "„Черен петък“ със Samsung: до 44% отстъпка на най-новите технологии - HotPress BG",
+        "description": "",
+        "date": "2026-11-12T21:02:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPME81eEtrMVVjSWliQ2ttekl1OUp2dHNCak1SRG1sUnZtNjV2OEZkeHpMaExFOVZiM2ZpWlJvR2c0eEg1SUVTZlVnWUxWY0lyc3Fkb0FlNmdQRjlqMWV6OG1yLUVxTWVZYXVnVExZQmpZOG15c045LWZiVGxLZng5ZXhjT1VKa1BVa3NSVl9iSmJJdw?oc=5",
+        "source": "HotPress BG",
+        "image": null
+      },
+      {
+        "title": "Европа разработва собствен военен изкуствен интелект - TrafficNews",
+        "description": "",
+        "date": "2026-11-12T20:44:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDV2NkNBYUo2Q3c4VjJ6YTZXbnE1V1c2bjVDZlpWdlRMWHhVamt4ZXZKS2daUFRoU3hPc3ZBZHB1dzZqeDZXSnQ3S2VhTzVWMXNyWFRZNTJUYWwzVHIwZkxrNUw3UU9UVkxqak9QRHpoQmd3d2FUMFNQUW55OGZtYklTMzJkX3lUemZ4dU9LQVNLYlBrNlcxRFRn?oc=5",
+        "source": "TrafficNews",
+        "image": null
+      },
+      {
+        "title": "5 млн. евро повече за нови технологии в отбраната през 2027 г. - Petel.bg",
+        "description": "",
+        "date": "2026-11-12T20:29:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPblN2alBVT09sQ1pnYlNqQ200NFpYbUZmMjFtdlIweWFqbGpiYTZfY205SUJ4M1pOc1VNUldSOElSRzIwdmV6QjJkMHdhVGh3WU9VZ3lyUkhQeFlGcG9WWkJwbHp5a3d5TzdocUxjSy1iRFlETVhWQ0NGOXBGUnY3RHRPclBhTlBTdjFRUXNFekR6VTNz?oc=5",
+        "source": "Petel.bg",
+        "image": null
+      },
       {
         "title": "Въглищата - неочакваният източник на стратегически суровини за България - bloombergtv.bg",
         "description": "",
@@ -824,14 +848,6 @@
         "date": "2026-11-12T19:18:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XckxXZmNNMFcteVRaWE90MW5XeVVMUnBrSi1zYUF0WnJjNXllMEpFclo2UHlHbDB0T3M2MjZTV3pVeDVhd2pQM3R1ejU2alp6V1lFRkJWVXlNSDBuN3JVZ1dmN3NpN3ZycHc?oc=5",
         "source": "Cross.bg",
-        "image": null
-      },
-      {
-        "title": "Оставка в nVidia: Дженсън Хуанг напусна след скандални афери - Euronews Bulgaria",
-        "description": "",
-        "date": "2026-11-12T18:07:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1diaHBQX0FhaDJuUGY1MjJmWUpidGVwX3QwR19yU19hZFFzeG91aHkzX2RUMng2OHlFeFcxalo3eUNobXk0cGFnOGQxX2R1VXlXbnVoRUp1Sm1EUzNqbEphMVZoLWs4TlBkUXozVHZuN0F4V0RlT2NBMklXaXk4ZG5DV195aFRZUGJ5VmJBRQ?oc=5",
-        "source": "Euronews Bulgaria",
         "image": null
       },
       {
@@ -859,17 +875,9 @@
         "image": null
       },
       {
-        "title": "Михаела Карадимова: България разполага със значителен индустриален, технологичен и научен потенциал за развитие на отбранителната индустрия - Cross.bg",
-        "description": "",
-        "date": "2026-11-12T15:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WbWhkcEFIcllDY25xei1udU0yWGd0bVBfZkdGVjBNTGdsQTQtTDZiaGRzMlo0S0tkQkdiNndDTlU1MjRIUVhVWF9NTHc2VUpfTlFlTkZ4YkZFOG0yQlozeE5ZdXRfZW4yQ3BCZHZTWUxzWVNyaUs4?oc=5",
-        "source": "Cross.bg",
-        "image": null
-      },
-      {
         "title": "Комисията с предложение към държавите в ЕС относно технологии за откриване на безпилотни летателни апарати - Novinata.bg",
         "description": "",
-        "date": "2026-11-12T14:49:11+00:00",
+        "date": "2026-11-12T14:48:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYXdvWDQxRXRTdkdmOV8zQkpzeUZwZGZNdG5wN0FYcHpnRWR0VUpQUHVvN1ROVE1BdzNlZFJFTVZEU0xMdi04WUE4YUQ4MXBUSV9UX0lUcXhkcDRwejdjMVdOb2pqODRrVXRvSzU1bWZLYTlkUlIwMERxZTJFQXpaLTJORkFhR2lrVzJCVFNrX2NOR2lCV2Y3a2JtR1NacFVMY1ZaRFRyR3FlLWFQTDBaNUs2WlNYXzhDdjVuNkJMUVJUYUJZSkUtTFRkR28tbHRnVlE?oc=5",
         "source": "Novinata.bg",
         "image": null
@@ -888,6 +896,14 @@
         "date": "2026-11-12T14:42:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83VTBZVnVBeFFMcGhOTzlRX0ctVXpxYXYzcmthSHAzNG11VU02MVE4ZXhlbkRqVi1uWG9UNGs4TXhPU1RhSGNjbEdmYTB1SlpWZHhDVA?oc=5",
         "source": "Moreto.net",
+        "image": null
+      },
+      {
+        "title": "Скандалът с изневярата на Дженсън Хуанг го лиши от поста на изпълнителен директор в Nvidia - Investor.bg",
+        "description": "",
+        "date": "2026-11-12T14:33:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQUxYdGhYQjVPWXBHVXZiXzN6SWtaanA4aXBiNXQwUURaMS0yWDVPWThJMWlPX2ljM1NqaURuUzYwenlzRktGb08wZXJmVHRIbDJzWUo0a0lEeEFjVDhQZGlINmZMcDdvb1hQa1k2bWotcUNIUEpJSlJYQ3MyaC1Cb1hQdjI1bWw0UFZQd25tdkVoMy1yb3VrZ1NlRmtYRl9QVGZ2OE5BRXI0NHRFSHBqNnpvQUhUXzhOaGZ0Y0lEYUQwNFE5YnJfR2tDYU1QeExZVURZQ194eGphTy1vV2Q4?oc=5",
+        "source": "Investor.bg",
         "image": null
       },
       {
@@ -936,14 +952,6 @@
         "date": "2026-11-12T12:57:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeS1OUjJkbU1yNlRPeGdVVTgtb0lOcDBzMnBpZzJLLW0yNjVNRUk3anBfeVJiVER5RWxPeE9nYzU3MExXU1ExY2xYS3JmNTZBeEgzTnpwS3hjNTFXX0RpUjVNRUlvYTloZVFyQnozeVFTQU5EOUc2YmZqbmkyWXk0QVlPZkx0dklDUmhqYTByeHlhRkEwX2VtQTFMa2lBMHBSdklaRVRKOWhJSXZ6ZUE0WEQ3c3NBbDBtaGc?oc=5",
         "source": "3e News",
-        "image": null
-      },
-      {
-        "title": "Постижения на БАН в областта на цифровите технологии и изкуствения интелект представи чл.-кор. Евелина Славчева на семинар в София - Делник БГ",
-        "description": "",
-        "date": "2026-11-12T12:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQbVJYUzlKQk5tRGtNZFZOeVFqbWh0d3hncjRTVXNIbFhsTnFBQ2RqWWlISENQU0dqSmN4RmtfMmxPczVKOHpzc3BkRzRzMVhFY2wxSXN1US1aQk5Wa2l2eFQ5d2NQcXlsbFJlR0VZdVBfaWE0Q1VIMWIwM01nT1U1RU1vckR4QjlCTkM2WkxQY0thUFZCMDFQNXZYR2JCOURJUXlzcmZ6TFJCUDdTMDdHMjV3TXpqQ1plSm16cGhkejBKeVFMRy1fQlNmUVFqZGM4NXloekg2bVRzZnhkVTJKdkNLcHlwa1VvWDQzZ3IwSlBPLUJzZUZyZXdadWJfUzMwVjNzRUNhNU1VVVFsN21PY1NES1JvQWQxY2lLT1BVTzh3R1AtN082WDNKWGFOdkl0Vko4STNfUU80aDNFZ2oyWDBjU09xV0FWTlNtSU1ZcFF4WVk?oc=5",
-        "source": "Делник БГ",
         "image": null
       },
       {
@@ -999,14 +1007,6 @@
         "description": "",
         "date": "2026-11-12T11:36:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm02bXNjMlV3cjV5QkJSdFFPWlNOcHM4NERTa1hkeHhlbGJJUDZZeDlHN3lCeTRKVGxmRWZjYUJCS2JKUnpDMjFoRzlybU90cDNEWE16ak10MGRBY3VQbFhsa3hWTGtLVnB1OGVlamx2cHRSYVI3M0twX2VvT1V5LXRsb21YMEpCTDNnODUwMkV3SnllWHpCVWFiVW9BQUZLbTFqWGVMYkJfeDFRQUVuNGZMMzFNajdpVkFLRFZGdw?oc=5",
-        "source": "Бизнес новините",
-        "image": null
-      },
-      {
-        "title": "Над 2000 фирми у нас се борят за 83 млн. евро евросредства за зелени технологии - Бизнес новините",
-        "description": "",
-        "date": "2026-11-12T11:33:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTJ4QUVEdW9CSlJvY3l1eHVadU13UzRqVVRzQkZyUHcwaTUtT1NKbjNra0JNMmVscmk2bHdSUURPS08tX3RWalFHVkE5bGlNaUYwQ1l5Q243UmNQNnhxaGpZdmpZSmFvSUdyRk5oSG5Da3A2enVVS25XSGtxMTFjUDNXdVAtZVk1U09OTzNMOTUwNmZZM3pyUnQ5VTFNLUh5dnpNSnlpR0tWcmZWLW9R?oc=5",
         "source": "Бизнес новините",
         "image": null
       }
