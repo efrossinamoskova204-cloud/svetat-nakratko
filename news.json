@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:26:46.733131+00:00",
+  "generatedAt": "2026-11-12T23:23:31.143086+00:00",
   "categories": {
     "България": [
       {
@@ -27,14 +27,6 @@
         "image": "https://static.dir.bg/uploads/images/2026/11/12/3047175/384x216.jpg?_=1794521181"
       },
       {
-        "title": "Единодушна подкрепа за забраната на хазартната реклама, но властите дават заден за онлайн залозите и залите - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-12T21:07:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc2lCWWJQSTFUTk9wR0JtR3Qtd3FDX0pXZ2dVTURvalJWOUJHV3JCMW5vVWdlVlVhaGlSUWM3eWY0VWtVUkNSakFaMU9oWVVaMVl0c1NnU3J5dEdmRUJvcFQtOEkxUnZjTjZsa0VMWk8ybFhzczQ0NnozaFBweVYtZVI4eFl3bDQtWS1rNmNzek40M2pIWW1LenpsNTBRanoycHRFWTA5SlRqOUtZMExkd0pEeF92ckR1X0FwQXd6SDg1Qy1NcklQeEw5VVJMaTJ6TnBBR1ptRQ?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
         "title": "Кой ще наследи Тръмп? Четирима политици се открояват в битката за Белия дом",
         "description": "Проучване на Ройтерс/Ипсос показва минимална преднина на Марко Рубио пред Джей Ди Ванс сред републиканците, докато Джон Ософ и Пийт Бутиджидж получават равни оценки сред демократите за изборите през 2028 г.",
         "date": "2026-11-12T21:00:09+00:00",
@@ -57,6 +49,14 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1245935-okrazhniyat-sad-v-kardzhali-opravda-lyutvi-mestan-i-osadi-uslovno-vtoriya-obviny",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14105045/20261112_193654.jpg"
+      },
+      {
+        "title": "Финландия потвърди, че Украйна е ударила руски кораб край бреговете ѝ - Dnevnik.bg",
+        "description": "",
+        "date": "2026-11-12T20:48:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1lSM3dOMW1BalJOeXVPWS1hcnN6Ry1Nd0s1bTN1a0hmcm1OZnh1QXl0VlJzTVJrOUVKSlBwSm85SmthbGliT3A5cC01OW9Md3JLeXh3OEl3c0JYZ0ppMV81UmRXZU9yb2I2cEZKOXFKazZqcGdKdW1vX2hPNXlLMy1QczBveDNHT0lkR0htWUNSZEgxUEk5N2lnbWpBT0xPTVptWTVTQ0lqVHBCU0tXcHdvSVcwbzBxWkdQWA?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
       },
       {
         "title": "Разширение на метрото, места в градините и мащабна инфраструктура: Терзиев отчете 3 г. управление",
@@ -205,9 +205,49 @@
     ],
     "Свят": [
       {
+        "title": "Нападателят, прострелял петима души в центъра на Вашингтон, се е самоубил, обяви полицията",
+        "description": "Нападателят, прострелял петима души в центъра на Вашингтон, е мъртъв, предадоха световните агенции, като се позоваха на полицията. Стрелбата е станала в район недалеч от Белия дом. Заподозреният стрелец влязъл в спортна зала и застрелял мъж, намиращ се там. После се барикадирал в дома си в съседна сграда и започнал да стреля по минувачи, а накрая се самоубил. Полицията го идентифицира като 55-годищният Мат Ламбърт, който бил в конфликт със съкооп",
+        "date": "2026-11-12T23:22:55+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245958-napadatelyat-prostrelyal-petima-dushi-v-tsentara-na-vashington-se-e-samoubil-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14105632/62fd950d50c94fdab17c8f97a62c13eb--4--75c41d87150e4b0a953ad12964026535.jpg"
+      },
+      {
+        "title": "Международна полицейска операция срещу \"тъмната мрежа\" е довела до над 350 ареста",
+        "description": "Полицейските служби на няколко държави са арестували 354 души и са конфискували значителни количества наркотици, огнестрелни оръжия и пари в брой в рамките на мащабна международна операция, насочена срещу потребителите на т.нар. „тъмна мрежа“, предаде Франс прес, като се позова на представители на американските и европейските власти. Европол - европейската полицейска служба - е координирала мащабна световна операция, проведена в периода от май 20",
+        "date": "2026-11-12T23:09:31+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245957-mezhdunarodna-politseyska-operatsiya-sreshtu-tamnata-mrezha-e-dovela-do-nad-35",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11394979/P041171-516497.jpg"
+      },
+      {
+        "title": "Хакери, подкрепяни от севернокорейската държава, са откраднали криптовалути на стойност над 400 милиона долара през последните 18 месеца",
+        "description": "Хакери, подкрепяни от севернокорейската държава, са откраднали криптовалути на стойност над 400 милиона долара през последните 18 месеца, използвайки тайно направени видеозаписи на хора по време на онлайн срещи, съобщи ФБР, предаде Ройтес. Като част от схемата жертвите са примамвани да участват във видеоконференции чрез фалшиви версии на популярни платформи за онлайн срещи като Зуум, Майкрософт тиймс и Гугъл мийт. Жертвите са получавали покани от",
+        "date": "2026-11-12T22:55:27+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245956-hakeri-podkrepyani-ot-severnokoreyskata-darzhava-sa-otkradnali-kriptovaluti-na",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14025717/d2a721db811847fa9c6f7b2269c0916c--1--2613284650fe4bff90e572ca4596fec0.jpg"
+      },
+      {
+        "title": "САЩ са управлявали над 12 милиарда долара приходи от венецуелски петрол през първите девет месеца на настоящата година, се казва в доклад",
+        "description": "САЩ са управлявали над 12 милиарда долара приходи от венецуелски петрол през първите девет месеца на настоящата година, се посочва в доклад, публикуван от американския Държавен департамент, предаде Ройтерс. Докладът, изготвен от одиторската компания Кей Пи Ем Джи, описва как средствата от продажбата на венецуелски петрол и други природни ресурси са постъпвали по сметка в Министерството на финансите на САЩ, а впоследствие са били отпускани на врем",
+        "date": "2026-11-12T22:46:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245954-sasht-sa-upravlyavali-nad-12-miliarda-dolara-prihodi-ot-venetsuelski-petrol-prez",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14079967/4a640877d04640ee87110e4c9a3b30c3--1--b07579f30d164300b7b7cda0b0d7c39d.jpg"
+      },
+      {
+        "title": "Около 40 държави от Европа приеха по време на срещата им в Дъблин харта, в която са заложени основните принципи на тяхната сигурност",
+        "description": "Около 40 държави от т.нар. „широка Европа“, надхвърляща границите на Европейския съюз, приеха по време на срещата им в Дъблин харта, в която са заложени основните принципи на тяхната сигурност. Документът обхваща и заплахите от хибриден характер, информационните атаки и посегателствата срещу демокрацията, предаде Франс прес. Хартата беше приета от 39 държави по инициатива на Франция по време на срещата на върха на Европейската политическа общност",
+        "date": "2026-11-12T22:31:29+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245952-okolo-40-darzhavi-ot-evropa-prieha-po-vreme-na-sreshtata-im-v-dablin-harta-v-ko",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14104006/a5307d581db44f72adb5682d0a8639e7--0--3e5ed171c4e94c93a88f57a1a095398f.jpg"
+      },
+      {
         "title": "Голям товарен кораб се е ударил в мост над река Делауеър в САЩ, което е нарушило пътния трафик",
         "description": "Голям товарен кораб се е ударил в мост над река Делауеър, нарушавайки движението между Палмира, в щата Ню Джърси, и Филаделфия, съобщи представител на властите на щата Пенсилвания, предаде Асошиейтед прес. В резултат на удара на кораба на 1115-метровият мост „Такони-Палмира“, той не е могъл да бъде затворен и това е предизвикало сериозно задръстване от страната на Филаделфия. Стоманеният мост има три ленти за автомобилно движение – две в посока Ф",
-        "date": "2026-11-12T22:12:15+00:00",
+        "date": "2026-11-12T22:12:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1245948-golyam-tovaren-korab-se-e-udaril-v-most-nad-reka-delauear-v-sasht-koeto-e-narus",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/11455683/c2b829bb8b69421aa752c3b7d26de6ef--0--fae133d942d9421bb9a0cdf0e27c555c.jpg"
@@ -235,6 +275,14 @@
         "link": "https://www.bta.bg/bg/news/world/1245942-ryute-zayavi-pred-afp-che-e-mnogo-trudno-da-se-kazhe-dali-perspektivata-za-po",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14105010/11613bdbe6414b1c95380456e338486d--0--68be549989534915a1d7f0f173e5bfce.jpg"
+      },
+      {
+        "title": "„Не купувайте!“: Продавачът, който прогони клиентите си и разпродаде всичко - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-12T21:32:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVF93WXVBOTNHZ0pVNGItb3dzU0pUeXpxSDNlNmFFUXBUNS04TFN1RXhWRjhXckQzM0dvTy1zdFFjX2JoUm5jTGNLNFNRXzBiQWlEMnk5NWt1SFctMno1WUgwZ05qMEV5Y1I0SHlnVFd0cFRoRW5FLW9KcXlLY1ZmQUxWWFF6ZzBZa25QckxMeXV2c3ZsQU1kaWRZUjdpaXZJUWtEMWFjQXlBeWJjM2piTFp0ZjVaWEh3Y2xj?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Американските емисари Къшнър и Уиткоф пристигнаха в Дъблин за среща със Зеленски",
@@ -317,14 +365,6 @@
         "image": "https://www.bta.bg/upload/14085401/8c61a1d775eb461683a5cd5266f4dc49--0--f3ac2be5206c4540b3f8dc2f45955254.jpg"
       },
       {
-        "title": "К. Фезелов: Основният проблем на Европа е суровинен, не индустриален и финансов - bloombergtv.bg",
-        "description": "",
-        "date": "2026-11-12T19:00:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTdwRGNPWHNhNzlFNXB4V0F2Njl6ckR0RFU5TV9uWEpsbUZfYmQ2Tk1VdnU4TFdOQXhHN3JoMmpNbXctSTAyX1Bla3A4NXdNTTFFUWxuWk5jZHJLNHVPM0lBSGNUWTF1dUE4cDZGbW1LeUVBQUF5R3NlOXkzd0tHcEtHRjFESjVWZnhVUnA3cG83bFpXUHpvQVZRSW11NExpbVA2RUVmYU10MGVJLVlYaU9hS2ZqbVBXN2RUSHJrRTJRaTRxdDdySmtmbXQ?oc=5",
-        "source": "bloombergtv.bg",
-        "image": null
-      },
-      {
         "title": "Двойка, издирвана от германските власти по обвинения в укриване на данъци, беше задържана на испанския остров Майорка",
         "description": "Полицията на испанския остров Майорка задържа двойка, издирвана от германските власти по обвинения в укриване на данъци в размер на 23 милиона евро, предаде ДПА. Двамата са били задържани в Майорка от органите на реда в сътрудничество с полицейски служители от германската провинция Саксония, съобщи днес в изявление испанската полиция. Арестът е бил извършен във вторник. При претърсване на луксозната вила на двойката в Калвия, в югозападната част ",
         "date": "2026-11-12T18:58:00+00:00",
@@ -333,12 +373,20 @@
         "image": "https://www.bta.bg/upload/13986008/e961a7511a87432fa8d0e2ba6a728107--0--3b940cfc5c5d4a4d8129ca252333be39.jpg"
       },
       {
-        "title": "Макрон заяви, че е твърде рано да се приписват на чужди сили множеството бомбени заплахи, които се разпространяват в Европа",
-        "description": "Президентът на Франция Еманюел Макрон каза днес, че е твърде рано да се приписват на чужди сили множеството бомбени заплахи, които се разпространяват в Европа, заради липса на достатъчно доказателства, предаде Франс прес, позовавайки се на изявление на френския държавен глава пред журналисти на срещата на върха на европейските лидери в Дъблин. „Предвид тази вълна от бомбени заплахи и предупреждения, ние, разбира се, сме в повишена готовност. След",
-        "date": "2026-11-12T18:41:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245894-makron-zayavia-che-e-tvarde-rano-da-se-pripisvat-na-chuzhdi-sili-mnozhestvoto-b",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11488406/e7804d8a0e2144c2a1ebebb5156c7bdc--1--d5e34a191f7f4591b71da55d8b2a64dd.jpg"
+        "title": "Кейт Мидълтън разкри какво ѝ казали лекарите за рака - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-12T18:50:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkpQajJqZlpqbWFILWVLelZ6ak8xaXZwLXpscFVyUzZZQ3BfUWhGRE1sb3Z4MW1nN21WTm1KU0xMWGV6TkNGQWtaRTFtUW11RElUbHF3Y3A1SEZwb1cwT3kzdm9HUkpOdEpfdmItdDM0VU9kTXkySFlRU3NnVUhTenZoSTlHd1NXNE96aGFsZlkyZGE4dlc0YW4wdGJjdw?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Бомбените заплахи заляха Европа. Макрон с предупреждение - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-12T18:45:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGNYU0U5X1N4ZGhONXhrUTl5aXZHVjRwS1ZmZTN6bnRmWnFWWk9vSnB0LVVhcDI0RGNYYlZXSGVEY3pXb0NIdWxJMUlBY3FZWFFvbWZSRmp3UEdoQkpKTVhmWDNoOFpEXy11NGJHRDFaXzQ5VFlyVjVid0c1clFrUmdkYWluamNaZk1fUE5MRFZxM1k5RTU2NGxqVjZ2NkFValdvWTNXVUxNSXotOXZOM1U3U0JnbTh1bkpvU3NWaUdfY3Bqc0hpU1JB?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Футболният свят се обедини: над 213 000 евро в подкрепа на семейството на Хесус де Мигел - Dsport.bg",
@@ -355,54 +403,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenowTXR1dDM5eEdKTEJfc0NwNExiWDM5UmpCa2daT0lOVFBoWF9iWVNTcWdMOTNPdUM4Zk8tR3ppeEZoY0VRRGJqQ0Jhek5tTmtHNVBjVHlyNE9ISHIxTmZJalVDTWdaVkVXR2lobUJIanNFZEJPcnpVNElPa0hGWUZ6R25LYk9iUnNaYXpCNlFWR2pZaC1fM3BLYXh4NE9WaENIT2RTd0Uwb0xiQzU5VzRtdkhRa1JMWEZsYlpWRERpQU01QUMzeTZTQzdQMjM5?oc=5",
         "source": "bloombergtv.bg",
         "image": null
-      },
-      {
-        "title": "Кремъл заяви, че разговорите на Путин с американските пратеници са били ползотворни, а мирните преговори за Украйна ще продължат",
-        "description": "Кремъл заяви, че преговорите между руския президент Владимир Путин и двамата специални пратеници на САЩ Стив Уиткоф и Джаред Къшнър са били ползотворни, и добави, че от американска страна е било подкрепено предложението на Путин за съвместна хуманитарна мисия в град в Източна Украйна, предаде Ройтерс. Кремълският съветник по външнополитическите въпроси Юрий Ушаков заяви, че Путин ще продължи обсъжданията по въпроса за Украйна с американския си ко",
-        "date": "2026-11-12T18:14:02+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245902-kremal-zayavi-che-razgovorite-na-putin-s-amerikanskite-pratenitsi-sa-bili-polzo",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14104126/dad2d7ac7feb4baa9bbf89ac5fcf9e59--0--7ed700272d0c4606b61b13272705fd31.jpg"
-      },
-      {
-        "title": "NASA възлага договори за логистика и структура на лунната база за 10 милиарда долара - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-12T18:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUhBcGVaTjdJMzB3VmRaMGwtRk5yTVQwdkdTT1R0TUdCZlBCYU1BVU1IQnBlbTY4X3BER1hKZ3MwSkhIT3AxTmpIVHF3QlhxZGZzb0hqdnFKUmRjMHc0WmF4OUcxOFo2bnRBWmI4dXcwNl9lcnp4U1FsVlZzSHZkeFZleVRLRlFhTWtsOGx5VTFEMjBmQ3h2QUMxOF92bk0wbDlRNTVYN2YtODBUcS1yV1ZwWUxiRDA3Y3NuQWZSZjYwSldaSkxn?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Норвежките разузнавателни служби предупредиха за повишен риск от руски саботажи",
-        "description": "Норвежките разузнавателни служби съобщиха, че съществува повишена опасност от руски саботажни операции в скандинавската държава, предаде Франс прес. През 2026 г. норвежката Полицейска служба за сигурност (ПСС) е регистрирала увеличение на броя на случаитe на подривна дейност, съобщи тя в официално изявление. Според нея обстановката в сферата на сигурността допринася за \"поемането на по-големи рискове от страна на руските разузнавателни служби\". \"",
-        "date": "2026-11-12T17:57:18+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245883-norvezhkite-razuznavatelni-sluzhbi-preduprediha-za-povishen-risk-ot-ruski-sabota",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/1319583/47d9b0f3aeb848e0a6f211df4db262ae--0--562f8439a2ce4bc2ae975c6523dea572.jpg"
-      },
-      {
-        "title": "Сателити са съставили световна карта на изчерпването на подземните води - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-12T17:35:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0ZobDlFRHdaSXlYZVNSaUNCQi1JYUtCOWFGRjBiSUJsTUd4YnpTLTllcE85eHZ6R2NydkJ0WEJLcmJNclo3RFFZcGhCSmFZT2o2TTlxbUdhVWJhcXM5QnhwcTJzNUoyY0hDZnlfY1VhSDdOQVN5X3EyLTdVTUtBR2VHSGRHY082QUZ4VzM3MF9CV3A2OGlvMHN2NGFWYWNETVU4QUdsTktaREhuSllFS2lHV1dYcDF5?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Тръмп заяви, че САЩ не се нуждаят от споразумение с Иран и нареди на Ванс да се занимава с вътрешната корупция",
-        "description": "Американският президент Доналд Тръмп днес заяви, че САЩ не се нуждаят от споразумение с Иран и нареди на вицепрезидента Джей Ди Ванс, който имаше роля в опитите за разрешаване на конфликта, да съсредоточи \"изцяло вниманието си\" върху предполагаемите престъпления и корупция в управляваните от Демократическата партия градове и щати, предаде Ройтерс. Тръмп направи това ден след като \"Уолстрийт джърнъл\" съобщи, че Ванс е обмислял да води мирни прегов",
-        "date": "2026-11-12T17:25:06+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245867-tramp-zayavi-che-sasht-ne-se-nuzhdayat-ot-sporazumenie-s-iran-i-naredi-na-vans-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14100397/67de061ab32e46c3b2550a11c15a0546--0--75ae379377ad41e8a320dfe3c7976d8d.jpg"
-      },
-      {
-        "title": "Тръмп заплаши да удвои митата спрямо Мексико, ако страната не спре повече от хиляда мигранти, запътили се към американската граница",
-        "description": "Американският президент Доналд Тръмп заплаши, че ще удвои митата спрямо Мексико, ако страната не спре повече от хиляда мигранти, които са се насочили на север към границата след междинните избори в САЩ миналата седмица, като предупреди, че на тях няма да бъде позволено да влязат, предаде Ройтерс. \"И пак започваме!\", написа Тръмп в социалната си мрежа \"Трут Соушъл\". \"Те няма да бъдат приети! МЕКСИКО ТРЯБВА ДА ГИ СПРЕ, ВЕДНАГА, и ако не го направят",
-        "date": "2026-11-12T17:21:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245845-tramp-zaplashi-da-udvoi-mitata-spryamo-meksiko-ako-stranata-ne-spre-poveche-ot-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14100367/ad7177e1dd7b452fb156da5ceb024535--0--de03fe96d4e140b3b61a51c4dedf7f2a.jpg"
       }
     ],
     "Наука": [
@@ -439,11 +439,35 @@
         "image": null
       },
       {
+        "title": "Аджерпрес: Румънски университети ще осигурят над 1700 стипендии за студенти от Африканския съюз - Делник БГ",
+        "description": "",
+        "date": "2026-11-12T16:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQX0lSZDZLRVA0RWd2WmFSb2VLQmtrbUVNTklJN2VLR2Jpejk5TnBCX1FLcWRvb3pRa1FQR25STlNsMEw0blRHT3M4MUtuOHdOQVZlM0Fxd3NPQ3lDTjRNbV9LNXZvWGxFMGtVMklTR1dMblpmMEVIV29jd19pdF9jTEdkaFdTbGxZMmRXaTlkMHJmc2M5NW5UdFhXU2ducXFvRkZXUWlPTm1CaDZCSDdfa2x5ZDlJQWhVZnppNzNnTXBUM2Z0bm82VjRoclZSSW9zSG8xaE05OHJ3VVZETTJjQjgzVkVqVXhmQUxsVktndVhkLXU1TDBBbUtFSkxnLTd6MDFxQ2QyWlJiLXJsb1VRRFRWSkZxZFNDSTl0dWM0Z1UwQWNoRFFLWjhzbm9VazM5bTBqck5EUmlpWlA0dHRzMDQ2VS1qR2xIRDd1QUtn?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
+        "title": "Велиана Христова събра учени, журналисти и приятели на премиерата на книгата си „Слънцето на науката и политическите слепци“ - СЪЮЗ НА БЪЛГАРСКИТЕ ЖУРНАЛИСТИ",
+        "description": "",
+        "date": "2026-11-12T16:47:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtYzhUWUZMbVBURE1tQnpnR0pLcHhjZW1GaW01bkViUU9TSW5LMXBpb1hSY1BETHl5ZXp2di1lNlhma0x5QVBxb3dsYU14cmVV?oc=5",
+        "source": "СЪЮЗ НА БЪЛГАРСКИТЕ ЖУРНАЛИСТИ",
+        "image": null
+      },
+      {
         "title": "Учени предсказали края на света за 13 ноември 2026 г. с математическа формула преди 66 години - БГНЕС",
         "description": "",
         "date": "2026-11-12T13:26:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBJY3Nhb3pOcUhtdC11WnU0d0xNUzRsbVptcUdKcGt3MEZkMThDTDI2Z0JNXzhOWk96dVpYNXh3UXVuWnFpZmFVQ0x1ZHE1Mnp2c1RxU2dPaVd1ak90VTU5SzlRUHdGYmhjVjZDYjA5OHItNGlVeC04T0hKRjlxdE0xV0VacXY4Y05nRDVNdXZObkpvYWxOTnZVVWFWVmNQU2gza0pud2pRUFAyYXctLWwxRTRpdw?oc=5",
         "source": "БГНЕС",
+        "image": null
+      },
+      {
+        "title": "Нови находки край планината Арарат подсилват хипотезата за Ноевия ковчег - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-12T12:31:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjBSeEV3UlgxSTllaDR5OUhOanFiN1NMQVJ5YXd5VmhVWUxGYUp2eHFjT185REk5ZWJOelAyVzUxTHd2YUtzeGh1SldiMGNrM1ROX0UzbElxZjZqN0tiYThnMnQxM2ZFOXI5OHNkQ0xvdDBqMVFYYnhYakxCT1ZSRXRtMGk5a2NNTlJyRnJIMERQeVpIdDN1NGpCX21ucGc?oc=5",
+        "source": "Таралеж: Истината има значение",
         "image": null
       },
       {
@@ -511,14 +535,6 @@
         "image": null
       },
       {
-        "title": "35 години специалност „Теология“ в Шуменския университет - Телевизия Шумен",
-        "description": "",
-        "date": "2026-11-11T16:51:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQlFDSnV3cHFjOFYybEE3UHZfR0VyQXlIRkxJblJ4WnBaZE1lS0tZdGU5dENsSGVia1dWMV9TQkpuYy1KQ25FYjBLOFc3Sm1mNDBpek10dzhsNzBLRHJrYmtmenc1U2ZURzR3ZV9JQXNBazg3V3d5aWVJVzB3cEZGU2ktWU56YkVqb29mYXM5WFM3dHNIbFFF?oc=5",
-        "source": "Телевизия Шумен",
-        "image": null
-      },
-      {
         "title": "Космосът привлече малки и големи на есенното издание на научния форум Ratio - MediaBricks",
         "description": "",
         "date": "2026-11-11T15:13:17+00:00",
@@ -559,27 +575,11 @@
         "image": null
       },
       {
-        "title": "Еврокомисар Екатерина Захариева призова за повече инвестиции в изследвания и иновации - Делник БГ",
-        "description": "",
-        "date": "2026-11-10T15:06:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOdERzYXhELTRGNlkzZEFoaWhqOXBBTWRTek1icl9VSG9hdzNfMUJHcE1fMXNBR3VNdnZENlo0M2tteWdVdGVZcGFIcWEydnVJZFJlY21sRnJfc0ljRVF5bmNvUHMxUmJoTU1nZDAtVWJBLVgxZ0RqVE9PTVpPUUpfZU4tcHVrSDJkdjJhQm5mZEJaSTI2a0paOFNqN01xMHVSWWdtMmx4ZjJQckRDT3Y5YjFId1BVT2pHRzZfRjVQYXJRbXFnNmdtLVlqNW55RmpRQm5kMWRRQkRzb0ZLX1Q2elpGRVd1VS10WG92SEljUEJ3VDh2RlVDRU11UnZPNkVlNWFFcVh2NkxMdE1oSVpZQXFXVVA1XzFPUkZ4dVBsQXVLZ04wOUJuSkJtek1zeHBFLU5JNUl6bm5ieTFYZHl0WjVVeE4xMUFmMWEwSVdPUWo?oc=5",
-        "source": "Делник БГ",
-        "image": null
-      },
-      {
         "title": "България дава за наука 3-4 пъти по-малко средства от средните в ЕС - БНР Новини",
         "description": "",
         "date": "2026-11-10T12:55:27+00:00",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHBsc0JpNlhzbTV5OFluT0luZnZtelFVQS1wR1A5Y25QV2E0aGVPT0ZfcW15ZXVQeWE5Yzdld2FVZnZjZUdrSldfZXVJN3RtWmlhN3VFNnlsdE5SV1V6Q0hyMnFJS1FEejNHV2R2cnRLR2c2dVBLZEo0MTNpUU9TSTFEc1Q0ako5MnRYQktxY1B6Um1fV1BaYkFxeXZncF82LThtQmE3NA?oc=5",
         "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "На 13 ноември е Есенният ден на отворените врати на Физическия факултет на Софийския университет - MediaBricks",
-        "description": "",
-        "date": "2026-11-10T12:23:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTHdvLWxoMzdfRGJROEk4aXNoSEl5eW1reW1aOFZVdmZyWHVhbmlTZy1TbkR1T2l6NGxIOVI0TGFYRVd5Y2twemlENWx4clZnR2NqcjltbkNMcFVUSnV0bV9ISjViTXFHaWhyM2RqVThFV3pGY2Nxc1E2d1Y0STRrTUcxclBSaE55Y0hjQXVTUXNzZjdFOTd0ZkJmOHJodVVlR3l5N1pRUE91TlAyTlFHTHFTUDJGYU1kOU9Wc1lmX3JGdw?oc=5",
-        "source": "MediaBricks",
         "image": null
       },
       {
@@ -591,19 +591,19 @@
         "image": null
       },
       {
-        "title": "Плевен представя магията на винарството чрез история, наука и изкуство - Pleven info",
-        "description": "",
-        "date": "2026-11-10T11:16:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDRFdmlydk5ySU53Slp2VXJQeHpob1B2dENKdzJMUnlndFBMRXFxQXNiT0Z0NWl5T0ZYSTQ1cVItbFlReTBDQ3MwTWZlQ0Q3aWM4ZDlKQnlpQldUZmM5SWxHV0FtaVlKdWpqM0p2Mkw4cFZSRmtkYVJRRFdoV1EtU1VXTDEyY1RWWEpiNlZfWExFNmFGa2NBOHhR?oc=5",
-        "source": "Pleven info",
-        "image": null
-      },
-      {
         "title": "Копродукция на Радио Кърджали и програма „Христо Ботев“ с награда от БАН - БНР Новини",
         "description": "",
         "date": "2026-11-10T10:52:06+00:00",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZThYV2dJMTlBN1VDOWhLdEowZEZtSXZwWl8ydmNpdWk2a3UySERqSGtYMmx6d2NhYVVPanJhN1VJZldhNVFHSXB6UEM0YjZPRmJzNjlaVW03MlpmV1BtYVFneUdlT0w4ZmhVS3lFZWpGVVpNRFJpZXRtZXlyTXluc1pJeDNqVnFiLW1yNEI1RE5MaVZIOHRQVHZZNXQyampKTUU4TTljelRVWV81RmdIVEVSRDA?oc=5",
         "source": "БНР Новини",
+        "image": null
+      },
+      {
+        "title": "БСУ отваря врати към бъдещето с технологии, наука и изненади - Бургаски свободен университет",
+        "description": "",
+        "date": "2026-11-09T14:56:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjFUNkdsdDJULW5RZ3BsV0tNb18zODhFWHp2Y19udmU4V0RUd3d2TUJXNVN1QzJfUy0tM2xuTDZQTGU1UnJaR2I0bnVVbXc3Rmd4b21NVUZHVEF6N1hnNWdMV3FGMlJpWlF0emtjNjZZaDZSb292OTZUZXNBMWMtejU2Z3U2cXZaWndQdTRFS3VRYjhJY2c?oc=5",
+        "source": "Бургаски свободен университет",
         "image": null
       }
     ],
@@ -625,19 +625,19 @@
         "image": null
       },
       {
+        "title": "Конференция 90 години икономическо образование в Свищов събра представители от три континента - Актуално Свищов",
+        "description": "",
+        "date": "2026-11-12T19:06:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0FMNlF1QWdkWHBudEh2YTlFWVVvUlFUcHZYcXlFUmExYUxkMFFsNVBxNC04TVZ5RzFWRjNLN04zbW1FV0pCYm9aVmVpZVpNUEZoT1drSncwTzFpYUJ6a1V0YnozLXI3X0V5QUhqUng5OXh1ZW04SGN1OGFfZ285X2UzZXEzOWdUYjd1ZVdVUjRaeml5aDVRYW1BVHgyQk1zcDZmdjZpWk1jRHhqdkxuYWNuejZ5S1M4alVha0I3SXJZWDJVSFZZ?oc=5",
+        "source": "Актуално Свищов",
+        "image": null
+      },
+      {
         "title": "Дванадесетокласници от СУ \"Никола Й. Вапцаров\" в Силистра с национално отличие за проект за здравословно хранене - Кворум Силистра",
         "description": "",
         "date": "2026-11-12T18:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vRzZqcXZZdTdOTXc5TG00eWt3dWlKbmlZNXI3RmxkdGRxQnpvYWRucHhNT2FmbjFMNkFiZVo3dTctYkswOUYyUURZZUVtcW9sU2kyb1dB?oc=5",
         "source": "Кворум Силистра",
-        "image": null
-      },
-      {
-        "title": "Конференция 90 години икономическо образование в Свищов събра представители от три континента - Актуално Свищов",
-        "description": "",
-        "date": "2026-11-12T17:07:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0FMNlF1QWdkWHBudEh2YTlFWVVvUlFUcHZYcXlFUmExYUxkMFFsNVBxNC04TVZ5RzFWRjNLN04zbW1FV0pCYm9aVmVpZVpNUEZoT1drSncwTzFpYUJ6a1V0YnozLXI3X0V5QUhqUng5OXh1ZW04SGN1OGFfZ285X2UzZXEzOWdUYjd1ZVdVUjRaeml5aDVRYW1BVHgyQk1zcDZmdjZpWk1jRHhqdkxuYWNuejZ5S1M4alVha0I3SXJZWDJVSFZZ?oc=5",
-        "source": "Актуално Свищов",
         "image": null
       },
       {
@@ -721,11 +721,11 @@
         "image": null
       },
       {
-        "title": "Бургас събира учители, ученици и експерти от цялата страна на конференция за зелено образование - ФОКУС",
+        "title": "Антони Стоянов: Щом учителят е безсилен за дисциплината в час, всички други реформи са като умножение по нула - www.24plovdiv.bg",
         "description": "",
-        "date": "2026-11-12T14:08:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV3ZOR3dhMVFXZldadktsMlVaVFdLM0RGV05BRThEckxjM0J6ZFl1Mk94ZE1zT3NBUm9OYXpSVmZiRGNaLXlreXp5OFVFRDY5YTFwLWVrX3R0NWYybHN5c2JGNFIxSlZwc0dXUWo3WnAzNnpYNl9WUk5BMmtlSkN6MEdGN2NBZENMUG1XQW9hZ0pYbWlwSTBVejRrSXhrbk5EQk1aSmRsTFBLcGN4UklBSEVIYThUR2dYSUNBT1NaQnVyZFNLdkhqTWxtMGpUandDTGtZcXExNTc4Z19qU1JqU0l3?oc=5",
-        "source": "ФОКУС",
+        "date": "2026-11-12T14:27:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Sa3plVklYREdSWUtBYS1Kb3JYWW9jamVzdGRiTlRCZG9mdU5URmlKVmRaeFkzSXJQWDdqaHhIRHNMXzQzblpxelNVb1JGYUZ4YXNmTkduRVY2QjRKYmc?oc=5",
+        "source": "www.24plovdiv.bg",
         "image": null
       },
       {
@@ -734,6 +734,14 @@
         "date": "2026-11-12T14:07:45+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkdnNmthSnBkUV85VmNkM3RqMWdqOC00dVZSV2VtVUUyVmRucndkdG9CRC1Hb0tUd1hhR3NEN1k2OEFWYWtqREdMeFV3WGhFakpBMldNZmhGczlvdWdubzhYMWN5cDVTWnNYSU5SMlBmNnVuVXBrbEI3dk9WNGEyTzRTTmFPSTRtX1BEeGNBVC1oQlBUZGF6YTlEMTNseUJw?oc=5",
         "source": "balkanec.bg",
+        "image": null
+      },
+      {
+        "title": "Бургас събира учители, ученици и експерти от цялата страна на конференция за зелено образование - Община Бургас",
+        "description": "",
+        "date": "2026-11-12T12:46:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZHV1U1lEQ2RMWWZKb0xFeVdFYmlySkFNSnpmOGU1X2lwQjg5T0ptYS1JZU5nMVZOUHR2ajlfeDBmenlXWnJGMzZSUjVWdHpNNDNvZnVtLVRTNFlxM0hSVU1DS3A5dHlDZUZhY3VLSTgtMXRMUUVlOXlEcGNpaGhXRTZGUTFtR01CZzhiZnIwRlZFVGY2cHEtRHp1VkpHeks2NVMxa3dHdzRfelBZdlAxR20yRW1TRWVYLXF6T1RPdUo3SnNjb0VhYm9tS1Axdw?oc=5",
+        "source": "Община Бургас",
         "image": null
       },
       {
@@ -799,14 +807,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUVpb0I0cldnWE9uM1NMaGVrcmVLOVZMRWphcnUyNk1Wd2tja3VPcHdDVl9vanpTNTRZdHUteDhRYlpDcWtGVEFKczZhc3BseDBQal9QeHhwQUNzbmZNbHNjY1ppMXNNNmdiUkpZTjRjbTF5dFNscndQQVBHbU41cC14OVFUR1pZa0xRRkkzcDNzdmtEV0dSdUN6SlZzMjhtR0JwenFVbk81Wkw3YUxRbVNrTlJ2TlhDUHc?oc=5",
         "source": "БНР Новини",
         "image": null
-      },
-      {
-        "title": "Синдикат „Образование“ се обяви против орязването на средства за облекло и квалификация на учителите - Moreto.net",
-        "description": "",
-        "date": "2026-11-12T09:47:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GN3F6c2ozaS1sZ3d3LVZ4VVlkUGhzRG9fV0lCRm95YXNVVHRmNTI0WUV4UjV4dWZETzJYaVR6UWhid1kyVDlYc2Q4Q0tmNnZYTm5YLQ?oc=5",
-        "source": "Moreto.net",
-        "image": null
       }
     ],
     "Технологии": [
@@ -869,7 +869,7 @@
       {
         "title": "България развива отбранителната индустрия с иновации и европейски инвестиции - Novinata.bg",
         "description": "",
-        "date": "2026-11-12T16:48:29+00:00",
+        "date": "2026-11-12T16:48:42+00:00",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWJCRDJnNm1xWFVZOXNfamU2QlZxOXlSOWtzY2E4djF3WEpQY1E2YUNnTjF2Wk9va1NGb0JTSmFkbFVham1lcFE3clVQVDIxeVZOcVFybFBjQm9zVGZieGk1enVFWlhPeURUZHREN1Utel9EaUs2VmhWcnBsb1NaOWdGckxlVVhVYWN3Tg?oc=5",
         "source": "Novinata.bg",
         "image": null
@@ -955,6 +955,14 @@
         "image": null
       },
       {
+        "title": "Постижения на БАН в областта на цифровите технологии и изкуствения интелект представи чл.-кор. Евелина Славчева на семинар в София - Делник БГ",
+        "description": "",
+        "date": "2026-11-12T12:44:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQbVJYUzlKQk5tRGtNZFZOeVFqbWh0d3hncjRTVXNIbFhsTnFBQ2RqWWlISENQU0dqSmN4RmtfMmxPczVKOHpzc3BkRzRzMVhFY2wxSXN1US1aQk5Wa2l2eFQ5d2NQcXlsbFJlR0VZdVBfaWE0Q1VIMWIwM01nT1U1RU1vckR4QjlCTkM2WkxQY0thUFZCMDFQNXZYR2JCOURJUXlzcmZ6TFJCUDdTMDdHMjV3TXpqQ1plSm16cGhkejBKeVFMRy1fQlNmUVFqZGM4NXloekg2bVRzZnhkVTJKdkNLcHlwa1VvWDQzZ3IwSlBPLUJzZUZyZXdadWJfUzMwVjNzRUNhNU1VVVFsN21PY1NES1JvQWQxY2lLT1BVTzh3R1AtN082WDNKWGFOdkl0Vko4STNfUU80aDNFZ2oyWDBjU09xV0FWTlNtSU1ZcFF4WVk?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
         "title": "ЕС проучва клетъчни системи за откриване на дронове - Ruse news",
         "description": "",
         "date": "2026-11-12T12:36:28+00:00",
@@ -1000,14 +1008,6 @@
         "date": "2026-11-12T11:48:57+00:00",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQUnpNQ29DMlRXcXVBNkhGR2s3WHN3VE5nV19jTDRzV3BiNVVPREg0R25XWHpkZXVTSVRwaXh6ZGluYmNOVzdwdjJDdThQcXpZ?oc=5",
         "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Украински стартъп в сферата на военните технологии достигна оценка от 6 млрд. долара - Бизнес новините",
-        "description": "",
-        "date": "2026-11-12T11:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm02bXNjMlV3cjV5QkJSdFFPWlNOcHM4NERTa1hkeHhlbGJJUDZZeDlHN3lCeTRKVGxmRWZjYUJCS2JKUnpDMjFoRzlybU90cDNEWE16ak10MGRBY3VQbFhsa3hWTGtLVnB1OGVlamx2cHRSYVI3M0twX2VvT1V5LXRsb21YMEpCTDNnODUwMkV3SnllWHpCVWFiVW9BQUZLbTFqWGVMYkJfeDFRQUVuNGZMMzFNajdpVkFLRFZGdw?oc=5",
-        "source": "Бизнес новините",
         "image": null
       }
     ]
