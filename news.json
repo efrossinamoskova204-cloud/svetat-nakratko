@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-12T02:33:01.178530+00:00",
+  "generatedAt": "2026-11-12T03:31:44.904868+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Жълт код за силен вятър е обявен в 22 области в страната",
+        "description": "Жълт код за силен вятър обяви Националният институт по метеорология и хидрология (НИМХ) за днес в 22 области в страната. Предупредителният код е в сила за областите Благоевград, Бургас, Варна, Велико Търново, Видин, Враца, Габрово, Добрич, Кърджали, Кюстендил, Ловеч, Монтана, Перник, Сливен, Смолян, София-град, София-област, Стара Загора, Търговище, Хасково, Шумен и Ямбол. Според прогнозата за времето днес облачността ще е предимно значителна, су",
+        "date": "2026-11-12T03:00:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1244746-zhalt-kod-za-silen-vyatar-e-obyaven-v-22-oblasti-v-stranata",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/10306753/20241122_132327.jpg"
+      },
       {
         "title": "Хиляди стачкуваха в Испания: Палежи, разбити витрини на бутици и сблъсъци (снимки/видео)",
         "description": "В Мадрид, Барселона, Малага, Памплона и други градове излязоха на улицата срещу обедняването",
@@ -37,7 +45,7 @@
       {
         "title": "Де ла Фуенте избухна заради Ямал: Такива изказвания са най-жалките, не понасям хора, които се опитват да те излъжат (ВИДЕО) - Gong.bg",
         "description": "",
-        "date": "2026-11-11T19:59:08+00:00",
+        "date": "2026-11-11T19:59:11+00:00",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPclRFWDdNbXhBQUlCQ2ZUMGt0SjFyQnRpYXdzRTZRSVlHMW1tS3F5OTJRajRxWG05dC1ITFZUcHNfV0dDYkhSemVvZDNLZ2ptRmJhczZDVkhhekJBSThiUFZxWTdxXzA2bkZJQWlxTUpUb2ZVbk10Yk16TFZGdHh6ZXB2WV9ybWcxZE1ScXhEd1B4ZEFpNnBmSlhKU1UyeXZXR0ZVc3Eyd05mWXlOUHFMMXZRWlhTanVKNjJUSFk4RnF6RC01Y1pwUWhib3o0aDZ6THR0T2xNbXpFRS05RTN5N3BHemtaWXltQkxzZmNQbU4taTJnc1E3amtyOGYwbHBwVHBMT1lxdV8?oc=5",
         "source": "Gong.bg",
         "image": null
@@ -75,20 +83,20 @@
         "image": "https://static.dir.bg/uploads/images/2026/11/11/3046695/384x216.jpg?_=1794428038"
       },
       {
+        "title": "Задържаха нов заподозрян за убийството на Илиян Филипов - bTV Новините",
+        "description": "",
+        "date": "2026-11-11T19:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHMwM1dSaTRsZTFsdHRDXzYwWkdzcGpTN0h5UF9yTTduVXMwWldQS29rLW5maHlGOUtQT3JtOV8xSTdRbjlycDFXaGl6RTZsUzh2NmNaYnhHUERoc0sxcWtGd0h4d2ZmZUZLVVh4VjJVYWQ3Nlo1MmQ0angyQXNRUkRDSGp3R3cyeEZRNzBnamw0YnphWmdVNUNGTQ?oc=5",
+        "source": "bTV Новините",
+        "image": null
+      },
+      {
         "title": "Книгата „Тримата срещу потъпкването на Чехословашката пролет“ беше представена в Чешкия център в София",
         "description": "Книгата „Тримата срещу потъпкването на Чехословашката пролет“ беше представена тази вечер в Чешкия културен център в София. За документалния том говориха ректорът на Нов български университет (НБУ) проф. д.н. Пламен Дойнов и писателят, философ, журналист и съвременник на събитията Димитър Бочев. Сред присъстващите на премиерата бяха президентът Петър Стоянов (1997–2002), Александър Димитров – един от тримата младежи, чийто подвиг е в основата на ",
         "date": "2026-11-11T19:06:00+00:00",
         "link": "https://www.bta.bg/bg/news/lik/1245002-knigata-trimata-sreshtu-potapkvaneto-na-chehoslovashkata-prolet-beshe-predstav",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14100369/MIN_2538+%281%29.jpeg"
-      },
-      {
-        "title": "Арестуван е нов заподозрян за убийството на Илиян Филипов - Dnevnik.bg",
-        "description": "",
-        "date": "2026-11-11T18:52:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTdQb1VYZmREY2R6UExZdmEzSU12VnZ6V24yOGh1Z2pjeFFaeGc4cE9vOUdFWWc0ODh5Rk80cEdPMWgwQUlCVmpUeGM0S09VY0pjbHhUbnNDSGRKNV9yN2JUV0JNaC1qT2Vtd1lzMlhEZmlFMy1oRl96empPc2VqUk5Md181QjZxRjdVakV6N2pQQzZVYWVqRGp3Z0c1S2ZQOS1XQk9B?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
       },
       {
         "title": "Задържан е нов заподозрян за убийството на Илиян Филипов",
@@ -193,17 +201,25 @@
         "link": "https://dnes.dir.bg/svyat/vnezapno-pochina-poslanikat-na-rusiya-v-sasht",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/12/3046743/384x216.jpg?_=1794437789"
-      },
-      {
-        "title": "Министърът на образованието проф. Георги Вълчев отговори на актуални въпроси, зададени му от депутатите от Комисията по образованието и науката",
-        "description": "Министърът на образованието и науката проф. Георги Вълчев участва днес в заседанието на Комисията по образованието и науката в Народното събрание, на което отговори на актуални въпроси, зададени му от депутатите. Заседанието започна с едноминутно мълчание в памет на загиналите при двете тежки верижни катастрофи на автомагистрала „Тракия“, които станаха вчера, 10 ноември. Няма вечен учебник, няма вечни истини, тъй като светът се развива, каза мини",
-        "date": "2026-11-11T17:38:06+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1244977-ministarat-na-obrazovanieto-prof-georgi-valchev-otgovori-na-aktualni-vaprosi-z",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14099522/1000173718.jpeg"
       }
     ],
     "Свят": [
+      {
+        "title": "Турският президент нарече войната в Газа „екоцид“, обръщайки се пред СОР31",
+        "description": "Турският президент Реджеп Тайип Ердоган призова света да признае въздействието върху околната среда от войната между Израел и палестинското движение „Хамас“ в Газа и поиска от израелското правителство да осигури по-голям достъп за хуманитарна помощ до палестинската територия, предаде Асошиейтед прес. Ердоган направи изказването си по време на срещата на високо равнище на ООН за климата COP31, която се провежда в Анталия. „Това, което се случва в ",
+        "date": "2026-11-12T03:00:54+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245052-turskiyat-prezident-nareche-voynata-v-gaza-ekotsid-obrashtayki-se-pred-sor31",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14099254/389a9d9e9006418e8ff0ae715d4423d4--0--c3d720f430a846cb8e774afc46b8bd96.jpg"
+      },
+      {
+        "title": "Турският президент нарече войната в Газа „екоцид“, обръщайки се пред СОР31 - БТА",
+        "description": "",
+        "date": "2026-11-12T03:00:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjZwaHpoVEsyQVpMSEhOZHJJMW45em1vTlJpWkgwMnJzRG1EZGJVYUtzLTNXWlFGOGVlSWhEaUpmb0UwOXRjZXlVbWdsWVEwN1ZuR2dvVzBpYzFPU19ncmY1Vk5FWTg4R3VLdEZZRVRvTms2NEUzelRkUlVwQVBhMi1Ta3gxWERmWEt3V0duWE1fUnRoWjNvajdPbUpMX0c5YkNqR1BfVV9oeTVMQmduOFBOMTZfam9D?oc=5",
+        "source": "БТА",
+        "image": null
+      },
       {
         "title": "Министърът на отбраната на САЩ и екипът му бяха сгълчани от часовия пред Гроба на незнайния воин във Вашингтон",
         "description": "Войник, охраняващ Гроба на незнайния воин във Вашингтон, е отправил устна забележка към група съветници на министъра на отбраната на САЩ Пийт Хегсет след церемония по случай Деня на ветераните в Националното гробище „Арлингтън“, предаде Асошиейтед прес. На видеозапис се вижда как Хегсет си прави снимки на празните стъпала пред Гроба заедно със съпругата си и трима членове на екипа си. Докато групата приключва със снимките, се чува силен смях, при",
@@ -357,14 +373,6 @@
         "image": "https://www.bta.bg/upload/13960664/d5c311d622e54f278260b6afae2c0f0a--0--606e844afc5a4d3985898aa6b4f824e1.jpg"
       },
       {
-        "title": "Членове на семейство Кенеди се опитват да спрат изграждането на триумфална арка по инициатива на Тръмп във Вашингтон",
-        "description": "Няколко членове на семейство Кенеди, една от най-известните политически династии в САЩ, подадоха вчера искане да се присъединят към съдебно дело, целящо да спре изграждането на триумфална арка във Вашингтон по инициатива на президента Доналд Тръмп, предаде Ройтерс. Според тях планираният монумент ще закрива гледката към гробовете на техни роднини и ще хвърля сянка върху тях. Арката, която се предвижда да бъде висока 76 метра, според представения ",
-        "date": "2026-11-11T19:04:23+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244991-chlenove-na-semeystvo-kenedi-se-opitvat-da-sprat-izgrazhdaneto-na-triumfalna-ark",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14083158/d0ec56c1e6b44055b7d3c4457759ce49--0--7150695f4e4a40da94d63c9538fbd775.jpg"
-      },
-      {
         "title": "Зеленски заяви, че напредъкът в преговорите зависи до голяма степен от това как американците разговарят с Русия",
         "description": "Украинският президент Володимир Зеленски заяви, че Киев се надява да постигне конкретни резултати в преговорите за прекратяване на войната с Русия още тази година, но добави, че много неща ще зависят от подхода на СAЩ към Москва, предаде Ройтерс. \"Изправени сме пред масирани атаки. Разбира се, искаме да постигнем резултати до края на тази година и ще направим всичко възможно това да се случи\", каза Зеленски на пресконференция в Дъблин след двудне",
         "date": "2026-11-11T18:29:00+00:00",
@@ -379,14 +387,6 @@
         "link": "https://www.bta.bg/bg/news/world/1245027-zelenski-zayavi-che-napredakat-v-pregovorite-zavisi-do-golyama-stepen-ot-tova-k",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14100526/9b50f7a6aa454d7b9737ebf09783b044--1--d4753c13572e4f91b1bbadee3e5c5b9c.jpg"
-      },
-      {
-        "title": "Напрежение в Европа. Иран с остра заплаха - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-11T18:10:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFlHaHdvTXhZd0Q2bV9xQ0d5QWNFME5RajFSMXRKR09pY1BjcXpCVXBiSGFQUVFqZmZfUWwxTC1KZ2RpemRHMGwycm9BVW9vbk56OVhfd3lPZ3hYdTMzQW9fa3FJNVlHNVprSE5XaWdSUFBtNUh3QXMyaGtXRV8wVVQ4RzRpcWdNS1pFYnpoZjEydw?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
       },
       {
         "title": "Внезапно почина руският посланик в САЩ, причините - мистерия - Стандарт нюз",
@@ -697,6 +697,14 @@
         "image": null
       },
       {
+        "title": "Над половината от младите хора в Македония са се сблъсквали с корупция в образованието - моделът „Училища с почтеност“ ще засили честността сред учениците и учителите - Слободен печат",
+        "description": "",
+        "date": "2026-11-11T11:59:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdGhnalNrV015SXhzSTVrSGpud051WEpXa0FoLVhMUEk5REVaQjFHclNyOWhpSThkaFM4ZDd2MVlIc0NxajZDTmtlaU44NU5HZWNxRGY1QmtYUDJOX0J6b0VkM3l6aWdHVmNjdTA2aUZwOFFWWE5xSWNST0JOaU1pU3Y0VURaOVRHVXlUWWhsSVpoamRRNkVRU1Q5Ql96bS02YzRnVVlHdXVRejFhelJzY080VXk3R201WW9mUjZIYVVrQ2ktTWo5QVR5LTFrN0lCTmN2bWF1cVE0aWNLYmtWRks2U2pxd0ltdFloeXNjbkp3REhpdHZMemM2NFhSNkgzYzZBTkhFc0xNNG5VZ1Q0anA1UVAwTTh1M3RvVE12Vmo5ak9QSXZxQWNR?oc=5",
+        "source": "Слободен печат",
+        "image": null
+      },
+      {
         "title": "Синдикат \"Образование\" скочи срещу бюджетните ограничения - агенция ПИК",
         "description": "",
         "date": "2026-11-11T11:59:12+00:00",
@@ -734,14 +742,6 @@
         "date": "2026-11-11T09:19:08+00:00",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnVKSlRfRkVkZ3RKZkJEWS1tdVcwYnR3cmZvWHp4clVGTG05SDIwWnBaN2NtYk9qOEJuTWJwcmxJdlNIRHhacjliMldxMDNvVm04V3hqaVJ0Qnp0NnNUMnQ2cU00S0tCZ2xGMHhlWFhTUzFhYUdPSmNRZ0haZlZKVF9lYUt3RGNvRHJCS0FMREt4VUZqOTBtQURqRklnR3Y0dzJZSVU5blRpT3JsZmZvcWN2aEZvdw?oc=5",
         "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "От теорията към практиката: учители ще развиват умения за работа с AI в безплатна академия - Zonanews.bg",
-        "description": "",
-        "date": "2026-11-11T09:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmM3c0JuVUV0S1NtSURDdDZwa09WRldoQjNqZmZLb0hOQUNha002c1lDLVgtdlZCSk8tUDdscTVodDVhQVA0d013SDYxU0lmQlFoanQyU0o2eUM4T3hSOEZuM1ZiODJ3NUluQXU5WFBOc1owbTdYak9UNzM4ZDJicEpiX053LUN0aTQwckpmaWVqczF3TTBsN1JYT0VMMzRxQnY0Wl9CN2lldjRDR0N2NXo3X0w4ZDZWd1I0V3RZLVF5YWxUeVBGcUM1Z0xhcG1BSm1j?oc=5",
-        "source": "Zonanews.bg",
         "image": null
       },
       {
@@ -786,14 +786,6 @@
       }
     ],
     "Технологии": [
-      {
-        "title": "Илон Мъск сключи сделка за 60 млн. евро с германска компания за нови AI сателити - Евроком",
-        "description": "",
-        "date": "2026-11-11T20:34:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOanNORXRNN2gtR1daOFlMNFZ0TEFsWlVaNkVVZmRtcXM3d19ETlE0eTcwSEhZOFlJeEVtV1V1QWNiNnVhLVNhVGhleXhpREQzT255V0ZfRmdKYzlPMVEtLS1wNnRiSVpQOW5tVDFZakVqdVppQVpJdGtKREE0QkUya0Q4d0c2cGU5UTVsOWNuNUJLQ2tFNWh3dXVtTGx2Q1hET0RGUkhPcWkyZWNIQXN3bExNVQ?oc=5",
-        "source": "Евроком",
-        "image": null
-      },
       {
         "title": "Microsoft се противопоставя на планирана забрана за китайски технологии в САЩ заради риск за центровете за данни - Novinata.bg",
         "description": "",
@@ -984,6 +976,14 @@
         "date": "2026-11-11T07:09:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOSUs4RkJjMEZQNDhFYW5lNG1odjRuTEJHV0VqbFgtWDdoNGN4U0FzUlo0Mm1SUjR1alRXazlFT3MwVUVJSVhRV05GaTA0Wkc3ZWZqd0JSLWNUYXZrRmQ3TFJlcmhWVEg4V3BVQ2tVV2c1SDVfb1NHdGpjR3hrbVA2VWNHLXM0MWhrbDhYem40OUNhMUQyNmdMNGotaXVLYWJnQnBxdmdIMTRtLUM2eHh5OHlJektualNNakViMHVPejlSWF9nSEI4TnJIUldaaU10WVoyS2Z2RzcxeGZmN05lZG44T1FjdzVURHhZSHVZbmh2cUhJc0pIa1FTai1Ec2E5b1ZtMlVkaEd5YmxSUlZ1X3VoWkZ4Y0FVX181REpDYUozd0dRNFFsSEtmM0dBSUxUam4yRHY2SUxEanZwMEt1Q244eGd3X2JQRURB?oc=5",
         "source": "vestnikstroitel.bg",
+        "image": null
+      },
+      {
+        "title": "Nvidia е изправена пред засилен надзор заради аферата на своя главен изпълнителен директор - Технологии - manager.bg",
+        "description": "",
+        "date": "2026-11-11T06:55:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObjQ4bGRkY3FxVVhJc0NnYWRfUnFkTWstazBtMXF0cGFPdHM4ZGlqNk5ZSHlTWDVJRGg3SzJKWC1xYnV2SnUwVzlDc29wZ2FXbk44MVByOG12dElXbTJ6anJzWkwtaWoyOFBxcEZ5bS1CYXl6QjBMVVVuWEtuNV9nd09fcUJDRjByUVZTSVJRNFZ5U1M4Vy1yLTJqRUpWZW93azJYMnJYbUFSTHhRSWhGTXNMQkdLY2NnR3JYUFRMZnNMajhzUmhuMHNmRXB1STFZLWRVRHBFUGZRRnZuTWZyTWx2cU11eldqclJWUFdlUmliVU5ObkxUd3R1TnVEcGc?oc=5",
+        "source": "manager.bg",
         "image": null
       }
     ]
