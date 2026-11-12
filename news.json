@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:56:31.712678+00:00",
+  "generatedAt": "2026-11-12T01:24:52.226802+00:00",
   "categories": {
     "България": [
       {
@@ -32,6 +32,14 @@
         "date": "2026-11-11T20:14:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclN6NkRmREx4RkJBdE1WN1lLYldKNnhmY1Zwa0NDS3EyMzNpVXlTQktyUjFwMVZQbzVxVnVKNDR1SklzQnJJUURYNmhSdERKTWtLNmlBZGkwcDNYbjI1MlM0d2NVQ1RrY0F6NDYyNGk5bFNrQzczVHlXanZXTmRSZ1ZNdlo5bWl5b2hzZGNDT29ScGx6YnBzRHM1aVJYSmFLMHhCbDcwM2E?oc=5",
         "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
+        "title": "Де ла Фуенте избухна заради Ямал: Такива изказвания са най-жалките, не понасям хора, които се опитват да те излъжат (ВИДЕО) - Gong.bg",
+        "description": "",
+        "date": "2026-11-11T19:59:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPclRFWDdNbXhBQUlCQ2ZUMGt0SjFyQnRpYXdzRTZRSVlHMW1tS3F5OTJRajRxWG05dC1ITFZUcHNfV0dDYkhSemVvZDNLZ2ptRmJhczZDVkhhekJBSThiUFZxWTdxXzA2bkZJQWlxTUpUb2ZVbk10Yk16TFZGdHh6ZXB2WV9ybWcxZE1ScXhEd1B4ZEFpNnBmSlhKU1UyeXZXR0ZVc3Eyd05mWXlOUHFMMXZRWlhTanVKNjJUSFk4RnF6RC01Y1pwUWhib3o0aDZ6THR0T2xNbXpFRS05RTN5N3BHemtaWXltQkxzZmNQbU4taTJnc1E3amtyOGYwbHBwVHBMT1lxdV8?oc=5",
+        "source": "Gong.bg",
         "image": null
       },
       {
@@ -193,17 +201,25 @@
         "link": "https://www.bta.bg/bg/news/lik/1244977-ministarat-na-obrazovanieto-prof-georgi-valchev-otgovori-na-aktualni-vaprosi-z",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14099522/1000173718.jpeg"
-      },
-      {
-        "title": "\"Радвам се, че съм част от този отбор\", заяви Кайла Хилсман след успеха на българските баскетболистки срещу Хърватия",
-        "description": "\"Радвам се, че съм част от този отбор. Останалите момичета са войни и страхотни хора. Щастливи сме, когато играем заедно\", заяви баскетболната националка на България Кайла Хилсман след победата над Хърватия с 91:74 в началото на втората фаза от квалификациите за Евробаскет 2027. Хилсман отбеляза 24 точки и бе втора по резултатност за българския състав. Тя изрази задоволство от победата и отборния дух, но посочи, че тимът има възможност да покаже ",
-        "date": "2026-11-11T17:38:00+00:00",
-        "link": "https://www.bta.bg/bg/news/sport/1244981--radvam-se-che-sam-chast-ot-tozi-otbor-zayavi-kayla-hilsman-sled-uspeha-na-ba",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14099908/20261111_161659%280%29.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Държавният секретар на САЩ и външният министър на Китай са обсъдили евентуална тройна среща на високо равнище с участието на Русия",
+        "description": "Държавният секретар на САЩ Марко Рубио и външният министър на Китай Уан И са се съгласили по време на вчерашния си разговор за значението на разговорите на ниво лидери за постигане на напредък по въпросите на мира и ядреното разоръжаване – включително в рамките на евентуална тристранна среща на високо равнище с участието на Русия, съобщи Държавният департамент на САЩ, цитиран от Ройтерс. В публикация в социалната мрежа „Екс“ Държавният департамен",
+        "date": "2026-11-12T01:00:31+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245054-darzhavniyat-sekretar-na-sasht-i-vanshniyat-ministar-na-kitay-sa-obsadili-eventu",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/12352422/16a392017bec4441ae2f32fc70c5242f--0--19b5ff67c16d4f8494eb79470c223eaf.jpg"
+      },
+      {
+        "title": "Миротворците на ООН не са успели да защитят цивилни преди клане в Южен Судан, твърди „Амнести интернешънъл“",
+        "description": "Миротворците на ООН и властите на Южен Судан не са предприели адекватни мерки, въпреки че са били предупредени седмици преди бунтовници да нападнат селище и да избият над 200 души по-рано тази година, се посочва в публикуван днес доклад на „Амнести интернешънъл“, на който се позовава Асошиейтед прес. От правозащитната организация заявиха, че мироопазващата мисия UNMISS, е знаела за вероятността от нападение над Абиемном – отдалечен район близо до",
+        "date": "2026-11-12T00:20:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245044-mirotvortsite-na-oon-ne-sa-uspeli-da-zashtityat-tsivilni-predi-klane-v-yuzhen-su",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13793773/53456159a54d48a08d5fce2db34e7fda--0--f1aa4406fb7f447aa9c5a08c54dedda5.jpg"
+      },
       {
         "title": "Папата пристига на посещение в Перу - последна спирка от южноамериканската му обиколка",
         "description": "Папа Лъв Четиринадесети пристигна в Перу – емоционално завръщане у дома за първия перуански гражданин, оглавил Римокатолическата църква, предаде Ройтерс. Перу е последната и най-лична спирка от 12-дневното пътуване на папата, обхващащо три държави. Лъв, който е роден в Чикаго и притежава двойно американско и перуанско гражданство, се завръща на мястото, където е служил като мисионер в продължение на около 20 години, преди да стане папа миналата г",
@@ -373,28 +389,12 @@
         "image": "https://www.bta.bg/upload/14100153/8ebb08443fbe4a428781c69df7aeb3ce--0--c9777c50b20943cbbfd7725b88b7149a.jpg"
       },
       {
-        "title": "Манията по папата стимулира туристическия бизнес в Перу",
-        "description": "Хотели, ресторанти и магазини за сувенири в Перу се подготвят за рязко увеличаване на броя на клиентите с пристигането там на папа Лъв Четиринадесети. Роденият в САЩ папа винаги е наричал Перу своя втора родина, защото е бил там на духовни мисии в продължение на 20 години и има и перуанско гражданство. Очаква се около 850 000 туристи да се стекат от различни части на Перу в градовете, които папата ще посети по време на визитата си в тази страна. ",
-        "date": "2026-11-11T18:16:11+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244999-maniyata-po-papata-stimulira-turisticheskiya-biznes-v-peru",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14098049/043c02637efc4800b3089a2415a62f68--1--550e9e51b61c4badb370ec65853fc92f.jpg"
-      },
-      {
         "title": "Напрежение в Европа. Иран с остра заплаха - Стандарт нюз",
         "description": "",
         "date": "2026-11-11T18:10:14+00:00",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFlHaHdvTXhZd0Q2bV9xQ0d5QWNFME5RajFSMXRKR09pY1BjcXpCVXBiSGFQUVFqZmZfUWwxTC1KZ2RpemRHMGwycm9BVW9vbk56OVhfd3lPZ3hYdTMzQW9fa3FJNVlHNVprSE5XaWdSUFBtNUh3QXMyaGtXRV8wVVQ4RzRpcWdNS1pFYnpoZjEydw?oc=5",
         "source": "Стандарт нюз",
         "image": null
-      },
-      {
-        "title": "Украинската армия съобщи, че е нанесла удар с дронове по руското пристанище Уст Луга на Балтийско море",
-        "description": "Украинските въоръжени сили съобщиха днес, че са нанесли удари с дронове по голямото руско пристанище Уст Луга на Балтийско море, което е важен пункт за износ на петролни продукти, предаде Ройтерс. Според украинската армия атаката е предизвикала пожар и е нанесла щети на част от резервоарния парк на пристанището. „По предварителна информация в резултат на ударите с дронове по петролната инфраструктура на пристанището най-сериозни щети са нанесени ",
-        "date": "2026-11-11T18:03:22+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1244970-ukrainskata-armiya-saobshti-che-e-nanesla-udar-s-dronove-po-ruskoto-pristanisht",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/4279914/0b67547f94614879aac06e9aad1e2dfa--1--9ab02b59e19e4c44b08bb1dfbabd05d0.jpg"
       },
       {
         "title": "Внезапно почина руският посланик в САЩ, причините - мистерия - Стандарт нюз",
@@ -436,14 +436,6 @@
         "date": "2026-11-11T15:13:17+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3U0eTQ0M082eTljdXhWNFVOZDhzaTE5dWwzcHRUWTcteUZyWDVyZlJ6QldrUHNkOXVOMlNOY25saDladi1wYnNfbENnUG9ZUHFRZW95ZWNlX0hMMXVPX2JUWVBOM0p5TUQzM2hKd3JHdEIyMmp6WXl3d0xscWxnMlA1RTFPdTlzOW9xN2tNOV9ydWNucHltQ0Y1MUJrTEhFQ2dXVw?oc=5",
         "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Световната здравна организация с нова инициатива - Clinica.bg",
-        "description": "",
-        "date": "2026-11-11T15:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13b0RtSF9ScDU1aFFqM0ZnTjgyYzNBbDVzS2ZYVUVHMF9WSUtRWVZDOWJuWHJkVENQSDRZQmlpZUY0d3EtNWlWUWlWRkllbWV6LVNnd0NabmNtMkNuRl9tV2VzLVhlY0hWWUx1RzRJdDJldkVRV3RpdWlxNGM0Zw?oc=5",
-        "source": "Clinica.bg",
         "image": null
       },
       {
@@ -705,11 +697,11 @@
         "image": null
       },
       {
-        "title": "Германия изостава значително от Великобритания и САЩ по брой предприемачи, създаващи компании след университетското си образование - Делник БГ",
+        "title": "Германия изостава значително от Великобритания и САЩ по брой предприемачи, създаващи компании след университетското си образование - БТА",
         "description": "",
-        "date": "2026-11-11T12:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNk1uWWZteGx2R001a2Ywa21wcjZtRjVJVmRiWlI1SnQ3OTh4aERib0t3RFpzRjNoVVFzY3FDM0tpRk1wc3p6UEVpemt0VnRZMTlaYV8xcHNUWUlsSU5md3AxZzFUcDZmNURnTWoycjk5MnRtZDVJZWtvdFpsbDkzekJJN01mcHV3WVQyTkE3UEpzaV9GMWNySkFjTnJaOExTdlZzWENLWnM1ai14c1lkbTdJRVJqOTl1Tkw3ZGNZSlVIVDc1Y0FzMlZTWk04WlNpQUljVHhXdmpUMHFkVU9kU0k3UjE2TnlqaTBhc0JGNWlBd2g1NXhBMXhqZkpSUG50WGdlX1lMek5nZlY2TFFfME43N29BY2pvczRoTGJpcTBlZ2NDa2x3Y3BOaTViRmZ5LXNiY1AzR09DX3VOS21UOWw3bXMwQWJ3UWo2Y2kyUVlOUQ?oc=5",
-        "source": "Делник БГ",
+        "date": "2026-11-11T12:55:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkdTQUM1WFptdDU4UWswZWtLaFRzTEdUazRDUWU3eVU4Q2toT0RKa3lrLVAyY2hnWFVrRTVqbEhmYnBIUjlhM3lHZmlHVUNFUFJQbUhzVHIxR19rbG52MHdkMXpHRk5mYTVlZ3BnZFVNVURYbGxnVy05bTRlUjhram9ncDdjTWNaVW9mRWFsWW94clFmSkpGbms4Y0s3QTF4WVYtWVhnQlV5VDNwQ1N1b2tHTWU0cXdjOFB0M3lWc3k?oc=5",
+        "source": "БТА",
         "image": null
       },
       {
@@ -761,6 +753,14 @@
         "image": null
       },
       {
+        "title": "От теорията към практиката: учители ще развиват умения за работа с AI в безплатна академия - Zonanews.bg",
+        "description": "",
+        "date": "2026-11-11T09:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSmM3c0JuVUV0S1NtSURDdDZwa09WRldoQjNqZmZLb0hOQUNha002c1lDLVgtdlZCSk8tUDdscTVodDVhQVA0d013SDYxU0lmQlFoanQyU0o2eUM4T3hSOEZuM1ZiODJ3NUluQXU5WFBOc1owbTdYak9UNzM4ZDJicEpiX053LUN0aTQwckpmaWVqczF3TTBsN1JYT0VMMzRxQnY0Wl9CN2lldjRDR0N2NXo3X0w4ZDZWd1I0V3RZLVF5YWxUeVBGcUM1Z0xhcG1BSm1j?oc=5",
+        "source": "Zonanews.bg",
+        "image": null
+      },
+      {
         "title": "Силен аграрен сектор, ниски доходи и застаряващо население – двете лица на област Добрич - Про Нюз Добрич",
         "description": "",
         "date": "2026-11-11T08:46:04+00:00",
@@ -799,14 +799,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPR2RHaThCd1ZveTJkQlkyS1U1VWs2bmMwdXB5MUc4NU9oWjJGSjFfZ3JiTXE1Zzh5NnNENFA4Y3NXV3M5VUpVVFMzU1ZwUnNIWTl6WVBDbjVMRjB5R2NVRVdQZEpEeHhuODdpZ0R2OU1kMmVaMnpYWExYRVVsQU4yY2lUblRoSUs3QlRRZV9zT01TeWRfOEQ0UEU5LTQzbzVNcjBoUFZ6Yk5NS0tGMjQzeGpZalNkWTM0NXhhbWN2OVZmbks5a3BXMk9zbm9VTGFxUU5vb0QxcUhlLUJaZzV3YkJYcE8wM3NaY0xWNHZyRU5ySkktM0VxMnFnYXc2cHBJTXE5LW9ZamswbFJyM0dEaEFYRklJdFJSZGhsSFlMVElmdE1iMHktU0J2b0o2Vk0zVE03bFh5dXd0bVpEOUpzV3hsbG9kaVFURzFEZUtiTGhNbl9yeFlRQjdmU1BDaXdBVkZxemFRQVl1RmFzMThBSnZzT2Y1eTc1SmdvM1ZKODFMdENGSVVjRU82Uk5CdGZJaDkxeExQMkltREhEOWgzQnRzZXVoYkU?oc=5",
         "source": "TargovishteBG.com",
         "image": null
-      },
-      {
-        "title": "Учител на група ЦОУД в начален етап – 1 работно място - Министерство на образованието и науката",
-        "description": "",
-        "date": "2026-11-11T05:37:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPenpNRmxaanY1cWdybUx2N3FLTHlCZU5TMUg2Z0RCZnQ3UDdGeFgxZnlYQXcyVV96UWtuTU5iNVo0MjBVb0NPSUFOSXh5MTUwLWhlWkF0REVUVVUtMFhDRTYtcEFfZ3dsMkl0OEtBczFxeTRYNEEtbm1tQm54ZDNENnVPaGs1dkJCRUlVUWZBRkVkZElvS0F0bFhWQQ?oc=5",
-        "source": "Министерство на образованието и науката",
-        "image": null
       }
     ],
     "Технологии": [
@@ -819,19 +811,19 @@
         "image": null
       },
       {
+        "title": "Microsoft се противопоставя на планирана забрана за китайски технологии в САЩ заради риск за центровете за данни - Novinata.bg",
+        "description": "",
+        "date": "2026-11-11T19:42:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG94SDdybGVrbnJFRzU2UEtuMDBEaHBncWw3aUc2c011UlRJOWx4c3lwN2hnR1dFaFBOMUVya3ZPbkh3bHhiMnNjMi1iZm16dUpPSFNmemFlMDdjX3JTZTNkRkpvQ2tsdDkzcGtLaXVWSWxsSDRHUWNpNmxMdHU1OVNfLWVJdXNWMmFhdVRodktwaTA0VkV5TVd3THBSSzlUWkVXWHUyOU1DWE52UThpV2s4cEk0OEZZeVpVRnQ5ZlZBZmdPU01GN3RXZzU3U2w1VjZXQTRoNmo?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
         "title": "УНСС организира кръгла маса на тема „Трансфер на технологии, иновации и стратегии в отбраната“ - Cross.bg",
         "description": "",
         "date": "2026-11-11T19:28:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42MmhJR2pDcXhzZGo1T0JLcWl5SXRqN2xiNjdxclh4TmJMbUE2TnVhOGFYYWhUQ3Ftc1Y1YWdCZnA5N0l6aUhvcjV6X0xCalVHNGRKZ0FSbXhfMXFYMV93QTBraVN6V0FZaUow?oc=5",
         "source": "Cross.bg",
-        "image": null
-      },
-      {
-        "title": "Microsoft се противопоставя на планирана забрана за китайски технологии в САЩ заради риск за центровете за данни - Novinata.bg",
-        "description": "",
-        "date": "2026-11-11T18:38:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG94SDdybGVrbnJFRzU2UEtuMDBEaHBncWw3aUc2c011UlRJOWx4c3lwN2hnR1dFaFBOMUVya3ZPbkh3bHhiMnNjMi1iZm16dUpPSFNmemFlMDdjX3JTZTNkRkpvQ2tsdDkzcGtLaXVWSWxsSDRHUWNpNmxMdHU1OVNfLWVJdXNWMmFhdVRodktwaTA0VkV5TVd3THBSSzlUWkVXWHUyOU1DWE52UThpV2s4cEk0OEZZeVpVRnQ5ZlZBZmdPU01GN3RXZzU3U2w1VjZXQTRoNmo?oc=5",
-        "source": "Novinata.bg",
         "image": null
       },
       {
@@ -896,14 +888,6 @@
         "date": "2026-11-11T13:30:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVVoyMlRIRl8zeHpTTTlBb3pIVnNYaVJzS1NCLWFCbzkzM2RGcGotczN0OTVIWk9ZcjVWNGFDT1NEUE1TV3VHRnJNUElEMUVjc3JKbUJpc1E3cm8wV3JkU2UxX0xkamdBMHBuc0xwd0ZucGxTWXhMR0NOVFgyaW40ODd0R09SZ1dneU9UU1ZDNmY1aExQX0tpUTRId3RQOHpURUR0bHUwU3hYUHRBeFA3Z09vWUk5NG5hRVdYVjEySlk4TURqUENvWXhKbjQwTldTcEpBT01KenY1WDZhaExTM3dpT2Y0Zjh1?oc=5",
         "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Космически бизнес форум се провежда в София - iNews.bg",
-        "description": "",
-        "date": "2026-11-11T12:46:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPbFNidnpubm5yYWhiRnNVbW5zYW1XQzZ1WXZ6aGFNbVJJZWRKaVpRb1F6OGNFWlQ0UkVLMzdlQnBwelQwS1RuLU0wODZMSW1hTEY4MVRqT19PRWprUFZraktQbHkxSy10Yi1wMjRDUUZmay03ak9HR2hTZmdVdUJiVFdVU09VOFp0aGcyODdlcG5ySGxKR285Z2hoNWlTWnBUSjg4b0VlX2lLWlNaWlFFOGUtYUtnTkd4MkxTMjN3NklOQUZsaUZsdkV3UlVrU0lpU190NW15UU96QU1IbGRublltS1Y3V0VScXFrcUc3ZWFPTDMyQ2pEUXpSc0JLelFjZTVyT0RxQWNyQTFSRFdZODM1WXM5eVlTMGwwSkRQdHdxSDJnSzBFTlZNS3FYV3BhNGRGRjBkQzZlbHhSc2tiZmE3WHM1UGVBYUFJVWRJS3VqMEM3ME50MFFYazBiU2l1TmNZYUNWb2R6VHFrVkxCTHdsT3dyZ3NXNUZyMWZLdVBRbkNwRGQ0bHFuNFlYdm1XWkpsaWhKZms0Yl9LVTA3M2JYT0M3NjNUdFcxZjluOWRIVWpaYVpZT29LOFVNUEJWRmdBMkRrTld0SDRhcEJ1V01BTW04UQ?oc=5",
-        "source": "iNews.bg",
         "image": null
       },
       {
@@ -1009,6 +993,14 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVUdtdklwZXZNTzBZLUhWdTkwREJHVWt2cVBvOXR5b2xkT2puQnI4ejl5Skh4M1h0SDJNVE1BMjh4R2pOd1FCTWJDSWUxZnlHTkhtWk1KakRjZVUzamQ3THNTQk9ZUU5aOExNaFRiT1ZqWlIzdTZ6NktISGZGelNlR3hGc3M3dnE2cnZyVG5xNmxsM3lWWC1GM3ppQnRHcVNRR2NKVXZOeU80RlVtY0N0M1JZcHE2U19lcEFucklJRDRmMW8xUFNJb1VR?oc=5",
         "source": "3e News",
         "image": null
+      },
+      {
+        "title": "Този уикенд ще се проведе NASA Space Apps Sofia - MediaBricks",
+        "description": "",
+        "date": "2026-11-11T07:42:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZWU5DbG40dDl6eElzUEdCS3dSOWk5TmhpSjIyODJjbk03OEFnY1RrZnhkRjBmYnBPY0hERkk3bHNIbXkwREsxOGFWNVNESklDc3ZCS3NGbEtBejVtYmNvdW9lUzVFb1U3cjBiWlBYenhZR2p3QTlXamFxT0gzUQ?oc=5",
+        "source": "MediaBricks",
+        "image": null
       }
     ]
   },
@@ -1025,7 +1017,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 25,
+      "count": 24,
       "feeds": 1
     },
     "Образование": {
