@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:25:34.717100+00:00",
+  "generatedAt": "2026-11-13T01:51:38.757119+00:00",
   "categories": {
     "България": [
       {
@@ -57,14 +57,6 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1245935-okrazhniyat-sad-v-kardzhali-opravda-lyutvi-mestan-i-osadi-uslovno-vtoriya-obviny",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14105045/20261112_193654.jpg"
-      },
-      {
-        "title": "Финландия потвърди, че Украйна е ударила руски кораб край бреговете ѝ - Dnevnik.bg",
-        "description": "",
-        "date": "2026-11-12T20:48:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1lSM3dOMW1BalJOeXVPWS1hcnN6Ry1Nd0s1bTN1a0hmcm1OZnh1QXl0VlJzTVJrOUVKSlBwSm85SmthbGliT3A5cC01OW9Md3JLeXh3OEl3c0JYZ0ppMV81UmRXZU9yb2I2cEZKOXFKazZqcGdKdW1vX2hPNXlLMy1QczBveDNHT0lkR0htWUNSZEgxUEk5N2lnbWpBT0xPTVptWTVTQ0lqVHBCU0tXcHdvSVcwbzBxWkdQWA?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
       },
       {
         "title": "Разширение на метрото, места в градините и мащабна инфраструктура: Терзиев отчете 3 г. управление",
@@ -147,6 +139,14 @@
         "image": "https://static.dir.bg/uploads/images/2026/08/11/3015460/384x216.jpg?_=1786448236"
       },
       {
+        "title": "Зрители освиркаха министър Милошев на юбилейната \"Киномания\" - Новини СЕГА",
+        "description": "",
+        "date": "2026-11-12T18:57:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDlUMWdzVmVfcURPUE0ySnN6RXJEWFptN0tKYlg2d1hiVGJvU3hsSXJIc21pMXdPdnFnTW44YUlGYk5zeU5IemZWT3BJYkFTUGdBckIyUEJJczh3N1hMSEV4MVFqR3FSeE1sdTY0ZENfcjIzbVhTS09HbDd0TDNPNDJyQXdmRUlNWmJGRkYtckJtZ2ozU2JNN2d4VTloZFpTMXZhSW1IT18?oc=5",
+        "source": "Новини СЕГА",
+        "image": null
+      },
+      {
         "title": "Градовете изпреварват държавите в борбата с климатичните промени, но финансирането изостава",
         "description": "Нов доклад на Глобалното споразумение на кметовете показва потенциал за намаляване на емисиите с 4,8 млрд. тона годишно до 2050 г., но предупреждава за огромен недостиг на средства за климатична адаптация",
         "date": "2026-11-12T18:55:07+00:00",
@@ -205,9 +205,33 @@
     ],
     "Свят": [
       {
+        "title": "Преди 66 години учени прогнозират, че на 13 ноември 2026 г. ще настъпи краят на света, но прогнозата няма шанс да се сбъдне, пишат френски медии",
+        "description": "Днес е петък 13- число – една дата, която плаши суеверните хора. Тази година в навечерието й редица френски медии, като Бе Еф Ем Те Ве, Ер Еф И, „Сианс е ви“ и френската емисия на „Евронюз“, припомниха и, че за 13 ноември 2026 г. е прогнозиран краят на света, но подчертаха, че прогнозата няма шанс да се сбъдне. Преди 66 години се появява статия с провокативното заглавие „Денят на Страшния съд ще е петък, 13 ноември 2026 г.“, написана от австро-ам",
+        "date": "2026-11-13T01:45:11+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245964-predi-66-godini-ucheni-prognozirat-che-na-13-noemvri-2026-g-shte-nastapi-kraya",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14086313/db76b9450b2945c78ebdbaa4b93aa996--0--1a195f91aef945d2a4469179ccba5903.jpg"
+      },
+      {
+        "title": "ФБР е иззело или блокирало криптовалута на стойност над 1,2 милиарда долара, за която се твърди, че е била открадната от „Байненс“",
+        "description": "ФБР съобщи, че е иззело или блокирало криптовалута на стойност над 1,2 милиарда долара, за която се твърди, че е била открадната от платформата „Байненс“ миналия месец, предаде Асошиейтед прес. Кражбата на криптовалута на стойност около 6,3 млрд. долара от „Байненс“ се смята за най-големия обир в историята на криптовалутите. По-рано ФБР обвини за атаката севернокорейска хакерска група, известна като „ТрейдърТрейтър“. Досега американското правител",
+        "date": "2026-11-13T01:16:42+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245963-fbr-e-izzelo-ili-blokiralo-kriptovaluta-na-stoynost-nad-1-2-miliarda-dolara-za-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14049994/0d3897c9038841358ebcbce5534d9875--0--b1f6b54fe0ba423d91ca6b2b29cf156c.jpg"
+      },
+      {
+        "title": "КАБАР: Регистрацията на кандидатите за президент на Киргизстан приключва на 22 декември",
+        "description": "Регистрацията на кандидатите за президентските избори в Киргизстан ще приключи на 22 декември, съобщи пред журналисти заместник-председателката на Централната избирателна комисия (ЦИК) Айдана Жупуева, цитирана от киргизстанската новинарска агенция КАБАР. До 13 ноември кандидатите трябва да представят в ЦИК и останалите документи, удостоверяващи, че кандидатите отговарят на законовите изисквания за това. Жупуева уточни, че след изтичането на този ",
+        "date": "2026-11-13T00:48:06+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1245503-kabar-registratsiyata-na-kandidatite-za-prezident-na-kirgizstan-priklyuchva-na-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14103649/Elections+in+Kyrgyzstan+Registration+of+presidential+candidates+ends+on+December+22.jpeg"
+      },
+      {
         "title": "Папага се срещна шест жертви на злоупотреби, извършени от представители на духовенството и църковни институции",
-        "description": "Папа Лъв Четиринадесети се срещна в перуанската столица Лима с шестима души, станали жертви на злоупотреби, извършени от представители на духовенството и църковни институции, включително от организацията „Содалисио де Вида Кристиана“, разпусната от неговия предшественик папа Франциск, предаде Франс прес, като се позова на съобщение на Ватикана. Светият отец „разговаря лично с всеки от тях, изслушвайки разказите им за преживените страдания и болка",
-        "date": "2026-11-13T00:21:38+00:00",
+        "description": "Папа Лъв Четиринадесети се срещна в перуанската столица Лима с шестима души, станали жертви на злоупотреби, извършени от представители на духовенството и църковни институции, включително от организацията „Содалисио де Вида Кристиана“, разпусната от неговия предшественик папа Франциск, предадоха световните агенции, като се позова на съобщение на Ватикана. Светият отец „разговаря лично с всеки от тях, изслушвайки разказите им за преживените страдан",
+        "date": "2026-11-13T00:21:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1245962-papaga-se-sreshtna-shest-zhertvi-na-zloupotrebi-izvarsheni-ot-predstaviteli-na-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14105064/4bbfd7fc7a79471ea6f9db574e0967f8--0--d2fcd59f0b9c4f19ae48e67d76f3f402.jpg"
@@ -243,6 +267,14 @@
         "link": "https://www.bta.bg/bg/news/world/1245959-evropeytsite-shte-uchastvat-v-sledvashtiya-krag-ot-pregovorite-za-prekratyavane-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14105830/8c5e474c13094b0d9139c74c61c2af2f--0--1e7eab0eafef4cd19a5c2314f1694117.jpg"
+      },
+      {
+        "title": "Европейците ще участват в следващия кръг от преговорите за прекратяване на войната между Русия и Украйна., обяви Зеленски след среща с Уиткоф и Къшнър - БТА",
+        "description": "",
+        "date": "2026-11-12T23:39:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUdiVnRrRklsZW9pc2htZnV5VDkxRTd0TDFUOElvYzhPdGl2RUwtZFA4aDgwWWN6UTIwOXI3NmNvTV9VUWhHTjFjemlPRGlmT2llakpNUUtQUGhZUGZ3TWZQOGxvdkUydXlyQzBSWllrQU1uZ1NRZWlBYVJwMjlLaVgyeVZ5N0RrMTJQaFpNSVlMMTVYZFZiWWZ3Q2ZUN1R1TkI5RFpaRDRIQW9SUDQ1RFNrdEF2YWpHc2RvUkFR?oc=5",
+        "source": "БТА",
+        "image": null
       },
       {
         "title": "Нападателят, прострелял петима души в центъра на Вашингтон, се е самоубил, обяви полицията",
@@ -317,14 +349,6 @@
         "image": "https://www.bta.bg/upload/14105010/11613bdbe6414b1c95380456e338486d--0--68be549989534915a1d7f0f173e5bfce.jpg"
       },
       {
-        "title": "„Не купувайте!“: Продавачът, който прогони клиентите си и разпродаде всичко - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-12T21:32:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVF93WXVBOTNHZ0pVNGItb3dzU0pUeXpxSDNlNmFFUXBUNS04TFN1RXhWRjhXckQzM0dvTy1zdFFjX2JoUm5jTGNLNFNRXzBiQWlEMnk5NWt1SFctMno1WUgwZ05qMEV5Y1I0SHlnVFd0cFRoRW5FLW9KcXlLY1ZmQUxWWFF6ZzBZa25QckxMeXV2c3ZsQU1kaWRZUjdpaXZJUWtEMWFjQXlBeWJjM2piTFp0ZjVaWEh3Y2xj?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
         "title": "Американските емисари Къшнър и Уиткоф пристигнаха в Дъблин за среща със Зеленски",
         "description": "Американските емисари Джаред Къшнър и Стив Уиткоф пристигнаха в Дъблин за среща с президента на Украйна Володимир Зеленски, който е там за участие в срещата на върха на Европейската политическа общност, предшестваща срещата на върха на ЕС утре, предадоха Си Ен Ен и Франс прес. Самолетът, с който пътуват двамата емисари, е кацнал във военновъздушна база в Дъблин. Преди това американските емисари бяха в Москва за среща руския президент Владимир Пут",
         "date": "2026-11-12T21:27:40+00:00",
@@ -349,36 +373,20 @@
         "image": "https://www.bta.bg/upload/14101126/f0467bf34d0d490586c1ac383ade955e--0--34d5bd5193654f52867eb3d0a15a0fff.jpg"
       },
       {
-        "title": "Йеменските бунтовници хуси твърдят, че са нанесли удари по петролопровода \"Изток-Запад\" и пристанището в град Янбу в Саудитска Арабия",
-        "description": "Подкрепяните от Иран йеменски бунтовници хуси заявиха, че са нанесли удари по петролопровода \"Изток-Запад\" и петролния терминал в град Янбу на брега на Червено море в Саудитска Арабия като част от почти ежедневните си атаки срещу кралството, предаде Франс прес. Рияд подкрепя международно признатото правителство на Йемен и ръководи коалиция, която се бори срещу хусите. Една от операциите \"беше насочена срещу помпена станция номер 7 по петролопрово",
-        "date": "2026-11-12T20:27:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245932-yemenskite-buntovnitsi-husi-tvardyat-che-sa-nanesli-udari-po-petroloprovoda-iz",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11564175/747803a12ddb44d7bb79bc2e3929a39e--0--4bf627fbadd14f06a3c00c8dd53e142e.jpg"
-      },
-      {
-        "title": "Хегсет награди войника, който го смъмри пред Гроба на незнайния воин във Вашингтон",
-        "description": "Министърът на отбраната на САЩ Пийт Хегсет връчи високо отличие на военнослужещия, който отправи устна забележка към министъра и група негови съветници пред Гроба на незнайния воин във Вашингтон след церемония по случай Деня на ветераните в Арлингтънското национално гробище, предаде Асошиейтед прес. Хегсет публикува днес снимки в социалните мрежи, на които се вижда как закача отличието и се ръкува с войника. „Обичаме войници. Обичаме стандарти. Д",
-        "date": "2026-11-12T20:19:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245931-hegset-nagradi-voynika-koyto-go-smamri-pred-groba-na-neznayniya-voin-vav-vashin",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14100811/b2463e35a07345a4af8631013f5e4682--0--97bd24d50dca4a949349c15db4574d1d.jpg"
-      },
-      {
-        "title": "Папа Лъв Четиринадесети осъди „мачо манталитета“ и призова за спазване на правата на жените",
-        "description": "Папа Лъв Четиринадесети днес призова последователите си да се откажат от „мачо манталитета“ и да дадат на жените по-голяма роля в публичния живот, предаде ДПА. В реч пред десетки хиляди хора в перуанската столица Лима Светият отец разкритикува идеологията на мачизма, който е широко разпространен в редица южноамерикански страни и по света, като призова за равни права за жените. „Техният принос във всички сфери на обществото и на църквата е незамен",
-        "date": "2026-11-12T20:11:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1245927-papa-lav-chetirinadeseti-osadi-macho-mantaliteta-i-prizova-za-spazvane-na-prav",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14105028/21c959f1a6dc4342a7bfdef4b326508f--0--98c5a7a3b50c4cf2abc3ffb0a44e2e8f.jpg"
-      },
-      {
         "title": "Израел забрани на лидера на френската радикална левица Жан-Люк Меланшон да влиза на територията на страната",
         "description": "Израел обяви днес, че е издал забрана лидерът на френската радикална лява партия „Непокорна Франция“ Жан-Люк Меланшон да влиза на територията на страната и обвини партията, че изповядва „изключително враждебна позиция към Израел“, предаде Франс прес. В първоначална реакция пред радио „Франс енфо“ Меланшон отбеляза, че му е било забранено да влиза „в страна, в която никога не съм искал да влизам“. „Съжалявам, че израелското правителство ме взема н",
         "date": "2026-11-12T19:17:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1245914-izrael-zabrani-na-lidera-na-frenskata-radikalna-levitsa-zhan-lyuk-melanshon-da-v",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14085401/8c61a1d775eb461683a5cd5266f4dc49--0--f3ac2be5206c4540b3f8dc2f45955254.jpg"
+      },
+      {
+        "title": "Деца сред жертвите на сградата гробница. Покъртителни разкази - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-12T19:16:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTHFqX1Z6UzBMSW5QbG9nQTFST0NyaHk5TVd5c2ZieWJ4Wk1TVS0zd292TUdXcEtsSlRMcU1MWGh2Q0djb0pIQWE2aGRKSUNSZkZ6TVNNdmVRNGZCV3lOZWNVMjlnVnU4eDNGc1RDS1RXMHpVVjRBc1ZLcDAtMUY1R05CZ1FkYkUyWlhDaTM5c3h1cEFpQng3SnpzSWhvRHE3Y3hNcTJ6Wk1NV2VJQzZ3Y1pUSTdsNGtqa0hKN0dMb0w4Vmw3MkhjX0VOQUZHbGNNRG1yNV8xRmVKclBy?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "Кейт Мидълтън разкри какво ѝ казали лекарите за рака - Стандарт нюз",
@@ -395,21 +403,21 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGNYU0U5X1N4ZGhONXhrUTl5aXZHVjRwS1ZmZTN6bnRmWnFWWk9vSnB0LVVhcDI0RGNYYlZXSGVEY3pXb0NIdWxJMUlBY3FZWFFvbWZSRmp3UEdoQkpKTVhmWDNoOFpEXy11NGJHRDFaXzQ5VFlyVjVid0c1clFrUmdkYWluamNaZk1fUE5MRFZxM1k5RTU2NGxqVjZ2NkFValdvWTNXVUxNSXotOXZOM1U3U0JnbTh1bkpvU3NWaUdfY3Bqc0hpU1JB?oc=5",
         "source": "Стандарт нюз",
         "image": null
-      },
-      {
-        "title": "Футболният свят се обедини: над 213 000 евро в подкрепа на семейството на Хесус де Мигел - Dsport.bg",
-        "description": "",
-        "date": "2026-11-12T18:38:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUtTdHIta2ZDeVBNcWZKQzNUX3IwRmdTcHlXZEZFZjY0ZDAzdFdyTEE0UWhvREZoN29ZR09DOUtHUUZFVUp3Zk5yTFRHLV91LTdZSEpnZFo4Ri1WSkoxNmRpc2RyUVRhWDM1WktUZ2hZV3dpdnZFVk5hNEtlcG5majBTazd4YUVKSkV4RE9FTmRYX0xJTnhiYWR3MTB1OGV0OWJsNkZsQU1POEVGTFhkNmFmR0NqTk82?oc=5",
-        "source": "Dsport.bg",
-        "image": null
       }
     ],
     "Наука": [
       {
+        "title": "Неочакван газ може да разкрие как са се формирали Уран и Нептун - БГНЕС",
+        "description": "",
+        "date": "2026-11-13T01:13:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVpSQng5X19BVWtFaGp0bmpnOTN1YTJwdFlzNkY1Qm1KNWtqNExJekFOYjN1OUFDNGdSMGRSU1VzWlZ4UHo2RGxIQzRQZjVtU0N4QkZEeVdINWg4Y054Qk5YaXNoV3h6Y3dzbXBoNFJPWENwenR3cjRfS2UwekdKZTJCSEpoMkw0VWVtTUZR?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
+      {
         "title": "Учени откриха ДНК на древен вирус в средновековни ръкописи на повече от 1000 години - Таралеж: Истината има значение",
         "description": "",
-        "date": "2026-11-12T20:48:45+00:00",
+        "date": "2026-11-12T20:58:34+00:00",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEhvbW5kTTBTa182b28wSFpxbjZQWnZUVm0tRVF2WnFCNUpVS19DUXBsaUxkVnA4Y25yUFN5dzFMODVNX3VqNG95VkoyU184VS11c2EyQ1NjTk5NYzM1cVJtWHBhdUlCTmlCd2VrZkpmVVNFc2pGT2dNQkhJZmhQWms4Ql9NVjNYR3lpWmlKb0ZPM2hoVTYxT1lrU3FoRFdzRHJZNVl1bGNzM0M3LXJZ?oc=5",
         "source": "Таралеж: Истината има значение",
         "image": null
@@ -431,11 +439,27 @@
         "image": null
       },
       {
+        "title": "НАСА набира астронавти за живот на Луната: Обявиха изискванията и заплащането - Евроком",
+        "description": "",
+        "date": "2026-11-12T18:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXJXeXEtRjgtVUpmZ00tb0tJbFhxQVgtRUNjQldYWExDWmZ0OVg3WnhDRXZndXQ4TkdqMEJidGJxWXFzUmZiQ012RnBkRkxWbFhIdEVaWFhYb0FxVDA1aUlldGZWeXFiZUVyVFVYNnVsOHRmaTBIU1dnSlcyTkZsWm1GcVA2ZEJISEVOamlVb2JIbGI0OTU0aEdmQU4wUU45aGFhak93M3VIWXpVNUI2amNR?oc=5",
+        "source": "Евроком",
+        "image": null
+      },
+      {
         "title": "Европейска космическа мисия откри над 900 милиона галактики и може да разкрие тайните на тъмната Вселена - БГНЕС",
         "description": "",
         "date": "2026-11-12T18:35:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM2xXX0V3Wl9TN2NMRjZDZENHbHVlSmR5cWttTlFtMUZrRFMwUVRyRHVEbUNMTkFTbzd0MzhNWHc3SVZjREU0WE5lMXdTbUVLYjR1QnZGQkRmLUd3MUNoaVFEQmU1a3JTTTZtZ1haeW55TVJuLTJtR3FtWTFCLXpULV91ZG1rd0RRY2dvenAyMm9mVkJJdnJQSk1Da1BxWVRQbHpYWWxKQ204anIwNDJqblBCSUZUcHNROC1UUUF3V2JpZXhM?oc=5",
         "source": "БГНЕС",
+        "image": null
+      },
+      {
+        "title": "Аджерпрес: Румънски университети ще осигурят над 1700 стипендии за студенти от Африканския съюз - Делник БГ",
+        "description": "",
+        "date": "2026-11-12T16:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQX0lSZDZLRVA0RWd2WmFSb2VLQmtrbUVNTklJN2VLR2Jpejk5TnBCX1FLcWRvb3pRa1FQR25STlNsMEw0blRHT3M4MUtuOHdOQVZlM0Fxd3NPQ3lDTjRNbV9LNXZvWGxFMGtVMklTR1dMblpmMEVIV29jd19pdF9jTEdkaFdTbGxZMmRXaTlkMHJmc2M5NW5UdFhXU2ducXFvRkZXUWlPTm1CaDZCSDdfa2x5ZDlJQWhVZnppNzNnTXBUM2Z0bm82VjRoclZSSW9zSG8xaE05OHJ3VVZETTJjQjgzVkVqVXhmQUxsVktndVhkLXU1TDBBbUtFSkxnLTd6MDFxQ2QyWlJiLXJsb1VRRFRWSkZxZFNDSTl0dWM0Z1UwQWNoRFFLWjhzbm9VazM5bTBqck5EUmlpWlA0dHRzMDQ2VS1qR2xIRDd1QUtn?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -476,6 +500,14 @@
         "date": "2026-11-12T11:48:57+00:00",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQUnpNQ29DMlRXcXVBNkhGR2s3WHN3VE5nV19jTDRzV3BiNVVPREg0R25XWHpkZXVTSVRwaXh6ZGluYmNOVzdwdjJDdThQcXpZ?oc=5",
         "source": "MediaBricks",
+        "image": null
+      },
+      {
+        "title": "Премиера на книгата на журналистката Велиана Христова „Слънцето на науката и политическите слепци“ се състоя в Българската академия на науките - БТА",
+        "description": "",
+        "date": "2026-11-12T10:36:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3VQQ2MteUpTaHE3VlF3bk1PMEhaRFRJT0hhUVpRNW9ITHJIM19tT1NTaHh4MHpkSHN1dW91d0JsNG02WWxGek9wT2lka3BOMU44VjNpRUhhME1oZTNOaDFuYXRsOHFhOHUyZEMxTXd4VHdLR2ZSUmZWMWtfX2xRT0hpSURyVjM2djNNaGsxdDg4eWJtbGc2UnFjWGJlVXE1eVVHcnZQQWg0bEVXVG9hWHFka2dTUTdvR1E?oc=5",
+        "source": "БТА",
         "image": null
       },
       {
@@ -527,14 +559,6 @@
         "image": null
       },
       {
-        "title": "Космосът привлече малки и големи на есенното издание на научния форум Ratio - MediaBricks",
-        "description": "",
-        "date": "2026-11-11T15:13:17+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3U0eTQ0M082eTljdXhWNFVOZDhzaTE5dWwzcHRUWTcteUZyWDVyZlJ6QldrUHNkOXVOMlNOY25saDladi1wYnNfbENnUG9ZUHFRZW95ZWNlX0hMMXVPX2JUWVBOM0p5TUQzM2hKd3JHdEIyMmp6WXl3d0xscWxnMlA1RTFPdTlzOW9xN2tNOV9ydWNucHltQ0Y1MUJrTEhFQ2dXVw?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
         "title": "Световната здравна организация с нова инициатива - Clinica.bg",
         "description": "",
         "date": "2026-11-11T15:00:00+00:00",
@@ -559,14 +583,6 @@
         "image": null
       },
       {
-        "title": "Space Business Forum привлече 120 участници, интересуващи се от Космоса - MediaBricks",
-        "description": "",
-        "date": "2026-11-10T15:45:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3RINzNvY1dmQzBOWjB2Z09sN1VHZnFzcXhfYk1SUUFMaGkycVpEYU1aa2ZxNVg1cGlYa3daRjYtVXctN1FjUklQNkhoM0xUNFlHakZ1RG9fT3I0akFFanVLWTY3eDZsMDBmcThjNjN0MW9mV3J5TUl3Sk1hd1dUNmFENFNzcDBiTGQyRU9EYXpJa0stWXFjeHZwSWlveVJM?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
         "title": "България дава за наука 3-4 пъти по-малко средства от средните в ЕС - БНР Новини",
         "description": "",
         "date": "2026-11-10T12:55:27+00:00",
@@ -575,35 +591,19 @@
         "image": null
       },
       {
+        "title": "На 13 ноември е Есенният ден на отворените врати на Физическия факултет на Софийския университет - MediaBricks",
+        "description": "",
+        "date": "2026-11-10T12:23:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTHdvLWxoMzdfRGJROEk4aXNoSEl5eW1reW1aOFZVdmZyWHVhbmlTZy1TbkR1T2l6NGxIOVI0TGFYRVd5Y2twemlENWx4clZnR2NqcjltbkNMcFVUSnV0bV9ISjViTXFHaWhyM2RqVThFV3pGY2Nxc1E2d1Y0STRrTUcxclBSaE55Y0hjQXVTUXNzZjdFOTd0ZkJmOHJodVVlR3l5N1pRUE91TlAyTlFHTHFTUDJGYU1kOU9Wc1lmX3JGdw?oc=5",
+        "source": "MediaBricks",
+        "image": null
+      },
+      {
         "title": "Проектобюджетът за 2027 г. предвижда финансиране за AI фабрика - Ruse news",
         "description": "",
         "date": "2026-11-10T12:08:39+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOci1nSUFWbmRlT3BjMS1PUU43dnZUNnhoWXFjQVhROUtFSkpjTzBfZ2RxV294REMxX1VkU1NMdXdqNnM1QnlqT25DS2FDYmtPSzAxcEJBazhFeFRvSEdtTW9NNDAzMEVfekttWmtQeVRlOG03TldzQU1DaXdvSTYzRjhJR3h5aFBPOXoxZHFZdkZEdFkzWUZXVHFzbnRZRkUw?oc=5",
         "source": "Ruse news",
-        "image": null
-      },
-      {
-        "title": "Копродукция на Радио Кърджали и програма „Христо Ботев“ с награда от БАН - БНР Новини",
-        "description": "",
-        "date": "2026-11-10T10:52:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZThYV2dJMTlBN1VDOWhLdEowZEZtSXZwWl8ydmNpdWk2a3UySERqSGtYMmx6d2NhYVVPanJhN1VJZldhNVFHSXB6UEM0YjZPRmJzNjlaVW03MlpmV1BtYVFneUdlT0w4ZmhVS3lFZWpGVVpNRFJpZXRtZXlyTXluc1pJeDNqVnFiLW1yNEI1RE5MaVZIOHRQVHZZNXQyampKTUU4TTljelRVWV81RmdIVEVSRDA?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "БСУ отваря врати към бъдещето с технологии, наука и изненади - Бургаски свободен университет",
-        "description": "",
-        "date": "2026-11-09T14:56:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjFUNkdsdDJULW5RZ3BsV0tNb18zODhFWHp2Y19udmU4V0RUd3d2TUJXNVN1QzJfUy0tM2xuTDZQTGU1UnJaR2I0bnVVbXc3Rmd4b21NVUZHVEF6N1hnNWdMV3FGMlJpWlF0emtjNjZZaDZSb292OTZUZXNBMWMtejU2Z3U2cXZaWndQdTRFS3VRYjhJY2c?oc=5",
-        "source": "Бургаски свободен университет",
-        "image": null
-      },
-      {
-        "title": "Рекордните 541 ученици премериха знания и умения в Есенното национално състезание по физика в София - MediaBricks",
-        "description": "",
-        "date": "2026-11-09T14:45:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTNJTHROTDlfVVE2ak5KaEdtTUpaU2tUaWJXa0VLblNwRmh0ZS1PSWdhYVgwdXZRWmxHNndYeUlFQThfSTBVcWI3Z003OWJJTlZSWlNhN0VBVTJ0LTdlekFvT1lER2ZfQVVPSmVEbXFKdTNrOXNZYkdnLWdvMEdiUm83UHBBT3hfbUJwNzhRQnJyeV9lNWVrQ2ZDSmxMNlFaVFNtdEhZcldzMW1WdUxlLXgtbGNKQnQ0VHEweHhwczN5VnFIUTBZYw?oc=5",
-        "source": "MediaBricks",
         "image": null
       }
     ],
@@ -646,14 +646,6 @@
         "date": "2026-11-12T18:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vRzZqcXZZdTdOTXc5TG00eWt3dWlKbmlZNXI3RmxkdGRxQnpvYWRucHhNT2FmbjFMNkFiZVo3dTctYkswOUYyUURZZUVtcW9sU2kyb1dB?oc=5",
         "source": "Кворум Силистра",
-        "image": null
-      },
-      {
-        "title": "Ученици от Своге представиха професионалните си умения на БУЛПЕК в София - Novinata.bg",
-        "description": "",
-        "date": "2026-11-12T16:48:36+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkpDX3ZWdUYtdm85U0U5ZDhpRE0yZ2hHYmc2Q2ZuY2tqcWFHZTVxRzh1Ni14RWxxb0k2YU8zc1lGRGFFbHVhM3pfUXBkcmY3cG9xYzE5a3FOTGVxOUNvRzVGZzc5Z0xjbmF3bks1bFgxWjZXS2drNGpodnNrWEN1U2ExSC1YTGJRZDJrOWdONXFWTWRhMVVMcA?oc=5",
-        "source": "Novinata.bg",
         "image": null
       },
       {
@@ -758,6 +750,14 @@
         "date": "2026-11-12T12:30:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMNG9ieXZXV0o3S0k4TUdlWjhiWnk3eDF3dG1BMDFSM09xZ2d6VmhqMVlxNExoOFl5YjRuZE1ObjlFLVh5QnMyNHJkYVBOMEpqR1FXUkVn?oc=5",
         "source": "Кворум Силистра",
+        "image": null
+      },
+      {
+        "title": "След 14 години прекъсване: Българският Съвет на ректорите възстанови пълноправното си членство в Европейската университетска асоциация - Mediamall",
+        "description": "",
+        "date": "2026-11-12T12:26:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORFBWT0MzUTlVRTFXaVJ4NU8yaDdwLVlWNFZ0Wm9YcjJhU0drSHU5MmlRQlZDTWR6RVBpZTNMUC1pQ25wY1BfREtmSHd3a3hDeWdRQzR5MmFfQ1IyekZhYVAxSURlYzk4MDZSLU1naWd6dWRkVzQ3SGZrSktSVVk5bTRYVUdIdE9nVVJlb29BMkxCNVZBSzdDX3ZXdzhHVExxOFlzUXIza01TWXFEcS03TnFuejdpZURNenpKTnRSS2Vwbl9tM1NwaUNyU09scWwzTENCXzZCT1V2NG9Gd19vMkJKWWUzZlJKQ3Y5Z3VNZGtWMTNLY0wyOQ?oc=5",
+        "source": "Mediamall",
         "image": null
       },
       {
@@ -955,6 +955,14 @@
         "image": null
       },
       {
+        "title": "Постижения на БАН в областта на цифровите технологии и изкуствения интелект представи чл.-кор. Евелина Славчева на семинар в София - Делник БГ",
+        "description": "",
+        "date": "2026-11-12T12:44:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQbVJYUzlKQk5tRGtNZFZOeVFqbWh0d3hncjRTVXNIbFhsTnFBQ2RqWWlISENQU0dqSmN4RmtfMmxPczVKOHpzc3BkRzRzMVhFY2wxSXN1US1aQk5Wa2l2eFQ5d2NQcXlsbFJlR0VZdVBfaWE0Q1VIMWIwM01nT1U1RU1vckR4QjlCTkM2WkxQY0thUFZCMDFQNXZYR2JCOURJUXlzcmZ6TFJCUDdTMDdHMjV3TXpqQ1plSm16cGhkejBKeVFMRy1fQlNmUVFqZGM4NXloekg2bVRzZnhkVTJKdkNLcHlwa1VvWDQzZ3IwSlBPLUJzZUZyZXdadWJfUzMwVjNzRUNhNU1VVVFsN21PY1NES1JvQWQxY2lLT1BVTzh3R1AtN082WDNKWGFOdkl0Vko4STNfUU80aDNFZ2oyWDBjU09xV0FWTlNtSU1ZcFF4WVk?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
         "title": "ЕС проучва клетъчни системи за откриване на дронове - Ruse news",
         "description": "",
         "date": "2026-11-12T12:36:28+00:00",
@@ -1000,14 +1008,6 @@
         "date": "2026-11-12T11:48:57+00:00",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQUnpNQ29DMlRXcXVBNkhGR2s3WHN3VE5nV19jTDRzV3BiNVVPREg0R25XWHpkZXVTSVRwaXh6ZGluYmNOVzdwdjJDdThQcXpZ?oc=5",
         "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Украински стартъп в сферата на военните технологии достигна оценка от 6 млрд. долара - Бизнес новините",
-        "description": "",
-        "date": "2026-11-12T11:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm02bXNjMlV3cjV5QkJSdFFPWlNOcHM4NERTa1hkeHhlbGJJUDZZeDlHN3lCeTRKVGxmRWZjYUJCS2JKUnpDMjFoRzlybU90cDNEWE16ak10MGRBY3VQbFhsa3hWTGtLVnB1OGVlamx2cHRSYVI3M0twX2VvT1V5LXRsb21YMEpCTDNnODUwMkV3SnllWHpCVWFiVW9BQUZLbTFqWGVMYkJfeDFRQUVuNGZMMzFNajdpVkFLRFZGdw?oc=5",
-        "source": "Бизнес новините",
         "image": null
       }
     ]
