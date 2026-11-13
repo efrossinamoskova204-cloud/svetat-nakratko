@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:53:26.126864+00:00",
+  "generatedAt": "2026-11-13T23:49:20.245419+00:00",
   "categories": {
     "България": [
       {
@@ -33,6 +33,14 @@
         "link": "https://www.bta.bg/bg/news/sport/1246823-islandiya-razgromi-balgariya-v-plovdiv-i-ostavi-trikolyorite-bez-shansove-za-i",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14110016/BIB_6611.JPG"
+      },
+      {
+        "title": "Срамна вечер на \"Колежа\": Исландия разгроми България и ни остави в Лига C - Gong.bg",
+        "description": "",
+        "date": "2026-11-13T21:41:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMDZHMXNqM3dXTmpSVThnVzAtMjBndWRxSkVWamtGT2w5RmM5WENZd3FQNC1zbjdPY0RjMzFqWEFuZlpPTGJEOG05YWFETE5SRDNSay1oS084MC1vVjlPXzNBazVlRUxpd2Z3M2RsckFqaEZlNGFhYnphNDBRUEJsVUdCbC1uZ0xiQnllVkFVYUg1WU52akpXUGFreVZjd1gwQkxhMFN6ZVZ4MzR3UEtkX2hRb0d0aGh1VkJTTGVsREZtSkpmeERV?oc=5",
+        "source": "Gong.bg",
+        "image": null
       },
       {
         "title": "Спряха всички полети в САЩ заради извънредни обстоятелства и от съображения за безопасност - nova.bg",
@@ -193,17 +201,25 @@
         "link": "https://dnes.dir.bg/temida/prokuraturata-shte-obzhalva-opravdatelnata-prisada-na-mestan-za-katastrofata-sas-zaginalo-bebe",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/09/18/3027538/384x216.jpg?_=1789739809"
-      },
-      {
-        "title": "Протестиращи срещу сеч и строителство в кварталите „Княжево“ и „Витоша“ блокираха за кратко движението по бул. „Цар Борис III“ при ул. „Синята скала“",
-        "description": "Протестиращи срещу сеч и строителство в столичните квартал „Княжево“ и „Витоша“ блокираха за кратко движението по бул. „Цар Борис III“ и ул. „Синята скала“. В района имаше засилено полицейско присъствие. Проблемът е, че гората се изсича по границите на имотите, след като се получи съответната виза за проектиране и в рамките на няколко месеца започват строежи. В документите се посочва, че не е имало високи дървета, след което започва презастрояван",
-        "date": "2026-11-13T17:29:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246770-protestirashti-sreshtu-sech-i-stroitelstvo-v-kvartalite-knyazhevo-i-vitosha-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109484/20261113_185507.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Австрийският канцлер Кристиан Щокер е категорично против предложенията за бюджет на ЕС",
+        "description": "Федералният канцлер на Австрия Кристиан Щокер изрази отново категоричното си несъгласие с настоящите предложения за бюджета на Европейския съюз преди началото на неформалната среща на върха на ЕС в Дъблин, предаде снощи австрийското радио и телевизия ОРФ. „Имаме нужда от ново предложение, което да създава по-добра основа за постигане на споразумение от досегашното“, каза той след среща на групата на нетните вносители в бюджета на ЕС - държавите, ",
+        "date": "2026-11-13T23:38:04+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246833-avstriyskiyat-kantsler-kristian-shtoker-e-kategorichno-protiv-predlozheniyata-za",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13998568/cbdb4ba319674db2b60b46e914fa3d96--0--2a44f1ffc4a24a398aa86dc17515b6b8.jpg"
+      },
+      {
+        "title": "Тръмп ще проведе в четвъртък среща на върха със Си Дзинпин и Путин в Шънджън, съобщава \"Ню Йорк пост\"",
+        "description": "Президентът на САЩ Доналд Тръмп ще провед в четвъртък тристранна среща с колегите си от Китай и Русия Си Дзинпин и Владимир Путин в кулоарите на годишната среща на АТИС в Шънджън, предаде Ройтерс, като цитира информация на в. \"Ню Йорк пост\". Очаква се тристранните разговори да бъдат съсредоточени основно върху разработването на амбициозно споразумение за контрол над ядрените оръжия, но може да засегнат и Северна Корея и войната с Иран. Тръмп вече",
+        "date": "2026-11-13T22:59:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246832-tramp-shte-provede-v-chetvartak-sreshta-na-varha-sas-si-dzinpin-i-putin-v-shandz",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14104324/9954397fb48346f1a44590edbb8c869c--2--98a217a9d57640c49ae5b25cc1385b2b.jpg"
+      },
       {
         "title": "Американските ВВС са реагирали на подозрителна дейност на дрон над база във Великобритания",
         "description": "Личният състав на ВВС на САЩ в базата на британските Кралски военновъздушни сили \"Лейкънхийт\" реагира тази вечер на \"подозрителна неразрешена дейност на дрон\", нито личният състав, нито самолетите или инфраструктурата са били засегнати, заяви говорител на ВВС на САЩ, цитиран от Франс прес и Ройтерс. \"Продължаваме да работим в тясно сътрудничество с нашите колеги от приемащата страна, за да гарантираме безопасността и сигурността на нашите военнос",
@@ -341,14 +357,6 @@
         "image": "https://www.bta.bg/upload/13852073/4ad709cbbe1f42969dd7fc137cf16262--0--01046f7f41994e4db7c24f39780213a6.jpg"
       },
       {
-        "title": "Кинозвездата Никол Кидман ще получи почетната френска филмова награда „Сезар“ - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-13T17:30:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSW1iRVBCRmV2MFI0dkNDSXVpODJPYWpyeGpJXzlHM3dWYUk4R3BGRE9pRjExRVFSRHR3M3hWYzhYSmVtU3YtN1Rxd0daTFAxNmFzNThLMHVCaDV1dHF6SmRrM2lOYUZ6NGZ1R29KZkF2SWZsWVAtdEVVbHY3NkxWNGlaZmgyUmRtQ2dOUUk0eXVrbzlaQW5sQ1c3bC0yMjN4QWFvMmw2ZmtKV3cyX2pSWm03SFVxekstcDVHSk8wVzA?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
         "title": "Франция поиска от Европейската комисия да разгледа неспазването от страна на Алжир на споразумението за асоцииране с ЕС",
         "description": "Говорителят на френското Министерство на външните работи Паскал Конфаврьо заяви днес, че Франция ще поиска от Европейската комисия да проучи обстоятелствата около неспазването от страна на Алжир на споразумението за асоцииране с Европейския съюз, предаде Ройтерс. Дипломати съобщиха пред Ройтерс през октомври, че в края на юли Алжир е наложил почти пълна забрана върху вноса на френски стоки, а миналия месец са научили за разпореждане на алжирските",
         "date": "2026-11-13T17:19:14+00:00",
@@ -363,22 +371,6 @@
         "link": "https://www.bta.bg/bg/news/world/1246760-nyama-migrantski-koloni-koito-se-pridvizhvat-kam-granitsata-sas-sasht-zayavi-p",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/13877990/76596a60e4144e76af56d82f99059ca8--0--c0f0c3e7bff34afabf25c77f5d435e03.jpg"
-      },
-      {
-        "title": "Насилието срещу християните в Нигерия продължава да буди сериозна загриженост у САЩ, заяви Държавният департамент",
-        "description": "Насилието срещу християните в Нигерия продължава да бъде повод за сериозна загриженост за САЩ, заяви американският Държавен департамент, цитиран от Ройтерс. Изявлението идва година след като администрацията на президента Доналд Тръмп обвини Нигерия в нарушаване на религиозните свободи и я включи в списъка на \"държавите, предизвикващи особена загриженост в тази област. През ноември миналата година Тръмп заплаши западноафриканската държава с военни",
-        "date": "2026-11-13T16:41:09+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246746-nasilieto-sreshtu-hristiyanite-v-nigeriya-prodalzhava-da-budi-seriozna-zagrizhen",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/3870919/8dba976a780b4d1b893a48d9a157eca9--0--fbece44e6747412290288d6c89a35697.jpg"
-      },
-      {
-        "title": "Турция и Катар подписаха договор за взаимна отбрана по време на среща между Ердоган и емира Ал Тани в Истанбул",
-        "description": "Турският президент Реджеп Тайип Ердоган се срещна в президентския офис „Долмабахче“ в Истанбул с гостуващия в страната емир на Катар шейх Тамим бин Хамад ал Тани, като по време на срещата между Турция и Катар бяха подписани пет споразумения, сред които и договор за взаимна отбрана, съобщи Дирекцията по комуникации на турското президентство. По време на разговорите, в които участваха още турският външен министър Хакан Фидан и ръководителят на Наци",
-        "date": "2026-11-13T16:17:58+00:00",
-        "link": "https://www.bta.bg/bg/news/balkans/1246722-turtsiya-i-katar-podpisaha-dogovor-za-vzaimna-otbrana-po-vreme-na-sreshta-mezhdu",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109285/AA-20261113-43068867-43068862-CUMHURBASKANI_ERDOGANIN_KATAR_EMIRI_AL_SANI_ILE_GORUSMESI_BASLADI.jpg"
       },
       {
         "title": "Къде да вложим €100 000 в свят на геополитическа несигурност? - bloombergtv.bg",
@@ -397,6 +389,14 @@
         "image": null
       },
       {
+        "title": "Кинозвездата Никол Кидман ще получи почетната френска филмова награда „Сезар“ - Свят - manager.bg",
+        "description": "",
+        "date": "2026-11-13T12:06:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSW1iRVBCRmV2MFI0dkNDSXVpODJPYWpyeGpJXzlHM3dWYUk4R3BGRE9pRjExRVFSRHR3M3hWYzhYSmVtU3YtN1Rxd0daTFAxNmFzNThLMHVCaDV1dHF6SmRrM2lOYUZ6NGZ1R29KZkF2SWZsWVAtdEVVbHY3NkxWNGlaZmgyUmRtQ2dOUUk0eXVrbzlaQW5sQ1c3bC0yMjN4QWFvMmw2ZmtKV3cyX2pSWm03SFVxekstcDVHSk8wVzA?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
         "title": "МАЕ прогнозира спад на търсенето на петрол в света с 2,684 млн. б/д през 2026 г. - 3e News",
         "description": "",
         "date": "2026-11-13T11:24:14+00:00",
@@ -406,6 +406,14 @@
       }
     ],
     "Наука": [
+      {
+        "title": "Рядка звездна система излъчва радиосигнали на интервали от 8 минути - БГНЕС",
+        "description": "",
+        "date": "2026-11-13T23:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWWU5eVFJNy1Kel8tMi11Uk1RYWMyc2JjS29iRzM1SDJKenVGZzZTamJ0M1lNbXJLTi04b2VBWmNBUjBuSzNnelFncUo0emFPWFJ6a1JTZ2ExcHhvOUpocXhzbjhBRVlmU0FxQWl2bGVBaTFvajRHSDlkU3h6N1lSaFJNNWFoZjBFbmoxdDhjZjBqYlE?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
       {
         "title": "„Евклид“ публикува данни за над 900 милиона галактики - БНТ Новини",
         "description": "",
@@ -420,6 +428,14 @@
         "date": "2026-11-13T19:10:16+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMk1YV0pZYTBiUnBhUFE0WkE4N1haSXRxcmx2bXM0aG1pc2RBenRCdG1tbHdEYmg3UEEtOGktZVJvLXlmUGR4blhTWnVrZXdMcnYxNENZQTlLa2g5ZjY4d1l2YWx0U3FyejRsTzFzdmNFZ0E2UHk1NHlYZHM0MGQ1NHZmelcyWWxCdmJ0b05scjdEZy1vVEZocG0yYkdZRG14djhySw?oc=5",
         "source": "Таралеж: Истината има значение",
+        "image": null
+      },
+      {
+        "title": "КУИЗ: Общи познания и наука - Fakti.bg",
+        "description": "",
+        "date": "2026-11-13T18:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5MHljM0RpeUNhMnZBam5KX01kb05BOEZoTkFIUWJodTBVSWh0NURaRlhZNTVpM1Q0MkxudUxVWmdYRkliNjZvZQ?oc=5",
+        "source": "Fakti.bg",
         "image": null
       },
       {
@@ -455,6 +471,14 @@
         "image": null
       },
       {
+        "title": "Почина проф. Георги Балтаджиев - Zdrave.net",
+        "description": "",
+        "date": "2026-11-13T14:03:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOdnp5NERYdzYzc2s4STB2SFhHdGFtOU1ZTUVkR005TUdkdFdrZXBpa2RUU3RFUmlidmpEZ3hUMThJZzlHQ1R4OWIwd1Z2MGRhZ1NZN1ZhOHZGVWRoT0xzLUZtYmUtcVRKUm1kNGdPNUtFZ3puemUwRFRrZmUxNDhIM2g1a0dWNFdRbE5ua25hOElwWW1TU0dEZkh1c3BPYkotcjUyUXRic3hlT1VzZGE3b1lWM3psTjcybTh3UXlOazN5Ql90YXlYaUZNSGNIZDJqbXZ6RFAtbmhCMElFUEp1cjU1R0NHckgyMEsxVmJyc0VHYVI4Z0EwU0hDRE1rdU1CWmhhUkpNR0lTNUlYd0VQRl9uMUkxOFd4a3E0cnJyT1NzZkVGWlpVSDhraHB3WjUtcTFOMzg5YURxWGNRVEdZem1EZ0NnSWlIWFFF?oc=5",
+        "source": "Zdrave.net",
+        "image": null
+      },
+      {
         "title": "Стотици ученици и граждани посетиха Есенния ден на отворените врати на Физическия факултет на Софийския университет - MediaBricks",
         "description": "",
         "date": "2026-11-13T13:32:18+00:00",
@@ -487,19 +511,11 @@
         "image": null
       },
       {
-        "title": "Физическият факултет на СУ е най-престижното място у нас за обучение във всички области на физическите науки, каза доц. Владимир Божилов - Утро Русе",
+        "title": "Физическият факултет на СУ е най-престижното място у нас за обучение във всички области на физическите науки, каза доц. Владимир Божилов - Делник БГ",
         "description": "",
-        "date": "2026-11-13T13:07:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pYUdGSWlEeFRWSTFTZVBORVFNNTdCM0hLRExGTnlyWTN5MEVoSVVLUF85N1R4b1l5amVCWVVrSVVmQ2VWY0t4aHBiT3dMUdIBSEFVX3lxTE40YXVDQ2EwT2hINFNZVmQ3SmNfX0F1RFNkS05wNVp6RXU0WjJreUlyMTFzXzRiemJVVXprbGl5VlNlZXpEaGNrdA?oc=5",
-        "source": "Утро Русе",
-        "image": null
-      },
-      {
-        "title": "Почина проф. Георги Балтаджиев - Clinica.bg",
-        "description": "",
-        "date": "2026-11-13T12:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pOUo2Y3BPc2J1OHl2dk5NYWVBLXRfb2ZvdnF3YnY5c0loeXhhQmRSY3UyYVlyV012MDdnOHNaS3plQmJkaGItZklhODNwWnhjbFZFX1RfbmdBVkZxRWdxeUgxZ3RIZw?oc=5",
-        "source": "Clinica.bg",
+        "date": "2026-11-13T13:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPU2p2TU1lOUJoam8wZGhRaEdMOVdLY2JJU09seVdUMy15S1RfY2xlYy11ZGpDZWhXTEJ0MnYtR3J1eExqcEoxY3ZwakFHR0Y5U2FPRW9MTDVjWWJncjJUUXZGWU5kS202ejN1dU0xOHhmcnlOemdtTXo2ZDdSQTJnS2YxSVMtUnk2RlBZS2VJT1RmQ0hEbW50U3ZtcklKQnFzQUZRT2hmSkVWMk0tN2JYVUVzanFVd1VWS3l5b013SnVQOGljSnZLYm4yeGYzQkR0X3p2OWlxenlfcElDQ1gzTVhucDFLM2E2UlpwUklHNUJvdjN3Ql9DTlhWZ2J4TFBRLU5qbDg1d05qallKN3dBcms1bUY1Q29UX3pqZVhsX1NXdk5zQWo1ZEJqZVBaUkRKSEJzWlZIN1ExYk92SHBDLWFsU0gtVDU4eVFNVXNyVGRkMG8?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -589,25 +605,17 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUxkRFR6UlRBSUJ3bjhtNWR3R2FxWGhUMmNsTU9oQ01RS3RmbW1YVHZYYjFiaF9wT3dWV1VsSnk3akY3eWJhQThZUlgxZHpuZ0hITWkxN3psV3EyOUVxT2Q5SHUwQVZmRVVJQzFOMFExUDVXTDgtM1EtRWp4TWZWS2VTZzI2N1RsVTNqUzQzLWZVNmFLblUtLXV0MVZCSnc?oc=5",
         "source": "БНР Новини",
         "image": null
-      },
-      {
-        "title": "Преди 46 години Voyager 1 достига Сатурн и прави първите близки снимки на пръстените му (видео) - MediaBricks",
-        "description": "",
-        "date": "2026-11-12T10:33:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzIwOU12enp5VElwbjdVZklUaEkxVHFjc1NlNEY3OEFkcWliS09wUmtwZmNBekhhSXFfUnhFRjdWbHpSUUlrR1gwcHp1TS11Ulo0T0huWTloY2Q5YUFpR0xhZFotbHJqTy1sZEZQVnVhbFpNWTFidXF4R0xUSjlXVXhEeXJTVmpibDdOekh0RFpUbk9mM3RoOEZKQmZfLUZhRHQ4NmQ1NDlKSnFBSjBqRHlhY2lkdWtJ?oc=5",
-        "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Грижата за езика не изисква непременно закон, а образование, наука и култура - БНР Новини",
-        "description": "",
-        "date": "2026-11-12T09:51:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUVpb0I0cldnWE9uM1NMaGVrcmVLOVZMRWphcnUyNk1Wd2tja3VPcHdDVl9vanpTNTRZdHUteDhRYlpDcWtGVEFKczZhc3BseDBQal9QeHhwQUNzbmZNbHNjY1ppMXNNNmdiUkpZTjRjbTF5dFNscndQQVBHbU41cC14OVFUR1pZa0xRRkkzcDNzdmtEV0dSdUN6SlZzMjhtR0JwenFVbk81Wkw3YUxRbVNrTlJ2TlhDUHc?oc=5",
-        "source": "БНР Новини",
-        "image": null
       }
     ],
     "Образование": [
+      {
+        "title": "Изкуствен интелект, роботи и дронове в училище: Габрово събира пет области за бъдещето на професионалното образование - Novinata.bg",
+        "description": "",
+        "date": "2026-11-13T22:54:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObUN6a1VzN3BWLWtUR0F0bm1yT0tnZ1ptWmtXYjBISi1RWFdyNW05TGh1THBNRFlkYlp6NFY3bk1KZGNZTXo0Q3RiR0djdDNybnFpdEdGckZlVkZncDAtRHlvOEJEcW5WN3RuUjZySXhhS2U4OXBKaVh4anUtVG1qakowc25hQTdVRmJ6RlNfV1hwaEM5LXhHSGo2b3JzUUxlTHVkX09ZbFlBdkwyeFhzaHJRT3N5dHlZeGZGQU1sVTByU0lnOUFIYW5SZkphekhraWRMdWF5d0xfMHltcVQ5cmp2WQ?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
       {
         "title": "Фондация „Атанас Буров“ отваря приема за стипендии за ученици и студенти - Investor.bg",
         "description": "",
@@ -798,14 +806,6 @@
         "date": "2026-11-13T12:53:48+00:00",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1lwQVF5U0VLSXVvRlM5TV9TVnhESFlHSFZlMng0OEItbzhSQXJpOGZadHV6cHROUjRCT29sWUhFVTBZQnYyNm1CRko5RUFVcXZaUThkRE9fN29LdVYyejVFcllCTTB0S3dpdDdqZHczakV3cUZBdFVMRWctaFRoT1k0RQ?oc=5",
         "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "ВиК – Хасково търси осем служители, заплатите за част от позициите са до 744 евро - Haskovo.Net",
-        "description": "",
-        "date": "2026-11-13T12:41:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWFKd2xMNVh1VU1ybUo2eWs5RG5LbHBzZHNHSU94SHNNb2xGY2pzR0RGNGdFMXoxVDNicjZ1TnhPS2VGdnppeG5xZGVTVVpXSm9HMFItb3FIUFJvREY5V3A1d0lONENvYk9hcVFtVHFqUlZlbERXNHduT05wdEJ6S2lOUndiWXdpR09Md0RlbUtYek5oVmRJVGdJVklYbnJsLVROZldxekhaN3o4MmJVY1JXMjlJOWNw?oc=5",
-        "source": "Haskovo.Net",
         "image": null
       }
     ],
