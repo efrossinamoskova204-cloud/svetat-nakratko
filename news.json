@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-11-13T17:04:20.772190+00:00",
+  "generatedAt": "2026-11-13T17:58:41.515834+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Махнаха шефа на \"Кауфланд България\"",
+        "description": "Компанията смени председателя на Управителния си съвет Михаил Петров с незабавен ефект, поста поема Петя Владимирова",
+        "date": "2026-11-13T17:56:00+00:00",
+        "link": "https://business.dir.bg/kompanii/mahnaha-shefa-na-kaufland-balgariya",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2023/11/09/2618904/384x216.jpg?_=1699540519"
+      },
+      {
+        "title": "Две книги на Николай Табаков бяха представени в София по повод 70-годишнината на писателя",
+        "description": "Две книги на Николай Табаков бяха представени по повод 70-годишнината на писателя в столичната книжарница Umberto & Co. В събитието участваха Митко Новков, акад. Иван Гранитски, Анжела Димчева и Ириней Константинов. Модератор бе проф. Георги Каприев. Заглавията са „Без оправдания“ – сборник с 31 къси разказа, и „На обратната страна на времето“ – мемоарни ескизи, посветени на близки на автора личности, сред които писатели, художници и други общест",
+        "date": "2026-11-13T17:53:16+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1246784-dve-knigi-na-nikolay-tabakov-byaha-predstaveni-v-sofiya-po-povod-70-godishninata",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14109425/e3e03d2f415df46a6d6ca76765e2ce8cc214a940d0db26bfda716da2c4439344.jpg"
+      },
+      {
+        "title": "Арестуваха в Израел мъж, издирван за убийството на 83-годишен професор в метростанция в София - bTV Новините",
+        "description": "",
+        "date": "2026-11-13T17:51:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObi1XQ3V2bW1sR1Vma2dnbTNlU3otYTVQM2JJUGRJc1E5dndEVEd5SUtIUTJTRVhaV3pCTGJ2b256TmIzVzdrbXphVGV2WUFPWEFFdmZMX0FkbWQ3MU0xVWtpTnN3bWxFcnVQdjRTTTczLXh4VW43MHJ4UFBQd0hlYmFnRFlpdFUzc292bjBLbzBCbnZwUDhWcHk5Wl9LNFFGck54RW8xVUlfekpzWVI0ZDNoam1mdGw4VlNaaHRJclVFQ3pxQTNUbkFLLUpIaVBL?oc=5",
+        "source": "bTV Новините",
+        "image": null
+      },
+      {
+        "title": "Мъж влезе в офис във Велико Търново с жив питон около врата и изплаши клиенти и деца",
+        "description": "Нарушителят беше глобен с 60 евро",
+        "date": "2026-11-13T17:47:20+00:00",
+        "link": "https://dnes.dir.bg/intsidenti/mazh-vleze-v-ofis-vav-veliko-tarnovo-s-zhiv-piton-okolo-vrata-i-izplashi-klienti-i-detsa",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2023/12/21/2631803/384x216.jpg?_=1703170814"
+      },
+      {
+        "title": "Прокуратурата ще обжалва оправдателната присъда на Местан за катастрофата със загинало бебе",
+        "description": "Според изводите на магистратите бащата е управлявал автомобила си със скорост над 120 км/ч",
+        "date": "2026-11-13T17:40:05+00:00",
+        "link": "https://dnes.dir.bg/temida/prokuraturata-shte-obzhalva-opravdatelnata-prisada-na-mestan-za-katastrofata-sas-zaginalo-bebe",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/09/18/3027538/384x216.jpg?_=1789739809"
+      },
+      {
+        "title": "Протестиращи срещу сеч и строителство в кварталите „Княжево“ и „Витоша“ блокираха за кратко движението по бул. „Цар Борис III“ при ул. „Синята скала“",
+        "description": "Протестиращи срещу сеч и строителство в столичните квартал „Княжево“ и „Витоша“ блокираха за кратко движението по бул. „Цар Борис III“ и ул. „Синята скала“. В района имаше засилено полицейско присъствие. Проблемът е, че гората се изсича по границите на имотите, след като се получи съответната виза за проектиране и в рамките на няколко месеца започват строежи. В документите се посочва, че не е имало високи дървета, след което започва презастрояван",
+        "date": "2026-11-13T17:29:20+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1246770-protestirashti-sreshtu-sech-i-stroitelstvo-v-kvartalite-knyazhevo-i-vitosha-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14109484/20261113_185507.jpg"
+      },
+      {
+        "title": "Издателство „Клет България“ пренася своята инициатива „Дървото на доброто“ в дигиталното пространство",
+        "description": "Издателство „Клет България“ пренася своята инициатива „Дървото на доброто“ в дигиталното пространство по повод Световния ден на добротата – 13 ноември, съобщиха от екипа. След като физическите дървета обиколиха детски градини в различни градове на България, където стотици деца споделиха чрез рисунки, творчество и думи своите представи за добротата, красотата, приятелството и други важни ценности, сега всеки желаещ ще може да добави свое листо към",
+        "date": "2026-11-13T17:28:48+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1246767-izdatelstvo-klet-balgariya-prenasya-svoyata-initsiativa-darvoto-na-dobroto-v",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14109469/Darvoto+na+dobroto.jpg"
+      },
+      {
+        "title": "КЗП санкционира две големи търговски вериги за подвеждащи промоции",
+        "description": "Това се е случило въпреки предишна забрана, глобите са по €35 000 евро",
+        "date": "2026-11-13T17:20:00+00:00",
+        "link": "https://business.dir.bg/kompanii/kzp-sanktsionira-dve-golemi-targovski-verigi-za-podvezhdashti-promotsii",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2025/06/13/2887089/384x216.jpg?_=1749841047"
+      },
+      {
+        "title": "Председателят на БАН чл.-кор. Евелина Славчева се срещна с посланика на Босна и Херцеговина у нас Александра Мичич",
+        "description": "Нови инициативи за засилване на научното сътрудничество между Българската академия на науките (БАН) и организации в Босна и Херцеговина обсъдиха на среща днес в Академията председателят на БАН чл.-кор. Евелина Славчева и посланикът на Босна и Херцеговина в България Александра Мичич. Това съобщи пресцентърът на научната институция. На срещата бяха разгледани възможности за организиране на изложби и публични лекции на български учени в Академията н",
+        "date": "2026-11-13T17:12:09+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1246765-predsedatelyat-na-ban-chl-kor-evelina-slavcheva-se-sreshtna-s-poslanika-na-bos",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14109457/DSC_2599-A.jpg"
+      },
+      {
+        "title": "Проф. д-р Симеон Василев ще представи книгата си „Трансформация и медийна култура“ в София",
+        "description": "Проф. д-р Симеон Василев ще представи книгата си „Трансформация и медийна култура“ на 3 декември от 18:00 ч. в Аула „Магна“ на Факултета по журналистика и масова комуникация на Софийския университет „Св. Климент Охридски“, съобщиха организаторите от екипа на факултета. „Медийната култура е определен начин на живот в медийната реалност“, казва авторът. Според него тя е проява на ценности и дейности в медийна среда и израз на отношение към действит",
+        "date": "2026-11-13T17:09:25+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1246754-prof-d-r-simeon-vasilev-shte-predstavi-knigata-si-transformatsiya-i-mediyna-ku",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14109430/905825444_10244395424205149_1761043620749047349_n.jpg"
+      },
       {
         "title": "Жители на кв. \"Дружба 2\" блокираха кръстовища в знак на протест срещу спряното топлоподаване",
         "description": "Бяха засегнати маршрутите на тролейбус 4 и автобусните линии 204, 304, 88 и 188",
@@ -121,89 +201,33 @@
         "link": "https://www.bta.bg/bg/news/bulgaria/1246696-mladezhi-i-politsai-ot-targovishte-uchastvaha-v-prevantivni-initsiativi-posvete",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14109239/12+%281%29.jpg"
-      },
-      {
-        "title": "Издирваният за убийството на университетския преподавател в София е задържан в Израел, съобщи директорът на СДВР Николай Пелтеков",
-        "description": "По канала на Интерпол и дирекция „Международно оперативно сътрудничество“ получихме информация, че днес е задържан израелският гражданин, издирван във връзка с убийството на 83-годишен университетски преподавател в България, съобщи пред журналисти директорът на Столичната дирекция на вътрешните работи (СДВР) главен комисар Николай Пелтеков. Мъжът е задържан в населено място в Израел, добави Пелтеков и благодари на израелските служби за съдействие",
-        "date": "2026-11-13T16:04:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246701-izdirvaniyat-za-ubiystvoto-na-universitetskiya-prepodavatel-v-sofiya-e-zadarzhan",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109207/1000099304.jpg"
-      },
-      {
-        "title": "Жители на кв. \"Дружба 2\" в столицата протестират срещу \"Топлофикация София\" заради спряно топлоподаване, блокираха кръстовище",
-        "description": "Жители на столичния квартал „Дружба 2“, пета част, освободиха кръстовището на ул. „Димитър Пешев“ и ул. „Обиколна“ и се насочиха към кръстовището на ул. „Димитър Пешев“ и ул. „Делийска воденица“, където възнамеряват да блокират движението, видя репортер на БТА. По-рано протестиращите блокираха движението на първото кръстовище в знак на недоволство от спряното топлоподаване към част от квартала. Бяха засегнати маршрутите на тролейбус 4 и автобусни",
-        "date": "2026-11-13T16:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246744-zhiteli-na-kv-druzhba-2-v-stolitsata-protestirat-sreshtu-toplofikatsiya-sofi",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109318/D27F435E-BC14-4808-9967-4CCFBCE40FAD.jpeg"
-      },
-      {
-        "title": "Жители на кв. \"Дружба 2\" в столицата протестират срещу \"Топлофикация София\" заради спряно топлоподаване, блокираха кръстовище",
-        "description": "Жители на столичния квартал \"Дружба 2\", част 5, блокираха движението на кръстовището на ул. \"Димитър Пешев\" с ул. \"Обиколна\" в квартала в знак на протест срещу спряно топлоподаване, видя репортер на БТА. Блокирана е линията на тролейбус 4, както и на автобусите линии 204, 304, 88 и 188. Полицията отбива движението по алтернативни маршрути като влизането в квартала през кръстовището при Горубляне е блокирано от полицията Протестът започна в 17:49 ",
-        "date": "2026-11-13T16:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246707-zhiteli-na-kv-druzhba-2-v-stolitsata-protestirat-sreshtu-toplofikatsiya-sofi",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109318/D27F435E-BC14-4808-9967-4CCFBCE40FAD.jpeg"
-      },
-      {
-        "title": "Съдебни служители в цялата страна изразиха недоволство заради проектобюджета за 2027 г., министър Найденов ги покани на среща в понеделник",
-        "description": "Съдебни служители в цялата страна изразиха недоволството си от параметрите на проекта за бюджет за 2027 година в рамките на инициативата \"Невидимите в съдебната система“. Служители от Софийската районна прокуратура (СРП) инициираха национална петиция в знак на несъгласие с проектобюджет за 2027 г. Повод за недоволството са предвиденото увеличение на възнагражденията само с 5% и намеренията за ограничаване на средствата за облекло, които за много ",
-        "date": "2026-11-13T16:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246653-sadebni-sluzhiteli-v-tsyalata-strana-izraziha-nedovolstvo-zaradi-proektobyudzhet",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14107708/KASA2125.jpeg"
-      },
-      {
-        "title": "Общо 30 урока ще подпомагат учителите да работят с ученици за ефективното разрешаване на конфликти",
-        "description": "Общо 30 урока ще подпомогнат учителите от начален, среден и гимназиален етап да работят с учениците за насърчаване на ненасилствена комуникация и ефективното разрешаване на конфликти между връстници. Уроците са част от образователна програма, създадена в рамките на проект „Медиацията като градска политика за превенция на агресията в обществената, работната и семейната среда“, който се осъществява с финансовата подкрепа на Програма „Европа“ 2026 н",
-        "date": "2026-11-13T16:01:22+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246699-obshto-30-uroka-shte-podpomagat-uchitelite-da-rabotyat-s-uchenitsi-za-efektivnot",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109090/20261113_145435.jpg"
-      },
-      {
-        "title": "Двама мъже и 15-годишен ученик са арестувани при акция срещу разпространението на наркотици покрай учебни заведения",
-        "description": "Столичната полиция задържа двама мъже - на 23 и 24 години и 15-годишен ученик при акция срещу разпространението на наркотици, съобщи на брифинг директорът на СДВР Николай Пелтеков. Действията на служителите от 6-о Районно управление са извършени по оперативна информация за разпространение на наркотици покрай учебни заведения. Ученикът, в присъствието на инспектори от Детска педагогическа стая от 6-о Районно управление и заместник-директора на учи",
-        "date": "2026-11-13T15:57:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246693-dvama-mazhe-i-15-godishen-uchenik-sa-arestuvani-pri-aktsiya-sreshtu-razprostrane",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109211/1000099310.jpg"
-      },
-      {
-        "title": "Завърши многонационалното учение „Посейдон 2026“ за повишаване на оперативната съвместимост при противоминни операции",
-        "description": "Завърши многонационалното военноморско учение „Посейдон 2026“, организирано и ръководено от Военноморските сили (ВМС) на България, съобщиха от Министерството на отбраната (МО). Учението, което се състоя в българското териториално море, е насочено към усъвършенстване на подготовката и оперативната съвместимост на участващите военноморски сили при изпълнение на задачи по противоминната отбрана. Сред основните му са повишаването на способностите за ",
-        "date": "2026-11-13T15:56:40+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246673-zavarshi-mnogonatsionalnoto-uchenie-poseydon-2026-za-povishavane-na-operativna",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109057/IMG_5904.JPG"
-      },
-      {
-        "title": "Полицията издирва 52-годишен мъж от пернишкото село Рударци",
-        "description": "Полицията в Перник търси съдействие за откриването на 52-годишния Радослав Митков Радков от село Рударци, съобщиха от Областната дирекция (ОД) на МВР. Последно мъжът е бил забелязан около 15:30 часа вчера на домашния си адрес на ул. „Стефан Караджа“ № 2 в населеното място. По данни на полицията издирваният е висок около 170 сантиметра, със слабо телосложение и характерна прегърбена стойка при ходене. Обикновено носи дебела шапка и очила. В деня н",
-        "date": "2026-11-13T15:55:16+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246665-politsiyata-izdirva-52-godishen-mazh-ot-pernishkoto-selo-rudartsi",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109176/Screenshot_20261113_171507_Video+Maker.jpg"
-      },
-      {
-        "title": "Мирен протест и бдение в памет на загиналите при катастрофите на автомагистрала „Тракия“ се проведоха в Стара Загора",
-        "description": "Мирен граждански протест и възпоменание в памет на загиналите при тежките катастрофи на автомагистрала „Тракия“ преди дни се проведе пред сградата на Областната администрация в Стара Загора. Инициативата бе организирана от старозагорката Рут-Констанс Койнарска под надслов „Нито един повече. Животът няма резервни части“. В рамките на бдението присъстващите почетоха паметта на загиналите с минута мълчание и запалени свещи, до които бяха поставени п",
-        "date": "2026-11-13T15:54:02+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246692-miren-protest-i-bdenie-v-pamet-na-zaginalite-pri-katastrofite-na-avtomagistrala-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109164/20261113_170432.jpg"
-      },
-      {
-        "title": "Созопол се подготвя за шестото издание на \"Празника на О-солената риба\" в началото на декември",
-        "description": "Шестото издание на „Празника на О-солената риба“ ще събере жители и гости на Созопол от 4 до 6 декември с тридневна програма, посветена на морската кухня, рибарските традиции, музиката и изкуството. Тазгодишното издание се очаква да бъде най-мащабното досега като акценти в програмата ще бъдат традиционният конкурс за най-добре приготвена осолена риба, кулинарни демонстрации, концерти и прояви, посветени на Никулден, съобщават организаторите от об",
-        "date": "2026-11-13T15:51:12+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246595-sozopol-se-podgotvya-za-shestoto-izdanie-na-praznika-na-o-solenata-riba-v-nach",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14108937/905795310_1475979667801543_1830064910266838961_n.jpeg"
       }
     ],
     "Свят": [
+      {
+        "title": "Кинозвездата Никол Кидман ще получи почетната френска филмова награда „Сезар“ - Свят - manager.bg",
+        "description": "",
+        "date": "2026-11-13T17:30:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSW1iRVBCRmV2MFI0dkNDSXVpODJPYWpyeGpJXzlHM3dWYUk4R3BGRE9pRjExRVFSRHR3M3hWYzhYSmVtU3YtN1Rxd0daTFAxNmFzNThLMHVCaDV1dHF6SmRrM2lOYUZ6NGZ1R29KZkF2SWZsWVAtdEVVbHY3NkxWNGlaZmgyUmRtQ2dOUUk0eXVrbzlaQW5sQ1c3bC0yMjN4QWFvMmw2ZmtKV3cyX2pSWm03SFVxekstcDVHSk8wVzA?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Франция поиска от Европейската комисия да разгледа неспазването от страна на Алжир на споразумението за асоцииране с ЕС",
+        "description": "Говорителят на френското Министерство на външните работи Паскал Конфаврьо заяви днес, че Франция ще поиска от Европейската комисия да проучи обстоятелствата около неспазването от страна на Алжир на споразумението за асоцииране с Европейския съюз, предаде Ройтерс. Дипломати съобщиха пред Ройтерс през октомври, че в края на юли Алжир е наложил почти пълна забрана върху вноса на френски стоки, а миналия месец са научили за разпореждане на алжирските",
+        "date": "2026-11-13T17:19:14+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246773-frantsiya-poiska-ot-evropeyskata-komisiya-da-razgleda-nespazvaneto-ot-strana-na-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13619932/48420b2de02040b18a17ca8604ab4d2f--0--b08ae9cfb85e449e901834dd8528036b.jpg"
+      },
+      {
+        "title": "Няма мигрантски колони, които се придвижват към границата със САЩ, заяви президентът на Мексико",
+        "description": "Президентът на Мексико Клаудия Шейнбаум опроверга днес твърденията, че колони от мигранти се придвижват към северната граница на страната със Съединените щати, предаде Ройтерс. Шейнбаум каза, че в Мексико има две групи мигранти, организирани за съвместно придвижване. \"Едната се разпадна по пътя и повечето от участниците в нея вече се върнаха в родните си страни, а другата тепърва се сформира\", поясни тя. \"В момента няма нито една такава група, ко",
+        "date": "2026-11-13T17:13:39+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246760-nyama-migrantski-koloni-koito-se-pridvizhvat-kam-granitsata-sas-sasht-zayavi-p",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13877990/76596a60e4144e76af56d82f99059ca8--0--c0f0c3e7bff34afabf25c77f5d435e03.jpg"
+      },
       {
         "title": "Насилието срещу християните в Нигерия продължава да буди сериозна загриженост у САЩ, заяви Държавният департамент",
         "description": "Насилието срещу християните в Нигерия продължава да бъде повод за сериозна загриженост за САЩ, заяви американският Държавен департамент, цитиран от Ройтерс. Изявлението идва година след като администрацията на президента Доналд Тръмп обвини Нигерия в нарушаване на религиозните свободи и я включи в списъка на \"държавите, предизвикващи особена загриженост в тази област. През ноември миналата година Тръмп заплаши западноафриканската държава с военни",
@@ -211,14 +235,6 @@
         "link": "https://www.bta.bg/bg/news/world/1246746-nasilieto-sreshtu-hristiyanite-v-nigeriya-prodalzhava-da-budi-seriozna-zagrizhen",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/3870919/8dba976a780b4d1b893a48d9a157eca9--0--fbece44e6747412290288d6c89a35697.jpg"
-      },
-      {
-        "title": "Прахът на единствения Нобелов лаурат за литература от Централна Америка беше върнат в родината му след 52 г. - manager.bg",
-        "description": "",
-        "date": "2026-11-13T16:30:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaHJfMHQtUEpOUWlGNjBwSWl3by15ZXpRZG5CZTNQQWxyOER2VzJORVB5STNaVjc1SFBzWmFmTjU0M3lkUzdXNURqVlBvRUNkZzE4djFId0tvdmdXUjEyYkhqc3Y2LXZIQWtjR1JRaEJTbUZJWUtTb3ctUUtIemYteTFGcGVaLXdnMmJ1aDduV3U5YjJfbXhaNGo4aFFsdnVwUTRkRnZISlNaTy1HZEp3c05lSVpXVmlOeUpndWQ3Zy1FVlo0cnVOcThzU0E3V09ncUhtWVV5bkxOakVFeFdjdEpSYkh3WHFSSnc?oc=5",
-        "source": "manager.bg",
-        "image": null
       },
       {
         "title": "Турция и Катар подписаха договор за взаимна отбрана по време на среща между Ердоган и емира Ал Тани в Истанбул",
@@ -381,26 +397,10 @@
         "image": null
       },
       {
-        "title": "ТАСР: Президентът на Словакия призова правителството да замрази заплатите на държавните служители",
-        "description": "Президентът на Словакия Петер Пелегрини заяви, че не е правилно високопоставените държавни служители да получават увеличения на заплатите в период на бюджетни ограничения и затова е по-добре заплатите им да бъдат замразени през следващата година, предаде националната новинарска агенция ТАСР. Той допълни, че ще призовe правителството да предприеме съответните мерки. „Ако има нужда от ограничения, би било извънредно неправилно държавните служители ",
-        "date": "2026-11-13T13:37:15+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246500-tasr-prezidentat-na-slovakiya-prizova-pravitelstvoto-da-zamrazi-zaplatite-na-da",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/7664544/e1c5d90479284fe0b70cdb009bd4c78f--0--3200504b5e404b6ab33a8a7c2ed11bdf.jpg"
-      },
-      {
-        "title": "АРМЕНПРЕС: Армения представи кандидатурата си за домакин на КОП34 през 2029 година",
-        "description": "Арменският министър на околната среда Амбарцум Матевосян се срещна с изпълнителният секретар на Рамковата конвенция на ООН по изменение на климата (РКООНИК) Саймън Стийл по време на 31-вата Конференция на ООН по изменението на климата (КОП31) в Анталия, съобщи арменската новинарска агенция АРМЕНПРЕС. Матевосян съобщи във Фейсбук, че е представил пред Стийб кандидатурата на Армения за домакинство на 34-тата Конференция на ООН по изменението на кли",
-        "date": "2026-11-13T13:33:43+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246465-armenpres-armeniya-predstavi-kandidaturata-si-za-domakin-na-kop34-prez-2029-god",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14108509/Armenia+presents+bid+to+host+COP34+in+2029.jpeg"
-      },
-      {
-        "title": "Рекорден брой арести и депортации на мигранти в САЩ за последните 23 години - Свят - manager.bg",
+        "title": "Прахът на единствения Нобелов лаурат за литература от Централна Америка беше върнат в родината му след 52 г. - manager.bg",
         "description": "",
-        "date": "2026-11-13T13:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2I0RkdNZTRQSm5QcU1maDZEbndfX0hlb004eTBFamYyTTJDWkVMTFhCODBIU0FyaTZwc2NSZGV5eFdESFQyVjhUTlA2MEdhLTdncUcxYlpCU0xvVHpWUzQtWmlIN3gyNWdoS2dBRmVwRkhsdGltSXZqRDlMOHN5TEl0WndiMFdoZ0VtMXpiaEgxcUxfb0hYUmw5dk1kODhicUhaeDRUOEJXbW5adXVjRXg2eGVCUVhFejFQTw?oc=5",
+        "date": "2026-11-13T13:06:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaHJfMHQtUEpOUWlGNjBwSWl3by15ZXpRZG5CZTNQQWxyOER2VzJORVB5STNaVjc1SFBzWmFmTjU0M3lkUzdXNURqVlBvRUNkZzE4djFId0tvdmdXUjEyYkhqc3Y2LXZIQWtjR1JRaEJTbUZJWUtTb3ctUUtIemYteTFGcGVaLXdnMmJ1aDduV3U5YjJfbXhaNGo4aFFsdnVwUTRkRnZISlNaTy1HZEp3c05lSVpXVmlOeUpndWQ3Zy1FVlo0cnVOcThzU0E3V09ncUhtWVV5bkxOakVFeFdjdEpSYkh3WHFSSnc?oc=5",
         "source": "manager.bg",
         "image": null
       }
@@ -609,19 +609,35 @@
     ],
     "Образование": [
       {
+        "title": "Над 20 университета представят възможностите за образование и кариера в Благоевград на „Панорама на университетите – 2026“ - ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ",
+        "description": "",
+        "date": "2026-11-13T17:20:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUmE4RUQ1dlNPYzRfdmtveG1hVDcybC1hOGVDX0hGVGdnOXFhNUhTNDQ3Z2wtbEhoVWdGNHhZYWlhU0ppekNzS1dtMTdMc1YtVHFYMVBOVFd5QXNwWi16cGxZQnJVUUlGTngtZXpwUnFKZllLem51cHBjQmJIODl1VkN3LUxwVzQ1ZTEwX3VDMllZYW1QTUNjYWN4eHgzaEUzOUhUbUJ3V21wVVNQMW1jRG1FbEVUa1lneDlDeVB4dXZsWnRZdklVdTRsQTVuYVBjcHp4amlfYTg0Rkk5dTFseDlialJyTjNQc19tWk1R?oc=5",
+        "source": "ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ",
+        "image": null
+      },
+      {
+        "title": "Разград се включва в регионално партньорство за модернизиране на професионалното образование - Новини Разград",
+        "description": "",
+        "date": "2026-11-13T17:11:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjI5ZnpOb05pTGxETTBPM09tN0V5YjBObUlkU3VnNW9sbTlzd1FsN1JHbnhISnotdEw4VmdRdkh6eVkwd3g4bFdzaUxQWFRwQWNXWkpKaUFtZ3NqUVVzRUs0ZUdXZE52VTVUUDdOYTlTNmplZ28tWVlWOW1adENwamUzZjJnRlMzOGU4Wnl2WVFNS0NrU2duUHRnSE5jdENRbTVCSGlCZVlJcm84eVhXWlJ3aXAyeEY3?oc=5",
+        "source": "Новини Разград",
+        "image": null
+      },
+      {
+        "title": "Началникът на Регионалното управление на образованието в София-град д-р Елеонора Лилова откри второто издание на форума „Лидери в образованието“ - Утро Русе",
+        "description": "",
+        "date": "2026-11-13T16:55:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpYVFxSUhtS1VhWjNUNUUwOHVPSW96SkJoclNlczlIeUJQNU1jbmRZcEFqTURtVDA4UWhsOGdFSXpEbXQwbS1JVkFQQzduUdIBSEFVX3lxTE5sbUlzTk5ITnN2SVpyd1p4NnhtZlNIUWduaGNTUHJNNXVnMW45NjVqcXlzQUFNQXNQcHVEa09VbnNKRzN0VzdMZg?oc=5",
+        "source": "Утро Русе",
+        "image": null
+      },
+      {
         "title": "ОИЦ – Смолян проведе младежки форум под надслов „Европа на младите: Възможности за образование, доброволчество и бизнес“ - Смолян днес!",
         "description": "",
         "date": "2026-11-13T16:18:26+00:00",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZzdLcXdUX0FzVkUzZThiZ0hCVjBwd1NURVg4LUQ0a0hlZWROOF90OUtyT25ibkRiRVRfV1hQRHJobFY2WlhWYXB0MWpPLXRhVkFjTGpGWEczWWl3cjV1MVJIYjk0MVdzbllQakFxZlZCR3lCajhHRzFodHBRLUtJdGx0WlZQZGh0WmZrVUN1TExLSnRSN2RRbHNZMTJqbDg5ZVBjSUJ2V3djZ1hMU2NSUHNRRnUyZ2pzeDMxN3JwVnBHNVA5c0NEY0ZtVW83ZHJHdlRuck04NDlNb1J0c3RNSg?oc=5",
         "source": "Смолян днес!",
-        "image": null
-      },
-      {
-        "title": "Областният управител Айлин Башева подписа Меморандум за иновации и сътрудничество в професионалното образование в Северен централен регион - БТА",
-        "description": "",
-        "date": "2026-11-13T15:52:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdElwZDMzY1BLdU9lTFJiS19kdHFxeGNGdnFZQzdESXEyT1hsbEg0WjBNUGVKeThOVG1yeGNGTVp3SVpEbElkVEJaVVhSMVN4NGN5TmVpUkVsWHg5ZnF0UHE2YUswMnpzdDhRbWFEUzd3ZV82ZHNjU2V0aXRtMU0tVlJFeE9kVi1xRE5YYjJuT1ZfX1hrdk5qX2hGQjBSd3pOU0c3SjI4QUtOTWpLRDN2YmpCbXJBem93UkRZOUYtQnBrSm0tb3I2RU53ZmtndU1rQkF0eENnV2c?oc=5",
-        "source": "БТА",
         "image": null
       },
       {
@@ -662,6 +678,14 @@
         "date": "2026-11-13T13:51:44+00:00",
         "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04UGlvN1VJTzFON2RndnVWSFlRNVRSMDJVTlMyYWFvNG1WS0o0b1JsNk1YODBIZ0JXanFva29wRGp4YWs?oc=5",
         "source": "Elhovo.news",
+        "image": null
+      },
+      {
+        "title": "Меморандум за сътрудничество за иновации в професионалното образование и изграждане - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-13T13:47:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVFVM2llOTBTWnR6a3FSdkhVckRVb1ZCTjNneWl0VFhUZy02TVhaVndTbFFSVDNkSmxpbGZLTERISEo5X0M1OC1VU05lWnlPbmZjVTU4eHJlU2Y0TkQ4SDR6MmdmYnlpcWt5aU93Slo1MmNEdzFiSWc0TS1SUU0xa1o5SFd3VVVfbGYzdnZfSEF3dWVaZkFjWEg1Ums0SGw4LTRQV0hZajVvYnpDN1VlcXE4Y1g3Z1l3ZDVFVGVTV2lOekFNMlpF?oc=5",
+        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -753,6 +777,14 @@
         "image": null
       },
       {
+        "title": "20 млади учители във Варна с награди за успешен старт в професията - Chernomorie-bg.com",
+        "description": "",
+        "date": "2026-11-13T12:55:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3RaaWJJcEZBY18zN3NBdTJ6b3czZ2w0WWdwUE1xWUZYWm1rRkNPQXJmYm9WeVBUSDhBWkhmdEFiMzB0dEJ6Q2F1NG9wMXBkb09lVmhfU0E4NlpKNWJJeEFaT2ZrX1g4MzBZazFCZlkyS2w3NWRUeDAtX2cyV05yUEM0dDktNXlyc0hTd1pFUU9xazVsTG1KRmRPMkVmMnNISDhOSWw1UFQ4Zw?oc=5",
+        "source": "Chernomorie-bg.com",
+        "image": null
+      },
+      {
         "title": "Русе е №1 в България по дуално обучение - Novinata.bg",
         "description": "",
         "date": "2026-11-13T12:53:48+00:00",
@@ -775,41 +807,17 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWFKd2xMNVh1VU1ybUo2eWs5RG5LbHBzZHNHSU94SHNNb2xGY2pzR0RGNGdFMXoxVDNicjZ1TnhPS2VGdnppeG5xZGVTVVpXSm9HMFItb3FIUFJvREY5V3A1d0lONENvYk9hcVFtVHFqUlZlbERXNHduT05wdEJ6S2lOUndiWXdpR09Md0RlbUtYek5oVmRJVGdJVklYbnJsLVROZldxekhaN3o4MmJVY1JXMjlJOWNw?oc=5",
         "source": "Haskovo.Net",
         "image": null
-      },
-      {
-        "title": "Зеленият университет на бъдещето: традиции, модерно образование и устойчивост - Български Фермер",
-        "description": "",
-        "date": "2026-11-13T12:08:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43OGFxWmNrcnNWTm5Ga0dSUEF6dTBjVWZVVWxGUXhCaXFGdmcxNm5NbzY0MEFlX2Ixa1ZYSUh1Qk1zWHBEYUhlZTRBbUFwaGl1RGc?oc=5",
-        "source": "Български Фермер",
-        "image": null
-      },
-      {
-        "title": "20 млади учители във Варна с награди за успешен старт в професията - Chernomorie-bg.com",
-        "description": "",
-        "date": "2026-11-13T11:20:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3RaaWJJcEZBY18zN3NBdTJ6b3czZ2w0WWdwUE1xWUZYWm1rRkNPQXJmYm9WeVBUSDhBWkhmdEFiMzB0dEJ6Q2F1NG9wMXBkb09lVmhfU0E4NlpKNWJJeEFaT2ZrX1g4MzBZazFCZlkyS2w3NWRUeDAtX2cyV05yUEM0dDktNXlyc0hTd1pFUU9xazVsTG1KRmRPMkVmMnNISDhOSWw1UFQ4Zw?oc=5",
-        "source": "Chernomorie-bg.com",
-        "image": null
-      },
-      {
-        "title": "Изкуствен интелект, роботи и дронове в училище: Габрово събира пет области за бъдещето на професионалното образование - Novinata.bg",
-        "description": "",
-        "date": "2026-11-13T10:53:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObUN6a1VzN3BWLWtUR0F0bm1yT0tnZ1ptWmtXYjBISi1RWFdyNW05TGh1THBNRFlkYlp6NFY3bk1KZGNZTXo0Q3RiR0djdDNybnFpdEdGckZlVkZncDAtRHlvOEJEcW5WN3RuUjZySXhhS2U4OXBKaVh4anUtVG1qakowc25hQTdVRmJ6RlNfV1hwaEM5LXhHSGo2b3JzUUxlTHVkX09ZbFlBdkwyeFhzaHJRT3N5dHlZeGZGQU1sVTByU0lnOUFIYW5SZkphekhraWRMdWF5d0xfMHltcVQ5cmp2WQ?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "Янка Такева брани представителното облекло на учителите - Таралеж: Истината има значение",
-        "description": "",
-        "date": "2026-11-13T10:51:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEs2WTFOaHpTMHhLbmwySGtGTUhhVUFIaTU4WEdRcWtWWlcwNmVFdnpidGRIMTNNaHpOYnc5aVBpLWNjNXIyUDc3NHJUSnlGbnhxZUZHeFBwRmNSa3pkR2NCODZtc2RucV83dGVQOEF1ekRWYVNxQ1VjRFE2QmNtSVZ4QW4xOEFJU2xPQnNyYw?oc=5",
-        "source": "Таралеж: Истината има значение",
-        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "Пясъкът, глината и ръждата могат да се превърнат в основата на енергетиката на бъдещето – WEF посочи 10 перспективни технологии - Kaldata.com",
+        "description": "",
+        "date": "2026-11-13T17:06:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQU2hNWlBDdDRkVGZHSGtWWXdZVjRMMksxWFo0a1dVOHlxM0JsdGlpUUhXczQxNmpZSU43VFhLWW80R3FmTm0waTRpNmVMaDNpVXVSSWRoaUZGQk1XZEY5S1BFZC12NE9hSmFVUTVvejRERjdZZ0U5ZldTRzNGQktDdDdQaG5BSTV1cDVmMXljMDJlbWZyVjUzZmV4ZGRRV3lnX1JxVkhjUHc0T25vYk5tdjVobllHVXliSHI2MHNCR1kyMDZ1V2s1c1B1ZGdnUm83SDh3dnJOT281Z05INVE3SzhVaEprTVpfaDQycnZVMmhXMGRveXlLRHlEQ1JScVllSHN0YVUybGItWWY5LTQ5bFdRUDFsdEtBVlpjWnpxVFNzSE1OZTA1ejRHdlhWeEVOaG1nLTZWX1VRQUNhZGlWeVJwLTcxV3lRZy1JQXV5Z1JsUEN3R0t0dDJ5czBhejZINHhPUDRhcU54TnhTbWl3eHJ0a240ckpvckZwUmczdmg5QTlBNTN3NVFjONIBkwNBVV95cUxORXAxcWdkRzEweDJPVHZ5cFJxeW5vX3pMOVpoYXdlbVpROEZqMnJIUi01YW8xeGtCbl9MSm9BVHExem9zck4tbklMeGlZUjl2djlmVFFWa2JRYzZxMTJwOFc3S2Y0Rl9XWUdpT3VqMU4yQndDV1ZqbTdLOEEyLUVwNzlheTlTLTIyVE85OFlCc0ZycEJ2b2lmM2pRYWtzT2tybldQWVIzZ080Q3czZEM2ZTZmTDJQX0pkWG5CWkowdHNGakM1Y1RyWEUzV1JRdXVLSkpscm5lVHdrMnpwS0ZEUXVSLXFoX05LRnVmQUdYTWtLcmRkblRtMkJkU1VHSnJweXZIVndvOFlnTlF4LXQyeVBkdXNLQTZnc2VOc01MZGNzNUhzd0RiWDNPRUUyZlp1QW1JNDlVajhHRDZVTGs4T3lISENzWmhMMXRQcWdsUmZ4QzlNemN4X3hmc2NqZ2dGVXkxQkFLMUxrOHh2aTJLaklNNkUzSGhuOEk0VUdKZ3JqRXdjUElWOUJxb0tzRExRRUdF?oc=5",
+        "source": "Kaldata.com",
+        "image": null
+      },
       {
         "title": "Digital4StaraZagora разширява фокуса си към изкуствения интелект, предприемачеството и дигиталните умения - 3e News",
         "description": "",
@@ -859,11 +867,27 @@
         "image": null
       },
       {
+        "title": "Новата битка за енергийно лидерство: кой ще спечели от електрификацията? - 3e News",
+        "description": "",
+        "date": "2026-11-13T12:37:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmVmTU1sbWpOc0tyazcxM2VSUWhKT1owUTJhRXVoTGJrWXpnVVpLTGJPQXdfS05nV2RyV3VZUTFtYkFmUjF6R3FuelJlTUdBU01OQ2UxZFV2V0tfOUhvNnM4SWVvM0JmbllJeWJjOFBpYjBYdHVUXzdlbElEckpNcGhjZ1ZNTXlfc2ZsSDRBaFZobl92cWFMSDVtd1ZkSU1yQU01OE5LWGQ1TjVaYkxB?oc=5",
+        "source": "3e News",
+        "image": null
+      },
+      {
         "title": "Digital4StaraZagora събира бизнеса и технологиите в два дни, изпълнени... - Загора БГ",
         "description": "",
         "date": "2026-11-13T12:22:33+00:00",
         "link": "https://news.google.com/rss/articles/CBMitAZBVV95cUxQRnUycnVGVUxHQVZNTXA0YUlYUFpndkRXeVhnRWN1alFyMlRMNmo1dWtFZTZ5UndFcnFqUU1jVmk2VnUwVHkxdUQ3Y0RxYUM3UV9rbTNrMXY2TnA4Z3BCempoUGd3UnBrQzBsOTZycUhkVmJjenVOVEN4NHBwQlZUUzZjRG1GMWhUbkF2aGZrQXRMWlVFSXJNUjBCNWVxZjBkQ3dkRDF1T01IdlgxSjlhUDlvcmlHQUVlLWJCNWZlNnExQkduekZwenBIVkxrSG4wWXhVbm1xemIwcU41QUtXdGR6XzVUOXA4d3hJSlZNclBkM2NiNGpLZzBGdTVrQnBPWWV4ak5NSE5EQ3J4U19RcS1kQmZGc2JhM3E2dU1qdFJUbVNidlhBVFVrb0IzcnF4TmhVMEpCcXladnZKNGp3YkUxV0R3TjhTQWhONGU2R1NERmJqRTllWVdUZ1JfNGZ3OXhvWWpfeWZHb2RtMVRZRVhNcmZDS1RWOEhVazF3b0xZcnBocWtDS0dmN2hrYl9pN2hVMmNVenNfbUYyU2pEUlV0b3VWaVNtSURodWhPNGxyOG9fU3RVVUV2YUVYZy01NER0RVNacENQRk5rNGxZbWdnM0NUczU4S2JsQV9OQ0FObjNqODBfMmMtaEkwMDNuSHR5Y2N3N25Qb2FXRl96Rlg3Uno0amVUM3dkamFqcS14bjVCS2otaWI4UWlfSF9YT0Zyam5qYzAwclBSR1M2dTQyTTROQUMwUndOSEttaXFCQndiOHNGQTVwY3JyeVhRRk5wblBiU2ZDTU5ESThxS0JWTTV3OUJYemI3cXJMQWFDNTh6WHJoUDFLdGJkbEJHbTdxbS1VWnB6SmlVVDI5MnlsbFhGNndzTGgxTUM2U3ZrU05ES0RzM3VMLTVJdTA4cGJEWjhFMGlsTVVNclBoYk9VbjV4azZnU1oyS1l6a2c2d2lOcjI1VUJ6SUVmc2I2ZGhKdEgwZnZPMkhTaEt4djRjeHVqUnRmRWFCUHBrWHJqakpOVURpdEFTZ3RJVDNmR0JVQ0syWEp4WnlNaFk0M0dtTzZxck5wZFNDTTVxNDQtWTJf?oc=5",
         "source": "Загора БГ",
+        "image": null
+      },
+      {
+        "title": "България с амбиция да произвежда зелени технологии: Над 6,2 гигавата батерийни мощности и нови индустриални зони - Novinata.bg",
+        "description": "",
+        "date": "2026-11-13T11:53:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUGlxSkdBLVVvUDZjWnhOZS1tMVQ4OUFaSC1ITnExTERnT0pCQ0VaMk5Maks0ZV96Q3BZckVzSFlpYVFCVm80bERXTnFnS19FZnc2Qm9DNHAzXzhEeWc3Vlg5UGtMQU9vUGFnbWpqV3JVSktNcHpHdUpXS29IbGdUcHJrNzNtT3lNbTBIZ3dXZ2JYLWgxU3JFZlplZDlZRHZjaHdNMV9QV0huaXVEci11Y01NN2NfOXhZcTBuenBiblFfTzZvLTR0VTIwV29Qd05lbW5JUUUxN0Nfdw?oc=5",
+        "source": "Novinata.bg",
         "image": null
       },
       {
@@ -947,7 +971,7 @@
         "image": null
       },
       {
-        "title": "Нестопански организации съдят Anthropic, Google и други технологични гиганти с цел спиране на AI надпреварата - manager.bg",
+        "title": "Нестопански организации съдят Anthropic, Google и други технологични гиганти с цел спиране на AI надпреварата - Технологии - manager.bg",
         "description": "",
         "date": "2026-11-13T08:14:12+00:00",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQczh6bkFJRkw5cTUxNU9tVTJKSmtDSHN0SFpDdDNPd3NBWjhaRDJKLWxkdkU0bXhLd0txVzlXQmtVblhaWk1SQ1JBcTItOXJURnBoVFFjZlVRVWhsSTEwanVVQ3FpSE9ueUItdVRuaHNHcmU2ZFJDcVRQTDhxdDBWNXpmTnpZd2RvN2U1ajFRbVJlRERPUXBoZzhMaXJRRnB3WExKY0tSQVJnMk9UT1NzRE1aam0tdzR0aldBNGYtdTlOSkNWSDhaa1VTdi1qTFp2b2lXcE1NNElMeUo2b2VVUFpXcWhlLWtBN2dndndfWVlaZThrc3kwNjd0WW5yYkwwN0RyLVBQcS01Z0Rhc0czSlZoaUtvRjh2?oc=5",
@@ -984,30 +1008,6 @@
         "date": "2026-11-13T07:29:20+00:00",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTYzWTBoMDB0U3UzZE05UnRhSTVPYkVfVHN4SXFQaDJYUDlyaEdrQ3Z5c0t1MGhua3hWZmZYWkprdEE3OW9pQU1Fd0podTFMajNscm5jRE1vYS16dFV1RlNnbm5TTEcwWXAxelUyN1pGdUx2YkE4aXgyU0V3MGlYQU1LQXdYRnYwYk5tbFlzZzJseERrVDhNNkplN3oycHhqMkVkQW0xcmQ5Rm1zVEtTdkxNVU4yUFNGbFJxRkliMzBfX3lxOHVZTjAwZTNSTGp3amFQaDdQSnE?oc=5",
         "source": "bTV Новините",
-        "image": null
-      },
-      {
-        "title": "Новите технологии дават надежда на децата с диабет: Водещи специалисти се събират в Пловдив - Novinata.bg",
-        "description": "",
-        "date": "2026-11-13T06:53:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUw0Q1p5LTlCei1pUVdYSF8wU3FVSmtJYWs0YnBuUW85NEc2UTd6S09JZVluMzZ5a1pFeHJXZ1BjRWREajE0R29BcmJhY2xqZkxQUjhDNFd3V2tGVFpYX0lObHpjaWk3VW8zS19JT0UxLWJ2VzM3UzYtSjVRbkxmU2tFdXRiNndwNXhTVE9OX1dRaHBfSHp3bVVORnNkcHREbEdnQ0ZzMlo2VDlwVnh2WEExdU9YUEJQb1FMWEF3?oc=5",
-        "source": "Novinata.bg",
-        "image": null
-      },
-      {
-        "title": "Как технологиите променят грижата за децата с диабет – дискусия в Пловдив - Под Тепето",
-        "description": "",
-        "date": "2026-11-13T06:27:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2V0OTl4ZUNTVndyYXVDREVjMGdUQVlON0toUEZmYUxDRFQ3a3lOU0d1dkVQekhvd1ZlY3VDTVRBUC1DVEw1bFI3cnBrd1cxaHYySkxmU3FMNDdfSzJHRmxFSFpzQzRDd3lhSTdmWUFldjgwaVljOVBQRmVUcnZfR1BCUHhmc3lfbzFfRVBtdXBJdWlhUTA0cDdDQ0w5LUZwYUp2dlFDRGE?oc=5",
-        "source": "Под Тепето",
-        "image": null
-      },
-      {
-        "title": "Попитайте АписGPT - www.capital.bg",
-        "description": "",
-        "date": "2026-11-13T06:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeENFakJtYjJtVUhmVmpUQ1czbDktb0NycVI1ZkV4T2F1blh0bVo2Yy1DTE5vZEE1VzZiYWppNGFhN2hURmFsaVJ0VGI5aVpCNDVVZEUxdlREOUtIcUR5VDIwck10akNkTEFNemVoSE95dmpneTJGRzVFeFB4QWgzbUVwWUlrMHNTbElGajVMbw?oc=5",
-        "source": "www.capital.bg",
         "image": null
       }
     ]
