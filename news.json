@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:14:14.499622+00:00",
+  "generatedAt": "2026-11-14T03:01:23.922604+00:00",
   "categories": {
     "България": [
       {
@@ -43,14 +43,6 @@
         "image": "https://www.bta.bg/upload/14110016/BIB_6611.JPG"
       },
       {
-        "title": "Всички резултати и голмайстори от Лигата на нациите - Gong.bg",
-        "description": "",
-        "date": "2026-11-13T21:43:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzU2alRYRHM3VHpxM3ZCS3NxakVRZ1JMWlltbFZ6S3EtUll3eTRSQ2l5bHJKb2Rucl96M0N6N3pvbTY1MTVsNFBkalRTUGw5WDhWTDFLWWJjalMzVkgtbDc2ZlhlRXZUYjlZU3BYRjV6WEV2bDBOaGVRYmRJUkNzb3ByOFJ1eHJkV1lVVmJaMEdFZlhEWENWWjM1azlXTkVmTTFXUGZkLU5jZw?oc=5",
-        "source": "Gong.bg",
-        "image": null
-      },
-      {
         "title": "Танкер с асфалт потопи пътнически кораб - Новини СЕГА",
         "description": "",
         "date": "2026-11-13T21:32:18+00:00",
@@ -91,6 +83,14 @@
         "image": null
       },
       {
+        "title": "Починал е разследващ полицай, работил по убийството на Илиян Филипов - Dnevnik.bg",
+        "description": "",
+        "date": "2026-11-13T19:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWsxODRZZElUY0tBbFNYWHY1N0VWLV9zUHk2anJlOEpLMmZiT2l4bER1U0o0MzMxV3VCYlhlSjUtZDBXT19lTXBOUXFCVm5UTVRjUWxWRHJmNElydER6d3RiT3BlV0dKaTdGVHZ1enUtclVlbzQyS215NFRPU0dBWnFiNHQ2THEwUDZLQUF6NkpadEtIQkFxQU52MFBLYk5xZnk0U0V2Nm5aUmE3X2c?oc=5",
+        "source": "Dnevnik.bg",
+        "image": null
+      },
+      {
         "title": "Внезапно е починал разследващият полицай по делото \"Илиян Филипов\"",
         "description": "По първоначална информация той е издъхнал в дома си, като се предполага, че е получил инфаркт",
         "date": "2026-11-13T19:56:50+00:00",
@@ -113,14 +113,6 @@
         "link": "https://www.bta.bg/bg/news/sport/1246813-voleybolniyat-dunav-pobedi-otbora-na-tsska-v-ruse",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14109669/20261113_193607.jpg"
-      },
-      {
-        "title": "Адвокат обяви, че е починал полицаят, разследвал убийството на Илиян Филипов - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-13T19:25:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVdrajFJYVNDRTlXand4ZHFNRDFtYTBzSjhUNnF4QXlBUktyVjlSdmRINV95TFZMenVEbGplOWdZbEItT2Z2dDhOMng5QlF3bDdfY3NPZldTdUF3dFdlYThrVGtLUU93TE5vXzZhQ0dZaWdYRU1JazhRbFNrckQ3dTkxQ3RlaFdnbTVIR3hRMFNiVFNDWVdDYWFuVnR4U1h5cUFNUFEzY1pHbUREMDhZMFpDci1IQQ?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
       },
       {
         "title": "\"Енвидиа\" се е свързала с ръководителя на на \"Арм\" като възможен наследник на Дженсън Хуан",
@@ -201,9 +193,33 @@
         "link": "https://business.dir.bg/kompanii/mahnaha-shefa-na-kaufland-balgariya",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/13/3047557/384x216.jpg?_=1794596511"
+      },
+      {
+        "title": "Две книги на Николай Табаков бяха представени в София по повод 70-годишнината на писателя",
+        "description": "Две книги на Николай Табаков бяха представени по повод 70-годишнината на писателя в столичната книжарница Umberto & Co. В събитието участваха Митко Новков, акад. Иван Гранитски, Анжела Димчева и Ириней Константинов. Модератор бе проф. Георги Каприев. Заглавията са „Без оправдания“ – сборник с 31 къси разказа, и „На обратната страна на времето“ – мемоарни ескизи, посветени на близки на автора личности, сред които писатели, художници и други общест",
+        "date": "2026-11-13T17:53:16+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1246784-dve-knigi-na-nikolay-tabakov-byaha-predstaveni-v-sofiya-po-povod-70-godishninata",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14109425/e3e03d2f415df46a6d6ca76765e2ce8cc214a940d0db26bfda716da2c4439344.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Контейнеровоз и круизен кораб се сблъскаха в Ню Орлиънс",
+        "description": "Танкер се е сблъскал с круизен кораб, акостирал на кей в пристанището на Ню Орлиънс на река Мисисипи, всички намирали се на борда на корабите са открити, но 32 души са приети в болница, предадоха Франс прес и ДПА, като цитират компанията оператор на плавателния съд и кметицата Хелена Морено. Нито един от 32-ата пострадали, намиращи се в болница, не е получил животозастрашаващи наранявания. Кмет Морено определи това като \"истинско чудо за Мисисипи",
+        "date": "2026-11-14T02:39:19+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246840-konteynerovoz-i-kruizen-korab-se-sblaskaha-v-nyu-orlians",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14110561/83931773ec84410f87c1a25e67b8b4a8--0--149a9fd30ed042699b5ba115852fc1ae.jpg"
+      },
+      {
+        "title": "САЩ отвориха отново въздушното си пространство",
+        "description": "САЩ възстановиха въздушния си трафик след няколкочасово спиране на всички излитания, причинено от проблеми с комуникационните системи за управление на въздушното движение, предадоха Асошиейтед прес и Франс прес. „В 20:15 ч. източноамериканско време отворихме отново въздушното пространство“, заяви министърът на транспорта Шон Дъфи на пресконференция в Белия дом. Той обвини за кризата остаряло оборудване от 80-те години на миналия век, което е дове",
+        "date": "2026-11-14T02:30:01+00:00",
+        "link": "https://www.bta.bg/bg/news/economy/1246839-sasht-otvoriha-otnovo-vazdushnoto-si-prostranstvo",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14110504/3510f10725f14494bd8ea59a685f92f3--0--0c2eeb1448514f5db526fd5eaed6d233.jpg"
+      },
       {
         "title": "Рубио отправи нападки срещу Международния наказателен съд в реч пред консервативни юристи",
         "description": "Държавният секретар на САЩ Марко Рубио разкритикува Международния наказателен съд в реч пред Федералисткото общество, като се обяви за твърда външна политика и срещу ограниченията, които международното право налага върху действията на Вашингтон, предаде Ройтерс. Речта му, първата предварително подготвена след тежкото поражение на републиканците на междинните избори на 3 ноември, засили спекулациите дали той няма да напусне постовете си на съветни",
@@ -269,6 +285,14 @@
         "image": "https://www.bta.bg/upload/14107727/ce6d418a781b4870b6e0cd65a4fe2b4d--0--fbfc518f054444d6acbfc17b9f705c4b.jpg"
       },
       {
+        "title": "Ясен ли е наследникът на Джейсън Хуан в Nvidia - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-13T21:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS052eWhoeGh5bVNIMUdRUEV2U0RONmlXMFVOMmtGb3NqSzFESW05Y2dRaVFsYVA1QTdTd3RKRkU1YWhqVDgyY3FRUks2cm5Pbkh6T3BneFptNTZqSVRibkFCbWFyVThyQmZOT3ZpMFVGXzRpRkdBN2tDTzk5RmlHWHFSQVNTT2t2Q2FFMzdTNVkyWGFULVlRVzlpdw?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "Авиационните власти на САЩ спряха всички излитания поради извънредни обстоятелства и съображения за безопасност",
         "description": "Федералната авиационна администрация на САЩ (ФАА/FAA) разпореди спиране на всички излитания в страната поради „извънредни обстоятелства и съображения за безопасност“, след като по-рано съобщи за сериозни проблеми с комуникациите на ръководството на въздушното движение, предаде Ройтерс. Това означава, че самолетите, които вече са във въздуха, могат да кацат, но намиращите се на земята нямат право да излитат. Малко преди съобщението ФАА спря въздуш",
         "date": "2026-11-13T21:44:34+00:00",
@@ -283,6 +307,22 @@
         "link": "https://www.bta.bg/bg/news/world/1246822-moskva-ne-e-v-pozitsiya-da-postavya-iziskvaniya-otnosno-sigurnostta-na-evropa-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14103386/b519f8c2c5eb434e8821a4c5fd69a5d3--0--3fd0e127f3df41dbaf08b45e3618d49c.jpg"
+      },
+      {
+        "title": "Легендарен барабанист взе тежко решение - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-13T21:15:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXy1wUlY2SW95QlI5ZnFuYUVELVFaTHM1M3pvSkNZN1hlYUdlOFJ6aVNFXzVZR1BtVXMzWjNnc3Nlc2t6ZHRtMU9saHNDeXFiMExhallOOUp6R0pvXzBVOHFLUjZGbE5oek8zb3pUaThYZkZfdVUzZmx6akM5eWthWXU0NWwyZC1XUTlRWlR4cXQyZw?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Вече официално. Дъщерята на Путин роди от Зеленски - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-13T20:57:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWtuN2NYeERsVXYwLVp5SHQwdkdkTHVIUTVFZGExeTZtUUU2NWRQVWxOYXd1b0Qwa1p3ZmE2WWR0T0FnUGd1V3cwR29ETmIwWVlLcldVSk5UMFlkRkZkVDhOdnRZU09DM1Zpdy1pbFNQQWltelVWOWxKck05V1NxXzF5ekVrZmhVUmY4NkFTUDlGS2tFZWh3RmI3d1RwcnlfSkE?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
       },
       {
         "title": "КАБАР: Преди изборите в Киргизстан не са изключени провокации, а на нас ни е нужна стабилност, заяви местен политолог",
@@ -349,22 +389,6 @@
         "image": "https://www.bta.bg/upload/12027645/8cd9e56dfd934d7fad8e1a9503f0bce1--0--5f24bf7a67304f70b6a96b51e119e5b7.jpg"
       },
       {
-        "title": "Генералният секретар на ООН Антонио Гутериш изнесе емоционална реч по време на COP31 и призова за намаляване на емисиите от парникови газове",
-        "description": "Освобождаващият в края на тази година поста генерален секретар на ООН Антонио Гутериш направи емоционално обръщение към представителите на гражданското общество по време на климатичната конференция на ООН КОП31 (COP31) в Анталия, предаде ДПА. Гутериш приключва втория си и последен мандат като генерален секретар на ООН на 31 декември 2026 г. Той заема тази длъжност от 2017 г. \"Вие ме подтикнахте да отида по-далеч, да направя повече. Благодарен съм",
-        "date": "2026-11-13T18:39:54+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246751-generalniyat-sekretar-na-oon-antonio-guterish-iznese-emotsionalna-rech-po-vreme-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14099027/17b3cc977d1343688c011deb89568e7d--0--5eeefc433aa2401e9d61eca1f06c020a.jpg"
-      },
-      {
-        "title": "Ливанската армия съобщи, че е иззела оръжия от склад в южните покрайнини на столицата Бейрут",
-        "description": "Ливанските въоръжени сили обявиха днес, че са претърсили склад в южните покрайнини на столицата на Ливан - Бейрут, смятани за бастион на шиитското движение „Хизбула“, като са иззели големи количества оръжия и боеприпаси, предаде Франс прес. Операцията се осъществява след арестите в началото на октомври на двама души, пренасяли половин тон експлозиви в камион от източната част на страната към Бейрут. Групировката „Хизбула“ призна, че пратката е би",
-        "date": "2026-11-13T18:31:42+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246762-livanskata-armiya-saobshti-che-e-izzela-orazhiya-ot-sklad-v-yuzhnite-pokraynini",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/11056129/f8e49d4e1c5d4e6fab9084c1f35ea717--0--7b8bd26431f540958c175860a8095d78.jpg"
-      },
-      {
         "title": "„Магичен свят“ на Александър Телалим вече е в Арт галерия „Мостове“ - Ловеч днес",
         "description": "",
         "date": "2026-11-13T18:00:29+00:00",
@@ -378,30 +402,6 @@
         "date": "2026-11-13T13:40:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzVKOUNBbzVFZkRXVVllekwxSmJrbnBXRUY3cmlzUUZsY28yb0lGV1FMSnlnRUFZOHptLVRXeVR0NTFVcGpDQnZxQ3FHZzFhZFFGbkZpYWpEd092aC1oLUsyLXhtQ3N5b1pXTVh6MTVIN0U3V2d1UmpqTXFnRWIzb2R6ZGNPajdwTkNTSXMteTE1cHRuQTNnMTRDMEhnclQxdUVKSjcwRzlkTkZ0Z1FLNlBB?oc=5",
         "source": "bloombergtv.bg",
-        "image": null
-      },
-      {
-        "title": "Прахът на единствения Нобелов лаурат за литература от Централна Америка беше върнат в родината му след 52 г. - manager.bg",
-        "description": "",
-        "date": "2026-11-13T13:06:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaHJfMHQtUEpOUWlGNjBwSWl3by15ZXpRZG5CZTNQQWxyOER2VzJORVB5STNaVjc1SFBzWmFmTjU0M3lkUzdXNURqVlBvRUNkZzE4djFId0tvdmdXUjEyYkhqc3Y2LXZIQWtjR1JRaEJTbUZJWUtTb3ctUUtIemYteTFGcGVaLXdnMmJ1aDduV3U5YjJfbXhaNGo4aFFsdnVwUTRkRnZISlNaTy1HZEp3c05lSVpXVmlOeUpndWQ3Zy1FVlo0cnVOcThzU0E3V09ncUhtWVV5bkxOakVFeFdjdEpSYkh3WHFSSnc?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Кинозвездата Никол Кидман ще получи почетната френска филмова награда „Сезар“ - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-13T12:06:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSW1iRVBCRmV2MFI0dkNDSXVpODJPYWpyeGpJXzlHM3dWYUk4R3BGRE9pRjExRVFSRHR3M3hWYzhYSmVtU3YtN1Rxd0daTFAxNmFzNThLMHVCaDV1dHF6SmRrM2lOYUZ6NGZ1R29KZkF2SWZsWVAtdEVVbHY3NkxWNGlaZmgyUmRtQ2dOUUk0eXVrbzlaQW5sQ1c3bC0yMjN4QWFvMmw2ZmtKV3cyX2pSWm03SFVxekstcDVHSk8wVzA?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Слънцето влезе в пауза и затихна от полунощ, след серия от мощни изригвания - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-13T11:16:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTVETTVYYzdocVMwZDR3anBvMkNBWlFmV0xQcEVUYzVuUFNjMzVsYUc4dTBNTzZFTmhMaExrRkNkOEtFUmN4SGY5VDVLOWUyUXlPQkJvSE9oZ3JvSS1qaXItRXVtYUtUNHU0Wl9fc042RWFPTG1VdGVrZEJCdkZpQ0dxWE5ZZVRmUnZ1NHhCVzJ1TmdJdXhGbGJTWHRiNHc3b0hnRkx0T01kNkFZTE9KWjZfSTZxaWdoZXEtUA?oc=5",
-        "source": "manager.bg",
         "image": null
       }
     ],
@@ -471,6 +471,14 @@
         "image": null
       },
       {
+        "title": "Почина проф. Георги Балтаджиев - Zdrave.net",
+        "description": "",
+        "date": "2026-11-13T14:03:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOdnp5NERYdzYzc2s4STB2SFhHdGFtOU1ZTUVkR005TUdkdFdrZXBpa2RUU3RFUmlidmpEZ3hUMThJZzlHQ1R4OWIwd1Z2MGRhZ1NZN1ZhOHZGVWRoT0xzLUZtYmUtcVRKUm1kNGdPNUtFZ3puemUwRFRrZmUxNDhIM2g1a0dWNFdRbE5ua25hOElwWW1TU0dEZkh1c3BPYkotcjUyUXRic3hlT1VzZGE3b1lWM3psTjcybTh3UXlOazN5Ql90YXlYaUZNSGNIZDJqbXZ6RFAtbmhCMElFUEp1cjU1R0NHckgyMEsxVmJyc0VHYVI4Z0EwU0hDRE1rdU1CWmhhUkpNR0lTNUlYd0VQRl9uMUkxOFd4a3E0cnJyT1NzZkVGWlpVSDhraHB3WjUtcTFOMzg5YURxWGNRVEdZem1EZ0NnSWlIWFFF?oc=5",
+        "source": "Zdrave.net",
+        "image": null
+      },
+      {
         "title": "Стотици ученици и граждани посетиха Есенния ден на отворените врати на Физическия факултет на Софийския университет - MediaBricks",
         "description": "",
         "date": "2026-11-13T13:32:18+00:00",
@@ -479,11 +487,11 @@
         "image": null
       },
       {
-        "title": "Откриха ДНК от смъртоносен вирус в древни ръкописи - Всичко за Асеновград",
+        "title": "Откриха ДНК от смъртоносен вирус в древни ръкописи - Haskovo.Net",
         "description": "",
         "date": "2026-11-13T13:29:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlBWdmVOWmpxX1MyQ0VDRVd6SWI2bFZkZGFjTkE4WjdBdVBWTjB1YnhDTm9hZGVvbjF5MmdKMXRULVUyRmpVdk42b1RCMlpHRm1zUDhlUGM1Zy1xTVM3bmdTcGFNRFg3WXBJRXEzS3dRV19fUDlKRzlKOUxCai1DU216T01KMWhObWEwcWNSZ1NHQldtalE?oc=5",
-        "source": "Всичко за Асеновград",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUdZMi12b0tvNi1ES3ltSU1ncmZZRXhJbDV3d0lQQU1kZ3piSXdBcjRpYWNJSE1LRVFqYWpORUFGZFE1dVBPaGN0bmRObTlVakVyczI3dFg4aVRyZXYtS3IzNVRvN2U0amJZNVNrODFodmZCYVlIeWlrTmFmYW4tTHBCbFFQaDhHREZxTlJoVEJCdw?oc=5",
+        "source": "Haskovo.Net",
         "image": null
       },
       {
@@ -511,19 +519,11 @@
         "image": null
       },
       {
-        "title": "Физическият факултет на СУ е най-престижното място у нас за обучение във всички области на физическите науки, каза доц. Владимир Божилов - Утро Русе",
+        "title": "Физическият факултет на СУ е най-престижното място у нас за обучение във всички области на физическите науки, каза доц. Владимир Божилов - Делник БГ",
         "description": "",
-        "date": "2026-11-13T13:07:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pYUdGSWlEeFRWSTFTZVBORVFNNTdCM0hLRExGTnlyWTN5MEVoSVVLUF85N1R4b1l5amVCWVVrSVVmQ2VWY0t4aHBiT3dMUdIBSEFVX3lxTE40YXVDQ2EwT2hINFNZVmQ3SmNfX0F1RFNkS05wNVp6RXU0WjJreUlyMTFzXzRiemJVVXprbGl5VlNlZXpEaGNrdA?oc=5",
-        "source": "Утро Русе",
-        "image": null
-      },
-      {
-        "title": "Почина проф. Георги Балтаджиев - Clinica.bg",
-        "description": "",
-        "date": "2026-11-13T12:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pOUo2Y3BPc2J1OHl2dk5NYWVBLXRfb2ZvdnF3YnY5c0loeXhhQmRSY3UyYVlyV012MDdnOHNaS3plQmJkaGItZklhODNwWnhjbFZFX1RfbmdBVkZxRWdxeUgxZ3RIZw?oc=5",
-        "source": "Clinica.bg",
+        "date": "2026-11-13T13:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPU2p2TU1lOUJoam8wZGhRaEdMOVdLY2JJU09seVdUMy15S1RfY2xlYy11ZGpDZWhXTEJ0MnYtR3J1eExqcEoxY3ZwakFHR0Y5U2FPRW9MTDVjWWJncjJUUXZGWU5kS202ejN1dU0xOHhmcnlOemdtTXo2ZDdSQTJnS2YxSVMtUnk2RlBZS2VJT1RmQ0hEbW50U3ZtcklKQnFzQUZRT2hmSkVWMk0tN2JYVUVzanFVd1VWS3l5b013SnVQOGljSnZLYm4yeGYzQkR0X3p2OWlxenlfcElDQ1gzTVhucDFLM2E2UlpwUklHNUJvdjN3Ql9DTlhWZ2J4TFBRLU5qbDg1d05qallKN3dBcms1bUY1Q29UX3pqZVhsX1NXdk5zQWo1ZEJqZVBaUkRKSEJzWlZIN1ExYk92SHBDLWFsU0gtVDU4eVFNVXNyVGRkMG8?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -575,14 +575,6 @@
         "image": null
       },
       {
-        "title": "Във Варна предстои пети Фестивал на науката - Животът във Варна",
-        "description": "",
-        "date": "2026-11-13T07:25:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUhTbmVmUzB6RTI5dnJHNWtyeU85VXhCNlcwbzk0X1hsTGFubWluMkh5Y0oyc05NanAtWlU3OUNWaS10VFJ3cnl3ZDR2NzRkTDRleld1bS02bFBqbWh4ZnFPZU11V1VsNUVWZF82LV9XU0JuQmZBZ3p3QUlJelBkbnpXbw?oc=5",
-        "source": "Животът във Варна",
-        "image": null
-      },
-      {
         "title": "Университетът събира наука, изкуство и PR в един ден - БНР Новини",
         "description": "",
         "date": "2026-11-13T06:59:41+00:00",
@@ -599,11 +591,19 @@
         "image": null
       },
       {
-        "title": "Как космическата среда изчерпва запасите от газ в галактиките - БНТ Новини",
+        "title": "Велиана Христова събра учени, журналисти и приятели на премиерата на книгата си „Слънцето на науката и политическите слепци“ - СЪЮЗ НА БЪЛГАРСКИТЕ ЖУРНАЛИСТИ",
         "description": "",
-        "date": "2026-11-12T20:26:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHRQM1FKY0VZdUdjNjFwSExnbjhCYklEdG43Njk2aHA2YzU2NnRPRnBFdlFMNTFsQjNWOXk1MnBIZk1WVnk0TThhYlUzTDRyeWxqX3d4cjlTdWhFTWctVXh2T2xpdFpmVjBHUy0wbEN6OFNRamxLMzV0N3hJQ25lbEVHeXZDNGFkMDRZSDFkZUhaRXRjX0FaalZIeF9ScG8wS3htTDl4Yw?oc=5",
-        "source": "БНТ Новини",
+        "date": "2026-11-12T16:47:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtYzhUWUZMbVBURE1tQnpnR0pLcHhjZW1GaW01bkViUU9TSW5LMXBpb1hSY1BETHl5ZXp2di1lNlhma0x5QVBxb3dsYU14cmVV?oc=5",
+        "source": "СЪЮЗ НА БЪЛГАРСКИТЕ ЖУРНАЛИСТИ",
+        "image": null
+      },
+      {
+        "title": "Сградата на БАН става фон на светлинно шоу тази вечер - БНР Новини",
+        "description": "",
+        "date": "2026-11-12T12:27:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUxkRFR6UlRBSUJ3bjhtNWR3R2FxWGhUMmNsTU9oQ01RS3RmbW1YVHZYYjFiaF9wT3dWV1VsSnk3akY3eWJhQThZUlgxZHpuZ0hITWkxN3psV3EyOUVxT2Q5SHUwQVZmRVVJQzFOMFExUDVXTDgtM1EtRWp4TWZWS2VTZzI2N1RsVTNqUzQzLWZVNmFLblUtLXV0MVZCSnc?oc=5",
+        "source": "БНР Новини",
         "image": null
       }
     ],
@@ -923,14 +923,6 @@
         "image": null
       },
       {
-        "title": "LG Electronics разширява производството на чилъри за AI центрове за данни – вече в три завода - Cross.bg",
-        "description": "",
-        "date": "2026-11-13T10:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWWZKQXBLckZXZlVhb0huNUtfMnZJWjYwbGNrSFl6X3MyeWx1eEVjMGgwOUZaeWdocXZNOE55UjFUbzUwa1k4cGlvS1RHdGhCekhyQ2lNRThxSGhzRExtUGVrVjVleUd3Vnc?oc=5",
-        "source": "Cross.bg",
-        "image": null
-      },
-      {
         "title": "Subaru разработва ново поколение боксер двигатели ᐉ Новини от Fakti.bg - Технологии - Fakti.bg",
         "description": "",
         "date": "2026-11-13T10:14:07+00:00",
@@ -1008,6 +1000,14 @@
         "date": "2026-11-13T07:29:20+00:00",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTYzWTBoMDB0U3UzZE05UnRhSTVPYkVfVHN4SXFQaDJYUDlyaEdrQ3Z5c0t1MGhua3hWZmZYWkprdEE3OW9pQU1Fd0podTFMajNscm5jRE1vYS16dFV1RlNnbm5TTEcwWXAxelUyN1pGdUx2YkE4aXgyU0V3MGlYQU1LQXdYRnYwYk5tbFlzZzJseERrVDhNNkplN3oycHhqMkVkQW0xcmQ5Rm1zVEtTdkxNVU4yUFNGbFJxRkliMzBfX3lxOHVZTjAwZTNSTGp3amFQaDdQSnE?oc=5",
         "source": "bTV Новините",
+        "image": null
+      },
+      {
+        "title": "Новите технологии дават надежда на децата с диабет: Водещи специалисти се събират в Пловдив - Novinata.bg",
+        "description": "",
+        "date": "2026-11-13T06:53:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUw0Q1p5LTlCei1pUVdYSF8wU3FVSmtJYWs0YnBuUW85NEc2UTd6S09JZVluMzZ5a1pFeHJXZ1BjRWREajE0R29BcmJhY2xqZkxQUjhDNFd3V2tGVFpYX0lObHpjaWk3VW8zS19JT0UxLWJ2VzM3UzYtSjVRbkxmU2tFdXRiNndwNXhTVE9OX1dRaHBfSHp3bVVORnNkcHREbEdnQ0ZzMlo2VDlwVnh2WEExdU9YUEJQb1FMWEF3?oc=5",
+        "source": "Novinata.bg",
         "image": null
       }
     ]
