@@ -1,14 +1,70 @@
 {
-  "generatedAt": "2026-11-14T08:14:21.707677+00:00",
+  "generatedAt": "2026-11-14T09:01:37.459499+00:00",
   "categories": {
     "България": [
       {
+        "title": "Очаква се тунелът на „Топли дол“ да бъде отворен в началото на декември временно, докато бъде завършен обходния маршрут през Арабаконак, каза министър Шишков",
+        "description": "Очаква се тунелът на „Топли дол“ да бъде отворен в началото на декември временно. Междувременно ще бъде завършен проходът Арабаконак, за да може, когато продължи ремонтът, да има гарантиран проход. Това съобщи министърът на регионалното развитие и благоустройството Иван Шишков в предаването на БНТ „Денят започва с Георги Любенов“. Той посочи, че договорът за ремонта на „Топли дол“ е бил сключен през втората половина на 2023 г. и в него е посочено",
+        "date": "2026-11-14T08:59:56+00:00",
+        "link": "https://www.bta.bg/bg/news/economy/1246877-ochakva-se-tunelat-na-topli-dol-da-bade-otvoren-v-nachaloto-na-dekemvri-vremen",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14048125/KASA5677.jpeg"
+      },
+      {
+        "title": "Тръмп, Путин и Си се срещат другата седмица, ще обсъждат съкращаване на ядрените оръжия",
+        "description": "Разговорите ще се проведат на икономически форум в Китай; Белият дом не очаква споразумение, но призова Пекин да \"седне на масата на възрастните\"",
+        "date": "2026-11-14T08:53:51+00:00",
+        "link": "https://dnes.dir.bg/svyat/tramp-putin-i-si-se-sreshtat-drugata-sedmitsa-shte-obsazhdat-sakrashtavane-na-yadrenite-orazhiya",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/14/3047612/384x216.jpg?_=1794649549"
+      },
+      {
+        "title": "МВнР предупреди за сериозни затруднения във въздушния трафик в САЩ, въпреки че ограниченията за излитане вече са отменени",
+        "description": "Министерството на външните работи (МВнР) информира българските граждани, пътуващи от, до и през Съединените американски щати, че поради мащабен технически срив в телекомуникационната система на Федералната авиационна администрация на САЩ (FAA) се наблюдават сериозни затруднения във въздушния трафик. Това се посочва в съобщение от Ситуационния център към МВнР, публикувано на сайта на министерството. Въпреки че ограниченията за излитане вече са отм",
+        "date": "2026-11-14T08:50:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1246878-mvnr-predupredi-za-seriozni-zatrudneniya-vav-vazdushniya-trafik-v-sasht-vapreki",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14010064/MIL_1285.jpg"
+      },
+      {
+        "title": "Експонати от фонда на Историческия музей в Търговище представя календарът на институцията за 2027 година",
+        "description": "Едни от най-ценните експонати от фонда на Регионалния исторически музей (РИМ) – Търговище са представени в новия настолен календар на културната институция за 2027 година, който вече е отпечатан. Музеят издава календар за 20-а поредна година, съобщиха от ръководството му. По страниците на изданието са подредени предмети с историческа и художествена стойност, които представят различни епохи и важни моменти от миналото на града. Експонатите са засн",
+        "date": "2026-11-14T08:43:46+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1246872-eksponati-ot-fonda-na-istoricheskiya-muzey-v-targovishte-predstavya-kalendarat-n",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14111436/905962088_1583904563777934_7628896736435589854_n+%281%29.jpg"
+      },
+      {
+        "title": "На война с пазара победители няма",
+        "description": "\"Подгряването\" започва от предишните управляващи, но с идването на новото правителство войната става открита и гореща",
+        "date": "2026-11-14T08:24:01+00:00",
+        "link": "https://business.dir.bg/ikonomika/na-voyna-s-pazara-pobediteli-nyama",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/03/3043792/384x216.jpg?_=1794585233"
+      },
+      {
+        "title": "Какви мерки могат най-ефективно да намалят пътните инциденти?",
+        "description": "",
+        "date": "2026-11-14T08:19:37+00:00",
+        "link": "https://dnes.dir.bg/obshtestvo/kakvi-merki-mogat-nay-efektivno-da-namalyat-patnite-intsidenti",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2019/10/29/1891578/384x216.jpg?_=1572346091"
+      },
+      {
+        "title": "Небето над САЩ отново е отворено, но хаосът с полетите ще продължи с дни",
+        "description": "Проблемът няма нищо общо със срива при Майкрософт, заявиха властите",
+        "date": "2026-11-14T08:19:25+00:00",
+        "link": "https://dnes.dir.bg/svyat/nebeto-nad-sasht-otnovo-e-otvoreno-no-zakasneniyata-i-haosat-s-poletite-shte-prodalzhat-s-dni",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/14/3047611/384x216.jpg?_=1794647448"
+      },
+      {
         "title": "Лоши са условията за туризъм във високите части на планините, съобщиха от Планинската спасителна служба на БЧК",
         "description": "Лоши са условията за туризъм във високите части на планините, докато в ниските части, при съобразяване с метеорологичните условия, е подходящо за разходки, съобщиха за БТА от Планинската спасителна служба (ПСС) на Българския Червен кръст (БЧК). Във високите части на планините превалява и има мъгла и умерен до силен вятър. В ниските части се очаква да вали. През изминалото денонощие от спасителната служба не са получили сигнали за инциденти. Споре",
-        "date": "2026-11-14T07:51:55+00:00",
+        "date": "2026-11-14T07:51:00+00:00",
         "link": "https://www.bta.bg/bg/news/bulgaria/1246868-loshi-sa-usloviyata-za-turizam-vav-visokite-chasti-na-planinite-saobshtiha-ot-p",
         "source": "БТА",
-        "image": "https://www.bta.bg/upload/14092797/BKK_0952.JPG"
+        "image": "https://www.bta.bg/upload/14111496/1000175866.jpeg"
       },
       {
         "title": "Един човек е загинал, а друг е ранен при катастрофа между тир с ремарке и два микробуса на Е-79 край Монтана",
@@ -25,6 +81,14 @@
         "link": "https://www.bta.bg/bg/news/sport/1246862-turnir-po-strelba-s-lak-za-hora-sas-zritelni-uvrezhdaniya-shte-se-provede-za-par",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14111410/Screenshot_20261114_091513_Video+Maker.jpg"
+      },
+      {
+        "title": "Кои са 14-те специалисти на ключови постове в Левски - Gong.bg",
+        "description": "",
+        "date": "2026-11-14T07:19:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXYxcWtYaDdac0l2OUd3T3o2UGRMT25rM2dOSjE2UUFVeEh2MUc1QWNRcE1RWk5GdXZfMlBsTVR5dmRvbFp3b296eXlIVEZDa1AxSVlyeFhTWFZOSC1WYmpOVWJEd1JndVJVbERtaGhCWWlZT2NXSk04a29Yb3g1RWFobzU1ZlNwbF95VUZaUloybWMwbDBlVG12UlVHSzhocGc?oc=5",
+        "source": "Gong.bg",
+        "image": null
       },
       {
         "title": "Народно читалище „Христо Ботев – 1871“ в Смолян отбелязва 155-годишнината си с празничен концерт",
@@ -115,14 +179,6 @@
         "image": "https://www.bta.bg/upload/11506848/1000030993.jpg"
       },
       {
-        "title": "Студен фронт рязко сваля температурите през уикенда - nova.bg",
-        "description": "",
-        "date": "2026-11-14T04:55:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPOU13djFMdUoxZE5yYjV2OUFvdjRJSmdhelhkaVF5UXVvb19uY01sbzVHRUNyLVRkUk1uay03OFIxUjQxdS1PNmdJVFFGeGNEUzh3OEJ3UzdoZTUzWlpTdUhjeHpaRHEzLWkxWV9lMDRSU0JiVTBXSWpKOTh0SE9aUnRaUVBaQV85bHNaSWtqRW16SUpHSUNvakkxejQ5QklGMW1YU3hjRHZWYWJleEJZRE9ZSjdxSkQ3ODNsaGVYY0xTZVotTllYRnVqNi12MmJURTk4dlI2QkF5Yl90ZndmdWZuQ3Blem1udmNJcGYzTzRYVE53eDgzQlFmUHAxMmdXYklRUjJXRy1GZUliQ2xMQUdkaS1KRUZEUkJoVmtYNHE2NGNNUXhQZmk2VDVTYmdVVkMyTFl2UktfQWhBUTZIb2YzZ1RDa185VGZ5elN3MWw3Z0tZeTQ5NlpxTUF2NWhzYzRPZlhaZVpYX1lkWmZPSjZBRi1lLUxscllDV3g0NXM5ckRUd295cnJxOUFNaFY0LWE4cDhXRmt4ZTZad3J2STdoY0VWS2JKWl9VaXZELWhfSkxheGFIT2VQV1JRc0p4NnpoYzVaQno?oc=5",
-        "source": "nova.bg",
-        "image": null
-      },
-      {
         "title": "Личен състав и военна техника от Сухопътните войски ще се придвижват по републиканската пътна инфраструктура",
         "description": "Личен състав и военна техника от Сухопътните войски ще се придвижват днес по републиканската пътна инфраструктура от местата на постоянната им дислокация до учебния полигон „Корен“, съобщиха от Министерството на отбраната. Транспортирането е във връзка с участието на военни формирования в многонационалното тактическо учение „Тракия 26“. Автоколоните ще бъдат ескортирани от екипи на Служба „Военна полиция“. На 7 ноември от военното ведомство съобщ",
         "date": "2026-11-14T04:30:00+00:00",
@@ -139,85 +195,37 @@
         "image": "https://www.bta.bg/upload/14110092/opasniP_1.png"
       },
       {
-        "title": "Извънредно: Всички полети в САЩ са спрени - Mediapool.bg",
-        "description": "",
-        "date": "2026-11-13T22:40:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnc0eU9XRGlwOWhNLVZhOHV2X3NvZXZCdm1MazQ3LTFua0dLV2RnQkQxUkhCem9VaHBPOHJDYTFWOWh4UHdoYTVTaEw4eDdFQXpHVVlKb2p6VjNmdk1UajZfWVQtQmw4OUU4cmF0a1JqZDJfWkFZTElOc3p0Vkc1Ug?oc=5",
-        "source": "Mediapool.bg",
-        "image": null
-      },
-      {
         "title": "Нямаме фокусници, нямаме балет, имаме само музика, каза певецът Любо Киров на концерта си в НДК",
         "description": "Нямаме фокусници, нямаме балет, имаме само музика. Това каза певецът Любо Киров по време на концерта си в петък вечерта в зала 1 на НДК, част от турнето му „Футурофония“. По време на концерта публиката чу за първи път на живо песните от новия албум, както и някои от най-големите му хитове. На сцената заедно с певеца бяха китаристът Ангел Дюлгеров, басистът Евгени Димитров, беквокалистите Росен Кукошаров, Мария Матеев и Тома Здравков, пианистът Пл",
         "date": "2026-11-13T22:22:00+00:00",
         "link": "https://www.bta.bg/bg/news/lik/1233542-nyamame-fokusnitsi-nyamame-balet-imame-samo-muzika-kaza-pevetsat-lyubo-kirov-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14109813/1000175691.jpeg"
-      },
-      {
-        "title": "ЕС определи кои държави ще представляват Европа в евентуалните нови мирни преговори за Украйна",
-        "description": "Това са Германия, Франция, Великобритания, Италия и Полша, заедно с институциите на Евросъюза",
-        "date": "2026-11-13T22:05:29+00:00",
-        "link": "https://dnes.dir.bg/svyat/es-opredeli-koi-darzhavi-shte-predstavlyavat-evropa-v-eventualnite-novi-mirni-pregovori-za-ukrayna",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/14/3047587/384x216.jpg?_=1794610705"
-      },
-      {
-        "title": "В САЩ спряха всички излитания поради извънредни обстоятелства и съображения за безопасност",
-        "description": "По-рано Федералната авиационна администрация съобщи за сериозни проблеми с комуникациите на ръководството на въздушното движение",
-        "date": "2026-11-13T22:03:00+00:00",
-        "link": "https://dnes.dir.bg/svyat/v-sasht-spryaha-vsichki-izlitaniya-poradi-izvanredni-obstoyatelstva-i-saobrazheniya-za-bezopasnost",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2020/05/25/2011180/384x216.jpg?_=1590388454"
-      },
-      {
-        "title": "Исландия разгроми България в Пловдив и остави \"трикольорите\" без шансове за изкачване в по-горна дивизия на Лигата на нациите",
-        "description": "Турнир на УЕФА Лига на нациите, пети кръг от група 4 в Лига С между националните отбори на България и Исландия: България – Исландия 0:5 (0:2) голмайстори: 0:1 Адри Гудьонсен 17 – дузпа, 0:2 Ори Оскарсон 22, 0:3 Емил Ценов – автогол, 0:4 Адри Гудьонсен 68, 0:5 Адри Гудьонсен 79 стадион: „Христо Ботев“, гр. Пловдив главен съдия: Флориан Бадщюбнер (Германия) жълти картони: Кристиян Балов, Андриан Краев (България); Хьордур Магнусон, Хакон Харалдсон (",
-        "date": "2026-11-13T21:45:53+00:00",
-        "link": "https://www.bta.bg/bg/news/sport/1246823-islandiya-razgromi-balgariya-v-plovdiv-i-ostavi-trikolyorite-bez-shansove-za-i",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14110016/BIB_6611.JPG"
-      },
-      {
-        "title": "Исландски вулкан изригна на \"Колежа“ и изпепели безпомощна и отчаяна България - БНТ Новини",
-        "description": "",
-        "date": "2026-11-13T21:41:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmdKM2ZJLVhWdUlSSmRRWVFNclVJNC01T3d2MTlwRjN2UTZ3Y09LR25WYkhRX3l3Y0hKSFlmZ2xDUnJmb1QzbTdLQ3NxMnBJalp0eWp2R2UtUTVxV0pkakFBeXJoLWFPSk0tX3ZBQ1FNUFVXMFlkOE1aOE8zYWtIWEstSVFWM2pWRV9YYkZXVFlIbk15WWpId0JkWnpCVm5UU1ZCNGFiNjBKUWdUT1c5dDRtRTQwelZLTHVUMWU1QQ?oc=5",
-        "source": "БНТ Новини",
-        "image": null
-      },
-      {
-        "title": "Нова вълна на разпродажби на Nvidia повлече S&P 500 и Nasdaq - Investor.bg",
-        "description": "",
-        "date": "2026-11-13T21:41:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjR2OExNaW9obGdXTzdZbDc4NmdwdEdwNGFIb3RVc2laZjFGZzA4RmhILUwxVENxU0FlN0kxVFY3QnhqWWxXWEY5MnM4NE5XWkxtWmpSNEFuTU1TVy1OMnV5aGM4V0Y2ekNTNzZMNEdkU2dTdkxoNS1XWG9KX0VnY2dyTDRwSlhEV3pFRFJzcnZFcjU1dWhqNDVZVnQ2bk9DTVNPNkNjaWc?oc=5",
-        "source": "Investor.bg",
-        "image": null
-      },
-      {
-        "title": "С изпълненията на квартет „Интро“ беше закрито деветото издание на фестивала „С музика и вяра в сърцето“ в Гоце Делчев",
-        "description": "С концерт на квартет „Интро“ беше закрито деветото издание на есенния музикален фестивал „С музика и вяра в сърцето“, организиран от Неврокопската света митрополия в Гоце Делчев. Заключителната концертна вечер събра представители на държавната и местната власт, духовници, културни дейци и публика. Преди началото на концерта създателят на фестивала проф. Анастас Славчев определи програмата на квартета като среща с по-различен поглед към класическа",
-        "date": "2026-11-13T20:34:10+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1246819-s-izpalneniyata-na-kvartet-intro-beshe-zakrito-devetoto-izdanie-na-festivala-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14110033/20261113_202107.jpg"
       }
     ],
     "Свят": [
       {
-        "title": "Първата представителка на Конго ще пропусне конкурса „Мис Вселена“ заради визови ограничения на САЩ - manager.bg",
+        "title": "Най-малко петима убити, сред които и дете, и над 60 ранени при руски удари срещу Запорожка и Херсонка област, съобщиха местните власти",
+        "description": "Най-малко трима души загинаха, сред тях и дете, а 62 са ранени в резултат на руски удари в Запорожка област, предаде Укринформ, позовавайки се на публикация в Телеграм на Иван Федоров, заемащ поста на съпредседател на Запорожкия съвет за отбрана. \"Трима души, сред които дете, загинаха. Още 62 души, сред които осем деца, са ранени при вражески атаки срещу Запорожие и Запорожкия район\", написа Федоров. Той посочи, че през изминалото денонощие руски",
+        "date": "2026-11-14T08:56:55+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246885-nay-malko-petima-ubiti-sred-koito-i-dete-i-nad-60-raneni-pri-ruski-udari-sresh",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/1403785/8775eaac1b3c47ff9349302e164bc1d6--0--bfccc5f9a148489196c7b1ef9803ea45.jpg"
+      },
+      {
+        "title": "Microsoft съобщи, че услугите му са напълно възстановени след прекъсването, което разтърси света - Investor.bg",
         "description": "",
-        "date": "2026-11-14T08:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORlIyOWlHR1N3TlVnajBuV2hWQ3pZWjZaNlQ4MDJDbGNNdUFfdV9OZ3Z1cnNjT3NlLWtBMUNPTzE4bGNNTlYyOWtIa093LTlDTFZTUF9iZE16OGtMeFVaTnhFUVNhaGJldUk2a3ZYWTMyeHBzZTVJSGxxREVFN0xRMXM1MjJHYmlkc1BMcWprQ3BjMU9BYU4yRXE1dTZfUEF6d256VEh2bHdCc251YUFrU0VYVmpuZ2xZNjhGSlNiLVBGX2lXYWFUUWVwbHVmM1pjU1lBZExfNmZSM3R6?oc=5",
-        "source": "manager.bg",
+        "date": "2026-11-14T08:34:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQlgwM21MSjFWNnF2c0Y2R1Q2amdYcDZKcjNjTC1icXc1bkE2R1pxSGdReFVhNUdjZ3Z3Sm8xSXRqZ2dmb3E1dTQ4aXRYQlh3eUFTMTMyOWdaX2VzMjZQMTZZalVFRVpsX1ZlNUhkRDFiSVM4ZEYwQkxHS1kwV1hYZG1EXzcwck9ELVBZODBvTDNiZHJSSlUyWVRHeExLdjBqXzJkR3Y2Y2pQbjE3QjRiUzhDY1dwRW5YOHY3cDBNWmZEMDNuSjBIRFhNd0hHenFkTFpfajFoMEFCWV9MdWpxN1BkNkVBQQ?oc=5",
+        "source": "Investor.bg",
         "image": null
       },
       {
-        "title": "Китодар: Живеем в свят на абсурди, защото забравихме да мислим за другите - БГНЕС",
+        "title": "Тръмп, Си и Путин ще се срещнат в Китай на 19 ноември - Свят - manager.bg",
         "description": "",
-        "date": "2026-11-14T07:14:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjgzSndJZHZxMGxGX1E4Nl9neFNjeWM0V2hPMjRaZllEVjF1d2JsNm1CeDA1UDZMWHNzQ2gxSms4LURGekhlY1RhUXZSOFVZTWFWWWRpcGZYOW12OVNJSGlqZzdVY0RyRXBnY2l3SlE0NDNJRHBiSGtoNVQ2SC1SbVlPd0Jxa3hpbnJSR1FNOEV1VVVzaUpiRkJ3?oc=5",
-        "source": "БГНЕС",
+        "date": "2026-11-14T08:03:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX2kxTFNpM0YwM195WlljTkFHa3Q5Q0VqWTVlcjdaYVZUUWFiVW03ZGlzSDJ1cWFmN0VvMjB1bEhZbi03R1JRRUk4QXlzSXBBdjlmQ1JhN0FJVjFuTXhfblp3Yno4NEpEQWN1MWcwMEtfUTlvdnNtalZTOHNFd0Z4YVZWM29nanU2THoyUzU0cHdqcERJS1pWb19tYTNZOEU?oc=5",
+        "source": "manager.bg",
         "image": null
       },
       {
@@ -235,14 +243,6 @@
         "link": "https://www.bta.bg/bg/news/world/1246846-ungarskite-vlasti-otkriha-blizo-20-miliona-dolara-v-broy-pri-razsledvane-sreshtu",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/12158841/f3a08ac667b845e6b3a506921420a5d6--0--9891e42bff0f430c8c221fc638043ad5.jpg"
-      },
-      {
-        "title": "Китайски AI следи китайците по целия свят и подбира потенциални агенти - Kaldata.com",
-        "description": "",
-        "date": "2026-11-14T06:34:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxNVWhEQjg5eExuRHN5NlpPRlBHcndaaUV4aE9lTjBKUTJ5a1JBSUdFWFlQd1RFU1VpZDZMcElxTWVOZ2lfYS1DLUNWaWFJaVpuOHR1ZWYwTGU3MXU5YkxuSXNDX1BuTlU5d1dCdkhSNEVnT2U5OTJzb3NJR0k4ZEZpcmM2b3JzZkhDY1R0WlRWR19MTllzSVh1MDlyc0U3VU1vVnRDWkNYeFlranJGdGNKSHV3V3ZhQzhIX2dTVzBoMWQ2QngtbnJWVHRZb2F4RDdfRWtXOUZVNVRuNkc1d0QzUU1nVE5ycE1XWExTdUFQdVk0Smp1Ry1tTVNPQUNiT2tOUmRKRFM1ek5mWkRyN1RIMm5UODRidHNFQVAzNmJ0eU83QjVCZW9sZEFDRXlhUTNTTmVRWUo3NUM4NF8yWUFqSzloQkJxdmJoOHFXckdzcC1ZSkYyN0tsVEtIVkQ1d1RILUlaNFlfOG9pTG9nMGs0bnVwMEtlWXlOREl3Q1BTYndkTDdsYkJ6STlaeE7SAZ8FQVVfeXFMT2REZUtVeEptMUltQ3p5MDVucmxpQVN2TWRpcUtnSzlEcDBIVmk2NmVpOHhpamg0VFNpdjBVWldoRGN4RFBQV0NfbjZiX2lPUkJScURfMTdyYXlqZF81TU1KdU9aRllxM041WFM5SUZGOTNOX1hLdUw5MEZ6VlpVV1lxOTJBSm1UMERGSTI0WlQ3YUlGaEdzZHJkSnVLQWtSVUJLLVdFMWlTNl9XWlNOanpDUHJpaGJ6VGM2U0RhVGFCZHBNWjdRME8yUVFqeC1BeVk2M1J5SUxJTnVCNEc4TGZjRF8zbUI2X0VsRkUtOUprMndPODZXLTJ1a0h6alpTYlBfb1A2NEFTRVBhY2JVM0FkaF9PbWRDQm56aEo2SGNlVEdjV1ZOSm13UlFFaldMUUJuWnFQeEVTa1lJSTNiY1poaXRMVTZFaHVndFRYeFFKNkNHcmxDTFAybDVsdVE0YUZmUWpfcU54TVduMXdTVjh1MkhVV3UtdDU3SGRYV1RLeTdrZUpPSnhqcW51SHVJa05VdGwySGJBaFVfU3h6Rk9VUlV5NjAxX3RyMGg3MTVZV1lzcXFrMzNzd2h6aHRjQ0lEMzNSM0M1MEl4WHZRcHNDWkt2SjVqUl9CZzh0dVVvZ3NfWFhhQkJvMDBLdWN3ZTlWUHBxRS1kNzRMeHExUlJmb2hQYzhSRzAtTk1ZMG1Gd2I1N3JpVnJ2N3ZpR0s0dDBKUzhheE5pMVZwem42bnFVZnJLdzBpcUVWc1FMU2ttZW5qaVRaRkk1WFpqVzV5cVhvTTByU1ZFSnRpaU9YODg2TTJUMm9rbk5IdWFrVXJqQ24ybFR1OTY2emxvTE56ZDh3MzA3Rk9UbGRhQy1qbEUtVWozY1VZSmhHNE9BbFU?oc=5",
-        "source": "Kaldata.com",
-        "image": null
       },
       {
         "title": "Microsoft посочи техническа грешка за мсовото прекъсване, засягащо услугите ѝ - Свят - manager.bg",
@@ -406,6 +406,14 @@
       }
     ],
     "Наука": [
+      {
+        "title": "160 години от рождението на Васил Златарски – историкът, който промени българската наука - Novinata.bg",
+        "description": "",
+        "date": "2026-11-14T08:30:33+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYUJPT3FoOUowc1pMbXFGU3E0R1VERXZJSkROeFZqWnl4dXJSd0dFczhmeWFqWV91dS1QVUlCWWJUVFJXdzdmS1Z5dE9SbXR0eElPejg0c1M1SHhCYy1Mc3JyOVNBQUZiN1psZjhxSF83Y1AzdERJaHByMHpGOWRiZ1FEYXNUOXRHNEM2alJWN3M2dnpORldDTHZxRmtCTW54NnQyRWhQel9hTk9kLWJ2aHJvUnBiM0VxQWJUMWFiVE51Q3ZaZUhjT1pQX1BfWmF2YU9DX1BSaEM?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
       {
         "title": "Рядка звездна система излъчва радиосигнали на интервали от 8 минути - БГНЕС",
         "description": "",
@@ -597,21 +605,13 @@
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtYzhUWUZMbVBURE1tQnpnR0pLcHhjZW1GaW01bkViUU9TSW5LMXBpb1hSY1BETHl5ZXp2di1lNlhma0x5QVBxb3dsYU14cmVV?oc=5",
         "source": "СЪЮЗ НА БЪЛГАРСКИТЕ ЖУРНАЛИСТИ",
         "image": null
-      },
-      {
-        "title": "Сградата на БАН става фон на светлинно шоу тази вечер - БНР Новини",
-        "description": "",
-        "date": "2026-11-12T12:27:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUxkRFR6UlRBSUJ3bjhtNWR3R2FxWGhUMmNsTU9oQ01RS3RmbW1YVHZYYjFiaF9wT3dWV1VsSnk3akY3eWJhQThZUlgxZHpuZ0hITWkxN3psV3EyOUVxT2Q5SHUwQVZmRVVJQzFOMFExUDVXTDgtM1EtRWp4TWZWS2VTZzI2N1RsVTNqUzQzLWZVNmFLblUtLXV0MVZCSnc?oc=5",
-        "source": "БНР Новини",
-        "image": null
       }
     ],
     "Образование": [
       {
         "title": "ПЛТГ „Никола Вапцаров“, гр. Банско превръща професионалното образование в реален опит: ученици се докоснаха до съвременните технологии и практики в горския сектор край Сатовча - ТопПреса",
         "description": "",
-        "date": "2026-11-14T08:12:29+00:00",
+        "date": "2026-11-14T08:12:14+00:00",
         "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPRGp3Y0VVeUI4QTJvYVgzTnhSNnBMMWxLTkc4NGFDUTZTVE1ZYk04cVRuSGJRNWo4TkFScmZQdlU3cFFGaE9WOTl0N2d0WUhjTXptLXN0NmVWMVlyb1B2d2x6dTFoNUlOMWpiS3BSb2FDT3VpOUZ1SHlONlhuT1JMd3dmX1FBWlJKVkkteVR0Q0hES09QXzRyRkk4a2tRcTdqNGVWX0swRzEyTW1aalExUnYwTG9zYWI2V2VtUURtXzd0clMwMk54a1JWTS1JekpHcUlnOUNXVFdCdWh4cEVKbGlub3VhR1pnN1lwSzNWVGMzMVprZVEzRFk0ZGtDLTBiVkJRR0Joc0lfX3dITUhhV0ZVczc1V093alYtRUxzN184clVVYmlNMEhPeURqRjYt?oc=5",
         "source": "ТопПреса",
         "image": null
@@ -622,14 +622,6 @@
         "date": "2026-11-14T07:58:09+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeENVbGRNQ09iZTFIa21ZWkNabV9QOE5PbThTR25PbTV6X2dtZGRZbGdUQ09obThQOVBWeG00ZDEyUXNRcnRWWVI2anhBRFhhQ2xjVVp5RXhYc094S2J6SXA3WVI0SmVOZFJ3MWc2UGR5cmlVVXBwbDlIaWpuZEw1M3luLVNrT3QzU2kyRTVWVkZxYWpQNWNVQ1VhZWRXZXJNUVVsTzB3WEg4cXdBSmNKS0QwTFdSWkF0LWdjV2FYVm9VancyU0g2OG1tcnp3M29mNXc?oc=5",
         "source": "Новини Силистра",
-        "image": null
-      },
-      {
-        "title": "В Благоевград: Над 20 университета и организации ще се включат в „Панорама на университетите – 2026“ - Струма",
-        "description": "",
-        "date": "2026-11-14T07:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUhyZ09xR1VDS25IanZFWVN3T09nUFpuUm5iUTRwS3UwYjF5SnhZYzFYOWRRTnVKbUJYTG5KeUw5aHZQSWU3SXkxdWk5U3huOGFxQWNmRUxnVkxjQnRHVURXTnFCeXo3djNucmRIRzUtYmtjY3lqNG9oRVQzVFNwRkNQMzhodzZud2hJSm1udUxyVGR2STBnTEJ4MmNJQm81RUpCMVJIZzFnSXM?oc=5",
-        "source": "Струма",
         "image": null
       },
       {
@@ -807,9 +799,25 @@
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iOUhISHREb0pBNUtyWWhoa3J2SW5sUmVCQV8yQXV2ZXVaTFg2S2ZXOC1CdWpIeXpyTzQ3d1o1bllOUjkxQXJfeWFKTUhOUdIBSEFVX3lxTE1QUHdIc1BVbW9KSXZqaFktYjNxMFZES0szbUo2YjZkc2VLRFh1cldWRWpFNkNYTGQ0VWpyRUhGWDJPMEhTby1qTg?oc=5",
         "source": "Утро Русе",
         "image": null
+      },
+      {
+        "title": "В Бюрото по труда в Шумен са обявени свободни работни места за лекари, шофьори, механици, електротехници и други специалисти - Утро Русе",
+        "description": "",
+        "date": "2026-11-13T13:11:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ISWFxWlhCZXAzOGNnbVFMa2IwWk1Ycm9PM2hrNDNKbF9veHA0cVlabU5uMEFSTkJsVEZ4Y3NwdUFZeEhUQVZEWGxvY1BhZ9IBSEFVX3lxTE9QRkJJN0RZMlg3aDN6dTlTZHdIbnI0VDdSWXotZDBNTExJWnY4VFJMaDVKcnZJUGU5N0dPUm4ya2RGdHJfS1ZpZg?oc=5",
+        "source": "Утро Русе",
+        "image": null
       }
     ],
     "Технологии": [
+      {
+        "title": "LG разширява производството на чилъри за AI центрове за данни - Cross.bg",
+        "description": "",
+        "date": "2026-11-14T08:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pVUFUcFUxWnFqQ19FOTZibzZFY3pEaVJXNF91YTE1c2lOTWFNMVc4TmNydGVpVVBQTDJYcmxWX1N5cXlhMUJSSjN0ZzJrMVF1S29VaE00VjFURWRoMk9IcjNKVmtpSm5HNkE?oc=5",
+        "source": "Cross.bg",
+        "image": null
+      },
       {
         "title": "Русенски фирми и институции могат да получат безплатна подкрепа за внедряване на изкуствен интелект - Утро Русе",
         "description": "",
@@ -824,22 +832,6 @@
         "date": "2026-11-14T07:47:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNamUtNlpyT1VHUDhZVXVlc2h4V0hyRHl6SUtSZ1k3LTFoTVF0ODVmbWVxMXdaQ25yeUFYSHBwS1Mxb053d09vU0p0WDRGalh1MUZJN3V5YlpmZURXbmtRYUhWR0dLUXEteWl4Ylo4bnhBMVFsbUFIanFTWjdpYV9Sc1c1WXFUSFp2WHBaaXZGZXdYVWN6SGZUbTJhSDJabE1NTGw0dVlZU1dDbU5iVzdKS21HNWxtdGtsNkNXNWtKbFd1eU1KSGlfaVRRREZiejczeVdLWlBtZDBFUE8zZWFsS2theHY0cWhBZ0ltZTBvNA?oc=5",
         "source": "Радио 999",
-        "image": null
-      },
-      {
-        "title": "Студенти представят проекти за престъпленията в дигитална среда - БНР",
-        "description": "",
-        "date": "2026-11-14T06:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFRzUDFrVGhpa0NaUWkzcTN5QmVZbUhvQkZWOHJhbGowbWdITTZFWEdCTVRJYTRXcDJwd3Z0UXNGR3JmU0VKMmNwbm1ScU5odGdrWnBySlJqcG9teVVOcXhtMHlvbGhpSFRtcWZsOThVVEY5aWpZWWdzd2NPeFJELUlRb053R0xGOTBUSGp1QXp3ODlGRWMxUGZ0cE5ud2Zi?oc=5",
-        "source": "БНР",
-        "image": null
-      },
-      {
-        "title": "Бившите лидери на BESCO влизат в отбраната с радар за дронове - www.capital.bg",
-        "description": "",
-        "date": "2026-11-14T06:30:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFRaLUEwc05QZkQ2bGxfZlhaWGxiSlFOVFhMLWxDRkRLNEY4Y0Y4YkFhSEZUWFpuZmozXzl1d3hIb0d2MXJsRkVEaHR0VnlXSEkxTEc5WHphaDdqaVZoc3A0czU3dG9sc04tRjNua3dEc0JpNFBSU2s0dFpYLWxtdWVKSk9WN20wSHpZUElJVEdRT21ZekZfNVk5UTQ1cjdIb1VrelZnbmcySG5ITm1pUDlB?oc=5",
-        "source": "www.capital.bg",
         "image": null
       },
       {
@@ -955,6 +947,14 @@
         "image": null
       },
       {
+        "title": "LG Electronics разширява производството на чилъри за AI центрове за данни – вече в три завода - Cross.bg",
+        "description": "",
+        "date": "2026-11-13T10:16:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWWZKQXBLckZXZlVhb0huNUtfMnZJWjYwbGNrSFl6X3MyeWx1eEVjMGgwOUZaeWdocXZNOE55UjFUbzUwa1k4cGlvS1RHdGhCekhyQ2lNRThxSGhzRExtUGVrVjVleUd3Vnc?oc=5",
+        "source": "Cross.bg",
+        "image": null
+      },
+      {
         "title": "Subaru разработва ново поколение боксер двигатели ᐉ Новини от Fakti.bg - Технологии - Fakti.bg",
         "description": "",
         "date": "2026-11-13T10:14:07+00:00",
@@ -979,6 +979,14 @@
         "image": null
       },
       {
+        "title": "Бившите лидери на BESCO влизат в отбраната с радар за дронове - www.capital.bg",
+        "description": "",
+        "date": "2026-11-13T08:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFRaLUEwc05QZkQ2bGxfZlhaWGxiSlFOVFhMLWxDRkRLNEY4Y0Y4YkFhSEZUWFpuZmozXzl1d3hIb0d2MXJsRkVEaHR0VnlXSEkxTEc5WHphaDdqaVZoc3A0czU3dG9sc04tRjNua3dEc0JpNFBSU2s0dFpYLWxtdWVKSk9WN20wSHpZUElJVEdRT21ZekZfNVk5UTQ1cjdIb1VrelZnbmcySG5ITm1pUDlB?oc=5",
+        "source": "www.capital.bg",
+        "image": null
+      },
+      {
         "title": "Мозайката „Изворът на живота“ в Стара Загора оживява чрез холограми и нови технологии - Бизнес поща",
         "description": "",
         "date": "2026-11-13T08:28:00+00:00",
@@ -1000,14 +1008,6 @@
         "date": "2026-11-13T07:34:30+00:00",
         "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbUFHU1dCb2pfak1YZ3UwMV9QQUl1VWdSUFBocFFsLVJSY2dacU9KZDVDM0ZDODdWX3h5NXJjcm9IS3l0QW5laVJvVloxWDdILTc3QnRFVmQ1blFQVFNsOC1HbGh4ME56WENEYkpHNVNKUXo4VzRvbUFKOFdGU3pHU0hSX2tVR3B0aDRHeGFMd2Z0SE9LaWItUzZTbFhyWkRHNWdFUVVfMWlpMnFpcEtyQjRuVWtJdUNScHhhUEF2ZXdnWU91RkpwaEVHYmRjSFdicjU3cXdIYk53MGhpUHNOcXEzNVpqSXdtVlZibkFkTFotb0pjWWxhQ3ZiRkxhYTFwVkhENHVLZnpnRFRhTVZfeUZXaXJTOHVCRnl2ZXUzb19jTWo5?oc=5",
         "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Конференция в Стара Загора събира бизнеса и дигиталните технологии - БНР Новини",
-        "description": "",
-        "date": "2026-11-13T07:34:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWllGVXBtOXY5TWEtcFRnTHhxMjdaWm9mYzZzWFJIZFN3T3AwaEdtLVAyN2wwTHJNMi1odzliZ0hGT0M2aW90cWFKNm92RlNWZ05GemZxeDcyVVh6Z0dpT3VpZWF5VHFwU0J2UXVFUG1NOXpoeGtwSFNuVVJnc2JKLTVJM25aZmFnWENvMGNJQQ?oc=5",
-        "source": "БНР Новини",
         "image": null
       }
     ]
