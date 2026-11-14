@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:01:31.361343+00:00",
+  "generatedAt": "2026-11-14T05:58:31.077775+00:00",
   "categories": {
     "България": [
       {
@@ -139,14 +139,6 @@
         "image": "https://static.dir.bg/uploads/images/2026/11/13/3047450/384x216.jpg?_=1794602820"
       },
       {
-        "title": "Мицкоски към Радев: България няма основания да коментира човешките права - bTV Новините",
-        "description": "",
-        "date": "2026-11-13T19:50:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnRJN3ZMME0xazU0NkJSVFcxYmxjaXBwNVUzZVlkNEZTcG5HbEJzb1RfbWxnV1AtcEFLN0Jfc0NXVjZSVEZHbXpzLW9ZYXo0cmxvVlZQMVhJYlpsTVAzM1NSNE5qRmtqeEFURndtU09JRUlCVG9MSmhhTklOOGR5X053dTRSa09fblNhWUU4elJBOTRnR0FjVFIzdmh2UFF2dWFKTlBXWkJtaUFmMEhwaA?oc=5",
-        "source": "bTV Новините",
-        "image": null
-      },
-      {
         "title": "Волейболният Дунав победи отбора на ЦСКА в Русе",
         "description": "Волейболният Дунав победи с 3:2 (25:19, 20:25, 25:18, 22:25, 15:12) отбора на ЦСКА в зала „Дунав“ в русенския квартал „Здравец“. Двубоят беше от петия кръг на първенството на България по волейбол за мъже. Мачът започна с минута мълчание в памет на загиналите при верижните катастрофи на магистрала \"Тракия\" на 10 ноември. Домакините отбелязаха първите три точки в мача и водеха през цялото време на първия гейм, приключил при 25:19 в тяхна полза. Вто",
         "date": "2026-11-13T19:40:34+00:00",
@@ -201,9 +193,33 @@
         "link": "https://dnes.dir.bg/svyat/moskva-otreche-da-e-postignato-sporazumenie-za-uchastie-na-evropeyski-darzhavi-v-pregovorite-za-ukrayna",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2024/11/18/2825126/384x216.jpg?_=1731957019"
+      },
+      {
+        "title": "Мотоциклетист е починал след катастрофа в Русе",
+        "description": "Мотоциклетист е починал след катастрофа тази вечер на кръстовище в Русе, съобщиха от полицията в града. Сигнал за инцидента е подаден малко преди 18:20 часа. По първоначална информация мотоциклет, управляван от 20-годишен мъж, се движел по ул. „Стефан Стамболов“ в посока бул. „Мидия-Енос“, когато се блъснал в лек автомобил, шофиран от 44-годишен, който навлязъл в кръстовището. Веднага на място са изпратени екипи на полицията и на Спешна помощ. Мо",
+        "date": "2026-11-13T18:50:00+00:00",
+        "link": "https://www.bta.bg/bg/news/bulgaria/1246805-mototsikletist-e-pochinal-sled-katastrofa-v-ruse",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/11510256/369A8928.JPG"
       }
     ],
     "Свят": [
+      {
+        "title": "Марин льо Пен е готова да се срещне с Володимир Зеленски, за да обсъдят финансовата подкрепа за Украйна",
+        "description": "Крайнодесеният кандидат за президент на Франция Марин льо Пен е готова да се срещне с украинския президент Володимир Зеленски в Брюксел, за да обсъдят финансовата подкрепа за Киев, предаде Укринформ, като се позова на вестник \"Монд\". \"Мисля, че мястото (на срещата) е логично. Реалността е, че именно въпросът за финансирането на Украйна е този, който в момента тресе Европа\", посочи Льо Пен пред репортери на парижкото изложение Made in France (\"Про",
+        "date": "2026-11-14T05:54:43+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246847-marin-lyo-pen-e-gotova-da-se-sreshtne-s-volodimir-zelenski-za-da-obsadyat-finan",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14033118/cfe867c05bb8443cb2be5a04ef0f0f62--0--2655a6c4fcc14bed9edfb38a54aa3bb4.jpg"
+      },
+      {
+        "title": "Куба се подготвя за възможна американска военна атака, заяви президентът",
+        "description": "Куба се подготвя за възможна военна атака от страна на Съединените щати, заяви президентът Мигел Диас-Канел след изказвания на президента на САЩ Доналд Тръмп, възприети от мнозина като заплаха, предаде ДПА. \"Ние сме решени да отблъснем всеки опит за чуждестранна военна агресия срещу нашата страна\", заяви Диас-Канел. Той подчерта, че Куба е миролюбива държава и не представлява заплаха за националната сигурност на САЩ. По-рано Тръмп отговори на въп",
+        "date": "2026-11-14T05:28:19+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246845-kuba-se-podgotvya-za-vazmozhna-amerikanska-voenna-ataka-zayavi-prezidentat",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14049997/20446c20f8da413a92cc535d18e41886--3--6d8d1a8031e041049f34340f5a2eefec.jpg"
+      },
       {
         "title": "Два петролни танкера се подпалиха след сблъсък с мини в Ормузкия проток, съобщи Иран",
         "description": "Корпусът на гвардейците на ислямската революция (КГИР), идеологическата армия на Ислямска република Иран, заяви, че два петролни танкера са се запалили, след като са ударили морски мини в Ормузкия проток, в центъра на конфронтацията между Техеран и Вашингтон, предаде Франс прес. Иран претендира за контрол над стратегическия морски път, през който преди войната, започнала в края на февруари с ударите на САЩ и Израел срещу Иран, преминаваше една пе",
@@ -342,8 +358,8 @@
       },
       {
         "title": "Москва „не е в позиция“ да поставя изисквания относно сигурността на Европа, заяви латвийският премиер",
-        "description": "Русия „не е в позиция“ да изисква отстъпки от европейците по отношение на сигурността на континента, заяви латвийският министър-председател Андрис Кулбергс в интервю за Франс прес. Лидерите на 27-те държави от ЕС, събрали се в Дъблин, отхвърлиха изразеното от Кремъл желание за преразглеждане на европейската архитектура на сигурността. „Европа е военната сила. Европа е многократно по-мощна в военно и икономическо отношение, както и по отношение на",
-        "date": "2026-11-13T21:19:42+00:00",
+        "description": "Русия „не е в позиция“ да изисква отстъпки от европейците по отношение на сигурността на континента, заяви латвийският министър-председател Андрис Кулбергс в интервю за Франс прес. Лидерите на 27-те държави от ЕС, събрали се в Дъблин, отхвърлиха изразеното от Кремъл желание за преразглеждане на европейската архитектура на сигурността. „Европа е военната сила. Европа е многократно по-мощна във военно и икономическо отношение, както и по отношение ",
+        "date": "2026-11-13T21:19:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1246822-moskva-ne-e-v-pozitsiya-da-postavya-iziskvaniya-otnosno-sigurnostta-na-evropa-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14103386/b519f8c2c5eb434e8821a4c5fd69a5d3--0--3fd0e127f3df41dbaf08b45e3618d49c.jpg"
@@ -363,22 +379,6 @@
         "link": "https://www.bta.bg/bg/news/world/1246820-es-opredeli-koi-darzhavi-shte-predstavlyavat-evropa-v-eventualnite-novi-mirni-pr",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14108786/77292ab041e34d43be215be80d55bd4f--0--52b6c1bf2d6e412e9d3cdaf110e8b07d.jpg"
-      },
-      {
-        "title": "Управляващата коалиция в Нидерландия оцеля след кризисни преговори; премиерът Йетен заяви, че са нужни задълбочени дискусии",
-        "description": "Нидерландският премиер Роб Йетен имаше днес неколкочасови кризисни разговори с лидерите на двата си коалиционни партньора в опит да преодолее откритите разногласия в трипартийното правителство на малцинството и да предотврати разпадането му - по-малко от девет месеца след началото на четиригодишния му мандат, предадоха Ройтерс и Асошиейтед прес. Тази вечер Йетен заяви, че коалиционните партньори са се споразумели през следващите дни да продължат ",
-        "date": "2026-11-13T20:15:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246818-upravlyavashtata-koalitsiya-v-niderlandiya-otselya-sled-krizisni-pregovori-prem",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13998321/36ba38caac984f3e9a643ae7e1662837--0--bb1e18d2dcc24110bb71cd5d86ac7f03.jpg"
-      },
-      {
-        "title": "Зеленски обяви, че все още има ограничения в бързината на \"Старшийлд\", които възпрепятстват операции в Украйна",
-        "description": "Украинският президент Володимир Зеленски заяви днес в традиционното си вечерно видеообръщение към нацията, че все още са налице ограничения в скоростта на действие на американската сателитна система за комуникации \"Старшийлд\", които възпрепятстват способността на украинската армия да провежда операции на територията на страната, предаде Ройтерс. \"За жалост все още скоростта е ограничена по цялата фронтова линия и във временно окупираните (от Руси",
-        "date": "2026-11-13T19:56:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246815-zelenski-obyavi-che-vse-oshte-ima-ogranicheniya-v-barzinata-na-starshiyld-ko",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14100837/cf152650ea214a029483329af844111c--0--7bd7a81ec8d04f93aaa3cf32d747e56f.jpg"
       },
       {
         "title": "„Магичен свят“ на Александър Телалим вече е в Арт галерия „Мостове“ - Ловеч днес",
@@ -420,6 +420,14 @@
         "date": "2026-11-13T21:53:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUY2SDFFdGdtV2dBeV9qMlpEWkYwSXV2SFZscC0yaWJMUE53YXBjX2tra28zWC1KQ0ZlQWJjV3J6Z3pDck9kT0NsTmo1STY1ajN1SGoxdEtJZTFsTGVweGxaeVhWVkVoR1BkY2tOSGxiUEJ0bzhCNlFWaGJORzBQQlk4YlhmeEdORlZJYWZfSEx0NnhxLTBlZw?oc=5",
         "source": "БНТ Новини",
+        "image": null
+      },
+      {
+        "title": "SpaceX с амбиция за исторически пробив: Starship ще опита безпрецедентно приземяване - Таралеж: Истината има значение",
+        "description": "",
+        "date": "2026-11-13T20:35:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUljcU5qSWY5YU1nTmhBeF9HTldxV3FnbmI5c013WnRidlVTWVZEQ3dsSloyc01HY1pFdWVZSWJ6N2YtaFBnelNFNVpHS0lvem81dFEzZFBKVUFnbTRsWC1lblFtSXh0aDVCaG9xU0JqdVQxbkN0TlFlQ0M5RWRRNWVRSlo4OVBUWmRxZG81NlNrSVlGVkUySmNyaGoyY0pCM29fdHZLNVdLZU13Yi1KUw?oc=5",
+        "source": "Таралеж: Истината има значение",
         "image": null
       },
       {
@@ -476,14 +484,6 @@
         "date": "2026-11-13T13:32:18+00:00",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDNSQnBqdWNzVWloZzdMQjh6Q1U1N2RqZ2pNVTRGcFpaQ1ZKWGJaTGV3UFVDUHBEVTgxel94MFhDVVh5TFh5WjdFX0xpSDA3UEV4MjBkb1E0VWRKOWxZZ3A1RHZHSU5RR3dTNGRHN3JiMExCcXZ3cTAzNmVOQTFlSEVfT09HdzBWTFc4WGdRLVpKN2dVaVhQX1RRVGhncWh6UllBMEJ2d2dPUUV4RTM4Y1hMMFJUakVoTXRXVDRvYkZmZ2lLTFJkeEtZRnhQZ2dMSEdwanFLRTJ6OXdmTjVRUQ?oc=5",
         "source": "MediaBricks",
-        "image": null
-      },
-      {
-        "title": "Откриха ДНК от смъртоносен вирус в древни ръкописи - Haskovo.Net",
-        "description": "",
-        "date": "2026-11-13T13:29:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUdZMi12b0tvNi1ES3ltSU1ncmZZRXhJbDV3d0lQQU1kZ3piSXdBcjRpYWNJSE1LRVFqYWpORUFGZFE1dVBPaGN0bmRObTlVakVyczI3dFg4aVRyZXYtS3IzNVRvN2U0amJZNVNrODFodmZCYVlIeWlrTmFmYW4tTHBCbFFQaDhHREZxTlJoVEJCdw?oc=5",
-        "source": "Haskovo.Net",
         "image": null
       },
       {
@@ -931,6 +931,14 @@
         "image": null
       },
       {
+        "title": "LG Electronics разширява производството на чилъри за AI центрове за данни – вече в три завода - Cross.bg",
+        "description": "",
+        "date": "2026-11-13T10:16:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWWZKQXBLckZXZlVhb0huNUtfMnZJWjYwbGNrSFl6X3MyeWx1eEVjMGgwOUZaeWdocXZNOE55UjFUbzUwa1k4cGlvS1RHdGhCekhyQ2lNRThxSGhzRExtUGVrVjVleUd3Vnc?oc=5",
+        "source": "Cross.bg",
+        "image": null
+      },
+      {
         "title": "Subaru разработва ново поколение боксер двигатели ᐉ Новини от Fakti.bg - Технологии - Fakti.bg",
         "description": "",
         "date": "2026-11-13T10:14:07+00:00",
@@ -1000,14 +1008,6 @@
         "date": "2026-11-13T07:32:47+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT29rX09zWldieVMwVGlVd01GUzlCRmliWHcyT09Sb0VWdng1cWxKZVNLUHZsTUVHVDAxQ3hEekZ1OEl5elVPeUM0bjRhRVE4UFY3SkpBS2hrMDVCaFRjclJaNERsWFBHM1dEVHdYWkRndkdUc21waWw1ay1pOW9Sd1AxSDhySUtnU2FBdE5CWXE1bEdfX0lscUhDSmhoNHJDQXZvLXEtX19FZG1DZm44X1dqajhpb1ZaMzNZ?oc=5",
         "source": "Dir.bg",
-        "image": null
-      },
-      {
-        "title": "Не само домашни и задачи: Ученици от Велико Търново използват AI за собствени разработки - bTV Новините",
-        "description": "",
-        "date": "2026-11-13T07:29:20+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTYzWTBoMDB0U3UzZE05UnRhSTVPYkVfVHN4SXFQaDJYUDlyaEdrQ3Z5c0t1MGhua3hWZmZYWkprdEE3OW9pQU1Fd0podTFMajNscm5jRE1vYS16dFV1RlNnbm5TTEcwWXAxelUyN1pGdUx2YkE4aXgyU0V3MGlYQU1LQXdYRnYwYk5tbFlzZzJseERrVDhNNkplN3oycHhqMkVkQW0xcmQ5Rm1zVEtTdkxNVU4yUFNGbFJxRkliMzBfX3lxOHVZTjAwZTNSTGp3amFQaDdQSnE?oc=5",
-        "source": "bTV Новините",
         "image": null
       }
     ]
