@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:14:19.110169+00:00",
+  "generatedAt": "2026-11-14T02:14:14.499622+00:00",
   "categories": {
     "България": [
       {
@@ -41,6 +41,14 @@
         "link": "https://www.bta.bg/bg/news/sport/1246823-islandiya-razgromi-balgariya-v-plovdiv-i-ostavi-trikolyorite-bez-shansove-za-i",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14110016/BIB_6611.JPG"
+      },
+      {
+        "title": "Всички резултати и голмайстори от Лигата на нациите - Gong.bg",
+        "description": "",
+        "date": "2026-11-13T21:43:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzU2alRYRHM3VHpxM3ZCS3NxakVRZ1JMWlltbFZ6S3EtUll3eTRSQ2l5bHJKb2Rucl96M0N6N3pvbTY1MTVsNFBkalRTUGw5WDhWTDFLWWJjalMzVkgtbDc2ZlhlRXZUYjlZU3BYRjV6WEV2bDBOaGVRYmRJUkNzb3ByOFJ1eHJkV1lVVmJaMEdFZlhEWENWWjM1azlXTkVmTTFXUGZkLU5jZw?oc=5",
+        "source": "Gong.bg",
+        "image": null
       },
       {
         "title": "Танкер с асфалт потопи пътнически кораб - Новини СЕГА",
@@ -193,17 +201,25 @@
         "link": "https://business.dir.bg/kompanii/mahnaha-shefa-na-kaufland-balgariya",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/13/3047557/384x216.jpg?_=1794596511"
-      },
-      {
-        "title": "Две книги на Николай Табаков бяха представени в София по повод 70-годишнината на писателя",
-        "description": "Две книги на Николай Табаков бяха представени по повод 70-годишнината на писателя в столичната книжарница Umberto & Co. В събитието участваха Митко Новков, акад. Иван Гранитски, Анжела Димчева и Ириней Константинов. Модератор бе проф. Георги Каприев. Заглавията са „Без оправдания“ – сборник с 31 къси разказа, и „На обратната страна на времето“ – мемоарни ескизи, посветени на близки на автора личности, сред които писатели, художници и други общест",
-        "date": "2026-11-13T17:53:16+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1246784-dve-knigi-na-nikolay-tabakov-byaha-predstaveni-v-sofiya-po-povod-70-godishninata",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109425/e3e03d2f415df46a6d6ca76765e2ce8cc214a940d0db26bfda716da2c4439344.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Рубио отправи нападки срещу Международния наказателен съд в реч пред консервативни юристи",
+        "description": "Държавният секретар на САЩ Марко Рубио разкритикува Международния наказателен съд в реч пред Федералисткото общество, като се обяви за твърда външна политика и срещу ограниченията, които международното право налага върху действията на Вашингтон, предаде Ройтерс. Речта му, първата предварително подготвена след тежкото поражение на републиканците на междинните избори на 3 ноември, засили спекулациите дали той няма да напусне постовете си на съветни",
+        "date": "2026-11-14T01:57:08+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246838-rubio-otpravi-napadki-sreshtu-mezhdunarodniya-nakazatelen-sad-v-rech-pred-konser",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14109518/cc4fa1e62ebc4cdfae0ce8d81953cbc5--1--a0d8f4e9b2354a7aacdf89acea18823a.jpg"
+      },
+      {
+        "title": "САЩ губят статута си на страна, елиминирала морбилите, съобщава в. \"Уолстрийт джърнъл\"",
+        "description": "Панамериканската здравна организация е отнела на САЩ статута на държава, елиминирала морбилите, който страната притежаваше от 26 години, тъй като не е успяла да прекъсне непрекъснатото предаване на силно заразния вирус за повече от една година, предаде Ройтерс. Засега международната здравна организация не е отговорила на молбата за коментар. Съобщеното решение на регионалната структура на Световната здравна организация идва в момент, когато САЩ с",
+        "date": "2026-11-14T01:28:26+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246837-sasht-gubyat-statuta-si-na-strana-eliminirala-morbilite-saobshtava-v-uolstri",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14014840/e986972d030d4019a36306c2fedc1a1c--0--bd347702cec5490e987d65aeda28b58c.jpg"
+      },
       {
         "title": "Тръмп ще се срещне с Путин и Си следващата седмица, потвърди Белият дом",
         "description": "Говорител на Белия дом потвърди днес, че президентът на САЩ Доналд Тръмп ще се срещне с колегите си от Русия и Китай Владимир Путин и Си Дзинпин в края на посещението си в Китай през следващата седмица, предадоха Ройтерс и ДПА. По време на срещата Тръмп ще обсъди намаляването на ядрените оръжия, каза говорителят. \"Не очакваме да постигнем каквото и да било споразумение\", подчерта американски представител. В. \"Ню Йорк пост\" вече съобщи за срещата,",
@@ -349,28 +365,12 @@
         "image": "https://www.bta.bg/upload/11056129/f8e49d4e1c5d4e6fab9084c1f35ea717--0--7b8bd26431f540958c175860a8095d78.jpg"
       },
       {
-        "title": "Европейският съюз, Германия, Франция, Италия, Полша и Великобритания ще представляват Европа в преговорите за Украйна, обяви Коща",
-        "description": "Лидерите на 27-те държави от Европейския съюз се споразумяха на неформалната си среща в ирландската столица Дъблин днес институциите на ЕС, както и Германия, Франция, Италия, Полша и Великобритания да представляват Европа в преговорите за край на войната в Украйна между Киев и Москва с посредничеството на Вашингтон, предадоха Ройтерс и ДПА. Световните агенции цитираха за избора на екипа от европейски преговарящи в следващите тристранни преговори ",
-        "date": "2026-11-13T18:07:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246797-evropeyskiyat-sayuz-germaniya-frantsiya-italiya-polsha-i-velikobritaniya-sht",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109649/0f46386758b043fcbd221f0ce08cc3c6--0--95fc68d478a54601a27d15d4b2ed8910.jpg"
-      },
-      {
         "title": "„Магичен свят“ на Александър Телалим вече е в Арт галерия „Мостове“ - Ловеч днес",
         "description": "",
         "date": "2026-11-13T18:00:29+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZmNiT1dyajdxYnhvM3EtdlNmdzJPSFBVYkhMT1k3RnhvV3A2VkNrYlc1QmZKc2lHTE1oaV9kYXprM3VKUzVIMXZ4TEpBVTdxd1B2VUVNbDlUU0pXUlhCcHg3N09sNzd2ZWhaVmg3elZzdmJwZTNTQldDQVlYTHF3RE1TbE9vdmF3Y0NnT1Q3Q3VWZ2Nzd0VxN3pzRGIxbUZXM3RacXFsZTlXUUJmaEs5N2J0Z2FjOEtDVlpyUzNRdHR0UnhrYnRSem4xTkhRRG81RDJWLXZ3QjVaRXowQXZLcjIwdnNPZWFBcV9FSHFPNlJaT0p6eHZOSkdSLUppa0NPZWROdmxrZDBlSXNqV3hycTBwZzRnMDlZeExaZGhRYkZIbjc3MFhpX0dR?oc=5",
         "source": "Ловеч днес",
         "image": null
-      },
-      {
-        "title": "МНС прекратява част от свое разследване за Афганистан, която би могла да засегне американски военни",
-        "description": "Съдии от Международния наказателен съд (МНС) взеха решение официално да прекратят част от разследванията на прокурора относно Афганистан - по-конкретно тази, която засяга предполагаеми престъпления, извършени от американски военнослужещи, предаде Ройтерс. С това решение съдебният състав официално прекратява не само направлението на разследването, касаещо предполагаеми престъпления на американски военни (на практика замразено още от 2021 г.), но и",
-        "date": "2026-11-13T17:50:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246775-mns-prekratyava-chast-ot-svoe-razsledvane-za-afganistan-koyato-bi-mogla-da-zase",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13852073/4ad709cbbe1f42969dd7fc137cf16262--0--01046f7f41994e4db7c24f39780213a6.jpg"
       },
       {
         "title": "Къде да вложим €100 000 в свят на геополитическа несигурност? - bloombergtv.bg",
@@ -389,18 +389,18 @@
         "image": null
       },
       {
-        "title": "Националният музей \"Земята и хората\" представя изложбата \"Ежедневие без критични суровини?\" - БТА",
-        "description": "",
-        "date": "2026-11-13T13:01:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkYxczlhRTJVQnh6TU1sdF9NbWVkUWZMeDRMSUtRTGVzLUphVGwtRmI4QkRfNG5kYUd5d0FTaEVoWllTaXlBbFVCMkV2Sm1HMWJIdGY3Vm81Qlp4cWZxcDBpcURlcU5qQjE1MWFDc3FpSUhmMDNDa3lGMkIzNlhYYnJLdXZrWU9GUmt5YlViYXZWTkxiV09GRlZ1NVZoMlBkRXBpUk1oU3pKdHRENVhyblc0SkhsaVE?oc=5",
-        "source": "БТА",
-        "image": null
-      },
-      {
         "title": "Кинозвездата Никол Кидман ще получи почетната френска филмова награда „Сезар“ - Свят - manager.bg",
         "description": "",
         "date": "2026-11-13T12:06:08+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSW1iRVBCRmV2MFI0dkNDSXVpODJPYWpyeGpJXzlHM3dWYUk4R3BGRE9pRjExRVFSRHR3M3hWYzhYSmVtU3YtN1Rxd0daTFAxNmFzNThLMHVCaDV1dHF6SmRrM2lOYUZ6NGZ1R29KZkF2SWZsWVAtdEVVbHY3NkxWNGlaZmgyUmRtQ2dOUUk0eXVrbzlaQW5sQ1c3bC0yMjN4QWFvMmw2ZmtKV3cyX2pSWm03SFVxekstcDVHSk8wVzA?oc=5",
+        "source": "manager.bg",
+        "image": null
+      },
+      {
+        "title": "Слънцето влезе в пауза и затихна от полунощ, след серия от мощни изригвания - Свят - manager.bg",
+        "description": "",
+        "date": "2026-11-13T11:16:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTVETTVYYzdocVMwZDR3anBvMkNBWlFmV0xQcEVUYzVuUFNjMzVsYUc4dTBNTzZFTmhMaExrRkNkOEtFUmN4SGY5VDVLOWUyUXlPQkJvSE9oZ3JvSS1qaXItRXVtYUtUNHU0Wl9fc042RWFPTG1VdGVrZEJCdkZpQ0dxWE5ZZVRmUnZ1NHhCVzJ1TmdJdXhGbGJTWHRiNHc3b0hnRkx0T01kNkFZTE9KWjZfSTZxaWdoZXEtUA?oc=5",
         "source": "manager.bg",
         "image": null
       }
@@ -492,6 +492,14 @@
         "date": "2026-11-13T13:20:28+00:00",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnb1RiX29seDRmNEUwZS1fQURrb0cxdmhFTVdfYkR0NGdrRmJ0dmYxdVVIWjlPUk9MbWMzMGNqM3hHQnJaQ0dzTUprdFhCOTJBSDBEMGZn?oc=5",
         "source": "Столична община",
+        "image": null
+      },
+      {
+        "title": "Кръгла маса на тема „Ветеринарномедицинската наука и образование - състояние - https://novini247.com/",
+        "description": "",
+        "date": "2026-11-13T13:16:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM3ZRWDNwcmdTWjJJZjR1WXhZZ0ZITGxpMUlIZDF3VFA3S21WdHk1T2s5b1FwMF9wWGpsb0ttc1VxTE0tZ3dUSmNOZjc4SVBub3FTX3RaajR6b0FQMldTUG54ZXhDV2hFbnF0dFNWZ2pWakJiek1xQTd3Y2JCMGg4RC1LSG9PN21HQnRoMTRBdUk0M0l4VzZLU1RPYWRGeEJvbXg3NDcwQzZXdEZJZ0hnLTlrVklFZGpvd3c?oc=5",
+        "source": "https://novini247.com/",
         "image": null
       },
       {
@@ -597,14 +605,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHRQM1FKY0VZdUdjNjFwSExnbjhCYklEdG43Njk2aHA2YzU2NnRPRnBFdlFMNTFsQjNWOXk1MnBIZk1WVnk0TThhYlUzTDRyeWxqX3d4cjlTdWhFTWctVXh2T2xpdFpmVjBHUy0wbEN6OFNRamxLMzV0N3hJQ25lbEVHeXZDNGFkMDRZSDFkZUhaRXRjX0FaalZIeF9ScG8wS3htTDl4Yw?oc=5",
         "source": "БНТ Новини",
         "image": null
-      },
-      {
-        "title": "Велиана Христова събра учени, журналисти и приятели на премиерата на книгата си „Слънцето на науката и политическите слепци“ - СЪЮЗ НА БЪЛГАРСКИТЕ ЖУРНАЛИСТИ",
-        "description": "",
-        "date": "2026-11-12T16:47:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtYzhUWUZMbVBURE1tQnpnR0pLcHhjZW1GaW01bkViUU9TSW5LMXBpb1hSY1BETHl5ZXp2di1lNlhma0x5QVBxb3dsYU14cmVV?oc=5",
-        "source": "СЪЮЗ НА БЪЛГАРСКИТЕ ЖУРНАЛИСТИ",
-        "image": null
       }
     ],
     "Образование": [
@@ -646,14 +646,6 @@
         "date": "2026-11-13T17:11:18+00:00",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWjI5ZnpOb05pTGxETTBPM09tN0V5YjBObUlkU3VnNW9sbTlzd1FsN1JHbnhISnotdEw4VmdRdkh6eVkwd3g4bFdzaUxQWFRwQWNXWkpKaUFtZ3NqUVVzRUs0ZUdXZE52VTVUUDdOYTlTNmplZ28tWVlWOW1adENwamUzZjJnRlMzOGU4Wnl2WVFNS0NrU2duUHRnSE5jdENRbTVCSGlCZVlJcm84eVhXWlJ3aXAyeEY3?oc=5",
         "source": "Новини Разград",
-        "image": null
-      },
-      {
-        "title": "Началникът на Регионалното управление на образованието в София-град д-р Елеонора Лилова откри второто издание на форума „Лидери в образованието“ - Утро Русе",
-        "description": "",
-        "date": "2026-11-13T16:55:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpYVFxSUhtS1VhWjNUNUUwOHVPSW96SkJoclNlczlIeUJQNU1jbmRZcEFqTURtVDA4UWhsOGdFSXpEbXQwbS1JVkFQQzduUdIBSEFVX3lxTE5sbUlzTk5ITnN2SVpyd1p4NnhtZlNIUWduaGNTUHJNNXVnMW45NjVqcXlzQUFNQXNQcHVEa09VbnNKRzN0VzdMZg?oc=5",
-        "source": "Утро Русе",
         "image": null
       },
       {
@@ -769,6 +761,14 @@
         "image": null
       },
       {
+        "title": "Синдикат „Образование“ започва проверка на стачната готовност - Делник БГ",
+        "description": "",
+        "date": "2026-11-13T13:21:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYndfVk5RWW1ZbWpEX1ZGREs4N2pxa2tFUGZJUTVqSzNkUWZPVkNabEZvV09QQWV3X0dDNDQwdVIzdjJMNDVnRExUTEp1VlY2TGg0ZWJiRzFJSEVlN1pqb3BEUzVhbHFDUlktcmU2TnNvRFJXeTJyWnQwWEYtRHJIeWEzVm9jR0FULXNPSkJyQkxfMlUxSkM1LXBzc3QyWU5Fejc1ZF9UdlBRWHk5ZnF3ZTBSQnYwRjFoVzFpNFF1Z01LZTVzbG0tcWpMaW1SU1VpdmlHX05Gd3VCMzdFMlM3YVVUVUlFRzRtRnM2Q0xWOGl2RWl3cnhvT010TWF6cVlWLW9sNUg2OE5oZFBYWW1EbjBaN2tvOUoza29SWm4wMFZ2cE9mYUlIT3YyU0UwOE9LRkcxTmVTTFFNd0tJXzc3MXpfX1BjU2VzdjltcE5EVWk?oc=5",
+        "source": "Делник БГ",
+        "image": null
+      },
+      {
         "title": "Меморандум за сътрудничество в професионалното образование беше подписан в Северния централен регион - Делник БГ",
         "description": "",
         "date": "2026-11-13T13:18:00+00:00",
@@ -785,11 +785,11 @@
         "image": null
       },
       {
-        "title": "В Бюрото по труда в Шумен са обявени свободни работни места за лекари, шофьори, механици, електротехници и други специалисти - Делник БГ",
+        "title": "В Бюрото по труда в Шумен са обявени свободни работни места за лекари, шофьори, механици, електротехници и други специалисти - Утро Русе",
         "description": "",
-        "date": "2026-11-13T13:11:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQQkJ2aGtBWmZ0S0FxWkVrTERvV0wzb1FmUzZjMEtGREhPZ0Z3bjJZQUxBaWd2OGlYQnF1MktrUnNZelZtN09qb1BZWk5oTkV5ZUVrcVRPdjZPT2FmTk1USnJpVEZfTVBrOXBKT2ZaV1VXYXdhbHlOWHdRczNpQzlCeG92cklmWTdWYkdJRlBKOXpwb1lUTlhmZURNR1VFTElWRGwxZmZiUzRVNlZmUEJ2YXhmQzF0OWZBM0x6eW5lZGpQTW1NY3Nwa0JYU3liblNTenliU2d1Q3VQc0htS2ZNRTFFOXJlaU1aNHluRTdQS1ptamo5bzBuWkV3VGtvdnlnRlBUS1BjTmcxTjFqNERSWEZRcTZZZi1yc1EwLWVXZlhNOXV3N2VOTGJJSW9LcEtMdGp1amF2M1pKVWJEYzdDVmhhTFltblRNa3BEUWg0eGJPUQ?oc=5",
-        "source": "Делник БГ",
+        "date": "2026-11-13T13:11:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ISWFxWlhCZXAzOGNnbVFMa2IwWk1Ycm9PM2hrNDNKbF9veHA0cVlabU5uMEFSTkJsVEZ4Y3NwdUFZeEhUQVZEWGxvY1BhZ9IBSEFVX3lxTE9QRkJJN0RZMlg3aDN6dTlTZHdIbnI0VDdSWXotZDBNTExJWnY4VFJMaDVKcnZJUGU5N0dPUm4ya2RGdHJfS1ZpZg?oc=5",
+        "source": "Утро Русе",
         "image": null
       },
       {
