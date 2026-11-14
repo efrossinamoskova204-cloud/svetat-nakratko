@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:01:23.922604+00:00",
+  "generatedAt": "2026-11-14T04:00:29.028855+00:00",
   "categories": {
     "България": [
       {
@@ -27,20 +27,28 @@
         "image": "https://static.dir.bg/uploads/images/2020/05/25/2011180/384x216.jpg?_=1590388454"
       },
       {
-        "title": "Исландия разгроми България в Лигата на нациите - Dnevnik.bg",
-        "description": "",
-        "date": "2026-11-13T22:03:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNUhfRUlKZ0t4QkJnQmFuNWNqaWhZMU5GYmc0ZkpaTWtKejJqbmhkUmRlY3BvWDY4Y1B3NTJMSmZ1WDNjOTZTMUl3UUdPOUs0Ynh0ZFpzRmVUUk5PYS1hc01FUU5mWHVHR1JqWWRTQmljQzlfWlZ0T3NDSjFSNHlNY0FrYUdicGpaRmg2ZTBGam56NnlzbmNQX1ZfLXl5dEpoMk51bmdQbw?oc=5",
-        "source": "Dnevnik.bg",
-        "image": null
-      },
-      {
         "title": "Исландия разгроми България в Пловдив и остави \"трикольорите\" без шансове за изкачване в по-горна дивизия на Лигата на нациите",
         "description": "Турнир на УЕФА Лига на нациите, пети кръг от група 4 в Лига С между националните отбори на България и Исландия: България – Исландия 0:5 (0:2) голмайстори: 0:1 Адри Гудьонсен 17 – дузпа, 0:2 Ори Оскарсон 22, 0:3 Емил Ценов – автогол, 0:4 Адри Гудьонсен 68, 0:5 Адри Гудьонсен 79 стадион: „Христо Ботев“, гр. Пловдив главен съдия: Флориан Бадщюбнер (Германия) жълти картони: Кристиян Балов, Андриан Краев (България); Хьордур Магнусон, Хакон Харалдсон (",
         "date": "2026-11-13T21:45:53+00:00",
         "link": "https://www.bta.bg/bg/news/sport/1246823-islandiya-razgromi-balgariya-v-plovdiv-i-ostavi-trikolyorite-bez-shansove-za-i",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14110016/BIB_6611.JPG"
+      },
+      {
+        "title": "Всички резултати и голмайстори от Лигата на нациите - Gong.bg",
+        "description": "",
+        "date": "2026-11-13T21:43:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzU2alRYRHM3VHpxM3ZCS3NxakVRZ1JMWlltbFZ6S3EtUll3eTRSQ2l5bHJKb2Rucl96M0N6N3pvbTY1MTVsNFBkalRTUGw5WDhWTDFLWWJjalMzVkgtbDc2ZlhlRXZUYjlZU3BYRjV6WEV2bDBOaGVRYmRJUkNzb3ByOFJ1eHJkV1lVVmJaMEdFZlhEWENWWjM1azlXTkVmTTFXUGZkLU5jZw?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
+        "title": "Исландски вулкан изригна на \"Колежа“ и изпепели безпомощна и отчаяна България - БНТ Новини",
+        "description": "",
+        "date": "2026-11-13T21:41:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmdKM2ZJLVhWdUlSSmRRWVFNclVJNC01T3d2MTlwRjN2UTZ3Y09LR25WYkhRX3l3Y0hKSFlmZ2xDUnJmb1QzbTdLQ3NxMnBJalp0eWp2R2UtUTVxV0pkakFBeXJoLWFPSk0tX3ZBQ1FNUFVXMFlkOE1aOE8zYWtIWEstSVFWM2pWRV9YYkZXVFlIbk15WWpId0JkWnpCVm5UU1ZCNGFiNjBKUWdUT1c5dDRtRTQwelZLTHVUMWU1QQ?oc=5",
+        "source": "БНТ Новини",
+        "image": null
       },
       {
         "title": "Танкер с асфалт потопи пътнически кораб - Новини СЕГА",
@@ -131,6 +139,14 @@
         "image": "https://www.bta.bg/upload/14109735/369A2935.JPG"
       },
       {
+        "title": "Пет водещи държави и ЕС ще представляват Европа на преговорите за Украйна - nova.bg",
+        "description": "",
+        "date": "2026-11-13T19:09:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQMkF0TXdLTENXNHd1T1Jzb3JqR3ZsbDlaVFJHRXRjaDdWZmoxUU1NVjFnVjBZMjZkOE5nZXBIbXk0eEJOci03N1dxVDVyYnhYM2xnb0xnaFowWGI4UjRXdnozUXJ2a0YySU9MM3VWYmlFS2UwSkNVd09wSEpnREFnNVB1STVNaXByQnZDQ0JUbVpDc3dfTGtTcFZOX280cmJOaWFnV012cFdSN1pVMzhnT1BaUTJ5eXhGRGpqZkJRZDRSWVVoajF2ODVqallVdTZJWVp3Zy1DZ01MbGJwTVZnU2xQc0w4TzdXd1l2dFhHVVIzV1VWdVVlajFfU01DZEtacDlweW1VNUZMVGNaM2pmM2dmSmJ4a3NaUDJjRUdSbmo4aHNZNl9WVkhmbDVpR3BmVENPbTdqQ0tjUVJoTEQtc3BpYzd3OGlKdm5vUFRpN2FHUjBWZmI2UWNnYVBZUmlxenVleEhXbDl3cmhWUGVUNTg0S0h5TThmeWU1X0QzLUJzb0VweE5zek41dnM4c1NIYkpGTkZ0N251VU1ibGpOVWJDbjRNMlJURzRteUs2ZGpxb3ZKX3JPbGVCdEp5QTVIdUkxU0xZWTFvM3ptc3V3cWowMmhlbDlBZmJ1NHJ0ZUxLUDhaSWV2Y19PdktSNmZycXJ0WFFfMFRySUxDN1NoYUE4aUhxVGtNSFdpdXFBSHZFTUt4emI2a1dkeWF0T1Q1ZFlEeGo3WVJvOUU0YXZNTXk4bXltVU9uNGY4eXA4bnkwdGk0cTg3R2tuTzZRdUp0YWUyMHFidw?oc=5",
+        "source": "nova.bg",
+        "image": null
+      },
+      {
         "title": "\"Билд\": Бруталните искания на Путин към Европа",
         "description": "Русия изисква Финландия да напусне НАТО и алиансът да се откаже от базите си в балтийските държави",
         "date": "2026-11-13T19:05:00+00:00",
@@ -185,25 +201,25 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGFNY01OemlDYlNjSmhrVHZDNWd0ejRlanJpelFFSTFNUWQ5Z0VBWTMyY2dYaUtGaHdYQzB5cE90UFBPVk9VUzF0OWpkNUt2cnpUQkRYdFppYXN5cGRpaUxpMXo3VTE5RExxTWFpT2ZUem1lcDRBb0xUOU1oakFHcWJteHJPOG9HUktxX002ZHFrWG1oZC1jQ0NnT0JRTXFILXJlcDR0emVoZkx0dThIM0lB?oc=5",
         "source": "www.capital.bg",
         "image": null
-      },
-      {
-        "title": "\"Кауфланд\" смени шефа си в България и се извини за думите му",
-        "description": "Председателят на Управителния съвет Михаил Петров напуска компанията с незабавен ефект, поста поема Петя Владимирова",
-        "date": "2026-11-13T17:56:00+00:00",
-        "link": "https://business.dir.bg/kompanii/mahnaha-shefa-na-kaufland-balgariya",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/13/3047557/384x216.jpg?_=1794596511"
-      },
-      {
-        "title": "Две книги на Николай Табаков бяха представени в София по повод 70-годишнината на писателя",
-        "description": "Две книги на Николай Табаков бяха представени по повод 70-годишнината на писателя в столичната книжарница Umberto & Co. В събитието участваха Митко Новков, акад. Иван Гранитски, Анжела Димчева и Ириней Константинов. Модератор бе проф. Георги Каприев. Заглавията са „Без оправдания“ – сборник с 31 къси разказа, и „На обратната страна на времето“ – мемоарни ескизи, посветени на близки на автора личности, сред които писатели, художници и други общест",
-        "date": "2026-11-13T17:53:16+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1246784-dve-knigi-na-nikolay-tabakov-byaha-predstaveni-v-sofiya-po-povod-70-godishninata",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109425/e3e03d2f415df46a6d6ca76765e2ce8cc214a940d0db26bfda716da2c4439344.jpg"
       }
     ],
     "Свят": [
+      {
+        "title": "Майкрософт изрази \"дълбоко съжаление\" за глобалното прекъсване на услуги и съобщи, че причината е отстранена",
+        "description": "Компанията Майкрософт заяви, че \"дълбоко съжалява\" за глобалното прекъсване на услугите, което наруши функционирането на електронната поща, срещите и други важни инструменти, като добави, че е отстранила основния проблем и възстановява услугите за останалите клиенти и региони. Американският софтуерен гигант посочи като причина \"технически проблем\", възникнал по време на по-ранно разширяване на капацитета на мрежата, проявил се след неотдавнашна п",
+        "date": "2026-11-14T03:58:20+00:00",
+        "link": "https://www.bta.bg/bg/news/economy/1246842-maykrosoft-izrazi-dalboko-sazhalenie-za-globalnoto-prekasvane-na-uslugi-i-saob",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14094307/0d078cea8def451bbb1c6ee44fe94e5a--0--d822c6cb56004c2f83527037fcafbc59.jpg"
+      },
+      {
+        "title": "СпейсЕкс не успя да улови ускорителя на ракетата си по време на изпитателен полет",
+        "description": "СпейсЕкс претърпя неуспех при поредния тестов полет на гигантската ракета Старшип, след като първата степен падна в морето и се запали, вместо да бъде уловена от стартовата кула, както беше планирано, предаде ДПА. Компанията на технологичния милиардер Илон Мъск се надяваше за първи път да улови и двете степени на ракетата с механичните ръце, монтирани на стартовата кула. Вместо това долната степен извърши контролирано приводняване малко след изст",
+        "date": "2026-11-14T03:22:09+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1246841-speyseks-ne-uspya-da-ulovi-uskoritelya-na-raketata-si-po-vreme-na-izpitatelen-po",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14110705/ed7cfbfcf0944124afa36c5d47f2930e--0--10cb77100a3147019e458c0df33e1614.jpg"
+      },
       {
         "title": "Контейнеровоз и круизен кораб се сблъскаха в Ню Орлиънс",
         "description": "Танкер се е сблъскал с круизен кораб, акостирал на кей в пристанището на Ню Орлиънс на река Мисисипи, всички намирали се на борда на корабите са открити, но 32 души са приети в болница, предадоха Франс прес и ДПА, като цитират компанията оператор на плавателния съд и кметицата Хелена Морено. Нито един от 32-ата пострадали, намиращи се в болница, не е получил животозастрашаващи наранявания. Кмет Морено определи това като \"истинско чудо за Мисисипи",
@@ -277,6 +293,14 @@
         "image": "https://www.bta.bg/upload/80084/f9dfdf3fffa74e9badf08a374297248b-f9dfdf3fffa74e9badf08a374297248b-51d53c31743945abbfe31166a4fd2387-e195c.jpg"
       },
       {
+        "title": "Извънредно положение в САЩ! Спряха всички полети - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-13T22:07:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd0g3MUZQN0liRGV5U0lmeUM2OExtQkVkUWQ4bzduUllCdFFRVlVrSWdKZ1ZUOWo4Ym05MlhhOVpjNzNzZzNDLTRvUDJsLXd2OGswVURQNk8xN09GMGcwVnVQM01DZy14djl4MjBKaUVKUnBja3JxOWN2RFVxdlhuY1FpZHRpVnJHYllGcGhJNGVoMDBNQ1RhR0dSd1pZTjlZ?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
         "title": "Климатични активисти предупредиха за надвиснал „ад от горещини“ на конференцията КОП31 в Турция",
         "description": "Активисти от движението „Петъци за бъдеще“ (Fridays for Future) организираха днес демонстрация по време на Конференцията на ООН по изменението на климата (КОП31) в Турция, като призоваха за по-амбициозни действия в борбата срещу глобалното затопляне, предаде ДПА. Един от основните организатори и говорители на движението в Германия Луиза Нойбауер заяви, че на хората в залите, в които се водят преговорите на КОП31 не може да се разчита. „Те създадо",
         "date": "2026-11-13T21:58:00+00:00",
@@ -313,14 +337,6 @@
         "description": "",
         "date": "2026-11-13T21:15:45+00:00",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXy1wUlY2SW95QlI5ZnFuYUVELVFaTHM1M3pvSkNZN1hlYUdlOFJ6aVNFXzVZR1BtVXMzWjNnc3Nlc2t6ZHRtMU9saHNDeXFiMExhallOOUp6R0pvXzBVOHFLUjZGbE5oek8zb3pUaThYZkZfdVUzZmx6akM5eWthWXU0NWwyZC1XUTlRWlR4cXQyZw?oc=5",
-        "source": "Стандарт нюз",
-        "image": null
-      },
-      {
-        "title": "Вече официално. Дъщерята на Путин роди от Зеленски - Стандарт нюз",
-        "description": "",
-        "date": "2026-11-13T20:57:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWtuN2NYeERsVXYwLVp5SHQwdkdkTHVIUTVFZGExeTZtUUU2NWRQVWxOYXd1b0Qwa1p3ZmE2WWR0T0FnUGd1V3cwR29ETmIwWVlLcldVSk5UMFlkRkZkVDhOdnRZU09DM1Zpdy1pbFNQQWltelVWOWxKck05V1NxXzF5ekVrZmhVUmY4NkFTUDlGS2tFZWh3RmI3d1RwcnlfSkE?oc=5",
         "source": "Стандарт нюз",
         "image": null
       },
@@ -371,22 +387,6 @@
         "link": "https://www.bta.bg/bg/news/world/1246798-prezidentat-na-polsha-karol-navrotski-za-vtori-pat-nalozhi-veto-na-zakonoproekt-",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14053548/d60a7242a16b4aefa8918e986046c2e4--1--7b0605eff84e48fcb59ad29ea1f87219.jpg"
-      },
-      {
-        "title": "Папа Лъв отслужи литургия пред около 1,5 милиона души край перуанския град Чиклайо",
-        "description": "Папа Лъв Четиринадесети отслужи днес литургия на открито пред огромно множество вярващи край град Чиклайо в Северно Перу, предаде Ройтерс. Светият отец, претърпял операция от рак на белия дроб, благодари на Бог, че е жив и отново може да се срещне с хора, които някога го познаваха като свой епископ, допълва агенцията. Литургията беше централното събитие от 12-дневната обиколка на папата в Южна Америка. Според оценки на Ватикана около 1,5 милиона ",
-        "date": "2026-11-13T19:09:00+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246788-papa-lav-otsluzhi-liturgiya-pred-okolo-1-5-miliona-dushi-kray-peruanskiya-grad-c",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14109385/70d6f7fb2e334a0681f596c48286b262--0--523d4e97f81e43c18e281c58bc40d94d.jpg"
-      },
-      {
-        "title": "Москва отрече да е постигнато споразумение със САЩ за участие на европейски държави в преговорите за Украйна",
-        "description": "Министерството на външните работи на Русия заяви днес, че не му е известно да е постигнато споразумение със САЩ за включване на европейски държави в преговорите за прекратяване на войната в Украйна, предаде ДПА. Така Москва постави под съмнение вчерашното изявление на американската страна, че Русия и Украйна са одобрили европейското участие. \"Доколкото е известно на руското министерство на външните работи, този въпрос не е бил обсъждан по време н",
-        "date": "2026-11-13T18:46:20+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1246803-moskva-otreche-da-e-postignato-sporazumenie-sas-sasht-za-uchastie-na-evropeyski-",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/12027645/8cd9e56dfd934d7fad8e1a9503f0bce1--0--5f24bf7a67304f70b6a96b51e119e5b7.jpg"
       },
       {
         "title": "„Магичен свят“ на Александър Телалим вече е в Арт галерия „Мостове“ - Ловеч днес",
@@ -471,14 +471,6 @@
         "image": null
       },
       {
-        "title": "Почина проф. Георги Балтаджиев - Zdrave.net",
-        "description": "",
-        "date": "2026-11-13T14:03:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOdnp5NERYdzYzc2s4STB2SFhHdGFtOU1ZTUVkR005TUdkdFdrZXBpa2RUU3RFUmlidmpEZ3hUMThJZzlHQ1R4OWIwd1Z2MGRhZ1NZN1ZhOHZGVWRoT0xzLUZtYmUtcVRKUm1kNGdPNUtFZ3puemUwRFRrZmUxNDhIM2g1a0dWNFdRbE5ua25hOElwWW1TU0dEZkh1c3BPYkotcjUyUXRic3hlT1VzZGE3b1lWM3psTjcybTh3UXlOazN5Ql90YXlYaUZNSGNIZDJqbXZ6RFAtbmhCMElFUEp1cjU1R0NHckgyMEsxVmJyc0VHYVI4Z0EwU0hDRE1rdU1CWmhhUkpNR0lTNUlYd0VQRl9uMUkxOFd4a3E0cnJyT1NzZkVGWlpVSDhraHB3WjUtcTFOMzg5YURxWGNRVEdZem1EZ0NnSWlIWFFF?oc=5",
-        "source": "Zdrave.net",
-        "image": null
-      },
-      {
         "title": "Стотици ученици и граждани посетиха Есенния ден на отворените врати на Физическия факултет на Софийския университет - MediaBricks",
         "description": "",
         "date": "2026-11-13T13:32:18+00:00",
@@ -524,6 +516,14 @@
         "date": "2026-11-13T13:07:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPU2p2TU1lOUJoam8wZGhRaEdMOVdLY2JJU09seVdUMy15S1RfY2xlYy11ZGpDZWhXTEJ0MnYtR3J1eExqcEoxY3ZwakFHR0Y5U2FPRW9MTDVjWWJncjJUUXZGWU5kS202ejN1dU0xOHhmcnlOemdtTXo2ZDdSQTJnS2YxSVMtUnk2RlBZS2VJT1RmQ0hEbW50U3ZtcklKQnFzQUZRT2hmSkVWMk0tN2JYVUVzanFVd1VWS3l5b013SnVQOGljSnZLYm4yeGYzQkR0X3p2OWlxenlfcElDQ1gzTVhucDFLM2E2UlpwUklHNUJvdjN3Ql9DTlhWZ2J4TFBRLU5qbDg1d05qallKN3dBcms1bUY1Q29UX3pqZVhsX1NXdk5zQWo1ZEJqZVBaUkRKSEJzWlZIN1ExYk92SHBDLWFsU0gtVDU4eVFNVXNyVGRkMG8?oc=5",
         "source": "Делник БГ",
+        "image": null
+      },
+      {
+        "title": "Почина проф. Георги Балтаджиев - Clinica.bg",
+        "description": "",
+        "date": "2026-11-13T12:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pOUo2Y3BPc2J1OHl2dk5NYWVBLXRfb2ZvdnF3YnY5c0loeXhhQmRSY3UyYVlyV012MDdnOHNaS3plQmJkaGItZklhODNwWnhjbFZFX1RfbmdBVkZxRWdxeUgxZ3RIZw?oc=5",
+        "source": "Clinica.bg",
         "image": null
       },
       {
@@ -827,6 +827,14 @@
         "image": null
       },
       {
+        "title": "Огромен интерес: Бизнесът поиска пет пъти повече пари за зелени технологии - FlashNews",
+        "description": "",
+        "date": "2026-11-13T17:37:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ1Awd19WanAtaVlneXQ2T1hFU2lweEVCbDVidlA3Vm9CVlFERDBGbk5BdEN1MFZVcExHM1hzRmd6VGJpOXFYdDR3eHN0S2J3emdaM2FZa0lEa0hhbDFMMmNiZmFSN1gyQ1JzTWc0alowYS16bnNYRWhzbW9MOTdaYlVSdjRXbUFFamFndnp4d2JfRFVFN0lOTzBNYWdaOVJHY2c?oc=5",
+        "source": "FlashNews",
+        "image": null
+      },
+      {
         "title": "Пясъкът, глината и ръждата могат да се превърнат в основата на енергетиката на бъдещето – WEF посочи 10 перспективни технологии - Kaldata.com",
         "description": "",
         "date": "2026-11-13T17:06:19+00:00",
@@ -907,11 +915,11 @@
         "image": null
       },
       {
-        "title": "Черен петък със Samsung: до 44% отстъпка на най-новите технологии - HiComm.bg",
+        "title": "Черен петък със Samsung: до 44% отстъпка на най-новите технологии - HiComm",
         "description": "",
         "date": "2026-11-13T11:00:28+00:00",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDdVczliNWNIVXIxcHdsWjZpZjFsX1pYaXhBQUU4S3d1d1VHZmhlWnU4ZU1fSTBaaUIxMFRlM0pZTVY1VGVkM1pjS3JZeXNMRWZKYWs4VGFldXlZR3hzWllPcC1HR0o2QlJWRHhHN25KeFhmVnlhbkdDUGk5QnNla0gxSGd6S194WUkzZDg3OTYzMm1RNFJheg?oc=5",
-        "source": "HiComm.bg",
+        "source": "HiComm",
         "image": null
       },
       {
@@ -1000,14 +1008,6 @@
         "date": "2026-11-13T07:29:20+00:00",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTYzWTBoMDB0U3UzZE05UnRhSTVPYkVfVHN4SXFQaDJYUDlyaEdrQ3Z5c0t1MGhua3hWZmZYWkprdEE3OW9pQU1Fd0podTFMajNscm5jRE1vYS16dFV1RlNnbm5TTEcwWXAxelUyN1pGdUx2YkE4aXgyU0V3MGlYQU1LQXdYRnYwYk5tbFlzZzJseERrVDhNNkplN3oycHhqMkVkQW0xcmQ5Rm1zVEtTdkxNVU4yUFNGbFJxRkliMzBfX3lxOHVZTjAwZTNSTGp3amFQaDdQSnE?oc=5",
         "source": "bTV Новините",
-        "image": null
-      },
-      {
-        "title": "Новите технологии дават надежда на децата с диабет: Водещи специалисти се събират в Пловдив - Novinata.bg",
-        "description": "",
-        "date": "2026-11-13T06:53:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUw0Q1p5LTlCei1pUVdYSF8wU3FVSmtJYWs0YnBuUW85NEc2UTd6S09JZVluMzZ5a1pFeHJXZ1BjRWREajE0R29BcmJhY2xqZkxQUjhDNFd3V2tGVFpYX0lObHpjaWk3VW8zS19JT0UxLWJ2VzM3UzYtSjVRbkxmU2tFdXRiNndwNXhTVE9OX1dRaHBfSHp3bVVORnNkcHREbEdnQ0ZzMlo2VDlwVnh2WEExdU9YUEJQb1FMWEF3?oc=5",
-        "source": "Novinata.bg",
         "image": null
       }
     ]
