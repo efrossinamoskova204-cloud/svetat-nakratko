@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-11-15T19:59:08.494071+00:00",
+  "generatedAt": "2026-11-15T23:58:20.697358+00:00",
   "categories": {
     "България": [
+      {
+        "title": "Карбовски за казуса с ДАНС: Не съм ченге, Ива Михайлова попадна в журналистическия змиярник",
+        "description": "Това беше акция на ДБ и Цанов - комбинирана, добре премислена атака, заяви и журналистът Явор Дачков",
+        "date": "2026-11-15T22:52:05+00:00",
+        "link": "https://dnes.dir.bg/obshtestvo/karbovski-za-kazusa-s-dans-ne-sam-chenge-iva-mihaylova-popadna-v-zhurnalisticheskiya-zmiyarnik",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/11/16/3047871/384x216.jpg?_=1794785942"
+      },
+      {
+        "title": "Англия разплака световния шампион в спиращ дъха дуел - Gong.bg",
+        "description": "",
+        "date": "2026-11-15T21:54:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDNfcDVvNXJDU29YRWpxQ29ibHV3Y1V0b3EybGJvWVpXSjNMbklIZm1sQXl6Wjh4VEs2bGo4dXc2REJMRnNwY1pPT0ZFRV9mUmRudURMY29WYzBQMk84YWFmSlN0ZkhDeGJpYzJWYW5XR19xbG92czNqU0htX0NTOFpIQmUwamFnV0dPOGVBOGJJNnBFU0FvUlo4NA?oc=5",
+        "source": "Gong.bg",
+        "image": null
+      },
+      {
+        "title": "Москва отговори на Естония: Намерението за затваряне на границата е необуздана русофобия",
+        "description": "Мария Захарова осъди намерението на държавата",
+        "date": "2026-11-15T21:25:50+00:00",
+        "link": "https://dnes.dir.bg/svyat/moskva-otgovori-na-estoniya-namerenieto-za-zatvaryane-na-granitsata-e-neobuzdana-rusofobiya",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2025/07/30/2899697/384x216.jpg?_=1753883134"
+      },
+      {
+        "title": "Театър „София“ отбеляза 60 години с премиерата на „Не свиква с тъмното окото (Корени)“",
+        "description": "Театър „София“ отбеляза тази вечер 60 години с премиерата на „Не свиква с тъмното окото (Корени)“. Това беше първото представление в голямата зала на културната институция, отворена след почти петгодишен ремонт. Спектакълът с режисьор Маргарита Младенова е по текстове на Йордан Радичков, Иван Радоев, Иван Пейчев, Стефан Цанев, Валери Петров, Веселин Ханчев, Георги Марков, Боян Папазов, Константин Илиев и Първан Стефанов. Заглавието препраща към „",
+        "date": "2026-11-15T21:22:35+00:00",
+        "link": "https://www.bta.bg/bg/news/lik/1247379-teatar-sofiya-otbelyaza-60-godini-s-premierata-na-ne-svikva-s-tamnoto-okoto-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14116925/3.jpg"
+      },
+      {
+        "title": "Зеленски обвини SpaceX, че ограниченията в Starshield са улеснили руските удари в 8 области",
+        "description": "Министерството на отбраната на Русия съобщи в изявление, че през нощта е свалило 533 украински дрона над десетки региони на Русия и анексирания Кримски полуостров",
+        "date": "2026-11-15T21:11:11+00:00",
+        "link": "https://dnes.dir.bg/svyat/zelenski-obvini-spacex-che-ogranicheniyata-v-starshield-sa-ulesnili-ruskite-udari-v-8-oblasti",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/10/08/3034133/384x216.jpg?_=1791466333"
+      },
+      {
+        "title": "След \"Тракия\": Подготвят план с 31 мерки, сред тях AI за опасни водачи и ограничения за мощни коли",
+        "description": "Министерството на транспорта предлага и въвеждане на полигонно обучение, при което младите водачи да придобиват практически умения за реакция в опасни ситуации като аквапланинг и мъгла",
+        "date": "2026-11-15T20:38:56+00:00",
+        "link": "https://dnes.dir.bg/politika/sled-trakiya-podgotvyat-plan-s-31-merki-sred-tyah-ai-za-opasni-vodachi-i-ogranicheniya-za-moshtni-koli",
+        "source": "Dir.bg",
+        "image": "https://static.dir.bg/uploads/images/2026/09/15/3026104/384x216.jpg?_=1789460254"
+      },
+      {
+        "title": "Внушителен протест в Прага срещу опитите на правителството да постави обществените медии под контрол - Mediapool.bg",
+        "description": "",
+        "date": "2026-11-15T20:17:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWDJLeUt4RUVweXlTd1h1bWFzSXowTF9HVzJOYW1oOG9yZ2JLSHlsWEhxVnpuOFZ4WldwWjVUNExweGtGNWdsakVxcGlPZVg4TFF1ckJYMFhvcWNMNlpQc05Ed2ZLeV9lcEdvZ0s2SHJCeXFxZlhENjN4V3hYZkVVZTZteWZhbW12RWIzckZoUlNuVzN1eVdvdDlXMmIxbm04a2JvajY5TEdQMWRHNmRFeVBZc3ZDRTFWU3dIVS1HQzNINnBIMWN3TnhaWmdoR1ZxWVREZg?oc=5",
+        "source": "Mediapool.bg",
+        "image": null
+      },
       {
         "title": "\"Катимерини\": Гърция доставя електроенергия на България през деня, за да я купи обратно вечерта",
         "description": "Батерийни системи с капацитет над 16 гигаватчаса и бумът на соларните паркове позволяват на страната ни да печели от ценовите разлики, показва анализ на ЕК",
@@ -17,6 +73,22 @@
         "link": "https://dnes.dir.bg/svyat/gazova-butilka-se-vzrivi-na-koleden-bazar-v-belgiya-ima-tezhko-postradali-snimki-video",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/15/3047839/384x216.jpg?_=1794774586"
+      },
+      {
+        "title": "Взрив на газова бутилка рани петима души на коледен базар в Белгия (ВИДЕО) - nova.bg",
+        "description": "",
+        "date": "2026-11-15T19:07:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOM25OREZJb3pTbnc4SnNvTTk1Um5nWm9kRjVPTWgzWXBrOEZnbUtsQjNRcnlZaW14aXZ2dU1pSi1sUnpaekxkZEhtbl9selBobFhsdUU1ZzVWZUZlVjBTSmRmam5EX0pHMzJ0OWVXMnp6OUpyTU1Jc1ZLVUVHMnEwRjhKOWZYUlBGaGR5WnZCdHJWdjNtZzEyRF81cGZ0R3VOSVp4NjNaY3RIeGx1NG1xM2MyZ3hRaGZrcV8tNTZqa29HTUpzLWloc0lBTkhQbGJhMFpUMXI3WTdtU01HQjRjT1Y5TkdxU0FONXUzM1pod3Z3QjB6RGdfazhsRk5Ta0p5SlVhTzNaVm9URHhyRXZsSVppTUpoVHJiT1NwQmVsdmkxRmRtVjF1NmNrNDJMWFYwaEZOTGlvMC1ZbDljU0ZVc0F5MWRKcHB4aGtvY0RYYnpLUm52Ri1SZ05MNl9PY1pKTmVmUjRaWTAwWFVSWUFIUV96MERTbUx4cE9zT1RhbGJiYXNYSWRjX3pEWGw0d3BGUXhWSjVMdkdKTkVISXpjOFpGQ3QzM0RqMUNhTkc1SzlJenRkdzlwUk1iNExGVUgtdDVBQno4NGE1TW95TzBsTkVCNi1Lc05IT1dMRFRBQ0tVYjM0MGZGUGJ3aVhGNEtfTmJuclhfbmpJaUtCcWtCTXBvbk9XZU1zMy1NMUlveTMzZjVuYTBvNTVUWUFkRHZKRHFtRFM3b1RlOHhVclBxUlRYQmhONmNyWjRMWGxRaGNVSnpSMTVLdQ?oc=5",
+        "source": "nova.bg",
+        "image": null
+      },
+      {
+        "title": "Константин Проданов: Бюджет 2027 няма да бъде изтеглен и пренаписан - bTV Новините",
+        "description": "",
+        "date": "2026-11-15T18:46:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQTdMbUlvaFFackFocmR1cUp3dGMtS1JaWW84WUs2WFZWWE1TZmU5b1JRYUZ3T0t4SklkMU5NVkdnZlNDa0ZJeEZ0Q2l4OHRjWXFDeE5iU2NZVF9RdlhoRjNqVExlM3hZQm9lc2ZITk5TYjFwTU1NekpQNUl4cFNkTVRXZWZNNTFzVC1nTlFRZ2dTY0NBTUdjZWdNekNEREtsVzk0?oc=5",
+        "source": "bTV Новините",
+        "image": null
       },
       {
         "title": "Василев за проверките на веригите: Чувам, че са привиквали КЗК в МС и Министерството на земеделието",
@@ -49,14 +121,6 @@
         "link": "https://dnes.dir.bg/svyat/estoniya-zatvarya-vsichki-granichni-punktove-s-rusiya",
         "source": "Dir.bg",
         "image": "https://static.dir.bg/uploads/images/2026/11/15/3047838/384x216.jpg?_=1794769039"
-      },
-      {
-        "title": "За него възрастта е само цифра: магьосникът Роналдиньо се завърна на терена на 46 г. (видео+снимки) - Gong.bg",
-        "description": "",
-        "date": "2026-11-15T18:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZk1ka0ZUV0lhWGVvZk9oMDN6WlVaNGVvd3ZzRnNGQl9lMVdHYXBzTHM1RVlSM09PZWVQRWt2elJsRlpYcDBPNGltbEV1SnotNEt0TXFZY05LYXUybk9NU0ZxdThWUTdhY0Z0TXdDMVJLaHU0cVJOdUlNYmZLOU42WTUtem9aOG43VlUwc1BFcS1XZVl4eGlwM3JIb3JMa0hBUWgxSHZ1RV9NaDZCX296TThPYTQ5RnMzS2JIZldXUEN3NDBRZmFQS19IQW52WDdKd2pXN2lPbw?oc=5",
-        "source": "Gong.bg",
-        "image": null
       },
       {
         "title": "Президентът Илияна Йотова се срещна с жители на Камбоджа, получили висшето си образование в България",
@@ -137,77 +201,69 @@
         "link": "https://www.bta.bg/bg/news/lik/1247322-kleman-delepin-gostuva-v-sofiya-s-lektsiya-za-chastnata-podkrepa-za-izkustvoto",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14115659/Invitation-Cl%C3%A9ment+Del%C3%A9pine+Lafayette+Anticipations+BG.jpg"
-      },
-      {
-        "title": "Естония затваря сухопътната си граница с Русия - nova.bg",
-        "description": "",
-        "date": "2026-11-15T16:42:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPUDVfYUozMnM4azN5eHZvMWwzdnF0Z3FlT3Jfa0pqY1BzNlVoTGt4enN6YXFmNmJXWFM4UGtWV3NnVlRPbWp3NWZsajQ3amhGX3FhWVQtVXZhdTZfcFBycy05enhHWFJMNk52SkVlSHVBVHFMYkFWWlcwUDdNWnhaenBKcm9JU3dlcnBVRmF3SmdTWjQySU9BVEhIWHZiVWxxeDJONm5IS1VYNjNYRVdmWkRpTlZRYkQ1bkN4Q1ZidmR5U0h4aDJXdTBZdUxuZzdScUFnQ1VKelN5dkJxZ3N5SGEzN0ZqVmEyb2twWjFPMTdTMDRPR2NJSk43Z3NncmF3c2JQWmg0RDJnNlE3akN3dHJ2TXlsRk1ZVl85VkNsM1N1eHhvWHd5Vmt4dTJrbkxhZmlBamF4aUY0SVpVVmxOOXhoWkoyZHRFWVY1aE1lbHVCbWhxRHNfZFQwOVBKUk1BM3BfZkxnOWZMM01aLTk4Wk1XSlM0X2VTendkVmwxRHBwY1ZkOWNibTEwd1hqVVNBRWM0ZzFRaGI5QVd2eDdYMg?oc=5",
-        "source": "nova.bg",
-        "image": null
-      },
-      {
-        "title": "\"Някой те чака вкъщи!\": Отбелязахме Световния ден за възпоменание на жертвите на пътя (снимки)",
-        "description": "Открити уроци за безопасност на движението, обърнат национален флаг и заупокойна молитва за загиналите белязаха 15 ноември",
-        "date": "2026-11-15T16:42:28+00:00",
-        "link": "https://dnes.dir.bg/obshtestvo/nyakoy-te-chaka-vkashti-otbelyazahme-svetovniya-den-za-vazpomenanie-na-zhertvite-na-patya-snimki",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/15/3047822/384x216.jpg?_=1794762255"
-      },
-      {
-        "title": "Супертанкер с над 2 млн. барела петрол потъна след удар в мина в Ормузкия проток",
-        "description": "На кораба е станала силна експлозия, в резултат на което е избухнал и пожар",
-        "date": "2026-11-15T16:41:21+00:00",
-        "link": "https://dnes.dir.bg/svyat/supertanker-s-nad-2-mln-barela-petrol-potana-sled-udar-v-mina-v-ormuzkiya-protok",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/08/25/3019647/384x216.jpg?_=1787637465"
-      },
-      {
-        "title": "България отбеляза Световния ден за възпоменание на жертвите на пътни инциденти",
-        "description": "С различни инициативи в страната бе отбелязан Световният ден за възпоменание на жертвите на пътнотранспортни произшествия и бе почетена паметта на загиналите в катастрофи. Със заупокойна молитва в памет на загиналите в катастрофи, отслужена от българския патриарх Даниил, в столичния Южен парк сдружение „Ангели на пътя“ и Главна дирекция „Национална полиция“ поставиха началото на инициативата „Предай нататък – мама, татко и аз“, съобщиха от МВР. П",
-        "date": "2026-11-15T16:30:00+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1247336-balgariya-otbelyaza-svetovniya-den-za-vazpomenanie-na-zhertvite-na-patni-intside",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14115118/20261115_113342.jpg"
-      },
-      {
-        "title": "Регионалната библиотека в Смолян организира седмица на четенето с литературни инициативи и изложби",
-        "description": "Регионалната библиотека „Николай Вранчев“ в Смолян организира поредица от литературни инициативи, изложби и четения от 16 до 23 ноември по повод националния Ден на четенето, който се отбелязва на 20 ноември. Програмата е насочена към деца и възрастни, съобщи Антоанета Николова, главен експерт „Програми, културна дейност и връзки с обществеността“ в библиотеката. Тазгодишното издание преминава под мотото „Четенето променя бъдещето!“. Националната ",
-        "date": "2026-11-15T16:20:05+00:00",
-        "link": "https://www.bta.bg/bg/news/lik/1247327-regionalnata-biblioteka-v-smolyan-organizira-sedmitsa-na-cheteneto-s-literaturni",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13557209/june18-viktorina.jpg"
-      },
-      {
-        "title": "Стратегическо партньорство обсъдиха държавният глава Илияна Йотова и президентът на Виетнам То Лам",
-        "description": "Отношенията на стратегическо партньорство между България и Виетнам са ориентирани към бъдещето. Това беше общата позиция на държавния глава Илияна Йотова и президента на Социалистическа република Виетнам То Лам по време на двустранна среща по инициатива на виетнамската страна. Разговорът се проведе в рамките на посещението на Илияна Йотова в Пном Пен, където представлява България на 20-ата Среща на върха на Международната организация на Франкофон",
-        "date": "2026-11-15T16:17:32+00:00",
-        "link": "https://www.bta.bg/bg/news/bulgaria/1247330-strategichesko-partnyorstvo-obsadiha-darzhavniyat-glava-iliyana-yotova-i-prezide",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14115784/4H4A0925.jpg"
-      },
-      {
-        "title": "Тръмп хвърли вината за спирането на въздушния трафик в САЩ върху Байдън",
-        "description": "\"Всичко, до което те се докоснаха, се превърна в хаос\", заяви президентът на САЩ",
-        "date": "2026-11-15T16:11:22+00:00",
-        "link": "https://dnes.dir.bg/svyat/tramp-hvarli-vinata-za-spiraneto-na-vazdushniya-trafik-v-sasht-varhu-baydan",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/11/15/3047819/384x216.jpg?_=1794762574"
-      },
-      {
-        "title": "Спряха движението на камионите над 12 тона през \"Петрохан\" заради \"черен лед\" и мъгла",
-        "description": "Заради стръмните изкачвания и силния листопад тежкотоварният трафик от ремонта на тунел \"Топли дол\" се пренасочва по маршрут Ребърково -Своге-Нови Искър",
-        "date": "2026-11-15T15:57:17+00:00",
-        "link": "https://dnes.dir.bg/obshtestvo/spryaha-dvizhenieto-na-kamionite-nad-12-tona-prez-petrohan-zaradi-cheren-led-i-magla",
-        "source": "Dir.bg",
-        "image": "https://static.dir.bg/uploads/images/2026/10/17/3037209/384x216.jpg?_=1792229587"
       }
     ],
     "Свят": [
       {
+        "title": "Почина един от най-влиятелните мексикански наркобарони Мигел Анхел Феликс Гаярдо",
+        "description": "Мексиканският наркобарон Мигел Анхел Феликс Гаярдо, известен с прякорите Шефа на шефовете и Кръстника, почина вчера на 80-годишна възраст в болница в град Гуадалахара вследствие на полиорганна недостатъчност, предаде испанската новинарска агенция ЕФЕ, като се позова на властите в щата Халиско. Гаярдо, който е сред основателите на картела „Гуадалахара“, е бил преместен по спешност от затвора „Пуенте Гранде“ в частна болница в петък заради ниски ни",
+        "date": "2026-11-15T23:43:56+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1247385-pochina-edin-ot-nay-vliyatelnite-meksikanski-narkobaroni-migel-anhel-feliks-gaya",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/643125/4c460344864645d9994b75160ad744e7-4c460344864645d9994b75160ad744e7-8ce5a88cd18244909c3dea10fa8518f6-a7055.jpg"
+      },
+      {
+        "title": "Министри от пет държави от ЕС ще обсъдят във Виена създаването на центрове за връщане на мигранти извън Съюза",
+        "description": "Във Виена днес ще се състои среща на министри, отговарящи за вътрешните работи и миграцията, от пет държави – Австрия, Германия, Дания, Нидерландия и Гърция, които са част от т.нар. Група на изпълнителите, подкрепяща създаването на центрове за връщане на отхвърлени кандидати за убежище извън Европейския съюз. Това е потвърдил говорител на австрийския министър на вътрешните работи Герхард Карнер в отговор на запитване на австрийската новинарска аг",
+        "date": "2026-11-15T23:16:05+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1246785-ministri-ot-pet-darzhavi-ot-es-shte-obsadyat-vav-viena-sazdavaneto-na-tsentrove-",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/7297750/BTA8+%281%29.jpg"
+      },
+      {
+        "title": "Американският финансов министър поиска от „Енвидиа“ обяснения за предполагаема контрабанда на чипове към Китай",
+        "description": "Американският министър на финансите Скот Бесънт поиска вчера от технологичния гигант „Енвидиа“ (Nvidia) да обясни дали съзнателно си е затварял очите за контрабандния износ на негови чипове за изкуствен интелект към Китай, предаде Франс Прес. „По-важното е да се установи дали в „Енвидиа“ е съществувала култура на спазване на американските ограничения за износ“, заяви Бесънт пред телевизия „Фокс Нюз“ три дни след оставката на съоснователя и дългог",
+        "date": "2026-11-15T22:39:00+00:00",
+        "link": "https://www.bta.bg/bg/news/economy/1247382-amerikanskiyat-finansov-ministar-poiska-ot-envidia-obyasneniya-za-predpolagaem",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14103854/aff2016e0bcd489fa78d8a30fea3f9d8--0--0aae9079f7cf464e9f5f3555064beffc.jpg"
+      },
+      {
+        "title": "Рекорден брой мигранти пристигнаха на Канарските острови през почивните дни",
+        "description": "Над 2600 мигранти пристигнаха на испанските Канарски острови през почивните дни, като бе поставен рекорд по брой спасени хора за едно денонощие по този миграционен маршрут за последните 30 години, съобщи испанското обществено радио и телевизия РТВЕ. Само вчера на архипелага пристигнаха 1570 мигранти, с което бе подобрен предишният рекорд от 1461 души, регистриран на 7 ноември 2020 г. Най-тежко е положението на остров Йеро, където вчера акостираха",
+        "date": "2026-11-15T21:25:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1247380-rekorden-broy-migranti-pristignaha-na-kanarskite-ostrovi-prez-pochivnite-dni",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/14115824/24185754456c487eab2710a574572b71--0--5b759c7df67347f4ba750f9768954f1e.jpg"
+      },
+      {
+        "title": "Говорителката на руското външно министерство определи намерението на Естония да затвори границата като пристъп на \"необуздана русофобия\"",
+        "description": "Говорителката на Министерството на отбраната на Руската федерация Мария Захарова осъди днес намерението на Естония да затвори границата между двете страни, предаде ТАСС. Захарова направи уговорката, че информацията все още се проверява.\"Ако това обаче са истинските им планове, тогава те са част от пореден пристъп на агресивна и необуздана русофобия“, каза тя. По-рано днес естонският министър на външните работи Маргус Цахкна обяви, че страната му ",
+        "date": "2026-11-15T21:03:50+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1247377-govoritelkata-na-ruskoto-vanshno-ministerstvo-opredeli-namerenieto-na-estoniya-d",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/13390985/88a30906203c4dae94b79a3c471892d3--0--59b583ec6bc1439eac7d105d327f7a69.jpg"
+      },
+      {
+        "title": "Световен шампион е кандидат за президент на Германия - Стандарт нюз",
+        "description": "",
+        "date": "2026-11-15T20:55:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWF5NWFYYTk1R1drZ2VSTGs0T09CWEdwaGZyLWZDQml5dm1WYmdfektVdDhxRjU5NVYzV3pUTXlLWGk5U09PRll6Z2FKZ3NXdk50WWtXQ1pURUIwUHZUN2xzNGRiNjYzQ0xvZ21fUkkzOE1nZTlYVllLVVFFM1lrMGk3bmdIdzJCTWpsSjdETERFUFRrVTRsWTJCdnVhanRVbHZj?oc=5",
+        "source": "Стандарт нюз",
+        "image": null
+      },
+      {
+        "title": "Жена бе убита при украински обстрел в окупираната Луганска област, обявиха назначените от Русия власти",
+        "description": "Жена бе убита при украински обстрел в окупираната Луганска област днес, обяви ръководителят на назначените от Русия регионални власти Леонид Пасечник, цитиран от ТАСС. Дрон е поразил жилищен блок в град Лисичанск. Изпод отломките е било извадено тялото на възрастна жена. Един мъж е бил спасен и получава медицинска помощ в болница, разказа Пасечник в социалната мрежа Екс. Руската противъздушна отбрана е унищожила през последното денонощие 60 безпи",
+        "date": "2026-11-15T20:15:00+00:00",
+        "link": "https://www.bta.bg/bg/news/world/1247376-zhena-be-ubita-pri-ukrainski-obstrel-v-okupiranata-luganska-oblast-obyaviha-naz",
+        "source": "БТА",
+        "image": "https://www.bta.bg/upload/4510597/4e340cbe004e434d9fa1d38c074bc178--0--bfd85e5c2fc14bf986bc53d6937f9d69.jpg"
+      },
+      {
         "title": "АФП: Хусите са на 60 километра от Аден",
         "description": "Хусите настъпват в Йемен и вече са на 60 километра от град Аден, където е базирано международно признаното правителство на страната, предаде Франс прес, като се позова на шестима представители на военните и правителствените среди. Според тях силите на проиранската групировка напредват от три дни в южната провинция Лахидж, където са поели контрол над два окръга - Ал Макатира и Ал Мадариба. В отговор на офанзивата на хусите йеменската армия обяви п",
-        "date": "2026-11-15T19:58:08+00:00",
+        "date": "2026-11-15T19:58:00+00:00",
         "link": "https://www.bta.bg/bg/news/world/1247375-afp-husite-sa-na-60-kilometra-ot-aden",
         "source": "БТА",
         "image": "https://www.bta.bg/upload/14092354/2af57fb81961488ca92663c64aca4281--1--1449341fd3b44ed1a3d98f06608016a6.jpg"
@@ -333,68 +389,12 @@
         "image": "https://www.bta.bg/upload/14103432/8ab48465bf1b4ffbb00825eb88ac0fff--0--6e61ae6939284a339447b2df16907d04.jpg"
       },
       {
-        "title": "АСЕАН и Китай не успяха да приключат преговорите по кодекса за поведение в Южнокитайско море",
-        "description": "Асоциацията на страните от Югоизточна Азия (АСЕАН) и Китай не успяха да приключат преговорите за дълго отлагания кодекс за поведение в Южнокитайско море под председателството на Филипините, въпреки че постигнаха предварително споразумение по около 80% от проекта, заяви днес филипинската външна министърка Тереса Лазаро, цитирана от Асошиейтед прес. АСЕАН и Китай водят преговори за такъв кодекс вече две десетилетия, но Филипините, като настоящ пред",
-        "date": "2026-11-15T15:03:19+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1247281-asean-i-kitay-ne-uspyaha-da-priklyuchat-pregovorite-po-kodeksa-za-povedenie-v-yu",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14097989/b591eb16ae924ebf9deead749e56b949--1--bd79c47f0e1b440ab2f391d2fd418d6d.jpg"
-      },
-      {
-        "title": "Тръмп хвърли вината за спирането на въздушния трафик в САЩ върху Байдън",
-        "description": "Президентът на САЩ Доналд Тръмп хвърли вината за спирането на въздушния трафик в страната преди два дни върху своя предшественик на поста Джо Байдън, предаде Франс прес. В първи свой коментар по темата републиканецът Тръмп определи начина, по който администрацията на демократа Байдън е управлявала авиационния сектор, като катастрофа. \"Всичко, до което те се докоснаха, се превърна в хаос\", написа президентът на САЩ в своята социална платформа Трут",
-        "date": "2026-11-15T15:02:00+00:00",
-        "link": "https://www.bta.bg/bg/news/economy/1247308-tramp-hvarli-vinata-za-spiraneto-na-vazdushniya-trafik-v-sasht-varhu-baydan",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14110225/a7e597dbb11849a0bf02754f5fc43dbd--1--d924027345224b0cbdae3bbe631cb189.jpg"
-      },
-      {
-        "title": "Олимпийската шампионка Си Айхуа дари златния си медал на Китайския музей на спорта - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-15T15:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGhDX3lEelpfaFdWMk4ycTdOSGpqcklqaDQ2QUVPWERTTE15ZWNDMllZdjQ3UGJnaFY5ODdQQTR1aU5CZC03NE5ZV1lmLVVaVUhxVmMxUXgtUUVBeHJXYXZQaGhpVDlmUGdxbXNBYzZqUFYzVWpDVlMwLWZyb2JVcW8zcVRFVUdNTExjTkZQME1NNDhoc29sY1kyZmhxNjZPYXkxeUI5ZTdFcUQ4OUQ1M05IMkZudG90MXNHODl3SGRQZXg0ZVE?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Йеменските хуси освободиха 600 проправителствени бойци, съобщи Червеният кръст",
-        "description": "Международният комитет на Червения кръст (МКЧК) съобщи, че йеменските бунтовници хуси са освободили 600 бойци от правителствените сили, пленени след възобновяването на боевете между тях през юли, предаде Франс прес. \"Днес 600 души, пленени в хода на конфликта в Йемен, бяха освободени едностранно от властите в Сана\", посочи МКЧК в съобщение за освобождаването. По-рано днес силите на международното признатото правителство на Йемен, което е подкрепя",
-        "date": "2026-11-15T14:47:51+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1247296-yemenskite-husi-osvobodiha-600-propravitelstveni-boytsi-saobshti-cherveniyat-kr",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/13961175/2348e7b5beda406ea4b9e1aca33c8572--0--63d7c5df01694d609170f21d4c77a379.jpg"
-      },
-      {
         "title": "„Да хванеш гората”: От големия корпоративен свят до малък бизнес с натурална козметика - nova.bg",
         "description": "",
         "date": "2026-11-15T14:32:16+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAVBVV95cUxQVE83YVRqRXRCcnp4ZExMSzloMjJnMFF4ZktHbGR5N2M0QTMyMHFBWXFNa2NJeGJFX2Z2bXUxb1R5M1R6X2FQN2hZX0dzRHBqaVRweUZUdS1XN0Vvd3pZbFdNVG5aMzFzRzhXNjgzaXVmWTY4T2x5OWtvelU5ZktLS0RJV0JQU3Nza3hfWTZFT3hPUU9WbEJOSTFsbDJvMHZCYTRnZ1RpdHptb3RCLWw2X0s0UmRYSHZlLUw3QjZFYnc3MlpSTlg2QlphNmZvQ2tJbFN4STM2NUg3bENIT2YyTHdacmdJYktocGtBTDNBcGxHQTlSWTJHZktwTGpFM19PNklhaFoxX25TRWNuc2ZTSV9VTEctaDFTNld3aUZ2TTlUZW9JZTZqSFF0U05MWUlmNFRLbWtnTDk0bXFpSFBFb1lUSWxrcmhjVWs3RXZIUmIySlVfQ3Bsd3lNdFNMdElVTlNFM2dnbDlGbkVScjhMM1d5a25aMUpyNzFuZkFDWXJob2Roa0dURDRwamxHb1BfcGN5bXJiWTlxX1dGWXNvRGthLVlJWGZWNlJTM2ZORUdPMjVNd0hNc2ZNTFcwZVR0d0ROOXppWDlnRTBZcGlOUzdYT2U2Q3RZejd0WmlobHJneW5Na0RkY2xDOXY3cGFBeTBlZE5iWnI1VkhxVUltNHczWlJEdWRZdlRsNnhENkN0U3VKclM0YUp4eUJpbWxMMjNmRERDVDNHeFhOMXNXQ0JUMUp1RkVITnQzdVVBMEdnWmRZbkZIem4yZ3RMcVp2bkxxMGpPQkp2SVZxOWJOSzJieW8wSVpSc1hWQzZVa29lQk91UzQ5eThwNzNiUnVMSTlnNVo1Si10Z2stRjJPclhHMUtMRUNVM0NuNWpKRlE?oc=5",
         "source": "nova.bg",
         "image": null
-      },
-      {
-        "title": "Бая Маре в Румъния ще бъде Европейски град на Коледа през 2027 г. - Свят - manager.bg",
-        "description": "",
-        "date": "2026-11-15T14:30:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnd4ZnQ5ZGtaXzZiaFJjZkVZcHBPZ2xrZ2xLcEY0c2tlNWM5SmlfT2R1YjVuWTcwR3Y0aFoyMHRvbGF4dkU5cmgtUEhWWE1UVXM1OXZYbTBISlBXLVlTTExlRnNOZHNXLU5OVjhWQ29XMjhtM1pzYi1uejJ0eHNpOHQ4Zlg0elVQSGhubG9fdU9OVEJqcUxwcl8tTDR6R3FJUGY1aVROWDlHOHhNdHFJ?oc=5",
-        "source": "manager.bg",
-        "image": null
-      },
-      {
-        "title": "Лидерите от АСЕАН отхвърлиха участието на Мианма, докато не бъде отбелязан \"значим напредък\" към прекратяване на гражданската война",
-        "description": "Лидерите на Асоциацията на нациите от Югоизточна Азия (АСЕАН) реши да не смекчава ограниченията върху участието на политическото ръководство на Мианма в срещите на високо равнище, докато не бъде постигнат \"значим напредък\" по мирния план, след военния преврат през 2021 г., предаде ДПА. В съвместно изявление лидерите на страните от АСЕАН призоваха за пълно прилагане на плана от пет точки, който очертава ключовите стъпки за прекратяване на гражданс",
-        "date": "2026-11-15T14:08:32+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1247260-liderite-ot-asean-othvarliha-uchastieto-na-mianma-dokato-ne-bade-otbelyazan-zn",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14115151/d65776ada1694e16affd55699ae47277--0--78a38306ce704a0696c735f368af2db2.jpg"
-      },
-      {
-        "title": "Чехите излизат на протест срещу реформа във финансирането на обществените медии",
-        "description": "Стотици хиляди хора се очаква да излязат днес по улиците на Прага, за да протестират срещу плана на националистическото правителство на премиера Андрей Бабиш за реформа във финансирането на обществените медии – инициатива, осъждана от опонентите му като заплаха за свободата на печата, предаде Франс прес. Правителството иска да замени сегашната система на абонаментни такси, с които се финансират чешката обществена телевизия и радио, с финансиране,",
-        "date": "2026-11-15T13:55:27+00:00",
-        "link": "https://www.bta.bg/bg/news/world/1247275-chehite-izlizat-na-protest-sreshtu-reforma-vav-finansiraneto-na-obshtestvenite-m",
-        "source": "БТА",
-        "image": "https://www.bta.bg/upload/14068291/7b17b6e0aead4e63b32bafcda5b60c2b--0--da29ea79806b4a9490fe576b30705fa4.jpg"
       },
       {
         "title": "Стотици хиляди чехи излязоха на протест срещу реформите в обществените медии",
@@ -406,6 +406,22 @@
       }
     ],
     "Наука": [
+      {
+        "title": "Учени откриха чай, който предотвратява отлагането на мазнини - Glasnews.bg",
+        "description": "",
+        "date": "2026-11-15T21:16:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLUVPWnVlUlRldUR0RWN2WWpYS0ZVbG5ucURYamJvVmt0MVJiWEJFOGpHTnJTQkk2Q3NnMGpwLTFQbVA3VmRhNHdTXzJGX1lXVkRlaF9tWnAwNnBGM2N4UGpSZmV4NjFpNl9pNWQzMmRkT3FuVHF6SUs0cUJFVTBkTExSVXZ1QnJ3VzZTLVplMmFPenUycWFJMmZpcDY5TEpXcDV4eVVRMWc?oc=5",
+        "source": "Glasnews.bg",
+        "image": null
+      },
+      {
+        "title": "Изкуствен интелект открива скрит сигнал в сърцето, който може да предскаже внезапна смърт - БНТ Новини",
+        "description": "",
+        "date": "2026-11-15T21:12:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmJCNDJMRmpMdkM1ZU45RTNpSExtb3RoSmhIMzdvdTdZOU92YUFhMm9lQTJ5aG5iTFhWN1R5djNEMnEzNldMQnFyQ2tURFFhbGd0cS1nLW5sVVlIcE0tLXRqUVNJdzNUb1JCTXkxeDBOQ1lrU1RQTG03REtnb1pEYndfcWpVR21HSWZtREFxSHloRXZJcy0yR1hiWVV5SDVuaV9QMGkyOHozdjZLb1VTNEdWbG42d0tHMl9WMGVzY1BJVl85RjJ2U3hlSQ?oc=5",
+        "source": "БНТ Новини",
+        "image": null
+      },
       {
         "title": "Учени установиха как мозъкът се научава да разпознава неясни изображения само след едно показване - Cross.bg",
         "description": "",
@@ -428,6 +444,14 @@
         "date": "2026-11-15T15:20:29+00:00",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY21wNTN2RmJvbEdxNEJJSkZqRVRnNnViN2sxS0NUTmFuaXVPS1VHVUI5V3k2NHJrNW80RTVNTHRRZFBSNld1eU9OS3Zfcm50aWtWejVURnN3UkRvZ19KdkhlLU1NamFpN19xOEV1bFBHYXZpQmdlTmItal8tM1NROTlORUdzX1lKQ2c?oc=5",
         "source": "BG VOICE",
+        "image": null
+      },
+      {
+        "title": "Национален форум за бъдещето на висшето образование и науката събра над 80 участници във Велико Търново - Делник БГ",
+        "description": "",
+        "date": "2026-11-15T13:43:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRXRmWktzT1ZqMkx3cVlNaVR1cjU0c0VmNVJJRWpVdEFwMEpLQUZqRHpwblhFbkV3OXNFSzVuVVFtdmVxdVJfNDd3bklwVXh0OXQ5MFhXTW4ybTFtU1JRVEl4Z3V5MGlyaTlvWTNMMmxlT2QwRWw4R0tSWWE1cERzblItV3o1cUxkRWRwWUctN2h0MzFxbU1uelBSUV9qQktBYmNaU1N2R2QwTWpsYnhxOEpaV202NWxDNXh6bElLSkM5UUpUa2xVVEsxcjJxNnVlUnY0T0hRUThGbXc4Umk4MVp3WnpiWFpTakRBOFhzMkswYVhkdUItWDVzM2FwQ2JDak45alVjS29fUlpBSHg0d0ZvRjNvSTlDMEpKYnlBc1ZQajZYdHhVTm5LcW41c0E4RzRqOGo2SW5vbEg3ZXNUbk4zcHl4d3NaNWFZSEVKaXV2UQ?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -471,6 +495,14 @@
         "image": null
       },
       {
+        "title": "Учени откриха неизвестен вид гигантска птица, живяла редом с хобитите - БГНЕС",
+        "description": "",
+        "date": "2026-11-15T11:43:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVBBOUhQVUtxanRGa1pZVjVjVnpqTk1PZzI4OGFtaWRhdG51RkN6UTBwU3AzMXNid3AzUTNWdFFydDE0Y0JScUYyaFo5dFY5QzNTUXNNTGs2MmpsVWJwbXpreDhXQ1hDRWgwdzMydzdvMFdCcS1pVWYtVjVDREhLNHprUFRLc2RoYXFIaDV0UVBqeVJu?oc=5",
+        "source": "БГНЕС",
+        "image": null
+      },
+      {
         "title": "Аджерпрес: Румънският университетът „Джордже Емил Паладе“ се присъединява към световната мрежа на катедрите на ЮНЕСКО - Делник БГ",
         "description": "",
         "date": "2026-11-15T08:07:00+00:00",
@@ -495,14 +527,6 @@
         "image": null
       },
       {
-        "title": "КУИЗ: Общи познания и наука - Fakti.bg",
-        "description": "",
-        "date": "2026-11-13T18:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5MHljM0RpeUNhMnZBam5KX01kb05BOEZoTkFIUWJodTBVSWh0NURaRlhZNTVpM1Q0MkxudUxVWmdYRkliNjZvZQ?oc=5",
-        "source": "Fakti.bg",
-        "image": null
-      },
-      {
         "title": "Четирима олимпийци по науки са отличени от Община Варна за успехите им по физика и астрономия - MediaBricks",
         "description": "",
         "date": "2026-11-13T15:28:19+00:00",
@@ -516,14 +540,6 @@
         "date": "2026-11-13T14:59:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkRBZFFfLUNUWENBaUgxRXNpam1aUXhTd0tONFRxRTd4c2FXckpzT3ljZWNpNXhwOG1xR3RrMnA3NEVwTFBaNGpTbHVXeHc4bHVveG5mcXZnOWxyeG5CVVZCLTZMSFljVDdtdkdpeUxwVUt3SlFTYlhIMTVZeWdOWEpmdU5OY1RfZWdoTDM2RFVrNlpvdEpsS1diVk1VY3RsWVE?oc=5",
         "source": "TrafficNews",
-        "image": null
-      },
-      {
-        "title": "Златен триумф за българската наука: LB Lact покори международния форум INTERFOOD & DRINK - NetNews – Новините на Ямбол",
-        "description": "",
-        "date": "2026-11-13T14:05:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTXRqRmF3bUlsX0tBVVFoR0hCNEFHVE1KWVN3azRyVlNfYTV4aGJGbWt0Yng0ZUlJXzlBTnY3RXV3dEdvRm1vYVBfOVlHbDRnSW8xSnNHd2ZkaU9mRlducmZwVjQ1UkNzVDZsbVVBYjNNaWk3WnUtUDlwcTNFOG4wcXBQdnRpLXlEckY5QW1XWG5mZm5jbHNEblpkYmI1QkNkTmJtMGZ1V0ZtUWZLLWEtTTR4WUNzanA5TlV3S2VzTVZMQ2cwUW1UWFo2RFpyaXNTUVppc19oZmxtMEVPQi0yd1JNNG1FMENJdlBxRXc5ZTR3eU9UNmhqOWpmdjJTUmhnV2VSUHlRclpvRHUyQUJvck9EVTZucmRHSm5LMHVnZ0w0X2hPSE5fV2UyVVdkUlpVbWVTVEt4V2FLcUxGUTJqQg?oc=5",
-        "source": "NetNews – Новините на Ямбол",
         "image": null
       },
       {
@@ -559,14 +575,6 @@
         "image": null
       },
       {
-        "title": "Грижата за езика не изисква непременно закон, а образование, наука и култура - БНР Новини",
-        "description": "",
-        "date": "2026-11-12T09:51:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUVpb0I0cldnWE9uM1NMaGVrcmVLOVZMRWphcnUyNk1Wd2tja3VPcHdDVl9vanpTNTRZdHUteDhRYlpDcWtGVEFKczZhc3BseDBQal9QeHhwQUNzbmZNbHNjY1ppMXNNNmdiUkpZTjRjbTF5dFNscndQQVBHbU41cC14OVFUR1pZa0xRRkkzcDNzdmtEV0dSdUN6SlZzMjhtR0JwenFVbk81Wkw3YUxRbVNrTlJ2TlhDUHc?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
         "title": "Наука, посветена на живота: Д-р Николов и иновациите в лечението на онкологичните заболявания в КОЦ-Бургас 2026 - iustitia.bg",
         "description": "",
         "date": "2026-11-12T08:00:00+00:00",
@@ -584,6 +592,14 @@
       }
     ],
     "Образование": [
+      {
+        "title": "Какво се случва в Бургас на 16 ноември: комедия, японско изкуство и конференция за зелено образование - Burgasnews",
+        "description": "",
+        "date": "2026-11-15T22:52:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNQ3o3T21GcjhVZWtpS3d0b1p1cDE3QjBIUVNfOXVjMnBTZWFBaUhQOUNQTWd1STJwZGRpME9xU21yVGViWEdWMjJHWTN3X2pqVk5ienNJT09ycEFMTzZZdjNiV1RlZnlCZlZORFEtV2pnSkpCTFdjTlZ2QzVWbnUwV1l0VnRVdk1pSDdoS1ZWekRlRVc3VUp1WjA1UDJVYzdBcUxnVTFPdUIzQVNDSGNMRy1XUFNiNGNzRVB0N21sVGo2RjFGWFRhblhXWlM5aGJ5S3VRb2dMUnMxRFJ4TWl1cnd1eU5jdG5RSFJSRVNsRjVYaEV6cDFISnJZdldnb2owTWoxcVdmV3M2NEsyTjl6SjJGelFLeU9fTUpNd3NhZVplMzJlSzBqazQ2RjJ5MndnVER2X2pjRjZQa3p0Y2M3T3BmdWhKcFkxX1NsTDJ4QkJ6VllsZWc?oc=5",
+        "source": "Burgasnews",
+        "image": null
+      },
       {
         "title": "Президентът Илияна Йотова се срещна с жители на Камбоджа, получили висшето си образование в България - Дебати БГ",
         "description": "",
@@ -625,6 +641,14 @@
         "image": null
       },
       {
+        "title": "Митрополит Йоан откри семинар за учители по религия във Варна: Вярата не се налага с принуда - Novinata.bg",
+        "description": "",
+        "date": "2026-11-15T16:58:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRk9RUXhULXAtcmJHYjFoZzJSMm5XTlRJU29qWjBhT2k2dzhsbDY2RkN6TEdfSEFDVkxudmFRUFRvUnFjUEVHZzBKbXl3cXVVbm84Z05PWGdYVThFamhQRXRvcTRtbUhCSExjanBOSFRkME1ZTjJMdzRYVXFLLW5TWkFCX2lZR0hiVHJPVWgwbDZsclF1Sm5qbE9yNVAtU1dQelNuU0ppb0VMUWJ2RGtUZExRSUMxcWc4eUU2THRB?oc=5",
+        "source": "Novinata.bg",
+        "image": null
+      },
+      {
         "title": "НСА подготвя ремонт за над 2,5 млн. евро на студентско общежитие в София - Stolica.BG",
         "description": "",
         "date": "2026-11-15T16:56:00+00:00",
@@ -657,6 +681,14 @@
         "image": null
       },
       {
+        "title": "Колко струва безплатното образование? - BNT",
+        "description": "",
+        "date": "2026-11-15T13:30:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xUUZUbmstSFJkNXItWmxjLUVvcHNrQ3dPd2xlbGlweEx6T1F0RW9YdFM0MUlRSE40NC1wS2pPbjdxWUhLVG15Mm1JXzJOV0MzdGkzQk1Xd0xnSld4UXVhQTdqazNlZERDTHZHZllRVTg5QTl1Xzk1aEpJU3Q?oc=5",
+        "source": "BNT",
+        "image": null
+      },
+      {
         "title": "Възможностите за задържане на младите хора в регионите чрез образование - https://novini247.com/",
         "description": "",
         "date": "2026-11-15T12:54:17+00:00",
@@ -681,11 +713,11 @@
         "image": null
       },
       {
-        "title": "В област Търговище се търсят лекари, инженери и специалисти с висше образование - БТА",
+        "title": "В област Търговище се търсят лекари, инженери и специалисти с висше образование - Делник БГ",
         "description": "",
         "date": "2026-11-15T12:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmZDN21ZT3Vpdkl2UlBFNmFZZkgyT3JfLWVjQlNaTHNLdkdIemdlZ0FfTUl4Q195OWFhMnlYNENmXzRTZFlRak5jQXVGWDM1YmNsM3NQMXJBOXhyRlFVZ25GSVdnMy02RjRDaENXYzQtLXd5QTZ5SExiTS1fSnlyWXhwRDdveV9VVksyM0dxNTRxOGJ4cWx1WHBTTkhyUTlHTGNhU3FEdjl1czZibjkwcFZ5dGFVanFxRDlZS1JUejA?oc=5",
-        "source": "БТА",
+        "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQY0t1Z1hjVVJ3Vk1BSTcwVVFmNERYbUNNZnB5U0U5RGJXVHJKSTFfM0JoQmVUbzdtVzZiM3JRT2dtZWJWZlJ3SzhTVVZOY0JmRzJPMlhuRzhqTEppSGF6cEhlNWtlZ0dKbXNKU0RvNHdrSW85Q2VjRF9qUG04Zk9Va0FLQzNjcmFra3dBQTJhZ04zUE9aUS1ZT2dOUThSNVROTzV3MXNhYlE2bUxFajdJdFpSMjdjVUkycklwMTN3NUhFSkNOTWFXRUhFNDZRaUY2Z3pUV09uOVN1WmZ6eWFoYnVKZTZ5SG9BTXNPSThEdFlzUjV5eEROOURfMGV3TUFhYzVwRFF3eXFVb1NHY1BBRmNPQTR0ZWhQZFhEWkJkelFDeW9QOHhWUDBIZWJYY1FZZUt4WGQybXpyREExVng5c015QXJFYVZUNXJYTVFEM1pPdWJN?oc=5",
+        "source": "Делник БГ",
         "image": null
       },
       {
@@ -708,7 +740,7 @@
         "title": "В Бюро по труда Смолян ! 970 евро заплата за медицинска сестра и 1280 за салонен управител със средно образование - Haskovo.Net",
         "description": "",
         "date": "2026-11-15T11:02:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORjhIdGF0WTNHbnlESE1VWXd0YmJGVUpacnY5MHNGNk1mOEt2WUcxR2N0WUM4SGdRdnAxSHhpWUEzMkppcHBxUThuVFo4Y28tY2hYclFONTRmcHlfZ0dVT19BbFBGXzFkdVU5d2R2RzROQnpVRUdCVW1NR0ltNC1xOHFHUjhyZFY0SGtBQlRtZ3NmUHltaUVXMFVyV1ZXVmlaQTh3OTM2V2tqeTdvVE5LaG9wSE9xS1U2eV9fZ3E0RjVGMEpDbTVDZ3RkQTJYVnRaTVVTckNZUndtSEU3b3JuSU52bEttMzdXUWVUd25PeEpUZw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWkVVdnFDcWhvRnQ5bGNRWWR5MGxyeUJlMHlQWElaNDFjOHhTZ3lWdnRrMHFyUF81elY4OFVHZ3VxVFRyV0piME9JbGFTU25ER0ZrMFk5RTRaSG5HNUtkdFh5QXg0OWpBRk43MG5RZjNRM1FNc2Mtd0dRczQwX3N0YjVzZGx5Z1pwSFVGYlFQVDMtSWNlUzFLanV6bnA2TEJIQmJyZlJDWmhkU25iNldOREJQc0tfNEZ0eXVlZ240OGxpWEVyaGNXT21qVWtFYnVnc2g2N2l0bDNFV0p6cVVaZno2SlQ?oc=5",
         "source": "Haskovo.Net",
         "image": null
       },
@@ -721,11 +753,11 @@
         "image": null
       },
       {
-        "title": "Проф. д.н. Миглена Темелкова: Университетите трябва да реагират по-бързо на промените в икономиката и потребностите на бизнеса - Стандарт нюз",
+        "title": "Проф. Личева: Законопроектът за българския език е с 57 правописни и граматически грешки - Новини от България - Защото | Zashtoto",
         "description": "",
-        "date": "2026-11-15T10:01:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOalY5dmEwWjIweWlIV3p1djNmNWtMbEo5ZFg0SVZibWFrUmlMZ3FPd0FhdV8teEtSbFJ1a0RrLXNMMTZ5Z2ZVZGMtS2dLQ09ZeTZFRWppeWFpbkpjMGxzdnRBc2RQWDVhVXNnd1I3ZjFRRno1UVFTRUVYV1FMNHZJa2Z0cnc5a0ZBWGN6NWZjSG1VTnpTUVJVVEpyTVpRc1JVaURVamRHSHdXWVhUeGpYQnY4SGxRdm03UkQ1OXpEOTNOa0R6NEpYSDBvRkNVdS1WMURSRS12anRkSm1pYWJaejczVW1FUlhkZVJGZ0xfWHRNRzg3cXBkM2VXZzJXS0xmYmZmNF9wdVF0dlp5MVZJYkg2X2o?oc=5",
-        "source": "Стандарт нюз",
+        "date": "2026-11-15T09:51:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc0lnbUFlV0tPUkpIRUdCTWZ6YnB0MjV5VGtFOXdEaEkyR3Itdzhyc2hncXludjF1UFcyYUNWUENlZ3c1Tm80RTNoMjUxZ1N1cHpsb1R0Z1lSdHNCMWxtbFMxdnR5aVMwcnBVU24ydElUdU0xY2p3a3ZpMEo4SEc0MFVxNmliYzVCck45SldRSk1sNG9uQlJleXpPQVdYZnkyTXhIeHdiZ2RNNFppcjZCeF8teHhjdXI2SXc0V1NOS2RLRzZfTjVxNnRUc2E?oc=5",
+        "source": "Новини от България - Защото | Zashtoto",
         "image": null
       },
       {
@@ -747,8 +779,8 @@
       {
         "title": "Бъдещето на земеделието започва от училище - Agri.bg",
         "description": "",
-        "date": "2026-11-15T08:03:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OV1dIWnVqZDVkX2RYV3lDZ0l4dEdoNnhYZkVLb29yMl8yODBvUkxILVRPREJURjVTbTVaWmRjVHRBRzItVkdNa1o4Z09yVW0zXzB5NHVJMGNDRXdDX1BmbE1XY2pXODZYcW15WmN5c1lCVXlaaWc0dFRMaw?oc=5",
+        "date": "2026-11-15T08:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ac3hjaDhxU3llRTVDVndNU0s1RlNYTUM4c2ZqTVBzUVdlS3RwQzJVZFRfZS1QOEpUX3luUTlNRkhLQ2F4cTh2SG8zNkhsVmRXa2R6MkliMnBvRzYzMy1YSkpwWjlrazU2dXh6ZmFibVpfWnIzMVB0R1FB?oc=5",
         "source": "Agri.bg",
         "image": null
       },
@@ -759,47 +791,15 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTBqWE4wcmJYQkstRWxKUFBFOTlyQ3Fzd0dNS2VXc3NMVlJWX2hqZDBRQ3RvMWpDZW5tQV9fSnR5dklWcDB1R0ZrdUZsWHktMldsNUQtbVRlNE5mdTcyMG43a0FRZUlFQlNDcHNxYzRGc1VuZTAwd3dVNEw3QktnNzFXNk4wYW5QYkF6bW9NSEpwVTYzREFqNg?oc=5",
         "source": "Фактор",
         "image": null
-      },
-      {
-        "title": "„Приобщаващо кафе“ в Ловеч събира хората, извървели 20-годишния път на приобщаващото образование - Утро Русе",
-        "description": "",
-        "date": "2026-11-15T06:29:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pdUlNemNCcWhrVVktSUh6QldCVmxHSF8tbEpnUWxESTdQUG1pVmctTi1YME1HSkdRbFRXMGh1VDNQdG01eERCNVQ5eXhaQdIBSEFVX3lxTE8zd1Z3b0FmLURtN2JFekJESHVtUDdiQUJCOXhDbXpVNXRVM2xtWlc4cHM2bHdkbEk3UzVTejdNMHIwYjctaVJTMQ?oc=5",
-        "source": "Утро Русе",
-        "image": null
-      },
-      {
-        "title": "Учители по религия обсъждат перспективите пред православното образование - агенция ПИК",
-        "description": "",
-        "date": "2026-11-15T04:30:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNTXlhNHhWbFRRa3hYQm56NjRiX3VpSk1aM1RVOXVWNVBSOEZqdnlUVjJtTHRnYUF0WVN0bUFlblpJLURfSVkwWGlFZG5FLUxUUU95bmdnbnBuUkJQbnYwTGlJdGlvemIyX2UtdHpDVUR5WjZ4NmE3U0M1eWFYNTRMSm9jaXN1UTZkSlpOcWhzYWdYdTFLQ2Z5WE5Cd1B3U0NOSXhjb1JnVVNKQnBhdmUtUDk5WTJNOEcwNmF4YUt5MGQ0ZUR2eTlqczBSQkVqcm1veTdiZW1vTEg5U1R3TnMtdGhRREsxekk2T19ZMUM1bXA4aklieVotZnlIcnFwVjJqd1hOVFdtWlBHVXU4bUhaLUQ2bk5ZTW5xY3NBMUxmZ1VKX2NzZVo5UnB6V19aSUdKWUlncWJfMmVBMk51bWtiTFR6VThXVzZ0Y0RoOWlBYkJ3bXVhUVg4WjBpZmhSNXFlaUNNRHpxZVdFM2xoelgwQXRGOXppMXRMMG5BaS12SHNicmNRM3RPNzFSdTdWc1NXeUNNX3FXUXFkUFAwUzJLOVZuLTQzbGRqNGxiVFZqNDdwX3FMUEx4MndqX3hJNklLdXVBUEQ0aEV4RTJiWTdUUkxicGtUc1ZtcHBpWU14TFFFZ1hpNm9sMEUzNGtQUVVyOXlCcFI3Z2lwUFU0Rkt2dDdrZzc1RnFHZGpfdmZoV3dQSzRaaFVoSDNaeFZta1NCQ21xTlpmY1M3WVVQc1lmYWZoRG5iTkZJZE5DUUtZQUx5enV3TWhyNWlzMzh1dFJ3bHJESnhqM0E?oc=5",
-        "source": "агенция ПИК",
-        "image": null
-      },
-      {
-        "title": "Учители протестират срещу орязаните пари за облекло - Новини СЕГА",
-        "description": "",
-        "date": "2026-11-15T04:13:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOclhoamFQSWttRFVtUFF3dWYzaDlBdHI1YjctT0xOSHBNMmhUUXlZY0VRbV9VWXZBck5zRkY5ZzJNQ0ROaktMdXhObTZnV00ySjd4V1dJbWpPclB1NXY4QXdGcmF3bGhuejVxcnhvV09tdjNMandGaDBtSGZSM3pzYkRpOEczb0tkMElFa2F4Z0FWc1pxZFdUaDN5WkpJZE5TMGN3?oc=5",
-        "source": "Новини СЕГА",
-        "image": null
       }
     ],
     "Технологии": [
       {
-        "title": "Илияна Йотова и президентът на Виетнам обсъдиха общи проекти в отбраната и високите технологии - Lentata",
+        "title": "България и Виетнам обсъдиха общи проекти в технологиите и отбраната - Таралеж: Истината има значение",
         "description": "",
-        "date": "2026-11-15T19:06:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWsxajczZ0RpZ2tLRXNieEdBalpuMHMwS0NVVzFjMjl0RTUta2tnRWV3SHVBVmJJSmZXSHp6U1c4RXd4Y1h2Wm5laE5PUkZ0TFdsRi1GSWNYQjE3cV8zdzhHcHMySE5BZS0xOVFoa3FPbkRaME83RFhTaVlMam92MTRVWFJvN3pkLTN2R0lKNlBQX2VOMThyTEMyNVVzODJJMVVMak5Scl9yUUJORC14akR0THlCWC1MMUdF?oc=5",
-        "source": "Lentata",
-        "image": null
-      },
-      {
-        "title": "До 3 милиарда хуманоидни робота може да населяват света към 2060 г., ако започнат да се произвеждат сами - manager.bg",
-        "description": "",
-        "date": "2026-11-15T17:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVk9wUHY4U043b0pqdm1lY2g1UXBOZTZVVjRaa1AxZ1BtU1plWDlTdEhLdktLMEVFNWotUGlLRnVHdGRhZ3dVTnRvUlNEZEFXdDhFTHhXc0U3cU1BcHhPS0ItRmhDTk9zYW9SMG9JRUlCMHdkTmZZSVRTV0M3bkxzWF9nYmdlRGVhSjNVYUNQMGU4dERUMDBZaGVfTnVfTkZJRUNlLVFpajgxTGhHMGhyZ2REcHFCcFBtWk9QT3p6TDJwY2hvQjN6UDJFbVJCb2VLckM1amhMZl80X1ZSMXJEZjZlYzlsc092US1TU3I0eDRiQ0Q3WnhSdGVVZzFYVzZtc1MyNVFGMW4xdkJFTUFFXw?oc=5",
-        "source": "manager.bg",
+        "date": "2026-11-15T17:03:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHNhMzdKMkhHM09ScTZzN1VEeGU5SndyRnQwLVpYWDVqVy1zVEVlQ2t0RFlRUm9fNy0xcWVwaHJZU2p6LXRIQkwtcU5yY3AyWjZZU2wtTzNjZjZoYVFpLUVFUlhxdDNyVEJQdGZvX20xQWk2cFlHcnRFM2ZZRTNXc25SLXZrdkE2RW5iZ2w2SGJYejFqNzVqMUM3ZFE?oc=5",
+        "source": "Таралеж: Истината има значение",
         "image": null
       },
       {
@@ -811,19 +811,51 @@
         "image": null
       },
       {
-        "title": "След 30 години експлоатация, много соларни панели работят на впечатляващите 80 процента от оригиналната си мощност - manager.bg",
+        "title": "Йотова и президентът на Виетнам обсъдиха сътрудничество в икономика, отбрана и високите технологии - Epicenter",
         "description": "",
-        "date": "2026-11-15T15:30:01+00:00",
+        "date": "2026-11-15T16:32:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZERjUEhvOTVmQlZFTkp5SjVxcmthcE02X0E0Sms2WUlBUFlKT1FIekZ2UjRBcXJILURTRmVCOFBUMS1xWXRwQy05dnVFMzgtVXdZS3oyTHl3ZzVGX1BNcm13eUpfc3l3dDJLVXFtNEZVWjlzekJ5cnVyZzN0VmZSamNNWG40NW1uS0VqYml0NDVDVHR4TW5ZU2czakRTQUcyVHJxOEpMWmRWeDA?oc=5",
+        "source": "Epicenter",
+        "image": null
+      },
+      {
+        "title": "Руска атака в Украйна разтърси автомобилния сектор: BMW с проблеми в производството - NewsPoint.bg",
+        "description": "",
+        "date": "2026-11-15T15:37:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGIxRnQtUnl1MG5pc09zdXNfcFFjN3VSMzU2Q1VRRkVTRVdERVY5RDZWVmR5cVdxS1FwNmpGNG1NU1V0SWpOenBQd1FDWk5hMTYzWnVfWjhoTlduWURndXBKRXhnSWotSFFBYzZYMno0ZmM3Zzljb3kwNWtuTHRmTVYybklLMGVTekFuR0poY2VvdmxL?oc=5",
+        "source": "NewsPoint.bg",
+        "image": null
+      },
+      {
+        "title": "Европа търси пътя си към успешно бъдеще в съвременните технологии и бизнес модели - Утро Русе",
+        "description": "",
+        "date": "2026-11-15T15:22:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YV09MMER2MkJxbDFjMVREYkRaaHhoQU1fcmtIeEZLbDJhZTJFRmhBbFFWblRCeG5ub2JIQmxyZVRXal96aV9qX29PLUlrd9IBSEFVX3lxTFA4ZUFqQWp3WVAzMFdHWnY2YUNHNWQzV2VfX2laenZicVRpVUlSUzNsVFpKQ2dyVFMxWFl0X0Z0ZHJvY1RWc1Ricg?oc=5",
+        "source": "Утро Русе",
+        "image": null
+      },
+      {
+        "title": "Оставката на Дженсън Хуанг може да разклати световната индустрия за изкуствен интелект - Euronews Bulgaria",
+        "description": "",
+        "date": "2026-11-15T14:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTlZFWTJDeGF3UGZNNDFoaER6ektBN2Y5cHlBVEJQS0J3LU9wVHlSWlRaaHdQQV9TNUZaaUl1THFCTXVjSXFTdU1iNWg3THlIQnNucUxYVkZWUGppckZnVTNnSnVrYXZxNzhyVjVTcHUwejk4NWxBakdMaDZFSzhURnJxX1hFeElHQ0dPSk8tZ21JXzJWRnpXSW5Yd1puUzB3Z2g0MVdJaTFZTFpkb082cDczWjdPZw?oc=5",
+        "source": "Euronews Bulgaria",
+        "image": null
+      },
+      {
+        "title": "След 30 години експлоатация, много соларни панели работят на впечатляващите 80 процента от оригиналната си мощност - Технологии - manager.bg",
+        "description": "",
+        "date": "2026-11-15T11:47:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcUt5OXpfZDl5Y1B3Qi1vdDYzNG9RSmNhSnQyX2RzdWEtNW5wMUttUmZWM3MwZkhzLWRHNnpQXzNlTHVUZjZQZHJDb3U5OVppUXlIMC1VVEFqMzByUm5Yb1M0djh2UDBFQi1XdFN3QXd3M0dfWjFPSHNXOUVOZ2hCNUdiRHFUbVNFNmxhdFJrc0JHbTF0VWpIN1hYNDJJWWs1NDU3SnhZcndWZExVSEpUOXA1amRuVHA2UFV5YTJPNlM2cXJjSlIzcnJxZER3eG10LWlZekktNHhxQWV5SFI3dE1qMWp2WTJDbHJPSHVGNlh1MTM4QlpscVJQVkNZM05xUkd0Qnh3emljRDB3Uk10RGd1bHF5ZjJocFo2SnBGMVk0QQ?oc=5",
         "source": "manager.bg",
         "image": null
       },
       {
-        "title": "Европа търси пътя си към успешно бъдеще в съвременните технологии и бизнес модели - БТА",
+        "title": "До 3 милиарда хуманоидни робота може да населяват света към 2060 г., ако започнат да се произвеждат сами - manager.bg",
         "description": "",
-        "date": "2026-11-15T15:22:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2JudmNYTDlrMTI2ZS05bmNURVpmLUdMMWVPTm1HMDczSXVVOF9RbHJLaVVvY0drajlRNTZDeXBkb1RuNUM5aWFmby1GdU5uN0NJZG9MQWtxWkpwRHRFNUlVOW8ybEY3bTVLRnNLQnNiSm1SSDZLOFN6M295M21wZ0VrVjBKakRJN05DLU5sS1hhQmpncmdLVVRRc01qZEQxRTJ6VWEyejVHa2hZTUtaMWVUUzZSZFI4bjhNeWVlczk?oc=5",
-        "source": "БТА",
+        "date": "2026-11-15T11:43:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVk9wUHY4U043b0pqdm1lY2g1UXBOZTZVVjRaa1AxZ1BtU1plWDlTdEhLdktLMEVFNWotUGlLRnVHdGRhZ3dVTnRvUlNEZEFXdDhFTHhXc0U3cU1BcHhPS0ItRmhDTk9zYW9SMG9JRUlCMHdkTmZZSVRTV0M3bkxzWF9nYmdlRGVhSjNVYUNQMGU4dERUMDBZaGVfTnVfTkZJRUNlLVFpajgxTGhHMGhyZ2REcHFCcFBtWk9QT3p6TDJwY2hvQjN6UDJFbVJCb2VLckM1amhMZl80X1ZSMXJEZjZlYzlsc092US1TU3I0eDRiQ0Q3WnhSdGVVZzFYVzZtc1MyNVFGMW4xdkJFTUFFXw?oc=5",
+        "source": "manager.bg",
         "image": null
       },
       {
@@ -867,11 +899,11 @@
         "image": null
       },
       {
-        "title": "Китай планира 300 милиона киловата нови енергийни хранилища до 2030 г. - Epicenter",
+        "title": "Отчетен рекор за „Гинес“: Асансьори в Китай издигат пътници на близо 600 метра височина“ - Технологии - manager.bg",
         "description": "",
-        "date": "2026-11-14T14:35:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXhXdUt4d1ZiQlBXOFMzaEJWWGxncjJVWHlGVUJZb0tyRm5adXZFZk9NbUFCQkU2OGd1QmJIVVJKVjg4VlJfMTRRWUJEbmJabjUtQ0FyZ21talBFRmRvUmljd3pmRTVMZ19PSnJyQUZNYTdOWlA0SEpFeFJLUDZqdHpUZGRLbEFSd05KbU04N3ZfeEl3MGU5NTFWaGU2cjNKaHpqUFRSQk9RZ1k1UEFqRHhR?oc=5",
-        "source": "Epicenter",
+        "date": "2026-11-14T14:01:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYzBBQmdqYVRnVUEzTHFyTE54MmhjeWdOU3B6XzM1b0pLNmh4c3VBZTRhcGNVUEJibHNkb3o5bzhEc0x5Vm16TkN6ZzlHNDJybmxBamlCdXZ5MWdXMnptN3hyU2RVOVdaaTVwbmtkUVFvWmtvR1VsUnU2V1VCamRyQzBmc2VBQkN2UjQxejlWUGhoRWJxS1lacEhaVEZKaWlIQzljaDZadzlGNlM5YXVzMGp2WEtwWWtnV0VIT1VHMXlzN1RBN3REd3JCTlRhai1sVml6NDJtTjJLeXJZRGJNdDNvcEpOeG5IeDdTdFd0dk9ybk02M2kwQTJR?oc=5",
+        "source": "manager.bg",
         "image": null
       },
       {
@@ -961,30 +993,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAZBVV95cUxQRnUycnVGVUxHQVZNTXA0YUlYUFpndkRXeVhnRWN1alFyMlRMNmo1dWtFZTZ5UndFcnFqUU1jVmk2VnUwVHkxdUQ3Y0RxYUM3UV9rbTNrMXY2TnA4Z3BCempoUGd3UnBrQzBsOTZycUhkVmJjenVOVEN4NHBwQlZUUzZjRG1GMWhUbkF2aGZrQXRMWlVFSXJNUjBCNWVxZjBkQ3dkRDF1T01IdlgxSjlhUDlvcmlHQUVlLWJCNWZlNnExQkduekZwenBIVkxrSG4wWXhVbm1xemIwcU41QUtXdGR6XzVUOXA4d3hJSlZNclBkM2NiNGpLZzBGdTVrQnBPWWV4ak5NSE5EQ3J4U19RcS1kQmZGc2JhM3E2dU1qdFJUbVNidlhBVFVrb0IzcnF4TmhVMEpCcXladnZKNGp3YkUxV0R3TjhTQWhONGU2R1NERmJqRTllWVdUZ1JfNGZ3OXhvWWpfeWZHb2RtMVRZRVhNcmZDS1RWOEhVazF3b0xZcnBocWtDS0dmN2hrYl9pN2hVMmNVenNfbUYyU2pEUlV0b3VWaVNtSURodWhPNGxyOG9fU3RVVUV2YUVYZy01NER0RVNacENQRk5rNGxZbWdnM0NUczU4S2JsQV9OQ0FObjNqODBfMmMtaEkwMDNuSHR5Y2N3N25Qb2FXRl96Rlg3Uno0amVUM3dkamFqcS14bjVCS2otaWI4UWlfSF9YT0Zyam5qYzAwclBSR1M2dTQyTTROQUMwUndOSEttaXFCQndiOHNGQTVwY3JyeVhRRk5wblBiU2ZDTU5ESThxS0JWTTV3OUJYemI3cXJMQWFDNTh6WHJoUDFLdGJkbEJHbTdxbS1VWnB6SmlVVDI5MnlsbFhGNndzTGgxTUM2U3ZrU05ES0RzM3VMLTVJdTA4cGJEWjhFMGlsTVVNclBoYk9VbjV4azZnU1oyS1l6a2c2d2lOcjI1VUJ6SUVmc2I2ZGhKdEgwZnZPMkhTaEt4djRjeHVqUnRmRWFCUHBrWHJqakpOVURpdEFTZ3RJVDNmR0JVQ0syWEp4WnlNaFk0M0dtTzZxck5wZFNDTTVxNDQtWTJf?oc=5",
         "source": "Загора БГ",
         "image": null
-      },
-      {
-        "title": "Шестото издание на Digital4StaraZagora започна с фокус върху новите технологии - БНР Новини",
-        "description": "",
-        "date": "2026-11-13T11:27:24+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDB0ZVBPNWp0OVdwTU0xQU9FQS1TQlJVWm4yOEJUd0JoeURVSFVPUjl2UzcySlltSWZCemxqRmVVNFN2VTY1cDNmM0NsRWs5WnlYcWFwbGhPVEljMmtzeWFRWUw1YXRwZ1p2emlDM2g3elVDb3BtMDNpalMzQUgxQzBhTGxFTWJ1OXB3eHI1bHhhMHZkTmN4b3pTZDdQY0s1dFVacDZfX2ZoT2dHM3NIVGxpYk1JT0NYdzJLWkFGcjk?oc=5",
-        "source": "БНР Новини",
-        "image": null
-      },
-      {
-        "title": "Черен петък със Samsung: до 44% отстъпка на най-новите технологии - HiComm",
-        "description": "",
-        "date": "2026-11-13T11:00:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDdVczliNWNIVXIxcHdsWjZpZjFsX1pYaXhBQUU4S3d1d1VHZmhlWnU4ZU1fSTBaaUIxMFRlM0pZTVY1VGVkM1pjS3JZeXNMRWZKYWs4VGFldXlZR3hzWllPcC1HR0o2QlJWRHhHN25KeFhmVnlhbkdDUGk5QnNla0gxSGd6S194WUkzZDg3OTYzMm1RNFJheg?oc=5",
-        "source": "HiComm",
-        "image": null
-      },
-      {
-        "title": "Киберсигурността днес е като карате: може да си във форма само с ежедневни тренировки - TechNews.bg",
-        "description": "",
-        "date": "2026-11-13T10:28:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zMjJHcVd1UkNxUXNjOXZlR1I1OVl4eWN3MFl0dFBsZ3kxREp2dmFveVlveFNaQVdlb3RVQzdvTFEtTG9ESkswUmdTOHZUSW02?oc=5",
-        "source": "TechNews.bg",
-        "image": null
       }
     ]
   },
@@ -1001,7 +1009,7 @@
     },
     "Наука": {
       "fresh": true,
-      "count": 22,
+      "count": 23,
       "feeds": 1
     },
     "Образование": {
